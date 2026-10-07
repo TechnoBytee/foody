@@ -2,6 +2,18 @@
   "name": "foody",
   "version": "0.1.0",
   "private": true,
+  "description": "Mobile-first, bilingual recipe platform with a searchable archive of historical world dishes.",
+  "license": "Apache-2.0",
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "pwa",
+    "i18n",
+    "recipes",
+    "food"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,6 +21,8 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.117.3",
     "next": "16.4.0",
     "react": "19.3.0",
     "react-dom": "19.3.0"

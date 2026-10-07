@@ -1,0 +1,208 @@
+import type { Recipe } from "../types";
+
+// Unutulmaya yüz tutmuş Erzurum mutfağı.
+export const erzurumRecipes: Recipe[] = [
+  {
+    id: "erzurum-sut-corbasi",
+    name: { tr: "Erzurum Süt Çorbası", en: "Erzurum Milk Soup" },
+    cuisine: "tarih-erzurum",
+    time: 40,
+    difficulty: "easy",
+    ingredients: ["süt", "un", "pirinç", "tuz", "sarımsak"],
+    steps: {
+      tr: [
+        "Pirinci sütte yumuşayana kadar pişirin.",
+        "Unu su ile açıp karışımı yavaşça sütün içine ekleyin.",
+        "Kısık ateşte 10 dakika pişirip tuz ve sarımsak verin.",
+      ],
+      en: [
+        "Cook the rice in milk until tender.",
+        "Slurry the flour with water and add it slowly to the milk.",
+        "Simmer 10 minutes, season with salt and garlic.",
+      ],
+    },
+    alternatives: ["Mercimek Çorbası", "Tarhana", "Ayran Çorbası"],
+    calories: 210,
+    era: { tr: "19. yüzyıl sonrası", en: "Late 19th century" },
+    region: { tr: "Erzurum", en: "Erzurum" },
+    history: {
+      tr: "Erzurum'un unutulmaya yüz tutmuş çorbası; 'Yüzyılın 100 Yemeği' projesiyle yeniden kayda geçirildi.",
+      en: "Erzurum's near-lost soup, brought back into the record by the '100 Dishes of the Century' project.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "demir-tatlisi",
+    name: { tr: "Demir Tatlısı", en: "Demir Tatlısı (Iron Sweet)" },
+    cuisine: "tarih-erzurum",
+    time: 50,
+    difficulty: "hard",
+    ingredients: ["un", "yumurta", "şerbet", "tereyağı", "tuz"],
+    steps: {
+      tr: [
+        "Özel demir tavada tereyağını eritin ve hamuru yayın.",
+        "Altın rengi olana kadar çevirerek pişirin.",
+        "Sıcak şerbeti döküp birkaç saat dinlendirin.",
+      ],
+      en: [
+        "Melt butter in the special iron pan and spread the dough.",
+        "Turn it until golden.",
+        "Pour over hot syrup and rest a few hours.",
+      ],
+    },
+    alternatives: ["Pekmez Helvası", "Koz Helvası", "Erzurum Kefiri"],
+    calories: 400,
+    era: { tr: "20. yüzyıl başı", en: "Early 20th century" },
+    region: { tr: "Erzurum", en: "Erzurum" },
+    history: {
+      tr: "Erzurum'un unutulmuş tatlısı; özel dövme demir üzerinde pişirilirdi, bugün demirler kayboldu.",
+      en: "Erzurum's forgotten sweet, cooked on a special forged iron pan that no longer exists in the city.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "kaysefe-dut-pekmezi",
+    name: { tr: "Kaysefe", en: "Kaysefe" },
+    cuisine: "tarih-erzurum",
+    time: 45,
+    difficulty: "easy",
+    ingredients: ["dut pekmezi", "un", "ceviz", "sarımsak", "tuz"],
+    steps: {
+      tr: [
+        "Pekmezi kaynatıp unu dökerek hamur yapın.",
+        "Cevizli sarımsaklı içle doldurup sacda pişirin.",
+        "Sıcak servis edin.",
+      ],
+      en: [
+        "Boil the molasses and pour in flour to make a dough.",
+        "Fill with walnut and garlic, cook on the griddle.",
+        "Serve warm.",
+      ],
+    },
+    alternatives: ["Pestil Çullaması", "Pekmez Helvası", "Ekmek Tatlısı"],
+    calories: 430,
+    era: { tr: "19. yüzyıl", en: "19th century" },
+    region: { tr: "Erzurum / Doğu Anadolu", en: "Erzurum / Eastern Anatolia" },
+    history: {
+      tr: "Dutun pekmeze dönüştürülüp un ile pişirilen kış tatlısı; Erzurum'un dut geleneğinin son halkası.",
+      en: "A winter sweet that turns mulberries into molasses and then into dough - the last link in Erzurum's mulberry chain.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "pestil-cullamasi",
+    name: { tr: "Pestil Çullaması", en: "Pestil Çullaması" },
+    cuisine: "tarih-erzurum",
+    time: 40,
+    difficulty: "medium",
+    ingredients: ["dut pestili", "yumurta", "tereyağı", "ceviz", "tuz"],
+    steps: {
+      tr: [
+        "Pestili ince açıp yumurta ile karıştırın.",
+        "Tereyağında cevizli tabakta pişirin.",
+        "Sahur ve kahvaltıda sıcak servis edin.",
+      ],
+      en: [
+        "Roll the pestil thin and mix with egg.",
+        "Cook in butter, in a pan lined with walnuts.",
+        "Serve hot at suhur or breakfast.",
+      ],
+    },
+    alternatives: ["Kaysefe", "Yufka", "Pancake"],
+    calories: 380,
+    era: { tr: "20. yüzyıl başı", en: "Early 20th century" },
+    region: { tr: "Erzurum", en: "Erzurum" },
+    history: {
+      tr: "Yumurtaya bulanıp tavada kızartılan pestil; sahurda açılan bir tabak yemek.",
+      en: "Pestil dipped in egg and fried - the plate that opened suhur in Erzurum.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "pelise-un-helvasi",
+    name: { tr: "Pelise (Un Helvası)", en: "Pelise" },
+    cuisine: "tarih-erzurum",
+    time: 35,
+    difficulty: "easy",
+    ingredients: ["un", "pekmez", "ceviz", "tereyağı", "tuz"],
+    steps: {
+      tr: [
+        "Unu tereyağında kavurun.",
+        "Pekmezi döküp kıvama gelene kadar karıştırın.",
+        "Cevizle servis edin.",
+      ],
+      en: [
+        "Toast the flour in butter.",
+        "Add the molasses and stir until thick.",
+        "Serve with walnuts.",
+      ],
+    },
+    alternatives: ["Demir Tatlısı", "Pekmez Helvası", "Koz Helvası"],
+    calories: 370,
+    era: { tr: "19. yüzyıl", en: "19th century" },
+    region: { tr: "Erzurum", en: "Erzurum" },
+    history: {
+      tr: "Pekmezle yapılan eski Anadolu tatlısı; 'pelise' adıyla yalnızca birkaç evde biliniyor.",
+      en: "An old Anatolian molasses sweet known by name in only a handful of houses.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "gullac-dolmasi",
+    name: { tr: "Güllaç Dolması", en: "Stuffed Vine Leaves with Güllaç" },
+    cuisine: "tarih-erzurum",
+    time: 90,
+    difficulty: "medium",
+    ingredients: ["güllaç yaprağı", "ceviz", "şeker", "gül suyu", "tuz"],
+    steps: {
+      tr: [
+        "Güllaç yapraklarını yumuşatın ve içine cevizli şerbet doldurun.",
+        "Sıkıca sarlayıp ağır ateşte 60 dakika pişirin.",
+        "Gül suyuyla serpip soğutun.",
+      ],
+      en: [
+        "Soften the vine leaves and fill with walnut and syrup.",
+        "Roll tightly and cook 60 minutes on low heat.",
+        "Dress with rose water and cool.",
+      ],
+    },
+    alternatives: ["Sarma", "Güllaç", "Şerbetli Dolma"],
+    calories: 290,
+    era: { tr: "20. yüzyıl", en: "20th century" },
+    region: { tr: "Erzurum", en: "Erzurum" },
+    history: {
+      tr: "Ramazan tatlısı güllaçtan farklı, dolma şeklinde yapılan yöresel yorum; Erzurum'da bahar aylarının tabağı.",
+      en: "A local Erzurum reading of the Ramadan dessert: stuffed instead of layered, served in spring.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "ekmek-tatlisi",
+    name: { tr: "Ekmek Tatlısı", en: "Bread Sweet" },
+    cuisine: "tarih-erzurum",
+    time: 35,
+    difficulty: "easy",
+    ingredients: ["bayat ekmek", "yumurta", "şeker", "tarçın", "tereyağı"],
+    steps: {
+      tr: [
+        "Bayat ekmeği dilimleyip yumurta ve şekerle karıştırın.",
+        "Tereyağında tavada iki tarafını kızartın.",
+        "Tarçınla servis edin.",
+      ],
+      en: [
+        "Slice stale bread and mix with egg and sugar.",
+        "Fry both sides in butter.",
+        "Serve dusted with cinnamon.",
+      ],
+    },
+    alternatives: ["Frumenty", "Ekmek Çorbası", "Kaiseki"],
+    calories: 320,
+    era: { tr: "20. yüzyıl", en: "20th century" },
+    region: { tr: "Erzurum", en: "Erzurum" },
+    history: {
+      tr: "Bayat ekmeğin tatlıya dönüşümü; israf karşıtı mutfak mirasının en sade hâli.",
+      en: "Stale bread turned sweet - the plainest expression of a waste-nothing culinary heritage.",
+    },
+    forgotten: true,
+  },
+];

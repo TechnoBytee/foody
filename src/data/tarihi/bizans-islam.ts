@@ -1,0 +1,205 @@
+import type { Recipe } from "../types";
+
+// Bizans, İslam çağı ve Orta Doğu mutfakları.
+export const bizansIslamRecipes: Recipe[] = [
+  {
+    id: "kolyva-bugday-tatlisi",
+    name: { tr: "Kolyva (Buğday Tatlısı)", en: "Kollyva (Wheat Cake)" },
+    cuisine: "tarih-bizans-islam",
+    time: 90,
+    difficulty: "medium",
+    ingredients: ["buğday", "bal", "kuruyemiş", "nar", "kakao", "zeytinyağı"],
+    steps: {
+      tr: [
+        "Buğdayı tavada kavurup öğütün.",
+        "Kaynatılmış su ve bal ile karıştırıp dinlendirin.",
+        "Kuruyemiş, nar ve kakaonu ekleyip fırında kurutun.",
+      ],
+      en: [
+        "Toast and grind the wheat.",
+        "Mix with boiled water and honey, then rest.",
+        "Add nuts, pomegranate and cocoa, bake until dry.",
+      ],
+    },
+    alternatives: ["Aşure", "Kharva", "Helva"],
+    calories: 380,
+    era: { tr: "MS 4-15. yüzyıl", en: "4th-15th century CE" },
+    region: { tr: "Bizans", en: "Byzantium" },
+    history: {
+      tr: "Bizans'dan Ortodoks dünyasına uzanan mezar tatlısı; kakao eklenmesi Osmanlı sonrası bir dönüşümdür.",
+      en: "A funerary cake from Byzantium that outlived the empire; cocoa came later, under Ottoman rule.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "phyllo-yufka-kokeni",
+    name: { tr: "Phyllo (İnce Hamur Kökeni)", en: "Phyllo (The Origin of Filo)" },
+    cuisine: "tarih-bizans-islam",
+    time: 60,
+    difficulty: "hard",
+    ingredients: ["un", "su", "sirke", "tereyağı", "tuz"],
+    steps: {
+      tr: [
+        "Hamuru 10 dakika dinlendirin.",
+        "Açınca teker teker gerip misır yağıyla fırınlayın.",
+        "Ortasını açıp üst üste yığarak saklayın.",
+      ],
+      en: [
+        "Rest the dough 10 minutes.",
+        "Roll and stretch sheet by sheet, brushing with oil.",
+        "Bake and stack, opening each layer to store.",
+      ],
+    },
+    alternatives: ["Yufka", "Baklava Hamuru", "Börek"],
+    calories: 260,
+    era: { tr: "MS 11. yüzyıl", en: "11th century CE" },
+    region: { tr: "Bizans / Selçuklu", en: "Byzantium / Seljuk" },
+    history: {
+      tr: "İncecik açılan hamur; baklava ve börek kültürünün atası. Orta Asya'dan İstanbul'a uzanan göçebe mutfağıyla iç içe geçti.",
+      en: "The paper-thin dough that became baklava and börek, entangled with the nomadic cuisines that reached Istanbul.",
+    },
+  },
+  {
+    id: "sikbaj-eksili-etli",
+    name: { tr: "Sikbaj (Ekşili-Tatlı Etli)", en: "Sikbaj (Sour-Sweet Meat)" },
+    cuisine: "tarih-bizans-islam",
+    time: 90,
+    difficulty: "medium",
+    ingredients: ["et", "sirke", "bal", "tarçın", "karanfil", "safran", "tuz"],
+    steps: {
+      tr: [
+        "Eti parçalayıp sirkeye bırakın, sonra baharatlarla marine edin.",
+        "Ballı sosla birlikte ağır ateşte pişirin.",
+        "Suyu sos olarak ayırıp pilavla servis edin.",
+      ],
+      en: [
+        "Cut the meat and soak in vinegar, then marinate with spices.",
+        "Braise gently in a honeyed sauce.",
+        "Separate the sauce and serve with rice.",
+      ],
+    },
+    alternatives: ["Sikotu", "Menemen", "Azvâyin"],
+    calories: 520,
+    era: { tr: "MS 9. yüzyıl", en: "9th century CE" },
+    region: { tr: "Abbasiler (Bağdat)", en: "Abbasid Baghdad" },
+    history: {
+      tr: "İlk kayıtlı tatlı-ekşili güveç tariflerinden; Avrupa mutfağına 'sinigang' benzeri ekşilikler kazandırdı.",
+      en: "Among the earliest recorded sweet-and-sour meat recipes, precursor to European sweet-and-sour sauces.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "tharid-arap-corbasi",
+    name: { tr: "Tharid (Arap Ekmek Çorbası)", en: "Tharid (Arabian Bread Soup)" },
+    cuisine: "tarih-bizans-islam",
+    time: 40,
+    difficulty: "easy",
+    ingredients: ["bayat ekmek", "et suyu", "sebze", "nohut", "baharat", "zeytinyağı"],
+    steps: {
+      tr: [
+        "Ekmeği küçük parçalar hâlinde doğrayın.",
+        "Et suyunu nohut ve sebzelerle kaynatın.",
+        "Ekmeği ekleyip 10 dakika pişirin, zeytinyağı gezdirin.",
+      ],
+      en: [
+        "Cut the stale bread into small pieces.",
+        "Simmer stock with chickpeas and vegetables.",
+        "Add bread, cook 10 minutes, finish with olive oil.",
+      ],
+    },
+    alternatives: ["Heqet", "Ekmek Çorbası", "Fatteh"],
+    calories: 250,
+    era: { tr: "MS 7. yüzyıl", en: "7th century CE" },
+    region: { tr: "Halep / Şam", en: "Aleppo / Damascus" },
+    history: {
+      tr: "Ekmeğin et suyuna yumuşaması pratiği; bugünkü Arap mutfağında tarhanaya yakın bir tabak.",
+      en: "The practice of softening bread in broth - in today's Arab kitchens a plate close to tarhana.",
+    },
+    forgotten: true,
+  },
+  {
+    id: "ash-reshteh-eristeli-corba",
+    name: { tr: "Ash Reshteh", en: "Ash Reshteh" },
+    cuisine: "tarih-bizans-islam",
+    time: 80,
+    difficulty: "medium",
+    ingredients: ["erişte", "nohut", "fasulye", "ıspanak", "kaşk", "nane", "soğan", "tuz"],
+    steps: {
+      tr: [
+        "Baklagilleri önceden ıslatın.",
+        "Soğanı kavurup eriştemi ve kaşkı ekleyin.",
+        "Tüm malzemeleri birlikte 60 dakika pişirin, nane serpın.",
+      ],
+      en: [
+        "Soak the legumes overnight.",
+        "Fry onion, add the noodles and whey.",
+        "Cook everything together 60 minutes, finish with mint.",
+      ],
+    },
+    alternatives: ["Ash Reshteh (Fasulye)", "Erişteli Çorba", "Sulu Yemek"],
+    calories: 330,
+    era: { tr: "MS 10. yüzyıl", en: "10th century CE" },
+    region: { tr: "İran", en: "Iran" },
+    history: {
+      tr: "Fars edebiyatı kaynaklarından bin yıllık erişteli çorba; bugün İran'da kış sofrasının değişmezi.",
+      en: "A thousand-year-old noodle soup recorded in Persian literature, still a fixed winter dish in Iran.",
+    },
+  },
+  {
+    id: "haleem-dovulmus-yemek",
+    name: { tr: "Haleem (Dövülmüş Etli Tahıl)", en: "Haleem (Pounded Meat and Wheat)" },
+    cuisine: "tarih-bizans-islam",
+    time: 240,
+    difficulty: "hard",
+    ingredients: ["buğday", "et", "ghi", "baharat", "soğan", "tuz"],
+    steps: {
+      tr: [
+        "Eti haşlayıp yağını alın.",
+        "Buğdayı ve eti saatlerce düverek hamur hâline getirin.",
+        "Kısık ateşte 4 saat pişirip baharat ekleyin.",
+      ],
+      en: [
+        "Boil the meat and skim off the fat.",
+        "Pound the wheat and meat together for hours.",
+        "Cook 4 hours on low heat, season and serve.",
+      ],
+    },
+    alternatives: ["Keşkek", "Herse", "Çiğ Kıyma Çorbası"],
+    calories: 560,
+    era: { tr: "MS 7. yüzyıl ve sonrası", en: "7th century CE onwards" },
+    region: { tr: "Pers → Hint → Anadolu", en: "Persia → India → Anatolia" },
+    history: {
+      tr: "Et ve tahılın saatlerce dövülerek pişirildiği kadim yemek; Türk keşkek ve herse geleneğiyle akrabadır.",
+      en: "Meat and grain pounded for hours - kin to the Turkish keşkek and herse traditions.",
+    },
+  },
+  {
+    id: "zerde-alti-tasin-tatli",
+    name: { tr: "Zerde (Altın Kâğıt Tatlısı)", en: "Zerde (Golden Sheet Dessert)" },
+    cuisine: "tarih-bizans-islam",
+    time: 60,
+    difficulty: "medium",
+    ingredients: ["pirinç", "safran", "zerdeçal", "şeker", "gül suyu", "badem"],
+    steps: {
+      tr: [
+        "Safrani ılık suda 10 dakika bekletin.",
+        "Pirinç ve şekeri suyla birlikte pişirin.",
+        "Safranı, zerdeçalı, gül suyunu ve bademi ekleyin.",
+      ],
+      en: [
+        "Steep saffron in warm water 10 minutes.",
+        "Cook rice and sugar with water.",
+        "Add saffron, turmeric, rose water and almonds.",
+      ],
+    },
+    alternatives: ["Kfir Pilavı", "Sütlaç", "Portakal Helvası"],
+    calories: 340,
+    era: { tr: "15-19. yüzyıl", en: "15th-19th century" },
+    region: { tr: "Osmanlı sarayı", en: "Ottoman court" },
+    history: {
+      tr: "Sarayın altın rengi tatlısı; düğün ve bayram sofralarının değişmezi.",
+      en: "The court's golden dessert, unmovable from wedding and festival tables.",
+    },
+    forgotten: true,
+  },
+];
