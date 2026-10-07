@@ -59,15 +59,15 @@ Two datasets live side by side inside the app:
 
 ## Screenshots
 
-> Screenshots live in [`public/screenshots`](public/screenshots). Drop the real captures there using the filenames below.
+> Screenshots are captured from the production build (`npm run build && npm run start`) and live in [`public/screenshots`](public/screenshots).
 
 | Splash | Home |
 | --- | --- |
 | ![Splash screen](public/screenshots/splash.png) | ![Home page](public/screenshots/home.png) |
 
-| Search & results | Historical category |
+| Narrow viewport | Historical category |
 | --- | --- |
-| ![Ingredient search](public/screenshots/search.png) | ![Ancient kitchen category](public/screenshots/category.png) |
+| ![Home on a narrow viewport](public/screenshots/mobile.png) | ![Ancient kitchen category](public/screenshots/category.png) |
 
 | Recipe detail |
 | --- |

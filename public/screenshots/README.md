@@ -1,11 +1,26 @@
-﻿Drop the real screenshots here and keep these filenames so the main README links keep working:
+﻿Documentation screenshots for the README.
 
-| File | Shows |
-| --- | --- |
-| `splash.png` | Splash screen with the animated loading dot (home, first visit of a full page load) |
-| `home.png` | Home: hero, fridge search, cuisines grid, historical archive section |
-| `search.png` | Ingredient chips + `Tarif Bul` results after the mock analysis resolves |
-| `category.png` | A historical archive category, e.g. `/tr/kategori/tarih-mezopotamya` |
-| `recipe.png` | Recipe detail: era, region, history, ingredients, steps |
+These are captured from the **production** build (a dev build adds the Next.js indicator badge to every frame):
 
-Recommended: 1440x900 for desktop, 390x844 for the mobile frames, PNG, under ~400 KB each.
+```bash
+npm run build
+npm run start -- -p 3100
+```
+
+Then capture each route headlessly:
+
+```bash
+msedge --headless=new --disable-gpu --hide-scrollbars \
+  --window-size=1440,1100 --virtual-time-budget=7000 \
+  --screenshot=public/screenshots/home.png http://localhost:3100/tr
+```
+
+| File | Size | Route |
+| --- | --- | --- |
+| `splash.png` | 1440x900 | `/tr` captured with `--virtual-time-budget=800` (before the exit transition) |
+| `home.png` | 1440x1100 | `/tr` |
+| `mobile.png` | 520x1000 | `/tr` — narrow viewport. Do not go below ~520px: headless Chrome/Edge enforce a minimum window width and crop the frame instead of shrinking the layout. |
+| `category.png` | 1440x1000 | `/tr/kategori/tarih-mezopotamya` |
+| `recipe.png` | 1440x1100 | `/tr/tarif/tuhu-pancarli-kuzu-yahnisi` |
+
+Keep PNG and under ~400 KB per file so the README stays fast to load.
