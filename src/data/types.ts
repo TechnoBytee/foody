@@ -2,22 +2,28 @@ export type Cuisine = {
   slug: string;
   name: { tr: string; en: string };
   description: { tr: string; en: string };
-  /** "tarih" koleksiyonundaki kategoriler ana sayfada ayrı bölümde gösterilir. */
-  collection?: "tarih";
+};
+
+export type Area = {
+  slug: string;
+  name: { tr: string; en: string };
+  count?: number;
 };
 
 export type Recipe = {
   id: string;
   name: { tr: string; en: string };
   cuisine: string;
+  categories?: string[];
   time: number;
   difficulty: "easy" | "medium" | "hard";
   ingredients: string[];
   steps: { tr: string[]; en: string[] };
   alternatives: string[];
   calories: number;
+  image?: string;
+  area?: { tr: string; en: string };
 
-  /** Tarihî tarifler için ek alanlar (modern tariflerde yoktur). */
   era?: { tr: string; en: string };
   region?: { tr: string; en: string };
   history?: { tr: string; en: string };

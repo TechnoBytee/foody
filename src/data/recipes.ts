@@ -1,8 +1,10 @@
 import type { Cuisine, Recipe } from "./types";
-import { ancientCuisines, ancientRecipes } from "./tarihi";
+import { ancientRecipes } from "./tarihi";
+import { mealdbRecipes } from "./mealdb";
+import { areas } from "./areas";
 
 export type { Cuisine, Recipe } from "./types";
-export { ancientCuisines, ancientRecipes };
+export { ancientRecipes, mealdbRecipes, areas };
 
 export const cuisines: Cuisine[] = [
   {
@@ -34,6 +36,56 @@ export const cuisines: Cuisine[] = [
     slug: "kahvalti",
     name: { tr: "Kahvaltı", en: "Breakfast" },
     description: { tr: "Güne iyi başlayanlar için", en: "For a good start" },
+  },
+  {
+    slug: "et",
+    name: { tr: "Et Yemekleri", en: "Meat Dishes" },
+    description: { tr: "Dana, kuzu ve keçi yemekleri", en: "Beef, lamb and goat dishes" },
+  },
+  {
+    slug: "tavuk",
+    name: { tr: "Tavuk Yemekleri", en: "Chicken Dishes" },
+    description: { tr: "Tavukla hazırlanan lezzetler", en: "Dishes made with chicken" },
+  },
+  {
+    slug: "kuzu",
+    name: { tr: "Kuzu Yemekleri", en: "Lamb Dishes" },
+    description: { tr: "Kuzu eti ile hazırlanan yemekler", en: "Dishes prepared with lamb" },
+  },
+  {
+    slug: "makarna",
+    name: { tr: "Makarna", en: "Pasta" },
+    description: { tr: "Spagetti, lasagne ve daha fazlası", en: "Spaghetti, lasagna and more" },
+  },
+  {
+    slug: "deniz",
+    name: { tr: "Deniz Ürünleri", en: "Seafood" },
+    description: { tr: "Balık ve deniz mahsulleri", en: "Fish and seafood" },
+  },
+  {
+    slug: "yan-yemek",
+    name: { tr: "Yan Yemekler", en: "Side Dishes" },
+    description: { tr: "Pilav, salata ve eşlikçiler", en: "Rice, salads and companions" },
+  },
+  {
+    slug: "baslangic",
+    name: { tr: "Başlangıçlar", en: "Starters" },
+    description: { tr: "Meze, çorba ve ön yemekler", en: "Mezze, soups and appetizers" },
+  },
+  {
+    slug: "vegan",
+    name: { tr: "Vegan", en: "Vegan" },
+    description: { tr: "Bitki bazlı, hayvansal içermeyen", en: "Plant-based, no animal products" },
+  },
+  {
+    slug: "vejetaryen",
+    name: { tr: "Vejetaryen", en: "Vegetarian" },
+    description: { tr: "Et içermeyen besleyici yemekler", en: "Meat-free nutritious meals" },
+  },
+  {
+    slug: "corba",
+    name: { tr: "Çorbalar", en: "Soups" },
+    description: { tr: "Sıcak ve besleyici çorbalar", en: "Warm and nutritious soups" },
   },
 ];
 
@@ -204,12 +256,9 @@ const modernRecipes: Recipe[] = [
   },
 ];
 
-// Ana sayfadaki güncel mutfak ızgarası sadece modern kategorileri gösterir.
-/** Tarihî arşiv kategorileri dahil tüm kategoriler (kategori rotaları bunu kullanır). */
-export const allCuisines: Cuisine[] = [...cuisines, ...ancientCuisines];
+export const allCuisines: Cuisine[] = cuisines;
 
-/** Modern + tarihî tüm tarifler; arama, malzeme eşleştirme ve statik rotalar bunu kullanır. */
-export const recipes: Recipe[] = [...modernRecipes, ...ancientRecipes];
+export const recipes: Recipe[] = [...modernRecipes, ...ancientRecipes, ...mealdbRecipes];
 
 export const isAncient = (recipe: Recipe) => Boolean(recipe.era || recipe.history);
 
@@ -217,6 +266,25 @@ export function getRecipe(id: string) {
   return recipes.find((r) => r.id === id);
 }
 
+export function areaSlug(area?: { tr: string; en: string }) {
+  if (!area) return null;
+  return area.en.toLowerCase().replace(/\s+/g, "-");
+}
+
 export function recipesByCuisine(slug: string) {
-  return recipes.filter((r) => r.cuisine === slug);
+  return recipes.filter(
+    (r) => r.cuisine === slug || (r.categories && r.categories.includes(slug))
+  );
+}
+
+export function recipesByArea(slug: string) {
+  return recipes.filter((r) => areaSlug(r.area) === slug);
+}
+
+export function recipesByCuisineAndArea(cuisineSlug: string, areaSlugParam: string) {
+  return recipes.filter(
+    (r) =>
+      (r.cuisine === cuisineSlug || (r.categories && r.categories.includes(cuisineSlug))) &&
+      areaSlug(r.area) === areaSlugParam
+  );
 }
