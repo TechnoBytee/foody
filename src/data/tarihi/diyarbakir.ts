@@ -5,7 +5,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "diyarbakir-tarhanasi",
     name: { tr: "Diyarbakır Tarhanası", en: "Diyarbakır Tarhana" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 150,
     difficulty: "hard",
     ingredients: ["yoğurt", "un", "tarhana otu", "tuz", "biber"],
@@ -34,7 +34,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "kunculu-kofte",
     name: { tr: "Küncülü Köfte", en: "Küncülü Köfte" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 60,
     difficulty: "medium",
     ingredients: ["kıyma", "susam", "soğan", "küncüt", "baharat", "tuz"],
@@ -63,7 +63,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "karagoz-corbasi",
     name: { tr: "Karagöz Çorbası", en: "Karagöz Soup" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 100,
     difficulty: "medium",
     ingredients: ["dana kelle paçalık", "limon", "yumurta sarısı", "sarımsak", "tuz"],
@@ -92,7 +92,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "yurek-dolmasi",
     name: { tr: "Yürek Dolması", en: "Stuffed Heart" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 150,
     difficulty: "hard",
     ingredients: ["dana yüreği", "pirinç", "soğan", "domates", "salça", "baharat"],
@@ -121,7 +121,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "beli-bagli-biber-dolmasi",
     name: { tr: "Beli Bağlı Biber Dolması", en: "Waist-Tied Pepper Dolma" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 80,
     difficulty: "medium",
     ingredients: ["biber", "etli pirinç", "domates", "yoğurt", "tuz"],
@@ -150,7 +150,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "gulciye-tatlisi",
     name: { tr: "Gülciye Tatlısı", en: "Gülciye" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 60,
     difficulty: "medium",
     ingredients: ["gül suyu", "un", "şerbet", "ceviz", "tuz"],
@@ -179,7 +179,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "yumurtali-yaprak-sarma",
     name: { tr: "Yumurtalı Yaprak Sarma", en: "Egg-Filled Vine Leaves" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 90,
     difficulty: "medium",
     ingredients: ["asma yaprağı", "pirinç", "yumurta", "yoğurt", "salça", "tuz"],
@@ -207,7 +207,7 @@ export const diyarbakirRecipes: Recipe[] = [
   {
     id: "sam-boregi",
     name: { tr: "Şam Böreği", en: "Şam Böreği" },
-    cuisine: "tarih-diyarbakir",
+    cuisine: "turk",
     time: 70,
     difficulty: "medium",
     ingredients: ["kıyma", "hamur", "soğan", "yumurta", "baharat"],

@@ -5,7 +5,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
   {
     id: "pottage-orta-cag-lapasi",
     name: { tr: "Pottage (Orta Çağ Lapası)", en: "Pottage (Medieval Stew)" },
-    cuisine: "tarih-ortacag-avrupa",
+    cuisine: "et",
     time: 90,
     difficulty: "easy",
     ingredients: ["yulaf", "nohut", "sebze", "et suyu", "bal", "tuz", "kekik"],
@@ -34,7 +34,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
   {
     id: "frumenty-ilk-kahvalti-lapasi",
     name: { tr: "Frumenty (İlk Kahvaltı Lapası)", en: "Frumenty (The First Breakfast Porridge)" },
-    cuisine: "tarih-ortacag-avrupa",
+    cuisine: "et",
     time: 35,
     difficulty: "easy",
     ingredients: ["buğday", "süt", "safran", "tarçın", "yumurta sarısı", "bal"],
@@ -63,7 +63,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
   {
     id: "pease-pudding-bezelye-puresi",
     name: { tr: "Pease Pudding (Bezelye Püresi)", en: "Pease Pudding" },
-    cuisine: "tarih-ortacag-avrupa",
+    cuisine: "et",
     time: 60,
     difficulty: "easy",
     ingredients: ["sarı bezelye", "tereyağı", "tuz", "karabiber", "soğan"],
@@ -92,7 +92,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
   {
     id: "blancmange-orta-cag-bademli",
     name: { tr: "Blancmange (Orta Çağ Bademli)", en: "Blancmange (Medieval Almond Dish)" },
-    cuisine: "tarih-ortacag-avrupa",
+    cuisine: "et",
     time: 70,
     difficulty: "medium",
     ingredients: ["badem", "tavuk", "pirinç unu", "bal", "gül suyu", "süt"],
@@ -120,7 +120,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
   {
     id: "vinaigre-doux-balli-sirkeli-syrup",
     name: { tr: "Vinaigre Doux (Ballı Sirkeli Şurup)", en: "Vinaigre Doux (Honeyed Vinegar Syrup)" },
-    cuisine: "tarih-ortacag-avrupa",
+    cuisine: "et",
     time: 45,
     difficulty: "easy",
     ingredients: ["elma", "sirke", "bal", "tarçın", "şeker"],

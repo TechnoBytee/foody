@@ -5,7 +5,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "tutmac-kasgari-mahmud",
     name: { tr: "Tutmaç (Kaşgarlı Mahmud)", en: "Tutmaç (Duted Noodles)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 40,
     difficulty: "easy",
     ingredients: ["un", "yumurta", "et", "tereyağı", "yoğurt", "tuz"],
@@ -34,7 +34,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "akitmac-sac-ustu-hamur",
     name: { tr: "Akıtmaç", en: "Akıtmaç" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 35,
     difficulty: "medium",
     ingredients: ["un", "süt", "yumurta", "sarımsak", "yogurt", "tereyağı"],
@@ -63,7 +63,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "bulamac-un-yogurt",
     name: { tr: "Bulamaç", en: "Bulamaç" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 30,
     difficulty: "easy",
     ingredients: ["un", "yoğurt", "tereyağı", "tuz", "sarımsak"],
@@ -92,7 +92,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "keskek-herse",
     name: { tr: "Keşkek (Herse)", en: "Keşkek (Herse)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 150,
     difficulty: "hard",
     ingredients: ["buğday", "et", "kırmızı biber", "eritme yağı", "tuz", "sumak"],
@@ -120,7 +120,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "hosmerim-yoruk-tatlisi",
     name: { tr: "Höşmerim", en: "Höşmerim" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 40,
     difficulty: "easy",
     ingredients: ["beyaz peynir", "tereyağı", "toz şeker", "un", "yumurta"],
@@ -148,7 +148,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "samsa-yaylanki",
     name: { tr: "Samsa (Yaylankı)", en: "Samsa (Yaylankı)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 60,
     difficulty: "medium",
     ingredients: ["un", "tereyağı", "kıyma", "soğan", "yumurta", "baharat"],
@@ -177,7 +177,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "kurut-kuru-yogurt",
     name: { tr: "Kurut (Kuru Yoğurt)", en: "Kurut (Dried Yoghurt)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 480,
     difficulty: "medium",
     ingredients: ["yoğurt", "tuz", "süzgeç", "çıkış"],
@@ -205,7 +205,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "salgam-fermente-meze",
     name: { tr: "Şalgam (Fermente Kök)", en: "Şalgam (Fermented Turnip)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 20160,
     difficulty: "easy",
     ingredients: ["mor havuç", "tuz", "su", "bulgur unu", "sarımsak"],
@@ -233,7 +233,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "tarih-tarhana-kurutulmus-corba",
     name: { tr: "Tarhana (Orta Asya Kökenli)", en: "Tarhana (Central Asian Origin)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 120,
     difficulty: "medium",
     ingredients: ["buğday unu", "yoğurt", "domates", "biber", "baharat", "tuz"],
@@ -261,7 +261,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "pisi-lokma",
     name: { tr: "Pişi / Lokma", en: "Pişi / Lokma" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 50,
     difficulty: "medium",
     ingredients: ["un", "maya", "süt", "sadeyağ", "şerbet", "tuz"],
@@ -289,7 +289,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "tandir-kebabi",
     name: { tr: "Tandır Kebabı", en: "Tandır Kebab" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 240,
     difficulty: "hard",
     ingredients: ["kuzu eti", "tuz", "kekik", "sarımsak", "tandır ekmeği", "soğan"],
@@ -317,7 +317,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "boregin-atasi-su-boregi",
     name: { tr: "Böreğin Atası (Su Böreği)", en: "The Ancestor of Börek" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 55,
     difficulty: "medium",
     ingredients: ["yufka", "peynir", "yumurta", "tereyağı", "tuz"],
@@ -346,7 +346,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "mutancana-et-kuru-kayisili",
     name: { tr: "Mutancana", en: "Mutancana" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 90,
     difficulty: "medium",
     ingredients: ["kuzu eti", "kuru kayısı", "bal", "tarçın", "badem", "sırka"],
@@ -375,7 +375,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "hunkar-begendi-kokeni-patlican",
     name: { tr: "Hünkar Beğendi Kökeni (Patlıcan Ezmesi)", en: "The Origin of Hünkar Beğendi (Eggplant Mash)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 50,
     difficulty: "medium",
     ingredients: ["patlıcan", "tereyağı", "un", "peynir", "süt", "tuz"],
@@ -403,7 +403,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "kasgarli-tutmac-asi",
     name: { tr: "Kaşgarlı Tutmaç Aşı", en: "Mahmud's Tutmaç Ash" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 45,
     difficulty: "easy",
     ingredients: ["un", "yumurta", "yoğurt", "et suyu", "tuz", "kuru nane"],
@@ -431,7 +431,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "sikma-yufkali-ekmek",
     name: { tr: "Sıkma", en: "Sıkma" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 60,
     difficulty: "medium",
     ingredients: ["yufka", "peynir", "yeşillik", "domates", "tereyağı", "tuz"],
@@ -459,7 +459,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "sac-bazlama",
     name: { tr: "Bazlama", en: "Bazlama" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 90,
     difficulty: "easy",
     ingredients: ["un", "maya", "su", "tuz", "sadeyağ"],
@@ -487,7 +487,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "yoruk-yufka-ekmegi",
     name: { tr: "Yufka Ekmeği", en: "Yufka Bread" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 45,
     difficulty: "easy",
     ingredients: ["un", "su", "tuz", "sadeyağ"],
@@ -515,7 +515,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "pekmez-helvasi",
     name: { tr: "Pekmez Helvası", en: "Molasses Helva" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 35,
     difficulty: "easy",
     ingredients: ["pekmez", "un", "ceviz", "tereyağı", "tuz"],
@@ -543,7 +543,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "zahter-kahvaltilik-ot",
     name: { tr: "Zahter (Kahvaltılık)", en: "Zahter (Breakfast Herb Mix)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 20,
     difficulty: "easy",
     ingredients: ["kekik", "sumak", "susam", "zeytinyağı", "nane"],
@@ -571,7 +571,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "asure-imece-tatlisi",
     name: { tr: "Aşure (İmece Tatlısı)", en: "Aşure (Communal Sweet)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 90,
     difficulty: "easy",
     ingredients: ["buğday", "nohut", "fasulye", "kuru incir", "ceviz", "nar", "bal"],
@@ -599,7 +599,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "ayva-yahnisi-saray",
     name: { tr: "Ayva Yahnisi (Saray)", en: "Quince Stew (Court)" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 75,
     difficulty: "medium",
     ingredients: ["ayva", "kuzu eti", "kuru soğan", "zeytinyağı", "bal", "tuz"],
@@ -628,7 +628,7 @@ export const turkAnadoluRecipes: Recipe[] = [
   {
     id: "erikli-yahni-saray",
     name: { tr: "Erikli Yahni (Saray)", en: "Lamb with Dried Plums" },
-    cuisine: "tarih-turk-anadolu",
+    cuisine: "turk",
     time: 85,
     difficulty: "medium",
     ingredients: ["kuzu eti", "kuru erik", "soğan", "tarçın", "pekmez", "tuz"],

@@ -5,7 +5,7 @@ export const erzurumRecipes: Recipe[] = [
   {
     id: "erzurum-sut-corbasi",
     name: { tr: "Erzurum Süt Çorbası", en: "Erzurum Milk Soup" },
-    cuisine: "tarih-erzurum",
+    cuisine: "turk",
     time: 40,
     difficulty: "easy",
     ingredients: ["süt", "un", "pirinç", "tuz", "sarımsak"],
@@ -34,7 +34,7 @@ export const erzurumRecipes: Recipe[] = [
   {
     id: "demir-tatlisi",
     name: { tr: "Demir Tatlısı", en: "Demir Tatlısı (Iron Sweet)" },
-    cuisine: "tarih-erzurum",
+    cuisine: "turk",
     time: 50,
     difficulty: "hard",
     ingredients: ["un", "yumurta", "şerbet", "tereyağı", "tuz"],
@@ -63,7 +63,7 @@ export const erzurumRecipes: Recipe[] = [
   {
     id: "kaysefe-dut-pekmezi",
     name: { tr: "Kaysefe", en: "Kaysefe" },
-    cuisine: "tarih-erzurum",
+    cuisine: "turk",
     time: 45,
     difficulty: "easy",
     ingredients: ["dut pekmezi", "un", "ceviz", "sarımsak", "tuz"],
@@ -92,7 +92,7 @@ export const erzurumRecipes: Recipe[] = [
   {
     id: "pestil-cullamasi",
     name: { tr: "Pestil Çullaması", en: "Pestil Çullaması" },
-    cuisine: "tarih-erzurum",
+    cuisine: "turk",
     time: 40,
     difficulty: "medium",
     ingredients: ["dut pestili", "yumurta", "tereyağı", "ceviz", "tuz"],
@@ -121,7 +121,7 @@ export const erzurumRecipes: Recipe[] = [
   {
     id: "pelise-un-helvasi",
     name: { tr: "Pelise (Un Helvası)", en: "Pelise" },
-    cuisine: "tarih-erzurum",
+    cuisine: "turk",
     time: 35,
     difficulty: "easy",
     ingredients: ["un", "pekmez", "ceviz", "tereyağı", "tuz"],
@@ -150,7 +150,7 @@ export const erzurumRecipes: Recipe[] = [
   {
     id: "gullac-dolmasi",
     name: { tr: "Güllaç Dolması", en: "Stuffed Vine Leaves with Güllaç" },
-    cuisine: "tarih-erzurum",
+    cuisine: "turk",
     time: 90,
     difficulty: "medium",
     ingredients: ["güllaç yaprağı", "ceviz", "şeker", "gül suyu", "tuz"],
@@ -179,7 +179,7 @@ export const erzurumRecipes: Recipe[] = [
   {
     id: "ekmek-tatlisi",
     name: { tr: "Ekmek Tatlısı", en: "Bread Sweet" },
-    cuisine: "tarih-erzurum",
+    cuisine: "turk",
     time: 35,
     difficulty: "easy",
     ingredients: ["bayat ekmek", "yumurta", "şeker", "tarçın", "tereyağı"],

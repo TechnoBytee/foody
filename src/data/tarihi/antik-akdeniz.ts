@@ -5,7 +5,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "ekmek-bira-rasyonu",
     name: { tr: "Ekmek ve Bira Rasyonu", en: "Bread and Beer Ration" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 60,
     difficulty: "easy",
     ingredients: ["emmer buğdayı", "arpa", "hurma", "su", "bira mayası", "tuz"],
@@ -33,7 +33,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "heqet-ekmek-corbasi",
     name: { tr: "Heqet (Ekmek Çorbası)", en: "Heqet (Bread Soup)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 35,
     difficulty: "easy",
     ingredients: ["bayat ekmek", "su", "soğan", "balık", "tuz", "nane"],
@@ -62,7 +62,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "maza-arpa-lapasi",
     name: { tr: "Maza (Arpa Lapası)", en: "Maza (Barley Porridge)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 40,
     difficulty: "easy",
     ingredients: ["arpa unu", "su", "tuz", "zeytinyağı", "bal", "peynir"],
@@ -91,7 +91,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "kykeon-rituel-icecegi",
     name: { tr: "Kykeon (Ritüel İçecek)", en: "Kykeon (Ritual Drink)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 20,
     difficulty: "easy",
     ingredients: ["arpa", "su", "pennyroyal otu", "nane", "bal"],
@@ -120,7 +120,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "garum",
     name: { tr: "Garum", en: "Garum" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 720,
     difficulty: "hard",
     ingredients: ["uskumru", "balık karnı", "tuz", "defne yaprağı", "dane biber"],
@@ -149,7 +149,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "puls-lapasi",
     name: { tr: "Puls (Buğday Lapası)", en: "Puls (Wheat Porridge)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 45,
     difficulty: "easy",
     ingredients: ["buğday", "darı", "otlar", "sebzeler", "tuz", "peynir", "zeytinyağı"],
@@ -178,7 +178,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "moretum-peyinli-ot-ezmesi",
     name: { tr: "Moretum (Peynirli Ot Ezmesi)", en: "Moretum (Cheese and Herb Mash)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 20,
     difficulty: "easy",
     ingredients: ["peynir", "sarımsak", "kereviz", "maydanoz", "sirke", "zeytinyağı", "tuz"],
@@ -207,7 +207,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "patina-roma-omleti",
     name: { tr: "Patina (Roma Fırın Omleti)", en: "Patina (Roman Baked Omelette)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 45,
     difficulty: "medium",
     ingredients: ["yumurta", "otlar", "peynir", "garum", "ballı şarap", "tuz"],
@@ -236,7 +236,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "libum-peyinli-kek",
     name: { tr: "Libum (Peynirli Kek)", en: "Libum (Cheesecake)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 60,
     difficulty: "medium",
     ingredients: ["peynir", "un", "yumurta", "bal", "defne"],
@@ -265,7 +265,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "oxygala-tatli-sut",
     name: { tr: "Oxygala (Tatlandırılmış Süt)", en: "Oxygala (Sweetened Milk)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 15,
     difficulty: "easy",
     ingredients: ["kaymaklı süt", "bal", "tuz"],
@@ -294,7 +294,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "conditum-paradoxum",
     name: { tr: "Conditum Paradoxum", en: "Conditum Paradoxum" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 30,
     difficulty: "easy",
     ingredients: ["şarap", "bal", "biber", "defne", "hurma", "sakız", "safran"],
@@ -323,7 +323,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "posca-asker-icecegi",
     name: { tr: "Posca (Ekşi Asker İçeceği)", en: "Posca (Soldiers' Sour Drink)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 10,
     difficulty: "easy",
     ingredients: ["su", "sirke", "otlar", "tuz"],
@@ -352,7 +352,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "flamingo-luks-sofra",
     name: { tr: "Flamingo (Tavuskuşu Sofrası)", en: "Flamingo (The Luxurious Table)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 150,
     difficulty: "hard",
     ingredients: ["tavus kuşu eti", "garum", "biber", "şaraplı sos", "kekik", "ekmek"],
@@ -381,7 +381,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "apicius-baharatli-kus-bageti",
     name: { tr: "Apicius Baharatlı Kuş Bageti", en: "Spiced Bird Fillet (Apicius)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 70,
     difficulty: "medium",
     ingredients: ["kuş göğsü", "defne", "biber", "ekşi üzüm", "zeytinyağı", "tuz"],
@@ -410,7 +410,7 @@ export const antikAkdenizRecipes: Recipe[] = [
   {
     id: "tharid-ekmek-ustu-corba",
     name: { tr: "Tharid (Ekmek Üstü Çorba)", en: "Tharid (Bread Soup)" },
-    cuisine: "tarih-antik-akdeniz",
+    cuisine: "et",
     time: 40,
     difficulty: "easy",
     ingredients: ["bayat ekmek", "et suyu", "sebze", "baharat", "zeytinyağı", "tuz"],

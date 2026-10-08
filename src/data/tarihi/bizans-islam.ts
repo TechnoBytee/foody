@@ -5,7 +5,7 @@ export const bizansIslamRecipes: Recipe[] = [
   {
     id: "kolyva-bugday-tatlisi",
     name: { tr: "Kolyva (Buğday Tatlısı)", en: "Kollyva (Wheat Cake)" },
-    cuisine: "tarih-bizans-islam",
+    cuisine: "et",
     time: 90,
     difficulty: "medium",
     ingredients: ["buğday", "bal", "kuruyemiş", "nar", "kakao", "zeytinyağı"],
@@ -34,7 +34,7 @@ export const bizansIslamRecipes: Recipe[] = [
   {
     id: "phyllo-yufka-kokeni",
     name: { tr: "Phyllo (İnce Hamur Kökeni)", en: "Phyllo (The Origin of Filo)" },
-    cuisine: "tarih-bizans-islam",
+    cuisine: "et",
     time: 60,
     difficulty: "hard",
     ingredients: ["un", "su", "sirke", "tereyağı", "tuz"],
@@ -62,7 +62,7 @@ export const bizansIslamRecipes: Recipe[] = [
   {
     id: "sikbaj-eksili-etli",
     name: { tr: "Sikbaj (Ekşili-Tatlı Etli)", en: "Sikbaj (Sour-Sweet Meat)" },
-    cuisine: "tarih-bizans-islam",
+    cuisine: "et",
     time: 90,
     difficulty: "medium",
     ingredients: ["et", "sirke", "bal", "tarçın", "karanfil", "safran", "tuz"],
@@ -91,7 +91,7 @@ export const bizansIslamRecipes: Recipe[] = [
   {
     id: "tharid-arap-corbasi",
     name: { tr: "Tharid (Arap Ekmek Çorbası)", en: "Tharid (Arabian Bread Soup)" },
-    cuisine: "tarih-bizans-islam",
+    cuisine: "et",
     time: 40,
     difficulty: "easy",
     ingredients: ["bayat ekmek", "et suyu", "sebze", "nohut", "baharat", "zeytinyağı"],
@@ -120,7 +120,7 @@ export const bizansIslamRecipes: Recipe[] = [
   {
     id: "ash-reshteh-eristeli-corba",
     name: { tr: "Ash Reshteh", en: "Ash Reshteh" },
-    cuisine: "tarih-bizans-islam",
+    cuisine: "et",
     time: 80,
     difficulty: "medium",
     ingredients: ["erişte", "nohut", "fasulye", "ıspanak", "kaşk", "nane", "soğan", "tuz"],
@@ -148,7 +148,7 @@ export const bizansIslamRecipes: Recipe[] = [
   {
     id: "haleem-dovulmus-yemek",
     name: { tr: "Haleem (Dövülmüş Etli Tahıl)", en: "Haleem (Pounded Meat and Wheat)" },
-    cuisine: "tarih-bizans-islam",
+    cuisine: "et",
     time: 240,
     difficulty: "hard",
     ingredients: ["buğday", "et", "ghi", "baharat", "soğan", "tuz"],
@@ -176,7 +176,7 @@ export const bizansIslamRecipes: Recipe[] = [
   {
     id: "zerde-alti-tasin-tatli",
     name: { tr: "Zerde (Altın Kâğıt Tatlısı)", en: "Zerde (Golden Sheet Dessert)" },
-    cuisine: "tarih-bizans-islam",
+    cuisine: "et",
     time: 60,
     difficulty: "medium",
     ingredients: ["pirinç", "safran", "zerdeçal", "şeker", "gül suyu", "badem"],

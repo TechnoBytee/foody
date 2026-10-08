@@ -5,7 +5,7 @@ export const cinHintRecipes: Recipe[] = [
   {
     id: "laba-jo-lapasi",
     name: { tr: "Laba Jo (Laba Lapası)", en: "Laba Jo (Laba Porridge)" },
-    cuisine: "tarih-cin-hint",
+    cuisine: "et",
     time: 75,
     difficulty: "easy",
     ingredients: ["pirinç", "baklagil", "buğday", "kırmızı fasulye", "hurma", "fıstık", "şeker"],
@@ -33,7 +33,7 @@ export const cinHintRecipes: Recipe[] = [
   {
     id: "tangyuan-yumasi",
     name: { tr: "Tangyuan (Halk Tıkacısı)", en: "Tangyuan (Reunion Dumplings)" },
-    cuisine: "tarih-cin-hint",
+    cuisine: "et",
     time: 50,
     difficulty: "medium",
     ingredients: ["yapışkan pirinç unu", "yer fıstığı ezmesi", "pekmez", "susam", "gül suyu"],
@@ -61,7 +61,7 @@ export const cinHintRecipes: Recipe[] = [
   {
     id: "dongzhi-tangyuan",
     name: { tr: "Dongzhi Tangyuan", en: "Dongzhi Tangyuan" },
-    cuisine: "tarih-cin-hint",
+    cuisine: "et",
     time: 45,
     difficulty: "medium",
     ingredients: ["yapışkan pirinç unu", "susam ezmesi", "şeker", "çiçek yaprağı"],
@@ -89,7 +89,7 @@ export const cinHintRecipes: Recipe[] = [
   {
     id: "khichdi-pirinç-bakla",
     name: { tr: "Khichdi (Pirinç-Bakla Lapası)", en: "Khichdi (Rice and Pulse Porridge)" },
-    cuisine: "tarih-cin-hint",
+    cuisine: "et",
     time: 45,
     difficulty: "easy",
     ingredients: ["pirinç", "maş fasulyesi", "zerdeçal", "ghi", "kimyon", "tuz"],
@@ -117,7 +117,7 @@ export const cinHintRecipes: Recipe[] = [
   {
     id: "pulao-baharatli-pilav",
     name: { tr: "Pulao (Baharatlı Pilav)", en: "Pulao (Spiced Pilaf)" },
-    cuisine: "tarih-cin-hint",
+    cuisine: "et",
     time: 60,
     difficulty: "medium",
     ingredients: ["pirinç", "et", "zerdeçal", "safran", "badem", "sogan", "tuz"],

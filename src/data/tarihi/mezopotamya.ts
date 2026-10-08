@@ -5,7 +5,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "tuhu-pancarli-kuzu-yahnisi",
     name: { tr: "Tuh'u (Pancarlı Kuzu Yahnisi)", en: "Tuh'u (Beetroot Lamb Stew)" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 90,
     difficulty: "medium",
     ingredients: ["kuzu budu", "pancar", "koyun yağı", "pırasa", "sarımsak", "kişniş", "tuz", "su"],
@@ -36,7 +36,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "elam-corbasi",
     name: { tr: "Elam Çorbası", en: "Elamish Soup" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 45,
     difficulty: "easy",
     ingredients: ["et suyu", "soğan", "sarımsak", "kimyon", "kişniş", "tuz", "un"],
@@ -65,7 +65,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "balli-arpa-ekmegi",
     name: { tr: "Ballı Arpa Ekmeği", en: "Honeyed Barley Bread" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 40,
     difficulty: "easy",
     ingredients: ["arpa unu", "bal", "su", "tuz", "susam"],
@@ -93,7 +93,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "kus-etli-borek-babil",
     name: { tr: "Kuş Etli Börek (Babil)", en: "Babylonian Bird Pie" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 80,
     difficulty: "hard",
     ingredients: ["ötücü kuş eti", "hamur", "soğan", "süt", "pırasa", "sarımsak", "tuz", "kekik"],
@@ -122,7 +122,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "babil-sebzeli-guvec",
     name: { tr: "Sebzeli Güveç (Babil)", en: "Babylonian Vegetable Pot" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 60,
     difficulty: "easy",
     ingredients: ["kuru baklagil", "kurutulmuş sebze", "koyun yağı", "süt", "arpa unu", "tuz", "kimyon"],
@@ -150,7 +150,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "umsu-kurutulmus-et",
     name: { tr: "Umşu (Kurutulmuş Et)", en: "Umšu (Dried Meat)" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 240,
     difficulty: "medium",
     ingredients: ["kuzu eti", "tuz", "defne yaprağı", "sarımsak", "kekik"],
@@ -178,7 +178,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "pannaru-kanis-peyniri",
     name: { tr: "Pannaru (Kaniş Peyniri)", en: "Pannaru (Kanesh Cheese)" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 90,
     difficulty: "medium",
     ingredients: ["koyun sütü", "rennet (peynir mayası)", "tuz", "keçi sütü"],
@@ -207,7 +207,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "karacadag-neolitik-pilav",
     name: { tr: "Karacadağ Neolitik Pilavı", en: "Karacadağ Neolithic Pilaf" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 45,
     difficulty: "medium",
     ingredients: ["yabanî pirinç", "sadeyağ", "tuz", "taş değirmeni"],
@@ -235,7 +235,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "bugday-lapasi",
     name: { tr: "Buğday Lapası", en: "Wheat Porridge" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 30,
     difficulty: "easy",
     ingredients: ["buğday", "su", "tuz", "zeytinyağı"],
@@ -263,7 +263,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "firik-yemegi",
     name: { tr: "Firik (Yeşil Buğday) Yemeği", en: "Fırık (Green Wheat) Dish" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 60,
     difficulty: "medium",
     ingredients: ["yanık yeşil buğday (fırık)", "et", "soğan", "tereyağı", "tuz", "kekik"],
@@ -291,7 +291,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "firik-pilavi",
     name: { tr: "Fırık Pilavı", en: "Fırık Pilaf" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 70,
     difficulty: "medium",
     ingredients: ["fırık", "kuzu eti", "tereyağı", "soğan", "tuz", "kekik"],
@@ -319,7 +319,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "hitit-ekmegi",
     name: { tr: "Hitit Ekmeği", en: "Hittite Bread" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 120,
     difficulty: "medium",
     ingredients: ["emmer buğdayı", "su", "tuz", "maya", "sadeyağ"],
@@ -347,7 +347,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "hitit-yahnisi",
     name: { tr: "Hitit Yahnisi", en: "Hittite Stew" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 75,
     difficulty: "easy",
     ingredients: ["kuzu eti", "soğan", "yabani otlar", "zeytinyağı", "tuz", "sumak"],
@@ -376,7 +376,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "koyun-sutu-bilesik",
     name: { tr: "Koyun Sütü Bileşiği (Babil)", en: "Babylon Sheep-Milk Dish" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 55,
     difficulty: "easy",
     ingredients: ["koyun sütü", "koyun yağı", "kavrulmuş arpa", "bal", "tarçın"],
@@ -405,7 +405,7 @@ export const mezopotamyaRecipes: Recipe[] = [
   {
     id: "lihum-soslu-ekmek",
     name: { tr: "Lihum Soslu Ekmek", en: "Lihum Bread with Sauce" },
-    cuisine: "tarih-mezopotamya",
+    cuisine: "et",
     time: 50,
     difficulty: "medium",
     ingredients: ["ekmek", "kuru et suyu", "soğan", "sarımsak", "kekik", "zeytinyağı"],
