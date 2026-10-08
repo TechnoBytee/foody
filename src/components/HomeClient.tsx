@@ -5,7 +5,7 @@ import Link from "next/link";
 import FridgeSearch from "./FridgeSearch";
 import RecipeCards from "./RecipeCards";
 import { hasSplashShown, markSplashShown } from "@/lib/splashState";
-import { Recipe, ancientCuisines, cuisines, recipesByCuisine } from "@/data/recipes";
+import { Recipe, cuisines, areas } from "@/data/recipes";
 import { Messages, Locale } from "@/i18n";
 
 export default function HomeClient({ messages, locale }: { messages: Messages; locale: Locale }) {
@@ -181,31 +181,18 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
         </div>
       </section>
 
-      <section id="tarih-arsivi" className="flex scroll-mt-8 flex-col gap-4">
-        <div className="flex flex-col gap-1">
-          <span className="w-fit rounded-full bg-[#EDF3EC] px-3 py-1 text-xs uppercase tracking-wide text-[#346538]">
-            {messages.ancientBadge}
-          </span>
-          <h2 className="font-serif text-2xl">{messages.ancientArchiveTitle}</h2>
-          <p className="text-sm text-[#787774]">{messages.ancientArchiveSubtitle}</p>
-        </div>
-        <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          {ancientCuisines.map((c) => {
-            const count = recipesByCuisine(c.slug).length;
-            return (
-              <Link
-                key={c.slug}
-                href={`/${locale}/kategori/${c.slug}`}
-                className="flex flex-col gap-1 rounded-xl border border-[#EAEAEA] bg-white p-4 transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
-              >
-                <h3 className="text-sm font-medium">{c.name[locale]}</h3>
-                <p className="text-xs text-[#787774]">{c.description[locale]}</p>
-                <span className="mt-1 text-xs text-[#787774]">
-                  {count} {locale === "tr" ? "tarif" : "recipes"}
-                </span>
-              </Link>
-            );
-          })}
+      <section className="flex flex-col gap-4">
+        <h2 className="font-serif text-2xl">{messages.areasTitle}</h2>
+        <div className="flex flex-wrap gap-2">
+          {areas.map((a) => (
+            <Link
+              key={a.slug}
+              href={`/${locale}/bolge/${a.slug}`}
+              className="rounded-full border border-[#EAEAEA] bg-white px-4 py-2 text-sm transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
+            >
+              {a.name[locale]}
+            </Link>
+          ))}
         </div>
       </section>
     </main>

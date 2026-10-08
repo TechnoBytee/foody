@@ -28,11 +28,21 @@ export default async function RecipePage({
             {messages.forgotten}
           </span>
         )}
+        {recipe.image && (
+          <div className="overflow-hidden rounded-xl border border-[#EAEAEA]">
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src={recipe.image}
+              alt={recipe.name[locale]}
+              className="aspect-[16/9] w-full object-cover"
+            />
+          </div>
+        )}
         <h1 className="font-serif text-4xl tracking-tight">{recipe.name[locale]}</h1>
         <p className="text-sm text-[#787774]">
           {recipe.time} {messages.min} · {recipe.calories} kcal
         </p>
-        {(recipe.era || recipe.region) && (
+        {(recipe.era || recipe.region || recipe.area) && (
           <p className="flex flex-wrap gap-x-4 gap-y-1 text-xs uppercase tracking-wide text-[#787774]">
             {recipe.era && (
               <span>
@@ -42,6 +52,11 @@ export default async function RecipePage({
             {recipe.region && (
               <span>
                 {messages.region}: {recipe.region[locale]}
+              </span>
+            )}
+            {recipe.area && (
+              <span>
+                {recipe.area[locale]}
               </span>
             )}
           </p>
