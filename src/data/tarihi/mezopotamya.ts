@@ -8,7 +8,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 90,
     difficulty: "medium",
-    ingredients: ["kuzu budu", "pancar", "koyun yağı", "pırasa", "sarımsak", "kişniş", "tuz", "su"],
+    ingredients: { tr: ["kuzu budu", "pancar", "koyun yağı", "pırasa", "sarımsak", "kişniş", "tuz", "su"], en: ["kuzu budu", "pancar", "koyun yağı", "pırasa", "sarımsak", "kişniş", "tuz", "su"] },
     steps: {
       tr: [
         "Kuzu budunu parçalayıp koyun yağında her tarafından kızartın.",
@@ -39,7 +39,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 45,
     difficulty: "easy",
-    ingredients: ["et suyu", "soğan", "sarımsak", "kimyon", "kişniş", "tuz", "un"],
+    ingredients: { tr: ["et suyu", "soğan", "sarımsak", "kimyon", "kişniş", "tuz", "un"], en: ["et suyu", "soğan", "sarımsak", "kimyon", "kişniş", "tuz", "un"] },
     steps: {
       tr: [
         "Soğan ve sarımsağı kıyıp bir miktar et suyuyla kaynatın.",
@@ -68,7 +68,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 40,
     difficulty: "easy",
-    ingredients: ["arpa unu", "bal", "su", "tuz", "susam"],
+    ingredients: { tr: ["arpa unu", "bal", "su", "tuz", "susam"], en: ["arpa unu", "bal", "su", "tuz", "susam"] },
     steps: {
       tr: [
         "Arpa ununu su ve tuzla yoğurup yumuşak bir hamur elde edin.",
@@ -96,7 +96,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 80,
     difficulty: "hard",
-    ingredients: ["ötücü kuş eti", "hamur", "soğan", "süt", "pırasa", "sarımsak", "tuz", "kekik"],
+    ingredients: { tr: ["ötücü kuş eti", "hamur", "soğan", "süt", "pırasa", "sarımsak", "tuz", "kekik"], en: ["ötücü kuş eti", "hamur", "soğan", "süt", "pırasa", "sarımsak", "tuz", "kekik"] },
     steps: {
       tr: [
         "Kuş etini sütte yumuşayana kadar pişirin, kemiklerini ayırın.",
@@ -125,7 +125,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "easy",
-    ingredients: ["kuru baklagil", "kurutulmuş sebze", "koyun yağı", "süt", "arpa unu", "tuz", "kimyon"],
+    ingredients: { tr: ["kuru baklagil", "kurutulmuş sebze", "koyun yağı", "süt", "arpa unu", "tuz", "kimyon"], en: ["kuru baklagil", "kurutulmuş sebze", "koyun yağı", "süt", "arpa unu", "tuz", "kimyon"] },
     steps: {
       tr: [
         "Kuru baklagilleri ve sebzeleri bir gece suda bekletin.",
@@ -153,7 +153,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 240,
     difficulty: "medium",
-    ingredients: ["kuzu eti", "tuz", "defne yaprağı", "sarımsak", "kekik"],
+    ingredients: { tr: ["kuzu eti", "tuz", "defne yaprağı", "sarımsak", "kekik"], en: ["kuzu eti", "tuz", "defne yaprağı", "sarımsak", "kekik"] },
     steps: {
       tr: [
         "Eti ince ince dilimleyip tuz, defne ve sarımsakla 8 saat marine edin.",
@@ -181,7 +181,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 90,
     difficulty: "medium",
-    ingredients: ["koyun sütü", "rennet (peynir mayası)", "tuz", "keçi sütü"],
+    ingredients: { tr: ["koyun sütü", "rennet (peynir mayası)", "tuz", "keçi sütü"], en: ["koyun sütü", "rennet (peynir mayası)", "tuz", "keçi sütü"] },
     steps: {
       tr: [
         "Sütü ılık suyla seyreltip mayayı ekleyin.",
@@ -210,7 +210,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 45,
     difficulty: "medium",
-    ingredients: ["yabanî pirinç", "sadeyağ", "tuz", "taş değirmeni"],
+    ingredients: { tr: ["yabanî pirinç", "sadeyağ", "tuz", "taş değirmeni"], en: ["yabanî pirinç", "sadeyağ", "tuz", "taş değirmeni"] },
     steps: {
       tr: [
         "Yabanî pirinci taş değirmende un gibi öğütün.",
@@ -238,7 +238,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 30,
     difficulty: "easy",
-    ingredients: ["buğday", "su", "tuz", "zeytinyağı"],
+    ingredients: { tr: ["buğday", "su", "tuz", "zeytinyağı"], en: ["buğday", "su", "tuz", "zeytinyağı"] },
     steps: {
       tr: [
         "Buğdayı yıkayıp bol suda 30 dakika haşlayın.",
@@ -266,7 +266,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "medium",
-    ingredients: ["yanık yeşil buğday (fırık)", "et", "soğan", "tereyağı", "tuz", "kekik"],
+    ingredients: { tr: ["yanık yeşil buğday (fırık)", "et", "soğan", "tereyağı", "tuz", "kekik"], en: ["yanık yeşil buğday (fırık)", "et", "soğan", "tereyağı", "tuz", "kekik"] },
     steps: {
       tr: [
         "Fırığı kavurup elinizde ovalayın: taneler ayrılır ve kavrulmuş kokusu çıkar.",
@@ -294,7 +294,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 70,
     difficulty: "medium",
-    ingredients: ["fırık", "kuzu eti", "tereyağı", "soğan", "tuz", "kekik"],
+    ingredients: { tr: ["fırık", "kuzu eti", "tereyağı", "soğan", "tuz", "kekik"], en: ["fırık", "kuzu eti", "tereyağı", "soğan", "tuz", "kekik"] },
     steps: {
       tr: [
         "Fırık buğdayı kavurup ayırın; etleri kıyın.",
@@ -322,7 +322,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 120,
     difficulty: "medium",
-    ingredients: ["emmer buğdayı", "su", "tuz", "maya", "sadeyağ"],
+    ingredients: { tr: ["emmer buğdayı", "su", "tuz", "maya", "sadeyağ"], en: ["emmer buğdayı", "su", "tuz", "maya", "sadeyağ"] },
     steps: {
       tr: [
         "Emmer ununu su ve maya ile 30 dakika mayalayın.",
@@ -350,7 +350,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 75,
     difficulty: "easy",
-    ingredients: ["kuzu eti", "soğan", "yabani otlar", "zeytinyağı", "tuz", "sumak"],
+    ingredients: { tr: ["kuzu eti", "soğan", "yabani otlar", "zeytinyağı", "tuz", "sumak"], en: ["kuzu eti", "soğan", "yabani otlar", "zeytinyağı", "tuz", "sumak"] },
     steps: {
       tr: [
         "Soğanı zeytinyağında kavurun, kuzu etini ekleyin.",
@@ -379,7 +379,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 55,
     difficulty: "easy",
-    ingredients: ["koyun sütü", "koyun yağı", "kavrulmuş arpa", "bal", "tarçın"],
+    ingredients: { tr: ["koyun sütü", "koyun yağı", "kavrulmuş arpa", "bal", "tarçın"], en: ["koyun sütü", "koyun yağı", "kavrulmuş arpa", "bal", "tarçın"] },
     steps: {
       tr: [
         "Sütü ve koyun yağını birlikte kaynatın.",
@@ -408,7 +408,7 @@ export const mezopotamyaRecipes: Recipe[] = [
     cuisine: "et",
     time: 50,
     difficulty: "medium",
-    ingredients: ["ekmek", "kuru et suyu", "soğan", "sarımsak", "kekik", "zeytinyağı"],
+    ingredients: { tr: ["ekmek", "kuru et suyu", "soğan", "sarımsak", "kekik", "zeytinyağı"], en: ["ekmek", "kuru et suyu", "soğan", "sarımsak", "kekik", "zeytinyağı"] },
     steps: {
       tr: [
         "Ekmeği kuru et suyunda ıslatıp tavada kızartın.",

@@ -7,7 +7,7 @@ export async function suggestRecipes(ingredients: string[], query = ""): Promise
   const terms = [...ingredients, query].join(" ").toLowerCase();
   const scored = recipes
     .map((r) => {
-      const hits = r.ingredients.filter((ing) =>
+      const hits = r.ingredients.tr.filter((ing) =>
         terms.split(/[\s,]+/).some((t) => t.length > 2 && ing.toLowerCase().includes(t))
       ).length;
       return { r, hits };

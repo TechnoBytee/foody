@@ -8,7 +8,7 @@ export const cinHintRecipes: Recipe[] = [
     cuisine: "et",
     time: 75,
     difficulty: "easy",
-    ingredients: ["pirinç", "baklagil", "buğday", "kırmızı fasulye", "hurma", "fıstık", "şeker"],
+    ingredients: { tr: ["pirinç", "baklagil", "buğday", "kırmızı fasulye", "hurma", "fıstık", "şeker"], en: ["pirinç", "baklagil", "buğday", "kırmızı fasulye", "hurma", "fıstık", "şeker"] },
     steps: {
       tr: [
         "Sekiz çeşit tahılı ayrı ayrı pişirin.",
@@ -36,7 +36,7 @@ export const cinHintRecipes: Recipe[] = [
     cuisine: "et",
     time: 50,
     difficulty: "medium",
-    ingredients: ["yapışkan pirinç unu", "yer fıstığı ezmesi", "pekmez", "susam", "gül suyu"],
+    ingredients: { tr: ["yapışkan pirinç unu", "yer fıstığı ezmesi", "pekmez", "susam", "gül suyu"], en: ["yapışkan pirinç unu", "yer fıstığı ezmesi", "pekmez", "susam", "gül suyu"] },
     steps: {
       tr: [
         "Pirinç unuyla yumuşak hamur yapın.",
@@ -64,7 +64,7 @@ export const cinHintRecipes: Recipe[] = [
     cuisine: "et",
     time: 45,
     difficulty: "medium",
-    ingredients: ["yapışkan pirinç unu", "susam ezmesi", "şeker", "çiçek yaprağı"],
+    ingredients: { tr: ["yapışkan pirinç unu", "susam ezmesi", "şeker", "çiçek yaprağı"], en: ["yapışkan pirinç unu", "susam ezmesi", "şeker", "çiçek yaprağı"] },
     steps: {
       tr: [
         "Susam ezmesiyle şekeri karıştırıp dolgu yapın.",
@@ -92,7 +92,7 @@ export const cinHintRecipes: Recipe[] = [
     cuisine: "et",
     time: 45,
     difficulty: "easy",
-    ingredients: ["pirinç", "maş fasulyesi", "zerdeçal", "ghi", "kimyon", "tuz"],
+    ingredients: { tr: ["pirinç", "maş fasulyesi", "zerdeçal", "ghi", "kimyon", "tuz"], en: ["pirinç", "maş fasulyesi", "zerdeçal", "ghi", "kimyon", "tuz"] },
     steps: {
       tr: [
         "Pirinç ve maş fasulyesini birlikte yıkayın.",
@@ -120,7 +120,7 @@ export const cinHintRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "medium",
-    ingredients: ["pirinç", "et", "zerdeçal", "safran", "badem", "sogan", "tuz"],
+    ingredients: { tr: ["pirinç", "et", "zerdeçal", "safran", "badem", "sogan", "tuz"], en: ["pirinç", "et", "zerdeçal", "safran", "badem", "sogan", "tuz"] },
     steps: {
       tr: [
         "Pirinçi yıkayıp zerdeçal ve safranlı suda bekletin.",

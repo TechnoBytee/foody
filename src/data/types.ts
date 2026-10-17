@@ -17,7 +17,7 @@ export type Recipe = {
   categories?: string[];
   time: number;
   difficulty: "easy" | "medium" | "hard";
-  ingredients: string[];
+  ingredients: { tr: string[]; en: string[] };
   steps: { tr: string[]; en: string[] };
   alternatives: string[];
   calories: number;

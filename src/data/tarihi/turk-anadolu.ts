@@ -8,7 +8,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 40,
     difficulty: "easy",
-    ingredients: ["un", "yumurta", "et", "tereyağı", "yoğurt", "tuz"],
+    ingredients: { tr: ["un", "yumurta", "et", "tereyağı", "yoğurt", "tuz"], en: ["un", "yumurta", "et", "tereyağı", "yoğurt", "tuz"] },
     steps: {
       tr: [
         "Unu yumurta ve suyla yoğurup ince kesilmiş hamur yapın.",
@@ -37,7 +37,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 35,
     difficulty: "medium",
-    ingredients: ["un", "süt", "yumurta", "sarımsak", "yogurt", "tereyağı"],
+    ingredients: { tr: ["un", "süt", "yumurta", "sarımsak", "yogurt", "tereyağı"], en: ["un", "süt", "yumurta", "sarımsak", "yogurt", "tereyağı"] },
     steps: {
       tr: [
         "Unu süt ve yumurtayla akıcı hamur yapın.",
@@ -66,7 +66,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 30,
     difficulty: "easy",
-    ingredients: ["un", "yoğurt", "tereyağı", "tuz", "sarımsak"],
+    ingredients: { tr: ["un", "yoğurt", "tereyağı", "tuz", "sarımsak"], en: ["un", "yoğurt", "tereyağı", "tuz", "sarımsak"] },
     steps: {
       tr: [
         "Unu ılık suyla yoğurup ince açın.",
@@ -95,7 +95,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 150,
     difficulty: "hard",
-    ingredients: ["buğday", "et", "kırmızı biber", "eritme yağı", "tuz", "sumak"],
+    ingredients: { tr: ["buğday", "et", "kırmızı biber", "eritme yağı", "tuz", "sumak"], en: ["buğday", "et", "kırmızı biber", "eritme yağı", "tuz", "sumak"] },
     steps: {
       tr: [
         "Eti parçalayıp buğdayla birlikte kazanın.",
@@ -123,7 +123,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 40,
     difficulty: "easy",
-    ingredients: ["beyaz peynir", "tereyağı", "toz şeker", "un", "yumurta"],
+    ingredients: { tr: ["beyaz peynir", "tereyağı", "toz şeker", "un", "yumurta"], en: ["beyaz peynir", "tereyağı", "toz şeker", "un", "yumurta"] },
     steps: {
       tr: [
         "Peyniri un ile birlikte hamur hâline getirin.",
@@ -151,7 +151,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 60,
     difficulty: "medium",
-    ingredients: ["un", "tereyağı", "kıyma", "soğan", "yumurta", "baharat"],
+    ingredients: { tr: ["un", "tereyağı", "kıyma", "soğan", "yumurta", "baharat"], en: ["un", "tereyağı", "kıyma", "soğan", "yumurta", "baharat"] },
     steps: {
       tr: [
         "Kıyma, soğan ve baharatı kavurup soğutun.",
@@ -180,7 +180,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 480,
     difficulty: "medium",
-    ingredients: ["yoğurt", "tuz", "süzgeç", "çıkış"],
+    ingredients: { tr: ["yoğurt", "tuz", "süzgeç", "çıkış"], en: ["yoğurt", "tuz", "süzgeç", "çıkış"] },
     steps: {
       tr: [
         "Yoğurdu ince bir tabak halinde süzün.",
@@ -208,7 +208,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 20160,
     difficulty: "easy",
-    ingredients: ["mor havuç", "tuz", "su", "bulgur unu", "sarımsak"],
+    ingredients: { tr: ["mor havuç", "tuz", "su", "bulgur unu", "sarımsak"], en: ["mor havuç", "tuz", "su", "bulgur unu", "sarımsak"] },
     steps: {
       tr: [
         "Kavurulmuş mor havucu tuzlu suda birkaç hafta bekletin.",
@@ -236,7 +236,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 120,
     difficulty: "medium",
-    ingredients: ["buğday unu", "yoğurt", "domates", "biber", "baharat", "tuz"],
+    ingredients: { tr: ["buğday unu", "yoğurt", "domates", "biber", "baharat", "tuz"], en: ["buğday unu", "yoğurt", "domates", "biber", "baharat", "tuz"] },
     steps: {
       tr: [
         "Yoğurdu un ile iyice yoğurup hamurdan köyde dinlendirin.",
@@ -264,7 +264,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 50,
     difficulty: "medium",
-    ingredients: ["un", "maya", "süt", "sadeyağ", "şerbet", "tuz"],
+    ingredients: { tr: ["un", "maya", "süt", "sadeyağ", "şerbet", "tuz"], en: ["un", "maya", "süt", "sadeyağ", "şerbet", "tuz"] },
     steps: {
       tr: [
         "Hamuru mayalayıp dinlendirin.",
@@ -292,7 +292,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 240,
     difficulty: "hard",
-    ingredients: ["kuzu eti", "tuz", "kekik", "sarımsak", "tandır ekmeği", "soğan"],
+    ingredients: { tr: ["kuzu eti", "tuz", "kekik", "sarımsak", "tandır ekmeği", "soğan"], en: ["kuzu eti", "tuz", "kekik", "sarımsak", "tandır ekmeği", "soğan"] },
     steps: {
       tr: [
         "Eti parçalayıp tuz, kekik ve sarımsakla 12 saat marine edin.",
@@ -320,7 +320,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 55,
     difficulty: "medium",
-    ingredients: ["yufka", "peynir", "yumurta", "tereyağı", "tuz"],
+    ingredients: { tr: ["yufka", "peynir", "yumurta", "tereyağı", "tuz"], en: ["yufka", "peynir", "yumurta", "tereyağı", "tuz"] },
     steps: {
       tr: [
         "Yufkaları teker teker açıp yağda kızartın.",
@@ -349,7 +349,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 90,
     difficulty: "medium",
-    ingredients: ["kuzu eti", "kuru kayısı", "bal", "tarçın", "badem", "sırka"],
+    ingredients: { tr: ["kuzu eti", "kuru kayısı", "bal", "tarçın", "badem", "sırka"], en: ["kuzu eti", "kuru kayısı", "bal", "tarçın", "badem", "sırka"] },
     steps: {
       tr: [
         "Kuru kayısıları sıcak suda şişirin.",
@@ -378,7 +378,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 50,
     difficulty: "medium",
-    ingredients: ["patlıcan", "tereyağı", "un", "peynir", "süt", "tuz"],
+    ingredients: { tr: ["patlıcan", "tereyağı", "un", "peynir", "süt", "tuz"], en: ["patlıcan", "tereyağı", "un", "peynir", "süt", "tuz"] },
     steps: {
       tr: [
         "Patlıcanları közleyip kabuklarını soyun.",
@@ -406,7 +406,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 45,
     difficulty: "easy",
-    ingredients: ["un", "yumurta", "yoğurt", "et suyu", "tuz", "kuru nane"],
+    ingredients: { tr: ["un", "yumurta", "yoğurt", "et suyu", "tuz", "kuru nane"], en: ["un", "yumurta", "yoğurt", "et suyu", "tuz", "kuru nane"] },
     steps: {
       tr: [
         "Hamuru yoğurup kesme şeritler hâline getirin.",
@@ -434,7 +434,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 60,
     difficulty: "medium",
-    ingredients: ["yufka", "peynir", "yeşillik", "domates", "tereyağı", "tuz"],
+    ingredients: { tr: ["yufka", "peynir", "yeşillik", "domates", "tereyağı", "tuz"], en: ["yufka", "peynir", "yeşillik", "domates", "tereyağı", "tuz"] },
     steps: {
       tr: [
         "Yufka katmanlarını peynir, yeşillik ve domates ile doldurun.",
@@ -462,7 +462,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 90,
     difficulty: "easy",
-    ingredients: ["un", "maya", "su", "tuz", "sadeyağ"],
+    ingredients: { tr: ["un", "maya", "su", "tuz", "sadeyağ"], en: ["un", "maya", "su", "tuz", "sadeyağ"] },
     steps: {
       tr: [
         "Hamuru mayalayıp 1 saat dinlendirin.",
@@ -490,7 +490,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 45,
     difficulty: "easy",
-    ingredients: ["un", "su", "tuz", "sadeyağ"],
+    ingredients: { tr: ["un", "su", "tuz", "sadeyağ"], en: ["un", "su", "tuz", "sadeyağ"] },
     steps: {
       tr: [
         "Hamuru yoğurup en ince şekilde açın.",
@@ -518,7 +518,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 35,
     difficulty: "easy",
-    ingredients: ["pekmez", "un", "ceviz", "tereyağı", "tuz"],
+    ingredients: { tr: ["pekmez", "un", "ceviz", "tereyağı", "tuz"], en: ["pekmez", "un", "ceviz", "tereyağı", "tuz"] },
     steps: {
       tr: [
         "Pekmezi kısık ateşte kaynatın.",
@@ -546,7 +546,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 20,
     difficulty: "easy",
-    ingredients: ["kekik", "sumak", "susam", "zeytinyağı", "nane"],
+    ingredients: { tr: ["kekik", "sumak", "susam", "zeytinyağı", "nane"], en: ["kekik", "sumak", "susam", "zeytinyağı", "nane"] },
     steps: {
       tr: [
         "Otları kurutup havanda hafifçe ezin.",
@@ -574,7 +574,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 90,
     difficulty: "easy",
-    ingredients: ["buğday", "nohut", "fasulye", "kuru incir", "ceviz", "nar", "bal"],
+    ingredients: { tr: ["buğday", "nohut", "fasulye", "kuru incir", "ceviz", "nar", "bal"], en: ["buğday", "nohut", "fasulye", "kuru incir", "ceviz", "nar", "bal"] },
     steps: {
       tr: [
         "Tahıl ve baklagilleri birlikte pişirin.",
@@ -602,7 +602,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 75,
     difficulty: "medium",
-    ingredients: ["ayva", "kuzu eti", "kuru soğan", "zeytinyağı", "bal", "tuz"],
+    ingredients: { tr: ["ayva", "kuzu eti", "kuru soğan", "zeytinyağı", "bal", "tuz"], en: ["ayva", "kuzu eti", "kuru soğan", "zeytinyağı", "bal", "tuz"] },
     steps: {
       tr: [
         "Ayvaları soyup çekirdeklerini alın ve dilimleyin.",
@@ -631,7 +631,7 @@ export const turkAnadoluRecipes: Recipe[] = [
     cuisine: "turk",
     time: 85,
     difficulty: "medium",
-    ingredients: ["kuzu eti", "kuru erik", "soğan", "tarçın", "pekmez", "tuz"],
+    ingredients: { tr: ["kuzu eti", "kuru erik", "soğan", "tarçın", "pekmez", "tuz"], en: ["kuzu eti", "kuru erik", "soğan", "tarçın", "pekmez", "tuz"] },
     steps: {
       tr: [
         "Erikleri sıcak suda yumuşatın.",

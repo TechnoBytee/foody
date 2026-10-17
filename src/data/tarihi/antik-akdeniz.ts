@@ -8,7 +8,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "easy",
-    ingredients: ["emmer buğdayı", "arpa", "hurma", "su", "bira mayası", "tuz"],
+    ingredients: { tr: ["emmer buğdayı", "arpa", "hurma", "su", "bira mayası", "tuz"], en: ["emmer buğdayı", "arpa", "hurma", "su", "bira mayası", "tuz"] },
     steps: {
       tr: [
         "Emmer ve arpayı ezip hamur hâlinde yoğurun, ekmekleri pişirin.",
@@ -36,7 +36,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 35,
     difficulty: "easy",
-    ingredients: ["bayat ekmek", "su", "soğan", "balık", "tuz", "nane"],
+    ingredients: { tr: ["bayat ekmek", "su", "soğan", "balık", "tuz", "nane"], en: ["bayat ekmek", "su", "soğan", "balık", "tuz", "nane"] },
     steps: {
       tr: [
         "Bayat ekmeği sıcak suda ıslatıp birkaç saat bekletin.",
@@ -65,7 +65,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 40,
     difficulty: "easy",
-    ingredients: ["arpa unu", "su", "tuz", "zeytinyağı", "bal", "peynir"],
+    ingredients: { tr: ["arpa unu", "su", "tuz", "zeytinyağı", "bal", "peynir"], en: ["arpa unu", "su", "tuz", "zeytinyağı", "bal", "peynir"] },
     steps: {
       tr: [
         "Arpa ununu yavaşça su ile açıp tuzlu bir lapa kıvamına getirin.",
@@ -94,7 +94,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 20,
     difficulty: "easy",
-    ingredients: ["arpa", "su", "pennyroyal otu", "nane", "bal"],
+    ingredients: { tr: ["arpa", "su", "pennyroyal otu", "nane", "bal"], en: ["arpa", "su", "pennyroyal otu", "nane", "bal"] },
     steps: {
       tr: [
         "Arpayı suda ıslatıp ıslatıldıktan sonra süzün.",
@@ -123,7 +123,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 720,
     difficulty: "hard",
-    ingredients: ["uskumru", "balık karnı", "tuz", "defne yaprağı", "dane biber"],
+    ingredients: { tr: ["uskumru", "balık karnı", "tuz", "defne yaprağı", "dane biber"], en: ["uskumru", "balık karnı", "tuz", "defne yaprağı", "dane biber"] },
     steps: {
       tr: [
         "Balıkları güneşte kuruyun ve tuzla katmanlayın.",
@@ -152,7 +152,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 45,
     difficulty: "easy",
-    ingredients: ["buğday", "darı", "otlar", "sebzeler", "tuz", "peynir", "zeytinyağı"],
+    ingredients: { tr: ["buğday", "darı", "otlar", "sebzeler", "tuz", "peynir", "zeytinyağı"], en: ["buğday", "darı", "otlar", "sebzeler", "tuz", "peynir", "zeytinyağı"] },
     steps: {
       tr: [
         "Buğday ve darıyı birlikte haşlayın.",
@@ -181,7 +181,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 20,
     difficulty: "easy",
-    ingredients: ["peynir", "sarımsak", "kereviz", "maydanoz", "sirke", "zeytinyağı", "tuz"],
+    ingredients: { tr: ["peynir", "sarımsak", "kereviz", "maydanoz", "sirke", "zeytinyağı", "tuz"], en: ["peynir", "sarımsak", "kereviz", "maydanoz", "sirke", "zeytinyağı", "tuz"] },
     steps: {
       tr: [
         "Peyniri kavurup ezerek kıvam açın.",
@@ -210,7 +210,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 45,
     difficulty: "medium",
-    ingredients: ["yumurta", "otlar", "peynir", "garum", "ballı şarap", "tuz"],
+    ingredients: { tr: ["yumurta", "otlar", "peynir", "garum", "ballı şarap", "tuz"], en: ["yumurta", "otlar", "peynir", "garum", "ballı şarap", "tuz"] },
     steps: {
       tr: [
         "Yumurtaları otlarla çırpın, peynir ve bir kaşık ballı şarap ekleyin.",
@@ -239,7 +239,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "medium",
-    ingredients: ["peynir", "un", "yumurta", "bal", "defne"],
+    ingredients: { tr: ["peynir", "un", "yumurta", "bal", "defne"], en: ["peynir", "un", "yumurta", "bal", "defne"] },
     steps: {
       tr: [
         "Peyniri yumuşatıp yumurta ve bal ile karıştırın.",
@@ -268,7 +268,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 15,
     difficulty: "easy",
-    ingredients: ["kaymaklı süt", "bal", "tuz"],
+    ingredients: { tr: ["kaymaklı süt", "bal", "tuz"], en: ["kaymaklı süt", "bal", "tuz"] },
     steps: {
       tr: [
         "Sütteki kaymağı toplayıp bal ile karıştırın.",
@@ -297,7 +297,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 30,
     difficulty: "easy",
-    ingredients: ["şarap", "bal", "biber", "defne", "hurma", "sakız", "safran"],
+    ingredients: { tr: ["şarap", "bal", "biber", "defne", "hurma", "sakız", "safran"], en: ["şarap", "bal", "biber", "defne", "hurma", "sakız", "safran"] },
     steps: {
       tr: [
         "Şarabı ve balı ısıtıp karıştırın.",
@@ -326,7 +326,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 10,
     difficulty: "easy",
-    ingredients: ["su", "sirke", "otlar", "tuz"],
+    ingredients: { tr: ["su", "sirke", "otlar", "tuz"], en: ["su", "sirke", "otlar", "tuz"] },
     steps: {
       tr: [
         "Suyu otlarla kaynatıp süzün.",
@@ -355,7 +355,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 150,
     difficulty: "hard",
-    ingredients: ["tavus kuşu eti", "garum", "biber", "şaraplı sos", "kekik", "ekmek"],
+    ingredients: { tr: ["tavus kuşu eti", "garum", "biber", "şaraplı sos", "kekik", "ekmek"], en: ["tavus kuşu eti", "garum", "biber", "şaraplı sos", "kekik", "ekmek"] },
     steps: {
       tr: [
         "Eti baharatlı şarap sosunda marine edin.",
@@ -384,7 +384,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 70,
     difficulty: "medium",
-    ingredients: ["kuş göğsü", "defne", "biber", "ekşi üzüm", "zeytinyağı", "tuz"],
+    ingredients: { tr: ["kuş göğsü", "defne", "biber", "ekşi üzüm", "zeytinyağı", "tuz"], en: ["kuş göğsü", "defne", "biber", "ekşi üzüm", "zeytinyağı", "tuz"] },
     steps: {
       tr: [
         "Kuş etini defne yaprağı ve ekşi üzümle marine edin.",
@@ -413,7 +413,7 @@ export const antikAkdenizRecipes: Recipe[] = [
     cuisine: "et",
     time: 40,
     difficulty: "easy",
-    ingredients: ["bayat ekmek", "et suyu", "sebze", "baharat", "zeytinyağı", "tuz"],
+    ingredients: { tr: ["bayat ekmek", "et suyu", "sebze", "baharat", "zeytinyağı", "tuz"], en: ["bayat ekmek", "et suyu", "sebze", "baharat", "zeytinyağı", "tuz"] },
     steps: {
       tr: [
         "Ekmeği küçük küpler halinde kesip kurutun.",

@@ -8,7 +8,7 @@ export const erzurumRecipes: Recipe[] = [
     cuisine: "turk",
     time: 40,
     difficulty: "easy",
-    ingredients: ["süt", "un", "pirinç", "tuz", "sarımsak"],
+    ingredients: { tr: ["süt", "un", "pirinç", "tuz", "sarımsak"], en: ["süt", "un", "pirinç", "tuz", "sarımsak"] },
     steps: {
       tr: [
         "Pirinci sütte yumuşayana kadar pişirin.",
@@ -37,7 +37,7 @@ export const erzurumRecipes: Recipe[] = [
     cuisine: "turk",
     time: 50,
     difficulty: "hard",
-    ingredients: ["un", "yumurta", "şerbet", "tereyağı", "tuz"],
+    ingredients: { tr: ["un", "yumurta", "şerbet", "tereyağı", "tuz"], en: ["un", "yumurta", "şerbet", "tereyağı", "tuz"] },
     steps: {
       tr: [
         "Özel demir tavada tereyağını eritin ve hamuru yayın.",
@@ -66,7 +66,7 @@ export const erzurumRecipes: Recipe[] = [
     cuisine: "turk",
     time: 45,
     difficulty: "easy",
-    ingredients: ["dut pekmezi", "un", "ceviz", "sarımsak", "tuz"],
+    ingredients: { tr: ["dut pekmezi", "un", "ceviz", "sarımsak", "tuz"], en: ["dut pekmezi", "un", "ceviz", "sarımsak", "tuz"] },
     steps: {
       tr: [
         "Pekmezi kaynatıp unu dökerek hamur yapın.",
@@ -95,7 +95,7 @@ export const erzurumRecipes: Recipe[] = [
     cuisine: "turk",
     time: 40,
     difficulty: "medium",
-    ingredients: ["dut pestili", "yumurta", "tereyağı", "ceviz", "tuz"],
+    ingredients: { tr: ["dut pestili", "yumurta", "tereyağı", "ceviz", "tuz"], en: ["dut pestili", "yumurta", "tereyağı", "ceviz", "tuz"] },
     steps: {
       tr: [
         "Pestili ince açıp yumurta ile karıştırın.",
@@ -124,7 +124,7 @@ export const erzurumRecipes: Recipe[] = [
     cuisine: "turk",
     time: 35,
     difficulty: "easy",
-    ingredients: ["un", "pekmez", "ceviz", "tereyağı", "tuz"],
+    ingredients: { tr: ["un", "pekmez", "ceviz", "tereyağı", "tuz"], en: ["un", "pekmez", "ceviz", "tereyağı", "tuz"] },
     steps: {
       tr: [
         "Unu tereyağında kavurun.",
@@ -153,7 +153,7 @@ export const erzurumRecipes: Recipe[] = [
     cuisine: "turk",
     time: 90,
     difficulty: "medium",
-    ingredients: ["güllaç yaprağı", "ceviz", "şeker", "gül suyu", "tuz"],
+    ingredients: { tr: ["güllaç yaprağı", "ceviz", "şeker", "gül suyu", "tuz"], en: ["güllaç yaprağı", "ceviz", "şeker", "gül suyu", "tuz"] },
     steps: {
       tr: [
         "Güllaç yapraklarını yumuşatın ve içine cevizli şerbet doldurun.",
@@ -182,7 +182,7 @@ export const erzurumRecipes: Recipe[] = [
     cuisine: "turk",
     time: 35,
     difficulty: "easy",
-    ingredients: ["bayat ekmek", "yumurta", "şeker", "tarçın", "tereyağı"],
+    ingredients: { tr: ["bayat ekmek", "yumurta", "şeker", "tarçın", "tereyağı"], en: ["bayat ekmek", "yumurta", "şeker", "tarçın", "tereyağı"] },
     steps: {
       tr: [
         "Bayat ekmeği dilimleyip yumurta ve şekerle karıştırın.",

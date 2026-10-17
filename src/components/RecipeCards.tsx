@@ -51,8 +51,8 @@ export default function RecipeCards({
               {r.time} dk · {difficultyLabel[r.difficulty][locale]} · {r.calories} kcal
             </p>
             <p className="mt-3 text-sm text-[#2F3437]">
-              {r.ingredients.slice(0, 4).join(", ")}
-              {r.ingredients.length > 4 ? "..." : ""}
+              {r.ingredients[locale].slice(0, 4).join(", ")}
+              {r.ingredients[locale].length > 4 ? "..." : ""}
             </p>
           </div>
         </Link>
