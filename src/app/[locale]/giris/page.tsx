@@ -9,11 +9,11 @@ export default async function GirisPage({
   const { locale } = await params;
   const messages = getMessages(locale);
   return (
-    <main className="mx-auto flex min-h-[60vh] w-full max-w-md flex-col justify-center gap-6 px-5 py-12">
-      <Link href={`/${locale}`} className="text-sm text-[#787774]">
+    <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
+      <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">
         ← {messages.back}
       </Link>
-      <h1 className="font-serif text-3xl">Giriş Yap</h1>
+      <h1 className="font-serif text-4xl tracking-tight">Giriş Yap</h1>
       <form className="flex flex-col gap-3" action="#">
         <input
           type="email"
