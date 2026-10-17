@@ -1,10 +1,11 @@
 import type { Cuisine, Recipe } from "./types";
 import { ancientRecipes } from "./tarihi";
 import { mealdbRecipes } from "./mealdb";
+import { nefisRecipes, nefisCategories } from "./tarifler";
 import { areas } from "./areas";
 
 export type { Cuisine, Recipe } from "./types";
-export { ancientRecipes, mealdbRecipes, areas };
+export { ancientRecipes, mealdbRecipes, nefisRecipes, areas };
 
 export const cuisines: Cuisine[] = [
   {
@@ -87,6 +88,12 @@ export const cuisines: Cuisine[] = [
     name: { tr: "Çorbalar", en: "Soups" },
     description: { tr: "Sıcak ve besleyici çorbalar", en: "Warm and nutritious soups" },
   },
+  // Nefis Yemekleri kategorileri
+  ...nefisCategories.map((c) => ({
+    slug: c.slug,
+    name: c.name,
+    description: { tr: "Nefis tarifler", en: "Delicious recipes" },
+  })),
 ];
 
 const modernRecipes: Recipe[] = [
@@ -96,7 +103,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "turk",
     time: 30,
     difficulty: "easy",
-    ingredients: ["kırmızı mercimek", "soğan", "havuç", "patates", "tereyağı", "salça", "tuz", "kimyon"],
+    ingredients: { tr: ["kırmızı mercimek", "soğan", "havuç", "patates", "tereyağı", "salça", "tuz", "kimyon"], en: ["kırmızı mercimek", "soğan", "havuç", "patates", "tereyağı", "salça", "tuz", "kimyon"] },
     steps: {
       tr: [
         "Soğanı ve havucu doğrayıp tereyağında kavurun.",
@@ -120,7 +127,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "turk",
     time: 20,
     difficulty: "easy",
-    ingredients: ["yumurta", "domates", "biber", "soğan", "tereyağı", "tuz", "karabiber"],
+    ingredients: { tr: ["yumurta", "domates", "biber", "soğan", "tereyağı", "tuz", "karabiber"], en: ["yumurta", "domates", "biber", "soğan", "tereyağı", "tuz", "karabiber"] },
     steps: {
       tr: [
         "Soğan ve biberi tereyağında kavurun.",
@@ -142,7 +149,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "turk",
     time: 60,
     difficulty: "medium",
-    ingredients: ["kıyma", "soğan", "ekmek", "yumurta", "patates", "domates", "salça", "tuz", "baharat"],
+    ingredients: { tr: ["kıyma", "soğan", "ekmek", "yumurta", "patates", "domates", "salça", "tuz", "baharat"], en: ["kıyma", "soğan", "ekmek", "yumurta", "patates", "domates", "salça", "tuz", "baharat"] },
     steps: {
       tr: [
         "Köfte malzemelerini yoğurup şekil verin.",
@@ -164,7 +171,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "italyan",
     time: 45,
     difficulty: "medium",
-    ingredients: ["kıyma", "spagetti", "domates", "soğan", "sarımsak", "zeytinyağı", "parmesan"],
+    ingredients: { tr: ["kıyma", "spagetti", "domates", "soğan", "sarımsak", "zeytinyağı", "parmesan"], en: ["kıyma", "spagetti", "domates", "soğan", "sarımsak", "zeytinyağı", "parmesan"] },
     steps: {
       tr: [
         "Soğan ve sarımsağı zeytinyağında kavurun.",
@@ -186,7 +193,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "uzak-dogu",
     time: 25,
     difficulty: "medium",
-    ingredients: ["pirinç eriştesi", "karides", "yumurta", "fasulye filizi", "lime", "balık sosu", "fıstık"],
+    ingredients: { tr: ["pirinç eriştesi", "karides", "yumurta", "fasulye filizi", "lime", "balık sosu", "fıstık"], en: ["pirinç eriştesi", "karides", "yumurta", "fasulye filizi", "lime", "balık sosu", "fıstık"] },
     steps: {
       tr: [
         "Erişteyi ıslatın.",
@@ -208,7 +215,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "akdeniz",
     time: 10,
     difficulty: "easy",
-    ingredients: ["salatalık", "domates", "feta peyniri", "siyah zeytin", "kırmızı soğan", "zeytinyağı", "kekik"],
+    ingredients: { tr: ["salatalık", "domates", "feta peyniri", "siyah zeytin", "kırmızı soğan", "zeytinyağı", "kekik"], en: ["salatalık", "domates", "feta peyniri", "siyah zeytin", "kırmızı soğan", "zeytinyağı", "kekik"] },
     steps: {
       tr: ["Sebzeleri iri doğrayın.", "Peynir ve zeytinleri ekleyin.", "Zeytinyağı ve kekikle servis edin."],
       en: ["Chop vegetables roughly.", "Add feta and olives.", "Dress with olive oil and oregano."],
@@ -222,7 +229,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "tatli",
     time: 30,
     difficulty: "hard",
-    ingredients: ["bitter çikolata", "yumurta", "tereyağı", "un", "şeker", "vanilya"],
+    ingredients: { tr: ["bitter çikolata", "yumurta", "tereyağı", "un", "şeker", "vanilya"], en: ["bitter çikolata", "yumurta", "tereyağı", "un", "şeker", "vanilya"] },
     steps: {
       tr: [
         "Çikolatayı eritin.",
@@ -246,7 +253,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "kahvalti",
     time: 15,
     difficulty: "easy",
-    ingredients: ["beyaz peynir", "domates", "salatalık", "zeytin", "bal", "kaymak", "ekmek", "çay"],
+    ingredients: { tr: ["beyaz peynir", "domates", "salatalık", "zeytin", "bal", "kaymak", "ekmek", "çay"], en: ["beyaz peynir", "domates", "salatalık", "zeytin", "bal", "kaymak", "ekmek", "çay"] },
     steps: {
       tr: ["Peynir, domates ve salatalığı dilimleyin.", "Zeytin, bal ve kaymağı tabağa alın.", "Ekmek ve çay ile servis edin."],
       en: ["Slice cheese, tomato and cucumber.", "Plate olives, honey and clotted cream.", "Serve with bread and tea."],
@@ -258,7 +265,7 @@ const modernRecipes: Recipe[] = [
 
 export const allCuisines: Cuisine[] = cuisines;
 
-export const recipes: Recipe[] = [...modernRecipes, ...ancientRecipes, ...mealdbRecipes];
+export const recipes: Recipe[] = [...modernRecipes, ...ancientRecipes, ...mealdbRecipes, ...nefisRecipes];
 
 export const isAncient = (recipe: Recipe) => Boolean(recipe.era || recipe.history);
 

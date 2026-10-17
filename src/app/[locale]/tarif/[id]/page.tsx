@@ -73,7 +73,7 @@ export default async function RecipePage({
       <section className="rounded-xl border border-[#EAEAEA] bg-white p-6">
         <h2 className="font-serif text-xl">{messages.ingredients}</h2>
         <ul className="mt-3 list-disc pl-5 text-sm text-[#2F3437]">
-          {recipe.ingredients.map((ing) => (
+          {recipe.ingredients[locale].map((ing) => (
             <li key={ing}>{ing}</li>
           ))}
         </ul>
