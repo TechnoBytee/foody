@@ -79,8 +79,8 @@ Two datasets live side by side inside the app:
 
 - **Fridge search** — type ingredients as chips or upload a photo; the analysis step is pluggable and currently resolves through the AI abstraction.
 - **Ingredient matching** — a scoring service ranks recipes against the ingredients you provide and returns the best matches with alternatives.
-- **14 cuisines** — 6 contemporary kitchen categories and 8 historical archive categories.
-- **93 recipes** with ingredients, step-by-step instructions (TR/EN), time, difficulty, calories and suggested alternatives.
+- **31 cuisines** — 10 core categories plus 21 imported recipe collections.
+- **2,397 recipes** with ingredients, step-by-step instructions (TR/EN), time, difficulty, calories and suggested alternatives.
 - **Ancient Kitchen Archive** — era, region, history and a "nearly forgotten" badge for dishes that dropped out of everyday cooking.
 - **Bilingual (TR/EN)** — locale-prefixed routing, dictionary-driven UI copy, automatic redirect based on `Accept-Language`.
 - **Progressive web app** — web manifest with standalone display, installable on Android and iOS home screens.
@@ -150,7 +150,7 @@ Two exports in `src/data/recipes.ts` act as the single read surface for the rest
 
 ```ts
 export const allCuisines: Cuisine[];      // 6 contemporary + 8 archive categories
-export const recipes: Recipe[];           // 8 contemporary + 85 archive recipes
+export const recipes: Recipe[];           // 2,397 recipes: 8 contemporary, 204 TheMealDB, 2,100 Nefis, 85 historical
 ```
 
 Because search, static params and category listings all read from these merged exports, the archive is a first-class citizen of the product rather than a separate corner — searching for “lamb”, “honey” or “vinegar” surfaces historical dishes next to contemporary ones.

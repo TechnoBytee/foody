@@ -103,7 +103,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "turk",
     time: 30,
     difficulty: "easy",
-    ingredients: { tr: ["kırmızı mercimek", "soğan", "havuç", "patates", "tereyağı", "salça", "tuz", "kimyon"], en: ["kırmızı mercimek", "soğan", "havuç", "patates", "tereyağı", "salça", "tuz", "kimyon"] },
+    ingredients: { tr: ["kırmızı mercimek", "soğan", "havuç", "patates", "tereyağı", "salça", "tuz", "kimyon"], en: ["red lentils", "onion", "carrot", "potato", "butter", "tomato paste", "salt", "cumin"] },
     steps: {
       tr: [
         "Soğanı ve havucu doğrayıp tereyağında kavurun.",
@@ -113,7 +113,7 @@ const modernRecipes: Recipe[] = [
       ],
       en: [
         "Sauté onion and carrot in butter.",
-        "Add paste and fry briefly.",
+        "Add tomato paste and fry briefly.",
         "Add lentils, diced potato and enough water.",
         "Simmer 25 min, blend, season with cumin and salt.",
       ],
@@ -127,7 +127,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "turk",
     time: 20,
     difficulty: "easy",
-    ingredients: { tr: ["yumurta", "domates", "biber", "soğan", "tereyağı", "tuz", "karabiber"], en: ["yumurta", "domates", "biber", "soğan", "tereyağı", "tuz", "karabiber"] },
+    ingredients: { tr: ["yumurta", "domates", "biber", "soğan", "tereyağı", "tuz", "kara biber"], en: ["egg", "tomato", "pepper", "onion", "butter", "salt", "black pepper"] },
     steps: {
       tr: [
         "Soğan ve biberi tereyağında kavurun.",
@@ -149,7 +149,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "turk",
     time: 60,
     difficulty: "medium",
-    ingredients: { tr: ["kıyma", "soğan", "ekmek", "yumurta", "patates", "domates", "salça", "tuz", "baharat"], en: ["kıyma", "soğan", "ekmek", "yumurta", "patates", "domates", "salça", "tuz", "baharat"] },
+    ingredients: { tr: ["kıyma", "soğan", "ekmek", "yumurta", "patates", "domates", "salça", "tuz", "baharat"], en: ["minced meat", "onion", "bread", "egg", "potato", "tomato", "tomato paste", "salt", "spice"] },
     steps: {
       tr: [
         "Köfte malzemelerini yoğurup şekil verin.",
@@ -171,7 +171,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "italyan",
     time: 45,
     difficulty: "medium",
-    ingredients: { tr: ["kıyma", "spagetti", "domates", "soğan", "sarımsak", "zeytinyağı", "parmesan"], en: ["kıyma", "spagetti", "domates", "soğan", "sarımsak", "zeytinyağı", "parmesan"] },
+    ingredients: { tr: ["kıyma", "spagetti", "domates", "soğan", "sarımsak", "zeytinyağı", "parmesan"], en: ["minced meat", "spaghetti", "tomato", "onion", "garlic", "olive oil", "parmesan"] },
     steps: {
       tr: [
         "Soğan ve sarımsağı zeytinyağında kavurun.",
@@ -193,7 +193,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "uzak-dogu",
     time: 25,
     difficulty: "medium",
-    ingredients: { tr: ["pirinç eriştesi", "karides", "yumurta", "fasulye filizi", "lime", "balık sosu", "fıstık"], en: ["pirinç eriştesi", "karides", "yumurta", "fasulye filizi", "lime", "balık sosu", "fıstık"] },
+    ingredients: { tr: ["pirinç eriştesi", "karides", "yumurta", "fasulye filizi", "lime", "balık sosu", "fıstık"], en: ["rice noodles", "shrimp", "egg", "bean sprouts", "lime", "fish sauce", "peanuts"] },
     steps: {
       tr: [
         "Erişteyi ıslatın.",
@@ -215,7 +215,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "akdeniz",
     time: 10,
     difficulty: "easy",
-    ingredients: { tr: ["salatalık", "domates", "feta peyniri", "siyah zeytin", "kırmızı soğan", "zeytinyağı", "kekik"], en: ["salatalık", "domates", "feta peyniri", "siyah zeytin", "kırmızı soğan", "zeytinyağı", "kekik"] },
+    ingredients: { tr: ["salatalık", "domates", "feta peyniri", "siyah zeytin", "kırmızı soğan", "zeytinyağı", "kekik"], en: ["cucumber", "tomato", "feta cheese", "black olives", "red onion", "olive oil", "thyme"] },
     steps: {
       tr: ["Sebzeleri iri doğrayın.", "Peynir ve zeytinleri ekleyin.", "Zeytinyağı ve kekikle servis edin."],
       en: ["Chop vegetables roughly.", "Add feta and olives.", "Dress with olive oil and oregano."],
@@ -229,7 +229,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "tatli",
     time: 30,
     difficulty: "hard",
-    ingredients: { tr: ["bitter çikolata", "yumurta", "tereyağı", "un", "şeker", "vanilya"], en: ["bitter çikolata", "yumurta", "tereyağı", "un", "şeker", "vanilya"] },
+    ingredients: { tr: ["bitter çikolata", "yumurta", "tereyağı", "un", "şeker", "vanilya"], en: ["dark chocolate", "egg", "butter", "flour", "sugar", "vanilla"] },
     steps: {
       tr: [
         "Çikolatayı eritin.",
@@ -253,7 +253,7 @@ const modernRecipes: Recipe[] = [
     cuisine: "kahvalti",
     time: 15,
     difficulty: "easy",
-    ingredients: { tr: ["beyaz peynir", "domates", "salatalık", "zeytin", "bal", "kaymak", "ekmek", "çay"], en: ["beyaz peynir", "domates", "salatalık", "zeytin", "bal", "kaymak", "ekmek", "çay"] },
+    ingredients: { tr: ["beyaz peynir", "domates", "salatalık", "zeytin", "bal", "kaymak", "ekmek", "çay"], en: ["white cheese", "tomato", "cucumber", "olives", "honey", "clotted cream", "bread", "tea"] },
     steps: {
       tr: ["Peynir, domates ve salatalığı dilimleyin.", "Zeytin, bal ve kaymağı tabağa alın.", "Ekmek ve çay ile servis edin."],
       en: ["Slice cheese, tomato and cucumber.", "Plate olives, honey and clotted cream.", "Serve with bread and tea."],
@@ -273,9 +273,18 @@ export function getRecipe(id: string) {
   return recipes.find((r) => r.id === id);
 }
 
+const AREA_SLUG_MAP: Record<string, string> = {
+  indian: "india",
+  french: "france",
+  norwegian: "norway",
+  venezuelan: "venezuela",
+  argentinian: "argentina",
+};
+
 export function areaSlug(area?: { tr: string; en: string }) {
   if (!area) return null;
-  return area.en.toLowerCase().replace(/\s+/g, "-");
+  const raw = area.en.toLowerCase().replace(/\s+/g, "-");
+  return AREA_SLUG_MAP[raw] ?? raw;
 }
 
 export function recipesByCuisine(slug: string) {

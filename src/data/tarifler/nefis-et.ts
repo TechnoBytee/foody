@@ -18,17 +18,17 @@ export const nefis_etRecipes: Recipe[] = [
         "1 çay bardağı un",
         "1 adet yumurta",
         "1 tatlı kaşığı biber salçası",
-        "Pul biber",
-        "Karabiber",
-        "Tuz"
+        "pul biber",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "2 cups fine bulgur for meatballs",
-        "1 teacup coarse bulgur (irmik)",
+        "1 teacup semolina",
         "3 cups hot water",
         "1 teacup flour",
         "1 egg",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "Aleppo pepper",
         "Black pepper",
         "Salt"
@@ -99,10 +99,10 @@ export const nefis_etRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası (Birazını ketçap kullanabilirsiniz)",
         "1 su bardağı haşlanmış ya da konserve bezelye",
         "1 adet patlıcan",
-        "Pul biber",
-        "Kekik",
-        "Karabiber",
-        "Tuz"
+        "pul biber",
+        "kekik",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "2 sheets of lavash (yufka)",
@@ -195,7 +195,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 teacup rice",
         "1 egg",
         "1 onion",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "2 tablespoons olive oil"
       ]
@@ -203,13 +203,13 @@ export const nefis_etRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Uygun bir tencereye pirinçleri alalım. Üzerini geçecek kadar suyu ilave ederek yumuşayıncaya kadar yaklaşık 10 dakika haşlayalım.",
-        "Ocağa aldığımız tavaya zeytinyağını alarak  yemeklik doğradığımız soğanı ekleyelim ve rengi dönene kadar birkaç dakika kavuralım.",
+        "Ocağa aldığımız tavaya zeytinyağını alarak yemeklik doğradığımız soğanı ekleyelim ve rengi dönene kadar birkaç dakika kavuralım.",
         "Üzerine kıymanın yarısını ilave ederek orta ateşte rengi değişene kadar kavuralım.",
         "Kavurduğumuz kıymayı geniş bir karıştırma kabına alalım.",
         "Üzerine haşladığımız pirinci, kalan kıymayı, yumurtayı, karabiber ve tuzu da ekleyerek elimizle yoğuralım. Önemli olan malzemenin birbiriyle iyice özdeşmesidir.",
         "Hazır olan köfte harcının üzerini streçleyelim. Buzdolabında dinlenmeye bırakalım.",
         "En az yarım saat kadar dinlendirdikten sonra hazırladığımız harçtan büyük parçalar kopartalım ve elimizle yuvarlayarak köfte şeklini verelim.",
-        "Şekillendirdiğimiz köftelerin her iki tarafını una bulayalım.  Daha sonra bir kase içerisine kırıp çırptığınız yumurtaya batıralım.",
+        "Şekillendirdiğimiz köftelerin her iki tarafını una bulayalım. Daha sonra bir kase içerisine kırıp çırptığınız yumurtaya batıralım.",
         "Tavada iyice kızdırılan sıvı yağda köftelerin her iki yönünü güzelce kızartalım.",
         "Kızaran köfteleri kağıt havlu üzerine alarak fazla yağı alalım ve ardından servise hazır. Afiyet olsun…"
       ],
@@ -262,7 +262,7 @@ export const nefis_etRecipes: Recipe[] = [
         "Tepsiye patlıcanların ortalarını keserek yerleştirin ve bu kesiklerden patlıcanın içine bastırarak iç malzemesine yer açın ve malzeme ile patlıcanları doldurun.",
         "Doldurduğunuz patlıcanların üzerine ortadan ikiye kestiğiniz çeri domatesi ya da 1 adet domatesi eşit büyüklükte olacak şekilde paylaştırın ve kızarttığımız biberlerden birer tane koyun.",
         "Ayrı bir yerde 1 kaşık salçayı, 1 su bardağı sıcak suda ezerek patlıcanların aralarına dökün. Kıymalar çıkmasın diye üzerine dökmeyin.",
-        "Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de  pişecektir."
+        "Daha sonra 170 derece de ısıttığınız fırına sürerek 20-25 dk pişirin. Dilerseniz bu işlemi pilav tenceresi gibi bir tencerede ocakta yapabilirsiniz. Aynı sürede tencerede de pişecektir."
       ],
       "en": [
         "Peel the eggplants in strips and leave them in salted water for half an hour so they do not absorb oil.",
@@ -295,8 +295,8 @@ export const nefis_etRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
-        "Yeşil biber",
-        "Çeri domates"
+        "yeşil biber",
+        "çeri domates"
       ],
       "en": [
         "4 eggplants",
@@ -362,7 +362,7 @@ export const nefis_etRecipes: Recipe[] = [
         "2,5 yemek kaşığı galeta unu",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı pul biber",
-        "Yarım çay kaşığı karabiber"
+        "yarım çay kaşığı karabiber"
       ],
       "en": [
         "600 g mince",
@@ -371,7 +371,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 egg",
         "2-3 garlic cloves",
         "2.5 tablespoons breadcrumbs",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon Aleppo pepper",
         "half a teaspoon black pepper"
       ]
@@ -382,7 +382,7 @@ export const nefis_etRecipes: Recipe[] = [
         "Daha sonra karıştırma kabına kıyma, rondodan geçirilen malzemeler, galeta unu ve baharatlar ekleyerek güzelce yoğurun.",
         "Borcama köfte harcını elinizle bastırarak yayın.",
         "Bir kasede salçayı sıcak su ile incelterek kıymanın üzerine gezdirin.",
-        "Tepsiyi fırına sürerek 180 derecede üzeri kızarıncaya kadar yaklaşık 30 dakika pişirin. Bu arada patates püresinin hazırlanmasına geçebilirsiniz.",
+        "Tepsiyi fırına sürerek 180 derecede üzeri kızarıncaya kadar yaklaşık 30 dakika pişirin. Bu arada patates püresinin hazırlanmasına geçebilirsiniz.",
         "Patatesleri haşlanmak için öncelikle kabukları soyup, küp küp doğrayarak tencereye alın.",
         "Üzerini geçecek kadar su ekleyin ve haşlanmak üzere ocağa alın.",
         "Haşlanan patatesleri ocaktan alın. Suyunu süzdürerek ayrı bir kaba aktarın.",
@@ -429,10 +429,10 @@ export const nefis_etRecipes: Recipe[] = [
         "2 adet kuru soğan",
         "400 gram mantar",
         "1 yemek kaşığı domates salçası",
-        "Yarım çay bardağı zeytinyağı (60 ml)",
+        "yarım çay bardağı zeytinyağı (60 ml)",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 çay bardağı sıcak su (125 ml)"
       ],
       "en": [
@@ -441,11 +441,11 @@ export const nefis_etRecipes: Recipe[] = [
         "2 dry onions",
         "400 g mushrooms",
         "1 tablespoon tomato paste",
-        "half a cup olive oil (60 ml)",
-        "1 tablespoon salt",
+        "half a teacup olive oil (60 ml)",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "half a bunch parsley",
-        "1 cup hot water (125 ml)"
+        "1 teacup hot water (125 ml)"
       ]
     },
     "steps": {
@@ -460,7 +460,7 @@ export const nefis_etRecipes: Recipe[] = [
         "Kabuklarını soyduğumuz patatesleri ne ince ne de kalın olacak şekilde dilimleyelim.",
         "Fırın kabını sıvı yağ ile yağlayalım. Dilimlediğimiz patatesleri kenarları üst üste gelecek şekilde dizelim.",
         "Hazırladığımız mantarlı iç harcı patateslerin üzerine yayalım. Yemeğimizin üzerini alüminyum folyo ya da sar pişir ile kapatarak önceden ısıtılmış 200 °C fırında 40 dakika pişmeye bırakalım.",
-        "Yemeğimizin beşamel sosu için küçük bir sos tenceresine  tereyağını alarak eritelim.",
+        "Yemeğimizin beşamel sosu için küçük bir sos tenceresine tereyağını alarak eritelim.",
         "Eriyen yağın üzerine unu ilave edelim ve karıştırarak kavuralım.",
         "Unun kokusu hafifçe çıkmaya başlayıp rengi de biraz koyulaştıktan sonra içerisine sütü yavaşça ekleyerek sosu güzelce karıştıralım.",
         "Beşamel sos kaynamaya başladığında içerisine 1 çay kaşığı tuz ve yarım çay kaşığı karabiberi ekleyelim. Karıştırarak ocaktan alalım.",
@@ -513,9 +513,9 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet soğan",
         "1 adet yumurta",
         "5 yemek kaşığı ekmek içi",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "1 tatlı kaşığı tuz",
-        "Yarım tatlı kaşığı kuru nane",
+        "yarım tatlı kaşığı kuru nane",
         "1 çay kaşığı kimyon"
       ],
       "en": [
@@ -525,8 +525,8 @@ export const nefis_etRecipes: Recipe[] = [
         "1 egg",
         "5 tablespoons bread crumbs",
         "A quarter bunch parsley",
-        "1 tablespoon salt",
-        "half a tablespoon dried mint",
+        "1 teaspoon salt",
+        "half a teaspoon dried mint",
         "1 teaspoon cumin"
       ]
     },
@@ -721,7 +721,7 @@ export const nefis_etRecipes: Recipe[] = [
         "5- 6 diş sarımsak",
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 su bardağı su",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
@@ -737,10 +737,10 @@ export const nefis_etRecipes: Recipe[] = [
         "2 tomatoes",
         "5-6 garlic cloves",
         "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
-        "half a cup vegetable oil",
+        "1 teaspoon pepper paste",
+        "half a teacup vegetable oil",
         "1 cup water",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "1 teaspoon Aleppo pepper",
         "1 teaspoon baking powder"
@@ -789,11 +789,11 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 adet soğan",
         "2 diş sarımsak",
-        "Yarım çay kaşığı karbonat",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karbonat",
+        "yarım çay kaşığı karabiber",
         "1,5 çay kaşığı kırmızı toz biber",
         "1 tatlı kaşığı tuz",
-        "Tercihe bağlı maydanoz"
+        "tercihe bağlı maydanoz"
       ],
       "en": [
         "500 g minced meat",
@@ -804,7 +804,7 @@ export const nefis_etRecipes: Recipe[] = [
         "half a teaspoon baking soda",
         "half a teaspoon black pepper",
         "1.5 teaspoons red pepper powder",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "Parsley if you like"
       ]
     },
@@ -848,7 +848,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı kırmızı toz biber",
         "1 çay kaşığı karabiber",
-        "Bir tutam kıyılmış maydanoz"
+        "bir tutam kıyılmış maydanoz"
       ],
       "en": [
         "300-400 g minced meat",
@@ -858,8 +858,8 @@ export const nefis_etRecipes: Recipe[] = [
         "1 egg",
         "2 tablespoons vegetable oil",
         "3 tablespoons water",
-        "1 tablespoon salt",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon salt",
+        "1 teaspoon red pepper powder",
         "1 teaspoon black pepper",
         "A handful of chopped parsley"
       ]
@@ -904,10 +904,10 @@ export const nefis_etRecipes: Recipe[] = [
         "2 dilim ekmek içi",
         "2 diş sarımsak",
         "1 adet kuru soğan",
-        "Yarım çay kaşığı karbonat",
+        "yarım çay kaşığı karbonat",
         "1 adet yumurta",
         "4 yemek kaşığı su",
-        "Yarım yemek kaşığı irmik",
+        "yarım yemek kaşığı irmik",
         "1 çay kaşığı kimyon",
         "1,çay kaşığı pulbiber",
         "1 çay kaşığı karabiber",
@@ -921,11 +921,11 @@ export const nefis_etRecipes: Recipe[] = [
         "half a teaspoon baking soda",
         "1 egg",
         "4 tablespoons water",
-        "half a tablespoon coarse bulgur",
+        "half a tablespoon semolina",
         "1 teaspoon cumin",
         "1 teaspoon Aleppo pepper",
         "1 teaspoon black pepper",
-        "1 tablespoon salt"
+        "1 teaspoon salt"
       ]
     },
     "steps": {
@@ -972,15 +972,15 @@ export const nefis_etRecipes: Recipe[] = [
         "1 tatlı kaşığı domates salçası",
         "1 adet domates rendesi",
         "1 yemek kaşığı tereyağı",
-        "Tuz",
-        "Karabiber",
-        "Kimyon",
-        "Kırmızı toz biber",
-        "Acı seviyorsanız çok az acı toz biber ekleyebilirsiniz",
-        "Beşamel sos için; 2 su bardağı süt",
+        "tuz",
+        "karabiber",
+        "kimyon",
+        "kırmızı toz biber",
+        "acı seviyorsanız çok az acı toz biber ekleyebilirsiniz",
+        "beşamel sos için; 2 su bardağı süt",
         "1,5 yemek kaşığı un",
-        "Tuz",
-        "Kaşar peyniri rendesi"
+        "tuz",
+        "kaşar peyniri rendesi"
       ],
       "en": [
         "6 potatoes (thinly sliced)",
@@ -988,7 +988,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 onion",
         "1 bell pepper",
         "2 village peppers",
-        "1 tablespoon tomato paste",
+        "1 teaspoon tomato paste",
         "1 grated tomato",
         "1 tablespoon butter",
         "Salt",
@@ -1042,8 +1042,8 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet domates",
         "1 tatlı kaşığı biber salçası",
         "1,5 su bardağı sıcak su",
-        "Tuz",
-        "Karabiber"
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "500 g cubed lamb meat (or beef)",
@@ -1052,7 +1052,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 garlic clove",
         "1 green pepper",
         "1 tomato",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "1.5 cups hot water",
         "Salt",
         "Black pepper"
@@ -1196,17 +1196,17 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​1 paket arpa şehriye",
-        "​2 adet domates (küp doğranmış)",
-        "​1 adet kapya biber (doğranmış)",
-        "​1 adet kuru soğan (yemeklik doğranmış)",
-        "​200 gram tavuk göğsü",
-        "​700 ml su",
-        "​200 ml sıvı krema",
-        "​1,5 yemek kaşığı domates/biber salçası",
-        "​1 yemek kaşığı sebze çeşnisi veya sebze bulyon",
-        "​1 tatlı kaşığı tuz",
-        "​100–150 gram rendelenmiş kaşar peyniri"
+        "1 paket arpa şehriye",
+        "2 adet domates (küp doğranmış)",
+        "1 adet kapya biber (doğranmış)",
+        "1 adet kuru soğan (yemeklik doğranmış)",
+        "200 gram tavuk göğsü",
+        "700 ml su",
+        "200 ml sıvı krema",
+        "1,5 yemek kaşığı domates/biber salçası",
+        "1 yemek kaşığı sebze çeşnisi veya sebze bulyon",
+        "1 tatlı kaşığı tuz",
+        "100–150 gram rendelenmiş kaşar peyniri"
       ],
       "en": [
         "1 package pearl barley and vermicelli",
@@ -1218,7 +1218,7 @@ export const nefis_etRecipes: Recipe[] = [
         "200 ml liquid cream",
         "1.5 tablespoons tomato/pepper paste",
         "1 tablespoon vegetable seasoning or vegetable bouillon",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "100-150 g grated kaşar cheese"
       ]
     },
@@ -1285,7 +1285,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 cup boiled chickpeas",
         "4 tablespoons olive oil",
         "1 liter water",
-        "1 tablespoon salt"
+        "1 teaspoon salt"
       ]
     },
     "steps": {
@@ -1332,7 +1332,7 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Fileto somon"
+        "fileto somon"
       ],
       "en": [
         "Salmon fillet"
@@ -1453,11 +1453,11 @@ export const nefis_etRecipes: Recipe[] = [
         "1 package mushrooms (400 g)",
         "1 package cream (half is enough)",
         "3-4 garlic cloves",
-        "1 tablespoon curry powder",
-        "1 tablespoon salt",
+        "1 teaspoon curry powder",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "1 teaspoon Aleppo pepper (optional)",
-        "1 tablespoon thyme"
+        "1 teaspoon thyme"
       ]
     },
     "steps": {
@@ -1505,7 +1505,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 kg patates",
         "2 yemek kaşığı tereyağı",
         "2 su bardağı süt",
-        "Sağlığınıza göre tuz"
+        "sağlığınıza göre tuz"
       ],
       "en": [
         "1 kg potatoes",
@@ -1568,7 +1568,7 @@ export const nefis_etRecipes: Recipe[] = [
       "en": [
         "1 kg chicken wings (cut at the middle joints, dried very well)",
         "1 cup buttermilk (or 1 cup milk with 1 tablespoon of the mixture added)",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper"
       ]
     },
@@ -1675,14 +1675,14 @@ export const nefis_etRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı",
         "1 yemek kaşığı un",
         "1 çay bardağı süt",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 eggplants",
         "60 g grated kaşar",
         "1 tablespoon butter",
         "1 tablespoon flour",
-        "1 cup milk",
+        "1 teacup milk",
         "Salt"
       ]
     },
@@ -1776,14 +1776,14 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "500 gram orta yağlı kıyma (isteğe göre yağsız da olabilir)",
         "1 su bardağından biraz fazla kırık pirinç",
-        "Yarım çay bardağı köftelik bulgur",
-        "İsteğe bağlı biraz soğan suyu",
-        "Çok az jate pancarı"
+        "yarım çay bardağı köftelik bulgur",
+        "isteğe bağlı biraz soğan suyu",
+        "çok az jate pancarı"
       ],
       "en": [
         "500 g medium-fat minced meat (it can be lean as well, if you like)",
         "A little more than 1 cup of broken rice",
-        "half a cup of fine bulgur for meatballs",
+        "half a teacup of fine bulgur for meatballs",
         "A little onion juice if you like",
         "A very little beetroot"
       ]
@@ -1853,7 +1853,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet kuru soğan",
         "1 adet yeşil biber",
         "1 adet kapya biber",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı pulbiber",
@@ -1866,10 +1866,10 @@ export const nefis_etRecipes: Recipe[] = [
         "1 dry onion",
         "1 green pepper",
         "1 bell pepper",
-        "half a cup vegetable oil",
-        "1 tablespoon salt",
-        "1 tablespoon black pepper",
-        "1 tablespoon Aleppo pepper",
+        "half a teacup vegetable oil",
+        "1 teaspoon salt",
+        "1 teaspoon black pepper",
+        "1 teaspoon Aleppo pepper",
         "100 g kaşar cheese",
         "1 tablespoon butter"
       ]
@@ -1911,19 +1911,19 @@ export const nefis_etRecipes: Recipe[] = [
         "350 gram kıyma",
         "1 büyük soğan",
         "1 adet yumurta",
-        "Sarımsak tozu",
+        "sarımsak tozu",
         "1.5 tatlı kaşığı tuz",
-        "Çay kaşığı ucuyla karabiber",
-        "Toz kırmızı biber",
-        "Kimyon",
-        "Yenibahar"
+        "çay kaşığı ucuyla karabiber",
+        "toz kırmızı biber",
+        "kimyon",
+        "yenibahar"
       ],
       "en": [
         "350 g minced meat",
         "1 large onion",
         "1 egg",
         "Garlic powder",
-        "1.5 tablespoons salt",
+        "1.5 teaspoons salt",
         "A pinch of black pepper",
         "Red pepper powder",
         "Cumin",
@@ -1983,11 +1983,11 @@ export const nefis_etRecipes: Recipe[] = [
       ],
       "en": [
         "4 boneless chicken thighs",
-        "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
+        "1 teaspoon tomato paste",
+        "1 teaspoon pepper paste",
         "2 garlic cloves (crushed)",
-        "1 cup milk",
-        "1 cup soda",
+        "1 teacup milk",
+        "1 teacup soda",
         "1 teaspoon salt",
         "1 teaspoon curry powder (optional)",
         "1 teaspoon black pepper",
@@ -2036,7 +2036,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet domates",
         "2 yemek kaşığı domates salçası",
         "1,5 su bardağı su",
-        "Tuz karabiber"
+        "tuz karabiber"
       ],
       "en": [
         "250 g cubed meat",
@@ -2125,7 +2125,7 @@ export const nefis_etRecipes: Recipe[] = [
         "2 garlic cloves",
         "3 tablespoons breadcrumbs for dredging",
         "1 tablespoon salt",
-        "1 tablespoon black pepper"
+        "1 teaspoon black pepper"
       ]
     },
     "steps": {
@@ -2169,19 +2169,19 @@ export const nefis_etRecipes: Recipe[] = [
         "1 tatlı kaşığı kekik( silme)",
         "1 çay kaşığı karabiber (silme)",
         "1 çay kaşığı kimyon ( silme)",
-        "Yarım çay kaşığı zerdeçal",
-        "Yarım limon suyu"
+        "yarım çay kaşığı zerdeçal",
+        "yarım limonun suyu"
       ],
       "en": [
         "1 kg anchovies (palamut)",
         "2 potatoes (medium)",
         "4 onions (small)",
         "1 lemon",
-        "1 cup olive oil (small)",
+        "1 teacup olive oil (small)",
         "5 garlic cloves",
-        "1 tablespoon Aleppo pepper",
-        "1 tablespoon salt",
-        "1 tablespoon thyme (level)",
+        "1 teaspoon Aleppo pepper",
+        "1 teaspoon salt",
+        "1 teaspoon thyme (level)",
         "1 teaspoon black pepper (level)",
         "1 teaspoon cumin (level)",
         "half a teaspoon turmeric",
@@ -2228,9 +2228,9 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet domates",
         "1 yemek kaşığı domates salçası",
         "3 yemek kaşığı sıvı yağ",
-        "Çok az karabiber",
-        "Kırmızı toz biber",
-        "Tuz",
+        "çok az karabiber",
+        "kırmızı toz biber",
+        "tuz",
         "1 su bardağı su"
       ],
       "en": [
@@ -2286,7 +2286,7 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "4 adet tavuk göğsü",
         "1 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber"
+        "yarım çay kaşığı karabiber"
       ],
       "en": [
         "4 chicken breasts",
@@ -2332,15 +2332,15 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "6 adet mercan balığı (orta iri boyda istediğiniz balık türü)",
         "4 adet patates",
-        "Soğan",
-        "Yarım çay bardağı sirke",
-        "Limon"
+        "soğan",
+        "yarım çay bardağı sirke",
+        "limon"
       ],
       "en": [
         "6 red sea bream (medium sized, any fish you like)",
         "4 potatoes",
         "Onion",
-        "half a cup vinegar",
+        "half a teacup vinegar",
         "Lemon"
       ]
     },
@@ -2396,18 +2396,18 @@ export const nefis_etRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "1 tutam maydanoz",
         "3 adet orta boy patates",
-        "Sıvı yağ",
+        "sıvı yağ",
         "1 kase ezilmiş süzme yoğurt"
       ],
       "en": [
         "200 g minced meat",
-        "1 tablespoon pepper paste",
-        "1 tablespoon tomato paste",
+        "1 teaspoon pepper paste",
+        "1 teaspoon tomato paste",
         "1 onion",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon red pepper powder",
         "1 teaspoon black pepper",
         "1 teaspoon cumin",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "A handful of parsley",
         "3 medium potatoes",
         "Vegetable oil",
@@ -2463,16 +2463,16 @@ export const nefis_etRecipes: Recipe[] = [
         "1 çay bardağı maden suyu",
         "1–2 yemek kaşığı domates salçası",
         "2–3 yemek kaşığı sıvı yağ",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı toz biber",
-        "Kekik",
-        "İsteğe göre pul biber ve sarımsak"
+        "tuz",
+        "karabiber",
+        "kırmızı toz biber",
+        "kekik",
+        "isteğe göre pul biber ve sarımsak"
       ],
       "en": [
         "7-8 pieces of chicken (thighs or the chicken pieces you like)",
-        "1 cup milk",
-        "1 cup soda water",
+        "1 teacup milk",
+        "1 teacup soda water",
         "1-2 tablespoons tomato paste",
         "2-3 tablespoons vegetable oil",
         "Salt",
@@ -2526,9 +2526,9 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "2 baget tavuk",
         "2 adet patates",
-        "Tuz",
-        "Kara biber",
-        "İsteğe göre baharatlar",
+        "tuz",
+        "kara biber",
+        "isteğe göre baharatlar",
         "1 adet yumurta",
         "2 çorba kaşığı un (iç harcı için)"
       ],
@@ -2628,16 +2628,16 @@ export const nefis_etRecipes: Recipe[] = [
         "2 garlic cloves",
         "2 tablespoons yogurt",
         "4 tablespoons olive oil",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon red pepper powder",
         "1 teaspoon thyme",
         "1 teaspoon black pepper",
-        "1 tablespoon salt"
+        "1 teaspoon salt"
       ]
     },
     "steps": {
       "tr": [
         "Tavukları yıkayın ve kurulayın.",
-        "Bir bir kabın içerisine tüm malzemeleri marinesi için ekleyelim ve iyice karıştırıp üzerini kapatın. Yaklaşık 1-2 saat buzdolabında bekletin.",
+        "Bir bir kabın içerisine tüm malzemeleri marinesi için ekleyelim ve iyice karıştırıp üzerini kapatın. Yaklaşık 1-2 saat buzdolabında bekletin.",
         "Soğanları ikiye bölün ve ince şeritler halınde keselim. Patatesleri soyun ve ince dilimler halinde keselim. Fırın tepsisini sıvı yağ ile yağlayın. Dibinde kalmış marine sosuyla patatesleri ve biberleri sosladım.",
         "Soğanları fırın tepsisine koyalım. Ardından patates dilimlerini dizelim. Marine edilmiş tavukları üzerine yerleştirelim. Fırın kağıdını ıslatıp tepsiyi kapatın.",
         "Önceden ısıtılmış 200 derece fırında 35-40 dakika pişirelim. Sonrasında fırın kağıdını üzerinde alın ve 20 dakika daha pişirin. Deneyeceklere şimdiden afiyet olsun. 🤗 ♥️"
@@ -2670,20 +2670,20 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "4 adet somon fileto",
         "4 yemek kaşığı zeytinyağı",
-        "Yarım limonun suyu",
+        "yarım limonun suyu",
         "1 tatlı kaşığı hardal",
         "2 diş sarımsak",
-        "İnce kıyılmış maydanoz",
-        "Karabiber",
-        "Toz kırmızı biber",
-        "Pul biber",
-        "Tuz"
+        "ince kıyılmış maydanoz",
+        "karabiber",
+        "toz kırmızı biber",
+        "pul biber",
+        "tuz"
       ],
       "en": [
         "4 salmon fillets",
         "4 tablespoons olive oil",
         "The juice of half a lemon",
-        "1 tablespoon mustard",
+        "1 teaspoon mustard",
         "2 garlic cloves",
         "Finely chopped parsley",
         "Black pepper",
@@ -2728,16 +2728,16 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım kg tavuk göğsü",
+        "yarım kg tavuk göğsü",
         "1 adet havuç",
         "1 adet mor soğan",
         "1 diş sarımsak",
-        "Yarım çay kaşığından az kimyon",
-        "Yarım çay kaşığından az karabiber",
+        "yarım çay kaşığından az kimyon",
+        "yarım çay kaşığından az karabiber",
         "1 çay kaşığı pul biber",
-        "Yarım çay kaşığı kekik",
+        "yarım çay kaşığı kekik",
         "1 çay kaşığı tuz",
-        "Biraz zeytinyağı"
+        "biraz zeytinyağı"
       ],
       "en": [
         "Half a kg chicken breast",
@@ -2787,17 +2787,17 @@ export const nefis_etRecipes: Recipe[] = [
         "400 gr tavuk göğsü",
         "1 tatlı kaşığı salça (isteğe bağlı)",
         "1 adet küçük soğan",
-        "Maydanoz",
-        "Karabiber 1 çay kaşığı",
+        "maydanoz",
+        "karabiber 1 çay kaşığı",
         "1 çay kaşığı pulbiber",
-        "Tuz",
+        "tuz",
         "1 çay kaşığı kekik"
       ],
       "en": [
         "2 eggplants",
         "1 tomato",
         "400 g chicken breast",
-        "1 tablespoon paste (optional)",
+        "1 teaspoon paste (optional)",
         "1 small onion",
         "Parsley",
         "1 teaspoon black pepper",
@@ -2842,7 +2842,7 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Küçük kuş başı kesilmiş sana eti ( isteğe bağlı koymayada bilirsiniz)",
+        "küçük kuş başı kesilmiş sana eti ( isteğe bağlı koymayada bilirsiniz)",
         "3 adet patates (küçük küp şeklinde doğranmış)",
         "7-8 adet kuru domates",
         "1 adet kapya biber",
@@ -2850,8 +2850,8 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet soğan",
         "1 tatlı kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Sıvı yağ",
-        "Tuz"
+        "sıvı yağ",
+        "tuz"
       ],
       "en": [
         "Small chicken meat cut from the bone (you can leave it out if you like)",
@@ -2860,8 +2860,8 @@ export const nefis_etRecipes: Recipe[] = [
         "1 bell pepper",
         "1 village pepper",
         "1 onion",
-        "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
+        "1 teaspoon tomato paste",
+        "1 teaspoon pepper paste",
         "Vegetable oil",
         "Salt"
       ]
@@ -2900,17 +2900,17 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "1 paket parça tavuk",
         "3 adet orta boy patates",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 şişe soda",
         "1 yemek kaşığı un",
-        "Toz kırmızı biber",
-        "Karabiber",
-        "Tuz"
+        "toz kırmızı biber",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "1 package chicken pieces",
         "3 medium potatoes",
-        "half a cup olive oil",
+        "half a teacup olive oil",
         "1 bottle soda",
         "1 tablespoon flour",
         "Red pepper powder",
@@ -2956,8 +2956,8 @@ export const nefis_etRecipes: Recipe[] = [
         "1adet domates",
         "1 adet soğan",
         "1 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon",
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı kimyon",
         "1 çay kaşığı kırmızı tozbiber",
         "3-4 diş sarımsak",
         "3 kaşık sıvı yağ",
@@ -2975,7 +2975,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 teaspoon red pepper powder",
         "3-4 garlic cloves",
         "3 tablespoons vegetable oil",
-        "1 cup water"
+        "1 teacup water"
       ]
     },
     "steps": {
@@ -3015,8 +3015,8 @@ export const nefis_etRecipes: Recipe[] = [
         "400 gram mantar",
         "1 orta boy soğan",
         "500 gram tavukgöğsü",
-        "Sıvı yağ",
-        "Tuz ve karabiber",
+        "sıvı yağ",
+        "tuz ve karabiber",
         "200 ml lik paket krema"
       ],
       "en": [
@@ -3066,13 +3066,13 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet kuru soğan",
         "1 adet orta boy domates",
         "1 tutam maydanoz",
-        "Yarım limon (kabukları soyulmuş)",
+        "yarım limon (kabukları soyulmuş)",
         "2 küçük diş sarımsak",
-        "Sosu için: 1 çay kaşığı domates salçası",
+        "sosu için: 1 çay kaşığı domates salçası",
         "1 çay kaşığı tuz",
         "1 çay kaşığı nane",
         "1 tatlı kaşığı elma sirkesi",
-        "Çeyrek çay bardağı su"
+        "çeyrek çay bardağı su"
       ],
       "en": [
         "500 g anchovies",
@@ -3084,8 +3084,8 @@ export const nefis_etRecipes: Recipe[] = [
         "For the sauce: 1 teaspoon tomato paste",
         "1 teaspoon salt",
         "1 teaspoon mint",
-        "1 tablespoon apple cider vinegar",
-        "A quarter cup water"
+        "1 teaspoon apple cider vinegar",
+        "A quarter teacup water"
       ]
     },
     "steps": {
@@ -3186,7 +3186,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı kırmızı toz biber",
-        "Sağlığınıza göre tuz"
+        "sağlığınıza göre tuz"
       ],
       "en": [
         "600 g chicken breast",
@@ -3241,9 +3241,9 @@ export const nefis_etRecipes: Recipe[] = [
         "4 adet patates",
         "3-4 yemek kaşığı zeytinyağı",
         "1 er çay kaşığı kekik",
-        "Toz biber",
-        "Karabiber",
-        "Tuz"
+        "toz biber",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "4 potatoes",
@@ -3301,7 +3301,7 @@ export const nefis_etRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket tavuk açılmış but",
-        "Pirzola sarma",
+        "pirzola sarma",
         "1 yemek kaşığı salça",
         "1 yemek kaşığı sıvı yağ+1 yemek kaşığı tereyağı",
         "1 su bardağı ılık süt",
@@ -3324,7 +3324,7 @@ export const nefis_etRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Öncelikle büyük tava yada tenceremizi alalım, salça ve yağ koyup kavuralım, üzerine tavukları dizelim ve baharatları ekleyelim.",
+        "Öncelikle büyük tava ya da tenceremizi alalım, salça ve yağ koyup kavuralım, üzerine tavukları dizelim ve baharatları ekleyelim.",
         "Tavuğun üzerine 1 su bardağı süt ve 1 şişe maden suyu ekleyelim, kısık ateşte yavaş yavaş pişirelim.",
         "Yaklaşık 20 dk sonra kapağını açıp o şekilde pişirmeye devam edelim, ara sıra karıştırarak arkalı önlü pişirelim. Deneyecek olanlara şimdiden afiyet şifa olsun."
       ],
@@ -3399,12 +3399,12 @@ export const nefis_etRecipes: Recipe[] = [
         "2 adet kapya biber",
         "1 adet soğan",
         "4 diş sarımsak",
-        "Bir tutam maydanoz",
+        "bir tutam maydanoz",
         "1 yemek kaşığı salça",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Kimyon (dilediğiniz kadar)",
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "kimyon (dilediğiniz kadar)",
         "2 adet patates"
       ],
       "en": [
@@ -3511,16 +3511,16 @@ export const nefis_etRecipes: Recipe[] = [
         "1 diş sarımsak",
         "1 tatlı kaşığı salça",
         "2 yemek kaşığı galeta unu(çekilmiş ekmekte olur)",
-        "Tuz",
-        "Karabiber",
-        "Kimyon",
-        "Pul biber (sevdiğiniz baharatlarda eklenebilir.)"
+        "tuz",
+        "karabiber",
+        "kimyon",
+        "pul biber (sevdiğiniz baharatlarda eklenebilir.)"
       ],
       "en": [
         "300 g minced meat",
         "1 small onion",
         "1 garlic clove",
-        "1 tablespoon paste",
+        "1 teaspoon paste",
         "2 tablespoons breadcrumbs (stale bread works as well)",
         "Salt",
         "Black pepper",
@@ -3583,12 +3583,12 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet soğanın yarısı",
         "1 tutam maydanoz",
         "2 adet domates",
-        "Tuz",
+        "tuz",
         "3 diş sarımsak",
         "300 gram kıyma",
         "1 yemek kaşığı margarin",
         "6 yemek kaşığı sıvıyağ",
-        "Bir fincan su"
+        "bir fincan su"
       ],
       "en": [
         "Half of 1 onion",
@@ -3737,10 +3737,10 @@ export const nefis_etRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 adet voppa balık",
-        "Patates",
-        "Soğan",
-        "Domates",
-        "Kapya biber"
+        "patates",
+        "soğan",
+        "domates",
+        "kapya biber"
       ],
       "en": [
         "4 pomfret",
@@ -3786,7 +3786,7 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Levrek balığı",
+        "levrek balığı",
         "1 adet patates"
       ],
       "en": [
@@ -3828,7 +3828,7 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "1 kg hamsi",
         "1 su bardağı mısır unu",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 kg anchovies",
@@ -3877,7 +3877,7 @@ export const nefis_etRecipes: Recipe[] = [
         "700 gram kıyma",
         "1 adet kuru soğan",
         "1 tatlı kaşığı silme karbonat",
-        "Yarım limonun suyu",
+        "yarım limonun suyu",
         "1 yemek kaşığı yoğurt",
         "1 tatlı kaşığı biber salçası",
         "1 çay bardağı su",
@@ -3887,21 +3887,21 @@ export const nefis_etRecipes: Recipe[] = [
         "1 tatlı kaşığı pul biber",
         "1 tatlı kaşığı karabiber",
         "1 çay kaşığı kimyon",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "700 g minced meat",
         "1 dry onion",
-        "1 tablespoon level baking powder",
+        "1 teaspoon level baking powder",
         "The juice of half a lemon",
         "1 tablespoon yogurt",
-        "1 tablespoon pepper paste",
-        "1 cup water",
+        "1 teaspoon pepper paste",
+        "1 teacup water",
         "1 cup stale bread crumbs",
         "2 garlic cloves",
-        "1 tablespoon red pepper powder",
-        "1 tablespoon Aleppo pepper",
-        "1 tablespoon black pepper",
+        "1 teaspoon red pepper powder",
+        "1 teaspoon Aleppo pepper",
+        "1 teaspoon black pepper",
         "1 teaspoon cumin",
         "Salt"
       ]
@@ -3965,9 +3965,9 @@ export const nefis_etRecipes: Recipe[] = [
         "2 adet havuç",
         "4-5 adet patates",
         "1 lt su",
-        "Karabiber",
+        "karabiber",
         "1 adet defne yaprağı",
-        "Tuz ( haşlama terbiye ile buluştuktan ve kaynadıktan sonra )"
+        "tuz ( haşlama terbiye ile buluştuktan ve kaynadıktan sonra )"
       ],
       "en": [
         "5 chicken drumsticks",
@@ -4037,9 +4037,9 @@ export const nefis_etRecipes: Recipe[] = [
         "2 adet havuç",
         "2 diş sarımsak(isteğe bağlı)",
         "1 yemek kaşığı soya sosu",
-        "Yarım çay bardağı sıvı yağ",
-        "Tuz",
-        "Karabiber"
+        "yarım çay bardağı sıvı yağ",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "400-500 g chicken breast",
@@ -4047,7 +4047,7 @@ export const nefis_etRecipes: Recipe[] = [
         "2 carrots",
         "2 garlic cloves (optional)",
         "1 tablespoon soy sauce",
-        "half a cup vegetable oil",
+        "half a teacup vegetable oil",
         "Salt",
         "Black pepper"
       ]
@@ -4094,8 +4094,8 @@ export const nefis_etRecipes: Recipe[] = [
         "1 tane soğan",
         "4 yemek kaşığı galeta unu",
         "1 tane yumurta",
-        "Tuz",
-        "Karabiber"
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "400 g minced meat",
@@ -4155,9 +4155,9 @@ export const nefis_etRecipes: Recipe[] = [
         "1 çay kaşığı sarımsak tozu",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı tuz",
-        "Kekik",
+        "kekik",
         "1 çay bardağı su",
-        "Sprey yağ"
+        "sprey yağ"
       ],
       "en": [
         "500 g minced meat",
@@ -4167,12 +4167,12 @@ export const nefis_etRecipes: Recipe[] = [
         "1 cup tomato purée",
         "10 cherry tomatoes",
         "1 tablespoon paste",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon red pepper powder",
         "1 teaspoon garlic powder",
         "1 teaspoon black pepper",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "Thyme",
-        "1 cup water",
+        "1 teacup water",
         "Spray oil"
       ]
     },
@@ -4220,16 +4220,16 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Tavuk but",
+        "tavuk but",
         "3-4 adet patates",
         "1 baş soğan",
         "2 adet havuç",
         "2 diş sarımsak",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yemek kaşığı un",
-        "Tuz",
-        "Pul biber",
-        "Yarım limon suyu",
+        "tuz",
+        "pul biber",
+        "yarım limonun suyu",
         "1 çay bardağı su"
       ],
       "en": [
@@ -4238,12 +4238,12 @@ export const nefis_etRecipes: Recipe[] = [
         "1 head of onion",
         "2 carrots",
         "2 garlic cloves",
-        "half a cup vegetable oil",
+        "half a teacup vegetable oil",
         "1 tablespoon flour",
         "Salt",
         "Aleppo pepper",
         "Half the juice of a lemon",
-        "1 cup water"
+        "1 teacup water"
       ]
     },
     "steps": {
@@ -4295,11 +4295,11 @@ export const nefis_etRecipes: Recipe[] = [
         "2 tablespoons milk",
         "3 tablespoons vegetable oil",
         "1 heaped tablespoon yogurt",
-        "1 tablespoon paste",
+        "1 teaspoon paste",
         "1 teaspoon thyme",
         "1 teaspoon black pepper",
         "1 teaspoon red pepper powder",
-        "1 tablespoon chicken seasoning"
+        "1 teaspoon chicken seasoning"
       ]
     },
     "steps": {
@@ -4336,7 +4336,7 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "500 gram kıyma",
         "1 adet büyük soğan",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 adet yumurta",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
@@ -4348,10 +4348,10 @@ export const nefis_etRecipes: Recipe[] = [
         "1 large onion",
         "half a bunch parsley",
         "1 egg",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "1 teaspoon red pepper powder",
-        "1 cup breadcrumbs"
+        "1 teacup breadcrumbs"
       ]
     },
     "steps": {
@@ -4448,7 +4448,7 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Tırnak pide"
+        "tırnak pide"
       ],
       "en": [
         "Tırnak pide (finger pide bread)"
@@ -4500,7 +4500,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 kg anchovies",
         "6 tablespoons corn flour",
         "4 tablespoons flour",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "3 tablespoons vegetable oil"
       ]
     },
@@ -4548,13 +4548,13 @@ export const nefis_etRecipes: Recipe[] = [
         "2 tatlı kaşığı kuru nane",
         "3 yemek kaşığı dolusu domates salçası",
         "1 tatlı kaşığı tuz",
-        "Sıcak su"
+        "sıcak su"
       ],
       "en": [
         "Just under a teacup of vegetable oil",
-        "2 tablespoons dried mint",
+        "2 teaspoons dried mint",
         "3 heaped tablespoons tomato paste",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "Hot water"
       ]
     },
@@ -4562,7 +4562,7 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "Öncelikle köftemizi yoğuralım.",
         "Tüm malzemeyi karıştıralım(kıymanıza göre bulguru biraz fazla ekleyebilirsiniz).",
-        "Ceviz yada fındık büyüklüğünde köfteler yapalım.",
+        "Ceviz ya da fındık büyüklüğünde köfteler yapalım.",
         "Un serptiğimiz tepsiye dizelim.",
         "Geniş tabanlı tenceremizde sıvı yağ,salça ve naneyi kavuralım.",
         "Üzerine tencerenin yarısına gelecek kadar sıcak su ve tuzu ekleyelim.",
@@ -4602,7 +4602,7 @@ export const nefis_etRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo kuşbaşı et",
+        "yarım kilo kuşbaşı et",
         "2 adet domates",
         "3 adet soğan",
         "3 tane patates",
@@ -4610,7 +4610,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1.5 çay kaşığı tuz",
         "1.5 çay kaşığı kimyon",
         "1.5 çay kaşığı pul biber",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "1 yemek kaşığı salça"
       ],
       "en": [
@@ -4668,7 +4668,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı toz kırmızı biber",
         "1 çay kaşığı kekik",
-        "Yarım çay kaşığı kimyon"
+        "yarım çay kaşığı kimyon"
       ],
       "en": [
         "800 g chicken ribs or chicken breast",
@@ -4677,7 +4677,7 @@ export const nefis_etRecipes: Recipe[] = [
         "2 Charleston peppers",
         "1 garlic clove",
         "2 tablespoons vegetable oil",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "1 teaspoon red pepper powder",
         "1 teaspoon thyme",
@@ -4748,12 +4748,12 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet yeşil biber",
         "2 adet kapya biber",
         "2 adet büyük patlıcan",
-        "Pil biber",
-        "Karabiber",
-        "Tuz",
-        "Tereyağ",
+        "pil biber",
+        "karabiber",
+        "tuz",
+        "tereyağ",
         "1 yemek kaşığı domates salçası",
-        "Yarım yemek kaşığı biber salçası"
+        "yarım yemek kaşığı biber salçası"
       ],
       "en": [
         "8-9 lamb ribs",
@@ -4810,12 +4810,12 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet soğan",
         "1 adet kapya biber",
         "4–5 dal maydanoz",
-        "Yarım çay bardağı maden suyu",
+        "yarım çay bardağı maden suyu",
         "1 tatlı kaşığı biber salçası",
         "2 yemek kaşığı irmik",
         "2 çay kaşığı kabartma tozu",
         "½ çay kaşığı karabiber",
-        "Çay kaşığının ucuyla kimyon",
+        "çay kaşığının ucuyla kimyon",
         "1 çay kaşığına yakın tuz"
       ],
       "en": [
@@ -4823,9 +4823,9 @@ export const nefis_etRecipes: Recipe[] = [
         "1 onion",
         "1 bell pepper",
         "4-5 stalks of parsley",
-        "half a cup soda water",
-        "1 tablespoon pepper paste",
-        "2 tablespoons coarse bulgur",
+        "half a teacup soda water",
+        "1 teaspoon pepper paste",
+        "2 tablespoons semolina",
         "2 teaspoons baking powder",
         "½ teaspoon black pepper",
         "A pinch of cumin",
@@ -4877,9 +4877,9 @@ export const nefis_etRecipes: Recipe[] = [
         "1 adet soğan",
         "2 dış sarımsak",
         "2 adet domates",
-        "Tuz",
-        "Zeytinyağı",
-        "Limon"
+        "tuz",
+        "zeytinyağı",
+        "limon"
       ],
       "en": [
         "1 anchovy (palamut)",
@@ -4895,7 +4895,7 @@ export const nefis_etRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "İlk olarak balıkları temizleyip iki parmak genişliğinde keselim.",
-        "Patatesleri ve soğanları yuvarlak yada istediğimiz şekil doğrayalım ,havucu domatesi ve biberleri doğrayalım.",
+        "Patatesleri ve soğanları yuvarlak ya da istediğimiz şekil doğrayalım ,havucu domatesi ve biberleri doğrayalım.",
         "İlk soğanları, patatesleri, biberleri, domatesleri tepsinin altına sebzeleri dizelim.",
         "Sebzelerin üzerine bir fiske tuz serpiştirip balıkları dizelim.",
         "Üzerlerine limon dilimleri dizelim.",
@@ -4933,9 +4933,9 @@ export const nefis_etRecipes: Recipe[] = [
         "1 kg ince bulgur",
         "3 yemek kaşığı tuz",
         "2 yemek kaşığı toz kırmızı biber",
-        "Reyhan",
-        "Pul biber ve kara biber",
-        "Ilık su"
+        "reyhan",
+        "pul biber ve kara biber",
+        "ılık su"
       ],
       "en": [
         "1 kg chicken breast",
@@ -4995,10 +4995,10 @@ export const nefis_etRecipes: Recipe[] = [
       "en": [
         "2 chicken breasts",
         "2 charred red peppers",
-        "1 cup milk",
-        "1 cup vegetable oil",
-        "1 tablespoon salt",
-        "1 tablespoon thyme",
+        "1 teacup milk",
+        "1 teacup vegetable oil",
+        "1 teaspoon salt",
+        "1 teaspoon thyme",
         "1 garlic clove"
       ]
     },
@@ -5044,27 +5044,27 @@ export const nefis_etRecipes: Recipe[] = [
       "tr": [
         "500 gr dana döş ve 300 gr dana kaburga (kasabınıza söyleyin en iyi köfte burdan oluyor,orta yağlı olacak kıyma mutlaka)",
         "1 tatlı kaşığı karbonat",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 adet soğan(rendelenmiş suyuyla ekleyin soğanı, mutlaka rendeleyin)",
         "2 diş sarımsak (rendelenmiş)",
-        "Yarım çay bardağı su",
+        "yarım çay bardağı su",
         "1 tatlı kaşığı kırmızı toz biber",
         "1 tatlı kaşığı pul biber",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı kimyon",
-        "Yeteri kadar tuz"
+        "yeteri kadar tuz"
       ],
       "en": [
         "500 g beef shoulder and 300 g beef ribs (tell your butcher, the best meatballs come from here, the minced meat must be medium-fat)",
-        "1 tablespoon baking soda",
+        "1 teaspoon baking soda",
         "Half the juice of a lemon",
         "1 onion (add it grated with its water, you must grate the onion)",
         "2 garlic cloves (grated)",
-        "half a cup water",
-        "1 tablespoon red pepper powder",
-        "1 tablespoon Aleppo pepper",
-        "1 tablespoon black pepper",
-        "1 tablespoon cumin",
+        "half a teacup water",
+        "1 teaspoon red pepper powder",
+        "1 teaspoon Aleppo pepper",
+        "1 teaspoon black pepper",
+        "1 teaspoon cumin",
         "Enough salt"
       ]
     },
@@ -5074,7 +5074,7 @@ export const nefis_etRecipes: Recipe[] = [
         "Üzerini örtüp bir gece buzdolabının sıfır bölmesinde dinlendirin,böylece dağılmayan lezzetlı harika köfteler elde edeceksiniz😋",
         "En önemli püf noktası; Bir gece köfteyi yoğurup buzdolabında bekletmek,dinlenince kıvamı ve lezzeti tam yerinde oluyor,mutlaka 5-6 dk boyunca yoğurun.",
         "Ertesi gün köfte harcını birkaç dk daha yoğurup elinizle videodaki gibi şekil verin,bunu yaparken her defasında elinizi suya batırın.",
-        "Kızartma işlemine gelince tavaya sürmek için 50 gr margarin yarım çay bardağı sıvı yağ tabanı kalın bir tavanın yada ızgara tavasının,içini margarinle(tereyağı olmaz çabuk yanıyor,ben teremyağ kullandım)güzelce her yerini yağlayın,yarım çay bardağı da sıvı yağ ekleyin ve iyice mutlaka kızdırın tavaya,köfteleri attığınızda cızzz🔥😬sesi duyuyorsanız tamamdır😎👍",
+        "Kızartma işlemine gelince tavaya sürmek için 50 gr margarin yarım çay bardağı sıvı yağ tabanı kalın bir tavanın ya da ızgara tavasının,içini margarinle(tereyağı olmaz çabuk yanıyor,ben teremyağ kullandım)güzelce her yerini yağlayın,yarım çay bardağı da sıvı yağ ekleyin ve iyice mutlaka kızdırın tavaya,köfteleri attığınızda cızzz🔥😬sesi duyuyorsanız tamamdır😎👍",
         "‼️Burda dikkat,köfteyi atar atmaz hemen mühürleyin(çevirin hızlıca)ve pişene kadar sürekli çevirin içi çiğ kalmaz böylece,kızardığı zaman çıkarın,yanına pilav ,patates kızartması veya bulgur pilavı ayran iyi gider👌🏽yapacak olanlara şimdiden afiyet olsun🥰🌹",
         "Not;ben soğan kullanamadım ne yazık ki çocuklar yemediği için,soğan mutlaka lezzet verir,ayrıca galeta unu yumurta v. S kullanmıyorum bu köftede çünkü kıymanın doğal tadını alıyor👍."
       ],
@@ -5116,12 +5116,12 @@ export const nefis_etRecipes: Recipe[] = [
         "400 gram mantar",
         "1 yemek kaşığı biber salçası",
         "1 dolu tatlı kaşığı domates salçası",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 çay kaşığı kimyon",
         "1 dolu çay kaşığı kekik"
       ],
       "en": [
-        "3/4 (a half and a quarter) cup vegetable oil (sunflower or olive oil)",
+        "3/4 (a half and a quarter) teacup vegetable oil (sunflower or olive oil)",
         "1 large dry onion",
         "2 large garlic cloves",
         "4 medium green peppers",
@@ -5130,7 +5130,7 @@ export const nefis_etRecipes: Recipe[] = [
         "400 g chicken breast",
         "400 g mushrooms",
         "1 tablespoon pepper paste",
-        "1 heaped tablespoon tomato paste",
+        "1 heaped teaspoon tomato paste",
         "half a teaspoon black pepper",
         "1 teaspoon cumin",
         "1 heaped teaspoon thyme"
@@ -5197,19 +5197,19 @@ export const nefis_etRecipes: Recipe[] = [
         "1 dolu yemek kaşığı biber salçası",
         "1 yumurta",
         "1 çay bardağı un",
-        "Yarım çay bardağı su (dikkatli eklenecek)"
+        "yarım çay bardağı su (dikkatli eklenecek)"
       ],
       "en": [
         "1 cup fine bulgur",
         "1 cup sefer kitel bulgur (you can find this bulgur in all markets)",
-        "A finger's breadth less than 1 cup of coarse bulgur (we will also soak the coarse bulgur in 1 cup of hot water; it becomes soft and makes the consistency of the meatball dough softer)",
+        "A finger's breadth less than 1 cup of semolina (we will also soak the semolina in 1 cup of hot water; it becomes soft and makes the consistency of the meatball dough softer)",
         "2 cups hot water",
-        "1 tablespoon salt",
-        "1 tablespoon Aleppo pepper flakes",
+        "1 teaspoon salt",
+        "1 teaspoon Aleppo pepper flakes",
         "1 heaped tablespoon pepper paste",
         "1 egg",
-        "1 cup flour",
-        "half a cup water (add it carefully)"
+        "1 teacup flour",
+        "half a teacup water (add it carefully)"
       ]
     },
     "steps": {
@@ -5296,9 +5296,9 @@ export const nefis_etRecipes: Recipe[] = [
         "1 kutu domates püresi (400 gr)",
         "850 ml sıcak balık veya sebze suyu",
         "1 çay kaşığı tatlı toz kırmızı biber",
-        "Zeytinyağı",
-        "Tuz",
-        "Karabiber",
+        "zeytinyağı",
+        "tuz",
+        "karabiber",
         "1 adet limon (servis için)"
       ],
       "en": [
@@ -5368,7 +5368,7 @@ export const nefis_etRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "600 ml su (bir tatlı kaşığı sebze tozu ile karıştırılmış)",
-        "1,5 yemek kaşığı nişasta  (yarım su bardağı su ile karıştırılmış)",
+        "1,5 yemek kaşığı nişasta (yarım su bardağı su ile karıştırılmış)",
         "1 çay kaşığı tuz",
         "1 çay kaşığından az karabiber",
         "1 çay kaşığı toz biber",
@@ -5433,12 +5433,12 @@ export const nefis_etRecipes: Recipe[] = [
         "2 yemek kaşığı salça",
         "3 yemek kaşığı nar ekşisi",
         "2-3 diş sarımsak rendelenmiş",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı hardal",
-        "Yarım tatlı kaşığı tuz",
-        "Kırmızı toz biber",
-        "Pul biber",
-        "Kekik",
+        "yarım tatlı kaşığı tuz",
+        "kırmızı toz biber",
+        "pul biber",
+        "kekik",
         "1 çay kaşığı karabiber"
       ],
       "en": [
@@ -5447,9 +5447,9 @@ export const nefis_etRecipes: Recipe[] = [
         "2 tablespoons paste",
         "3 tablespoons pomegranate molasses",
         "2-3 garlic cloves grated",
-        "half a cup olive oil",
-        "1 tablespoon mustard",
-        "half a tablespoon salt",
+        "half a teacup olive oil",
+        "1 teaspoon mustard",
+        "half a teaspoon salt",
         "Red pepper powder",
         "Aleppo pepper",
         "Thyme",
@@ -5489,23 +5489,23 @@ export const nefis_etRecipes: Recipe[] = [
         "1 kg taşlık",
         "1 adet kuru soğan",
         "2 diş sarımsak",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yemek kaşığı salça",
-        "Çeyrek limon",
+        "çeyrek limon",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı pulbiber",
         "1 çay kaşığı kara biber",
-        "Yeteri kadar su"
+        "yeteri kadar su"
       ],
       "en": [
         "1 kg rockfish (taşlık)",
         "1 dry onion",
         "2 garlic cloves",
-        "half a cup vegetable oil",
+        "half a teacup vegetable oil",
         "1 tablespoon paste",
         "A quarter lemon",
-        "1 tablespoon salt",
-        "1 tablespoon Aleppo pepper",
+        "1 teaspoon salt",
+        "1 teaspoon Aleppo pepper",
         "1 teaspoon black pepper",
         "Enough water"
       ]
@@ -5552,7 +5552,7 @@ export const nefis_etRecipes: Recipe[] = [
         "500 gram kıyma",
         "1 adet kuru soğan",
         "2 diş sarımsak",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 adet yumurta",
         "5-6 yemek kaşığı galeta unu",
         "1 çay bardağı maden suyu",
@@ -5569,11 +5569,11 @@ export const nefis_etRecipes: Recipe[] = [
         "half a bunch parsley",
         "1 egg",
         "5-6 tablespoons breadcrumbs",
-        "1 cup soda water",
-        "1 tablespoon salt",
+        "1 teacup soda water",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
-        "1 tablespoon cumin",
-        "1 tablespoon Aleppo pepper"
+        "1 teaspoon cumin",
+        "1 teaspoon Aleppo pepper"
       ]
     },
     "steps": {
@@ -5623,7 +5623,7 @@ export const nefis_etRecipes: Recipe[] = [
         "2-3 anchovies (palamut)",
         "2 tablespoons corn flour",
         "1 tablespoon flour",
-        "1 tablespoon salt"
+        "1 teaspoon salt"
       ]
     },
     "steps": {
@@ -5667,9 +5667,9 @@ export const nefis_etRecipes: Recipe[] = [
         "400 gram tavuk veya hindi kıyması",
         "1 silme tatlı kaşığı kimyon",
         "1 silme tatlı kaşığı toz kırmızı biber",
-        "Tuz",
-        "Karabiber",
-        "İsteğe göre biraz zerdeçal",
+        "tuz",
+        "karabiber",
+        "isteğe göre biraz zerdeçal",
         "3–4 dal maydanoz",
         "1 küçük soğan",
         "1 diş sarımsak",
@@ -5677,8 +5677,8 @@ export const nefis_etRecipes: Recipe[] = [
       ],
       "en": [
         "400 g chicken or turkey mince",
-        "1 level tablespoon cumin",
-        "1 level tablespoon red pepper powder",
+        "1 level teaspoon cumin",
+        "1 level teaspoon red pepper powder",
         "Salt",
         "Black pepper",
         "A little turmeric if you like",
@@ -5718,8 +5718,8 @@ export const nefis_etRecipes: Recipe[] = [
   {
     "id": "nefis-nefis-et-896",
     "name": {
-      "tr": "Fish And Chips",
-      "en": "Fish And Chips"
+      "tr": "Fish and Chips",
+      "en": "Fish and Chips"
     },
     "cuisine": "nefis-et",
     "time": 120,
@@ -5731,7 +5731,7 @@ export const nefis_etRecipes: Recipe[] = [
         "50 gram nişasta",
         "½ çay kaşığı kabartma tozu",
         "½ çay kaşığı tuz",
-        "Biraz karabiber",
+        "biraz karabiber",
         "200 ml buz gibi sade soda"
       ],
       "en": [
@@ -5810,10 +5810,10 @@ export const nefis_etRecipes: Recipe[] = [
         "1 garlic clove",
         "1 package pasta",
         "1 tablespoon paste",
-        "1 tablespoon salt",
-        "1 tablespoon black pepper",
-        "1 tablespoon cumin",
-        "2 tablespoons thyme"
+        "1 teaspoon salt",
+        "1 teaspoon black pepper",
+        "1 teaspoon cumin",
+        "2 teaspoons thyme"
       ]
     },
     "steps": {
@@ -5928,12 +5928,12 @@ export const nefis_etRecipes: Recipe[] = [
         "3 large tomatoes ( 5 if they are small)",
         "2 tablespoons tomato paste",
         "2 tablespoons vegetable oil",
-        "2 tablespoons salt ( if the salt is just right for you, those who do not like salt can use 1.30 tablespoons without measuring)",
-        "1 tablespoon black pepper",
-        "1 tablespoon Aleppo pepper",
-        "1.5 tablespoons thyme",
-        "1 tablespoon mint",
-        "1 tablespoon red pepper powder",
+        "2 teaspoons salt ( if the salt is just right for you, those who do not like salt can use 1.30 tateaspoonsithout measuring)",
+        "1 teaspoon black pepper",
+        "1 teaspoon Aleppo pepper",
+        "1.5 teaspoons thyme",
+        "1 teaspoon mint",
+        "1 teaspoon red pepper powder",
         "1 bottle plain soda water",
         "3 cups water"
       ]
@@ -5980,13 +5980,13 @@ export const nefis_etRecipes: Recipe[] = [
         "4-5 adet charleston biber",
         "1 tatlı kaşığı pul biber",
         "1 tatlı kaşığı toz kırmızı biber",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "4-5 tomatoes",
         "4-5 Charleston peppers",
-        "1 tablespoon Aleppo pepper",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon Aleppo pepper",
+        "1 teaspoon red pepper powder",
         "Salt"
       ]
     },

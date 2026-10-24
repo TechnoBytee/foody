@@ -13,14 +13,14 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2. 5 su bardağı süt",
-        "Yarım çay bardağı toz şeker",
+        "yarım çay bardağı toz şeker",
         "1 çay bardağı un",
         "1 paket vanilya",
         "1 poşet krem şanti"
       ],
       "en": [
         "2.5 cups milk",
-        "Half a teacup powdered sugar",
+        "Half a teacup granulated sugar",
         "1 teacup flour",
         "1 packet vanilla",
         "1 packet instant whipped cream"
@@ -115,10 +115,10 @@ export const kilerRecipes: Recipe[] = [
         "5-6 adet büyük boy soğan",
         "1 baş sarımsak",
         "2 yemek kaşığı biber salçası",
-        "Yarım çay bardağı sıvı yağ",
-        "Karabiber",
-        "Pul biber",
-        "Tuz"
+        "yarım çay bardağı sıvı yağ",
+        "karabiber",
+        "pul biber",
+        "tuz"
       ],
       "en": [
         "750 g ground beef (it is also great for lahmacun)",
@@ -168,7 +168,7 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "1 adet soğan",
         "800g kıyma",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "3 yemek kaşığı galeta unu",
         "2 diş sarımsak",
         "1 adet yumurta",
@@ -234,7 +234,7 @@ export const kilerRecipes: Recipe[] = [
         "1 çay bardağı süt",
         "2 su bardağı rendelenmiş kaşar peyniri",
         "50 margarin veya tereyağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "6 medium boiled potatoes",
@@ -287,7 +287,7 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 kg domates",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "15 diş sarımsak",
         "2 yemek kaşığı üzüm sirkesi",
         "2 çay kaşığı şeker",
@@ -309,7 +309,7 @@ export const kilerRecipes: Recipe[] = [
         "Üzerine birkaç parçaya ayırdığımız sarımsakları ekleyip 1-2 dakika kavuralım.",
         "Doğradığımız domatesleri ilave edelim. Ara ara karıştırarak domatesler eriyene kadar yaklaşık yarım saat kaynatalım.",
         "Suyunu salan ve yumuşayan domatesleri blenderdan geçirelim. Ardından kevgire alalım ve kevgirden geçirelim. Spatula ile ezerek çekirdeklerini ve kabuklarını ayrıştıralım. Dilerseniz kevgirden geçirmeden de bu sosu hazırlayabilirsiniz.",
-        "Kevgirden geçirdiğimiz domates sosunu tekrar tencereye alalım.  İçerisine sirkeyi, şekeri ve tuzu ilave edelim. Karıştırarak 10 dakika kadar kaynatalım.",
+        "Kevgirden geçirdiğimiz domates sosunu tekrar tencereye alalım. İçerisine sirkeyi, şekeri ve tuzu ilave edelim. Karıştırarak 10 dakika kadar kaynatalım.",
         "Son olarak kaynar haldeyken 1 parmak boşluk kalacak şekilde kavanozlara doldurup, ağız kısmını sildikten sonra 10 dakika kadar bir tencere dolusu suyun içinde kaynattığınız kullanılmamış kavanoz kapaklarını kapatalım. Ters çevirip soğuyana kadar bekletelim.",
         "Kışın rendelenmiş domates kullanacağınız her yerde kullanabilirsiniz. Afiyet olsun :)"
       ],
@@ -358,7 +358,7 @@ export const kilerRecipes: Recipe[] = [
         "Çekirdekleri fındık ya da ceviz kıracağı ile kırarak içlerini çıkartın.",
         "Kayısıları tencereye alarak üzerine toz şekeri dökün.",
         "Çekirdekleri de ekleyerek tencerenin kapağını kapatın.",
-        "5-6 saat yada gece boyunca bu şekilde bekletin.",
+        "5-6 saat ya da gece boyunca bu şekilde bekletin.",
         "Yaklaşık 35 dk. kadar kaynatın.",
         "Ocaktan almadan 10 dk. kadar önce limon tuzunu ilave edin.",
         "İstediğiniz kıvama geldiğinde ocaktan alın.",
@@ -410,7 +410,7 @@ export const kilerRecipes: Recipe[] = [
         "Domateslerin kabuklarını soyarak ister küçük küpler halinde doğrayın isterseniz de rendeleyebilirsiniz.",
         "Fasulyelerin sığabileceği ve rahatça karıştırabileceğiniz büyüklükte bir tencereye önce domatesleri sonra da fasulyeleri koyarak kapağını kapatın.",
         "Tencereyi ocağa alarak orta ateşte, fasulyelerin rengi dönünceye kadar pişmeye bırakın.",
-        "Alt kısımda olanlar daha çabuk pişeceğinden arada karıştırmayı ihmal etmeyin.  Ayrıca fasulye miktarına ya da cinsine bağlı olarak süre değişebilir ama 15 dakika gibi bir sürede hazır olacaktır.",
+        "Alt kısımda olanlar daha çabuk pişeceğinden arada karıştırmayı ihmal etmeyin. Ayrıca fasulye miktarına ya da cinsine bağlı olarak süre değişebilir ama 15 dakika gibi bir sürede hazır olacaktır.",
         "Yeterince pişen fasulyelerin rengi döndükten sonra ocağı kapatabilirsiniz.",
         "Soğuyan fasulyeleri birer pişirim olacak şekilde buzdolabı poşetlerine doldurarak havasını alın ve ağızlarını kapatın.",
         "4-6 kişilik bir aile için 2kg’lik taze fasulyeden 4 poşet hazırlayabilirsiniz.",
@@ -454,7 +454,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "4 quinces",
-        "4 cups powdered sugar",
+        "4 cups granulated sugar",
         "3 cups water",
         "1 tablespoon lemon juice",
         "3-4 cloves"
@@ -505,7 +505,7 @@ export const kilerRecipes: Recipe[] = [
         "1 çay bardağı üzüm sirkesi",
         "2 diş sarımsak",
         "3-4 tane karabiber",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 kg red peppers",
@@ -552,7 +552,7 @@ export const kilerRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Her çeşit artan yemekler"
+        "her çeşit artan yemekler"
       ],
       "en": [
         "All kinds of leftover dishes"
@@ -590,8 +590,8 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "4 kg kornişon salatalık",
         "1.5 kg acur",
-        "Yarım kg havuç",
-        "Yarım kg cin biberi",
+        "yarım kg havuç",
+        "yarım kg cin biberi",
         "1 kg sarımsak"
       ],
       "en": [
@@ -635,11 +635,11 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 kg kıyma",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı toz biber",
-        "Taco ekmeği",
-        "Cheddar veya tost peyniri"
+        "tuz",
+        "karabiber",
+        "kırmızı toz biber",
+        "taco ekmeği",
+        "cheddar veya tost peyniri"
       ],
       "en": [
         "1 kg ground meat",
@@ -684,11 +684,11 @@ export const kilerRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "​4 yemek kaşığı yoğurt (mümkünse ev yogurdu hazr kullanılacaksa yarım yaglı)",
-        "​1/2 (yarım) çay kaşığı toz zerdeçal",
-        "​1/2 (yarım) çay kaşığı toz zencefil",
-        "​1/2 (yarım) çay kaşığı toz tarçın (kan şekerini dengelemek için)",
-        "​Yarım limon suyu",
+        "4 yemek kaşığı yoğurt (mümkünse ev yoğurdu hazır kullanılacaksa yarım yağlı)",
+        "1/2 (yarım) çay kaşığı toz zerdeçal",
+        "1/2 (yarım) çay kaşığı toz zencefil",
+        "1/2 (yarım) çay kaşığı toz tarçın (kan şekerini dengelemek için)",
+        "yarım limonun suyu",
         "1 çay kaşığı pul biber"
       ],
       "en": [
@@ -769,14 +769,14 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "Yarım su bardağı şeker",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım su bardağı nişasta",
-        "Yarım paket kabartma tozu",
-        "Yarım paket vanilya",
+        "yarım su bardağı şeker",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı nişasta",
+        "yarım paket kabartma tozu",
+        "yarım paket vanilya",
         "1 tatlı kaşığı türk kahvesi",
-        "Yarım çay bardağı damla çikolata",
-        "Yarım su bardağı dövülmüş ceviz",
+        "yarım çay bardağı damla çikolata",
+        "yarım su bardağı dövülmüş ceviz",
         "1,5 su bardağı un kontrollü ekleyin"
       ],
       "en": [
@@ -826,7 +826,7 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "2 su bardağı aşurelik buğday",
         "2 yemek kaşığı un",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 cups dessert bulgur",
@@ -868,7 +868,7 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "5-6 patates",
         "1 kase dilimlenmiş mantar",
-        "Sıvı yağ"
+        "sıvı yağ"
       ],
       "en": [
         "5-6 potatoes",
@@ -919,12 +919,12 @@ export const kilerRecipes: Recipe[] = [
         "3 paket finger bisküvi",
         "1,5 tatlı kaşığı toz tarçın",
         "1 çay kaşığı toz zencefil",
-        "Yarım çay kaşığı toz karanfil ya da muskat rendesi ( ben muskat rendesi kullandım)",
+        "yarım çay kaşığı toz karanfil ya da muskat rendesi ( ben muskat rendesi kullandım)",
         "1 çay bardağı esmer şeker",
         "1 yemek kaşığı pekmez veya akçaağaç şurubu",
         "1 çay bardağı sıvı yağ",
         "50 gram tuzsuz tereyağı",
-        "Yarım çay bardağı ılık su",
+        "yarım çay bardağı ılık su",
         "1 çimdik tuz"
       ],
       "en": [
@@ -982,8 +982,8 @@ export const kilerRecipes: Recipe[] = [
         "1 çay kaşığı kekik",
         "1 çay kaşığı pul biber",
         "1-2 adet acı cin biber turşusu",
-        "Tuz",
-        "Yarım çay bardağı dövülmüş ceviz",
+        "tuz",
+        "yarım çay bardağı dövülmüş ceviz",
         "4 yemek kaşığı sıvı yağ",
         "2 yemek kaşığı zeytinyağı"
       ],
@@ -1047,7 +1047,7 @@ export const kilerRecipes: Recipe[] = [
       "en": [
         "6 kg gherkins",
         "5 liters of drinking water",
-        "250 g powdered sugar",
+        "250 g granulated sugar",
         "250 g rock salt",
         "100 g garlic",
         "1 cup grape vinegar",
@@ -1145,7 +1145,7 @@ export const kilerRecipes: Recipe[] = [
         "1 adet limon",
         "5 adet yeşil biber (elimdeki malzemeye göre göz kararı koydum)",
         "1 demet maydanoz",
-        "Buz"
+        "buz"
       ],
       "en": [
         "1 kg chanterelle mushrooms (I used as many mushrooms as we collected; you can do the same)",
@@ -1202,11 +1202,11 @@ export const kilerRecipes: Recipe[] = [
         "1 adet çubuk tarçın",
         "3 adet karanfil",
         "1 avuç tuzsuz fıstık (istenirse badem de kullanılabilir)",
-        "Yarım çay kaşığı limon tuzu"
+        "yarım çay kaşığı limon tuzu"
       ],
       "en": [
         "500 g firm sugar tomatoes",
-        "1.5 cups powdered sugar",
+        "1.5 cups granulated sugar",
         "1 cup water",
         "1 cinnamon stick",
         "3 cloves",
@@ -1259,7 +1259,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "2 kg figs",
-        "2 cups powdered sugar",
+        "2 cups granulated sugar",
         "1.5 cups water",
         "3-4 lemon salt",
         "1 teaspoon butter",
@@ -1302,10 +1302,10 @@ export const kilerRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım mor lahana",
+        "yarım mor lahana",
         "2 yemek kaşığı tuz",
         "1 yemek kaşığı limon tuzu",
-        "Aldığı kadar su",
+        "aldığı kadar su",
         "1 su bardağı sirke",
         "4 diş sarımsak"
       ],
@@ -1366,9 +1366,9 @@ export const kilerRecipes: Recipe[] = [
         "1 çay bardağı un",
         "1 adet yumurta",
         "1 tatlı kaşığı biber salçası",
-        "Pul biber",
-        "Karabiber",
-        "Tuz"
+        "pul biber",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "2 cups of fine bulgur for kofte",
@@ -1376,7 +1376,7 @@ export const kilerRecipes: Recipe[] = [
         "2 cups of hot water (put only a little at a time)",
         "1 teacup flour",
         "1 egg",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "Chili flakes",
         "Black pepper",
         "Salt"
@@ -1427,8 +1427,8 @@ export const kilerRecipes: Recipe[] = [
         "1 yemek kaşığı limon tuzu",
         "1 tatlı kaşığı toz şeker",
         "2 yemek kaşığı kaya tuzu",
-        "Yarım demet maydanoz",
-        "Zeytinyağı (üzerini örtecek miktarda)",
+        "yarım demet maydanoz",
+        "zeytinyağı (üzerini örtecek miktarda)",
         "1-2 adet acı biber(isteğe bağlı)"
       ],
       "en": [
@@ -1437,7 +1437,7 @@ export const kilerRecipes: Recipe[] = [
         "2 heads of garlic",
         "1 teacup grape vinegar",
         "1 tablespoon lemon salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "2 tablespoons rock salt",
         "Half a bunch parsley",
         "Olive oil (enough to cover it)",
@@ -1526,11 +1526,11 @@ export const kilerRecipes: Recipe[] = [
         "1 kilo kapya biber",
         "1 kelle sarımsak",
         "7/8 adet tatlı veya acı kıl biber",
-        "Yarım su bardağı sıvı yağ (zeytin yağıda olabilir)",
-        "Yarım su bardağı sirke",
+        "yarım su bardağı sıvı yağ (zeytin yağıda olabilir)",
+        "yarım su bardağı sirke",
         "3 yemek kaşığı salamura tuz",
         "1 tatlı kaşığı toz şeker",
-        "Yarım demet maydanoz"
+        "yarım demet maydanoz"
       ],
       "en": [
         "1 kg tomatoes",
@@ -1540,7 +1540,7 @@ export const kilerRecipes: Recipe[] = [
         "Half a cup vegetable oil (olive oil can also be used)",
         "Half a cup vinegar",
         "3 tablespoons brine salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "Half a bunch parsley"
       ]
     },
@@ -1681,12 +1681,12 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2.5 kg doğranmış incir",
-        "‎1.5 kg şeker ( aslında 2.5kg ya aynı iran da yapılıyor ama biz az şekerli olsun diye )",
-        "‎2 çubuk tarçın",
-        "‎8 adet karanfil",
-        "‎2.5 fındık kadar tereyağı",
-        "‎2-3 çay kaşığı limon tuzu",
-        "İsteğe göre ceviz"
+        "1.5 kg şeker ( aslında 2.5kg ya aynı iran da yapılıyor ama biz az şekerli olsun diye )",
+        "2 çubuk tarçın",
+        "8 adet karanfil",
+        "2.5 fındık kadar tereyağı",
+        "2-3 çay kaşığı limon tuzu",
+        "isteğe göre ceviz"
       ],
       "en": [
         "2.5 kg chopped figs",
@@ -1701,9 +1701,9 @@ export const kilerRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "İncirleri doğrayın ( küçükse doğramadan bütün atın) üzerine geçecek kadar şekeri koyun ve üstüne tarçınla karanfilleri ekleyerek yarım saat bekleyin sulansın(geceden yapmak isterseniz tarçın karanfil koymadan bir gece şekerde bekletin).",
-        "Yüksek ateşe koyun çok köpürmesin diye içine 2 fındık kadar tereyağı koyun ve tencereyi sallayarak karıştırın,kaşık değdirmeyin. ‎ ‎",
+        "Yüksek ateşe koyun çok köpürmesin diye içine 2 fındık kadar tereyağı koyun ve tencereyi sallayarak karıştırın,kaşık değdirmeyin.  ‎",
         "15 dakika harlı ateşte pişirin ,harlı kaynayan ateşe 2-3 çay kaşığı limon tuzu atıp 6 dk daha kaynatın.",
-        "İndirmeye yakin cevizleri koyun. Bir iki tür karıştırıp ocağı kapattıktan sonra ‎(5 dakika beklenebilir ilk sıcaklığı çıksın )öyle kavanozlara koyun ve kavanozları dezenfekte etmeyi unutmayın ‎ ‎afiyet olsun 🌹 ‎."
+        "İndirmeye yakin cevizleri koyun. Bir iki tür karıştırıp ocağı kapattıktan sonra (5 dakika beklenebilir ilk sıcaklığı çıksın )öyle kavanozlara koyun ve kavanozları dezenfekte etmeyi unutmayın ‎ ‎afiyet olsun 🌹 ‎."
       ],
       "en": [
         "Chop the figs (if they are small, throw them in whole), put enough sugar over them to cover, add the cinnamon and the cloves on top and wait for half an hour for them to release their juice (if you want to make it at night, leave them in sugar overnight without the cinnamon and cloves).",
@@ -1737,7 +1737,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "3 kilograms of small strawberries for jam",
-        "8 cups powdered sugar",
+        "8 cups granulated sugar",
         "1 teaspoon butter",
         "3-5 drops lemon juice"
       ]
@@ -1774,7 +1774,7 @@ export const kilerRecipes: Recipe[] = [
   {
     "id": "nefis-kiler-535",
     "name": {
-      "tr": "Acı Sos",
+      "tr": "Üzeri için acı sos",
       "en": "Hot Sauce"
     },
     "cuisine": "kiler",
@@ -1785,7 +1785,7 @@ export const kilerRecipes: Recipe[] = [
         "1 yemek kaşığı kırmızı acı toz biber",
         "1 yemek kaşığı sıvı yağ",
         "4 yemek kaşığı yoğurt",
-        "Bir fincan su"
+        "bir fincan su"
       ],
       "en": [
         "1 tablespoon red hot chili powder",
@@ -1824,8 +1824,8 @@ export const kilerRecipes: Recipe[] = [
         "5 yemek kaşığı tuz",
         "5 çay kaşığı limon tuzu",
         "2,5 bardak sirke (200 ml su bardağı ölçüsü olan klasik su bardaklarından olcak)",
-        "İsteğe bağlı cin biberi",
-        "Bolca sarımsak"
+        "isteğe bağlı cin biberi",
+        "bolca sarımsak"
       ],
       "en": [
         "3 kilos cucumbers",
@@ -1877,14 +1877,14 @@ export const kilerRecipes: Recipe[] = [
         "1 su bardağı üzüm sirkesi",
         "1 buçuk tatlı kaşığı limon tuzu",
         "3 tatlı kaşığı kaya tuzu",
-        "Sıcak su"
+        "sıcak su"
       ],
       "en": [
         "4 kilos village peppers",
         "1 head of garlic",
         "1 cup grape vinegar",
-        "1.5 tablespoons lemon salt",
-        "3 tablespoons rock salt",
+        "1.5 teaspoons lemon salt",
+        "3 teaspoons rock salt",
         "Hot water"
       ]
     },
@@ -1943,7 +1943,7 @@ export const kilerRecipes: Recipe[] = [
       "en": [
         "2 kg mulberries",
         "2 cups coarsely chopped walnuts",
-        "3 cups powdered sugar",
+        "3 cups granulated sugar",
         "2 large peaches",
         "1 large lemon juice",
         "2 packets vanilla",
@@ -2058,7 +2058,7 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "30 kg domates",
         "1 kilo kapya biber",
-        "Bir avuç tuz"
+        "bir avuç tuz"
       ],
       "en": [
         "30 kg tomatoes",
@@ -2103,7 +2103,7 @@ export const kilerRecipes: Recipe[] = [
         "1 su bardağı şeker",
         "1 yemek kaşığı tereyağı",
         "2 su bardağı süt",
-        "1 paket petibör bisküvi yada istediğiniz bisküvi"
+        "1 paket petibör bisküvi ya da istediğiniz bisküvi"
       ],
       "en": [
         "1 cup sugar",
@@ -2182,7 +2182,7 @@ export const kilerRecipes: Recipe[] = [
   {
     "id": "nefis-kiler-543",
     "name": {
-      "tr": "Pişmeyen Acı Sos",
+      "tr": "Pişmeyen Üzeri için acı sos",
       "en": "Uncooked Hot Sauce"
     },
     "cuisine": "kiler",
@@ -2191,8 +2191,8 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 kilo domates",
-        "Yarım kilo acı biber",
-        "I tutam maydanoz",
+        "yarım kilo acı biber",
+        "1 demet maydanoz",
         "10 diş sarımsak",
         "1 dolu yemek kaşığı tuz",
         "1 tatlı kaşığı kaya tuzu",
@@ -2247,11 +2247,11 @@ export const kilerRecipes: Recipe[] = [
         "1 kilo kızılcık 1su bardağı su",
         "1 su bardağı toz şeker",
         "1 çay kaşığı tereyağ",
-        "Yarım limon"
+        "yarım limon"
       ],
       "en": [
         "1 kilo cranberries, 1 cup of water",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "1 teaspoon butter",
         "Half a lemon"
       ]
@@ -2260,7 +2260,7 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "Önce kızılcıkları yıkayıp süzdüm orta boy tencereye koydum 1su bardağı şu ekledim kaynamaya bıraktım orta ısıda 10 dk kaynattım.",
         "Sonra blender ile az az çektim sonra farklı bir tencereye süzdüm çekirdekleri kalana dek kaşıkla ezdim özünü çıkardım.",
-        "Sonra tencereyi ocağa aldım 1su bardağı toz şekeri ekledim şeker eriyen dek karıştırdım kaynamaya başlayınca  1 çay kaşığı tereyağ köpüklenmesin diye ekledim yarım limon sıktım koyulaşıncaya kadar kaynadı.",
+        "Sonra tencereyi ocağa aldım 1su bardağı toz şekeri ekledim şeker eriyen dek karıştırdım kaynamaya başlayınca 1 çay kaşığı tereyağ köpüklenmesin diye ekledim yarım limon sıktım koyulaşıncaya kadar kaynadı.",
         "Sonra ocaktan alıp derin bir kaba şu koydum tencereyi o suyun içine koydum 5dk parlak görünsün diye sonra kavanoza koydum afiyet olsun."
       ],
       "en": [
@@ -2280,7 +2280,7 @@ export const kilerRecipes: Recipe[] = [
   {
     "id": "nefis-kiler-545",
     "name": {
-      "tr": "Tam Ölçülü Çıtır Çıtır Jalapeno Turşusu  (Videolu)",
+      "tr": "Tam Ölçülü Çıtır Çıtır Jalapeno Turşusu (Videolu)",
       "en": "Perfectly Measured Crispy Crispy Jalapeno Pickles (Video)"
     },
     "cuisine": "kiler",
@@ -2353,7 +2353,7 @@ export const kilerRecipes: Recipe[] = [
         "1 kilo red plums",
         "1 tablespoon starch",
         "1 cup water",
-        "1.5 cups powdered sugar"
+        "1.5 cups granulated sugar"
       ]
     },
     "steps": {
@@ -2440,14 +2440,14 @@ export const kilerRecipes: Recipe[] = [
         "7-8 diş sarımsak ( kabuklu )",
         "1 yemek kaşığı toz şeker",
         "1 tatlı kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı acı kırmızı toz biber",
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı acı kırmızı toz biber",
         "1 çay kaşığı kekik"
       ],
       "en": [
         "1.5 kg cherry tomatoes",
         "7-8 cloves garlic (with skin)",
-        "1 tablespoon powdered sugar",
+        "1 tablespoon granulated sugar",
         "1 teaspoon salt",
         "Half a teaspoon black pepper",
         "Half a teaspoon hot red chili powder",
@@ -2499,7 +2499,7 @@ export const kilerRecipes: Recipe[] = [
         "2 paket krema veya 1.5 su bardağı süt"
       ],
       "en": [
-        "2 cups powdered sugar",
+        "2 cups granulated sugar",
         "2 tablespoons butter",
         "2 packages cream or 1.5 cups milk"
       ]
@@ -2544,14 +2544,14 @@ export const kilerRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo kornişon salatalık",
+        "yarım kilo kornişon salatalık",
         "3 -4 adet sarımsak",
         "5 adet nohut",
         "1 çay bardağı sirke",
         "1 çay kaşığı şeker",
         "1 yemek kaşığı salamura tuz",
         "1 çay kaşığı limon tuzu",
-        "Kaynar su"
+        "kaynar su"
       ],
       "en": [
         "Half a kilo gherkins",
@@ -2610,13 +2610,13 @@ export const kilerRecipes: Recipe[] = [
         "3 yemek kaşığı zeytinyağı",
         "1 tatlı kaşığı kişniş tohumu ( ezip dövüyoruz)",
         "1 tatlı kaşığı tane karabiber",
-        "Çeyrek demet dereotu"
+        "çeyrek demet dereotu"
       ],
       "en": [
         "3 bunches of red radish",
         "3 cloves garlic",
         "1 teaspoon salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "2 tablespoons vinegar (grape or apple)",
         "3 tablespoons olive oil",
         "1 teaspoon coriander seed (we crush them)",
@@ -2668,7 +2668,7 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "800 gram jalapeño biber",
         "1 baş sarımsak",
-        "En son üzeri için; zeytinyağı"
+        "en son üzeri için; zeytinyağı"
       ],
       "en": [
         "800 gram jalapeno peppers",
@@ -2734,7 +2734,7 @@ export const kilerRecipes: Recipe[] = [
         "3 kg ayaş domates",
         "1 kg kalın etli kapya biber",
         "4 yemek kaşığı kaya tuzu (sofra tuzu kullanmayın konservenizi eritebilir)",
-        "1 adet limon suyu"
+        "1 adet limonun suyu"
       ],
       "en": [
         "6 kg meaty / ripe tomatoes (Bursa/plum tomatoes are ideal because they are not very watery)",
@@ -2826,11 +2826,11 @@ export const kilerRecipes: Recipe[] = [
       "tr": [
         "1 kilo kırmızı kapya biber",
         "1 kilo domates",
-        "Yarim kilo yeşil biber",
+        "yarim kilo yeşil biber",
         "1 kilo yoğurt",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Yarım kilo kuru soğan",
+        "yarım kilo kuru soğan",
         "1 baş sarımsak",
         "2 bardak haşlanmış nohut",
         "3 tane havuç",
@@ -2907,11 +2907,11 @@ export const kilerRecipes: Recipe[] = [
         "1 kg küçük boy çilek",
         "3 su bardağı toz şeker (200 ml)",
         "1 çay kaşığı tereyağ",
-        "Çeyrek limon suyu"
+        "çeyrek limonun suyu"
       ],
       "en": [
         "1 kg small strawberries",
-        "3 cups powdered sugar (200 ml)",
+        "3 cups granulated sugar (200 ml)",
         "1 teaspoon butter",
         "Quarter lemon juice"
       ]
@@ -2958,7 +2958,7 @@ export const kilerRecipes: Recipe[] = [
         "1 çay kaşığı limon tuzu (her 1 l kavanoz için)",
         "1 çay kaşığı şeker (her 1 l kavanoz için)",
         "1 çay bardağı üzüm veya elma sirkesi (her 1 l kavanoz için)",
-        "Kaynar su"
+        "kaynar su"
       ],
       "en": [
         "2 kg jalapeno peppers",
@@ -3011,7 +3011,7 @@ export const kilerRecipes: Recipe[] = [
         "1 kilo mürdüm eriği",
         "2 su bardağı şeker",
         "2 su bardağı şeker",
-        "Yarım tatlı kaşığı limon suyu",
+        "yarım tatlı kaşığı limon suyu",
         "1 bardak ceviz içi"
       ],
       "en": [
@@ -3060,7 +3060,7 @@ export const kilerRecipes: Recipe[] = [
         "500 gram şeker",
         "1 çay bardağı su",
         "1 tatlı kaşığı tereyağı",
-        "Yarım limon suyu"
+        "yarım limonun suyu"
       ],
       "en": [
         "1 kg cranberries",
@@ -3109,7 +3109,7 @@ export const kilerRecipes: Recipe[] = [
         "500 gram acı kıl biber",
         "3 kapya biber",
         "1 baş sarımsak",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 çay kaşığı limon tuzu",
         "1 su bardağı sirke",
         "1 su bardağı zeytinyağı veya sıvı yağ",
@@ -3228,7 +3228,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "1 kilo mulberries",
-        "2 cups powdered sugar",
+        "2 cups granulated sugar",
         "1 cup water"
       ]
     },
@@ -3309,8 +3309,8 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 kilo mürdüm eriği",
-        "Yarım bağ nane",
-        "Yarım bağ maydanoz",
+        "yarım bağ nane",
+        "yarım bağ maydanoz",
         "1 baş sarımsak"
       ],
       "en": [
@@ -3358,7 +3358,7 @@ export const kilerRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Taze fasulye"
+        "taze fasulye"
       ],
       "en": [
         "Fresh green beans"
@@ -3408,15 +3408,15 @@ export const kilerRecipes: Recipe[] = [
         "2 adet yumurta (1’inin sarısı üzerine)",
         "2 paket kabartma tozu",
         "1 demet dereotu",
-        "Beyaz peynir",
-        "Kontrollü şekilde yaklaşık 5 su bardağı un"
+        "beyaz peynir",
+        "kontrollü şekilde yaklaşık 5 su bardağı un"
       ],
       "en": [
         "150 gram butter or margarine",
         "1 teacup vegetable oil",
         "1 teacup water",
         "1 teaspoon salt",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "2 eggs (one of the yolks for the top)",
         "2 packages baking powder",
         "1 bunch dill",
@@ -3468,7 +3468,7 @@ export const kilerRecipes: Recipe[] = [
         "1,5 çay bardağı sıvı yağ (veya zeytinyağı)",
         "1 yemek kaşığı kaya tuzu (damak zevkinize göre ayarlayabilirsiniz)",
         "1,5 tatlı kaşığı tane karabiber",
-        "11 – 12 diş sarımsak ince doğranacak",
+        "11-12 diş sarımsak, ince doğranmış",
         "1 demete yakın maydanoz (yaklaşık 3/4 (bir yarım+bir çeyrek) demet doğranacak)"
       ],
       "en": [
@@ -3477,7 +3477,7 @@ export const kilerRecipes: Recipe[] = [
         "1.5 cups grape vinegar",
         "1.5 teacups vegetable oil (or olive oil)",
         "1 tablespoon rock salt (you can adjust it according to your taste)",
-        "1.5 tablespoons black peppercorns",
+        "1.5 teaspoons black peppercorns",
         "11-12 cloves garlic, to be chopped finely",
         "Nearly 1 bunch parsley (about 3/4 of a bunch, one and a half plus one quarter, will be chopped)"
       ]
@@ -3523,11 +3523,11 @@ export const kilerRecipes: Recipe[] = [
         "1 adet portakalın rendelenmiş kabuğu",
         "1 adet çubuk tarçın",
         "4-5 adet karanfil",
-        "Yarım limon suyu"
+        "yarım limonun suyu"
       ],
       "en": [
         "1 kg carrot",
-        "1 kg powdered sugar",
+        "1 kg granulated sugar",
         "3.5 cups water",
         "The juice of 1 orange",
         "The grated peel of 1 orange",
@@ -3570,7 +3570,7 @@ export const kilerRecipes: Recipe[] = [
         "1 kilo kırmızı kapya biber",
         "1 kilo top patlıcan",
         "250 gram ince kıl acı biber (tatlı da olabilir)",
-        "Lezzetlendirmek için 2.baş sarımsak",
+        "lezzetlendirmek için 2.baş sarımsak",
         "1 su bardağı zeytinyağı",
         "2 yemek kaşığı toz şeker",
         "2 yemek kaşığı tuz",
@@ -3585,7 +3585,7 @@ export const kilerRecipes: Recipe[] = [
         "250 gram thin long hot peppers (sweet can also be used)",
         "2nd head garlic for flavor",
         "1 cup olive oil",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "2 tablespoons salt",
         "1 tablespoon black pepper",
         "1 tablespoon powdered candy",
@@ -3642,8 +3642,8 @@ export const kilerRecipes: Recipe[] = [
         "3 yemek kaşığı toz şeker",
         "1 baş sarımsak",
         "1 tatlı kaşığı tuz",
-        "Yarım demet maydanoz",
-        "Yarım demet dereotu"
+        "yarım demet maydanoz",
+        "yarım demet dereotu"
       ],
       "en": [
         "1 kg mulberries",
@@ -3653,7 +3653,7 @@ export const kilerRecipes: Recipe[] = [
         "1 teaspoon red chili powder",
         "1 tablespoon dried mint",
         "3 tablespoons pomegranate molasses",
-        "3 tablespoons powdered sugar",
+        "3 tablespoons granulated sugar",
         "1 head garlic",
         "1 teaspoon salt",
         "Half a bunch parsley",
@@ -3791,7 +3791,7 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "30 kilo kışlık yumurta domates",
-        "2 kilo biber (tatlı yada acı size kalmış)"
+        "2 kilo biber (tatlı ya da acı size kalmış)"
       ],
       "en": [
         "30 kilos winter egg tomatoes",
@@ -3928,7 +3928,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "2 kg mulberries",
-        "4 cups powdered sugar",
+        "4 cups granulated sugar",
         "The juice of 1 lemon",
         "2 cinnamon sticks",
         "3 cloves"
@@ -4038,7 +4038,7 @@ export const kilerRecipes: Recipe[] = [
         "4 adet domates rendesi",
         "5 diş sarımsak",
         "1 demet maydanoz",
-        "Yarım su bardağı zeytinyağı",
+        "yarım su bardağı zeytinyağı",
         "1 tatlı kaşığı kaya tuzu",
         "2 yemek kaşığı sirke",
         "1 tatlı kaşığı pul biber",
@@ -4119,7 +4119,7 @@ export const kilerRecipes: Recipe[] = [
         "1 adet mor lahana",
         "1 kg acur",
         "1 adet kelek",
-        "Yarım kg sivri biber",
+        "yarım kg sivri biber",
         "3 baş sarımsak",
         "2 adet limon"
       ],
@@ -4169,8 +4169,8 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1,5 kilo kadar kırmızı kapya biber",
-        "Yarım çay bardağı elma sirkesi",
-        "Yarım çay bardağı zeytinyağ ya da sıvı yağ",
+        "yarım çay bardağı elma sirkesi",
+        "yarım çay bardağı zeytinyağ ya da sıvı yağ",
         "6-7 diş sarımsak",
         "1 kase kadar ince kıyılmış maydanoz",
         "1 tatlı kaşığı tuz"
@@ -4224,15 +4224,15 @@ export const kilerRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım kilo biber",
-        "Yarım su bardağından biraz fazla üzüm sirkesi",
+        "yarım kilo biber",
+        "yarım su bardağından biraz fazla üzüm sirkesi",
         "1 çay bardağı zeytinyağı",
         "6 diş sarımsak",
         "1 tatlı kaşığı dolusu turşuluk tuz (öğütülmemiş olandan)"
       ],
       "en": [
         "Half a kilo peppers",
-        "A little more than half a teacup grape vinegar",
+        "A little more than half a cup grape vinegar",
         "1 teacup olive oil",
         "6 cloves garlic",
         "1 heaped teaspoon pickling salt (unground)"
@@ -4273,7 +4273,7 @@ export const kilerRecipes: Recipe[] = [
         "1 baş sarımsak",
         "3-4 diş karanfil",
         "1 çay bardağı sirke",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "2 yemek kaşığı nişasta (domatesler sulu değilse 1 yemek kaşığı da yeterli)",
         "2 yemek kaşığı şeker tozu",
         "2 yemek kaşığı tuz",
@@ -4390,7 +4390,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "1 kg mulberries",
-        "2 cups powdered sugar",
+        "2 cups granulated sugar",
         "2 tablespoons lemon juice",
         "4-5 cloves",
         "1/2 (half) teacup water"
@@ -4441,7 +4441,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "3 kg firm peaches",
-        "8 cups powdered sugar",
+        "8 cups granulated sugar",
         "1/2 (half) small lemon juice",
         "About 1 teaspoon butter"
       ]
@@ -4539,9 +4539,9 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta akı",
-        "Yarım su bardağı pudra şekeri",
-        "Yarım su bardağı toz antep fıstığı",
-        "Yarım su bardağı ceviz",
+        "yarım su bardağı pudra şekeri",
+        "yarım su bardağı toz antep fıstığı",
+        "yarım su bardağı ceviz",
         "1 su bardağı çekilmiş burçak bisküvi"
       ],
       "en": [
@@ -4639,7 +4639,7 @@ export const kilerRecipes: Recipe[] = [
       ],
       "en": [
         "1 package margarine",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "2 eggs",
         "5 cups flour",
         "1 small package cocoa",
@@ -4651,19 +4651,19 @@ export const kilerRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Margarini alalım üzerine toz şekeri ve yumurtayı kırıyoruz bir kaç saniye elimizle yoğurmaya başlayalım üzerine yavaş yavaş unu ilave edelim ele yapışmayan bir hamur elde edelim.",
-        "kabartma tozu ilave edelim yumuşak bir hamur elde edene kadar yoğurmaya başlayalım üzerine vanilyayı alalım elimizle yoğurmaya başlayalım. Üzerine cevizi bıçak yardımı ile küçük doğrayalım, kabın içine alalım ve karıştıralım.",
-        "Dondurma aparatı ile hamurumuzu şeklini verelim.",
-        "Fırın tepsisine yağlı kağıdı serelim üzerine dondurma aparatı ile şekil verdiğimiz hamuru fırın tepsisine dizelim.",
+        "Kabartma tozu ilave edelim; yumuşak bir hamur elde edene kadar yoğurmaya başlayalım. Üzerine vanilyayı alalım ve elimizle yoğurmaya devam edelim. Cevizi bıçak yardımıyla küçük doğrayalım, kabın içine alalım ve karıştıralım.",
+        "Dondurma aparatı ile hamurumuzu şekillendirelim.",
+        "Fırın tepsisine yağlı kağıdı serelim ve dondurma aparatı ile şekil verdiğimiz hamuru fırın tepsisine dizelim.",
         "180 derecede 20 dakika pişirelim.",
-        "soğuduktan sonra tek tek streç film ile sardım ve dondurucu için aldığım saklama kaplarının içine koydum sizler uygun olan bir kabın içine koyabilirsiniz dondurucudan çıkardığınız zaman 20 dakika sonra yiyebilirsiniz afiyet olsun."
+        "Soğuduktan sonra tek tek streç film ile sardım ve dondurucu için aldığım saklama kaplarının içine koydum. Sizler uygun olan bir kabın içine koyabilirsiniz. Dondurucudan çıkardığınız zaman 20 dakika sonra yiyebilirsiniz. Afiyet olsun."
       ],
       "en": [
-        "Let us take the margarine, put the powdered sugar over it and crack the eggs in; let us start kneading by hand for a few seconds and let us add the flour slowly so that we get a dough that does not stick to the hands.",
-        "Let us add the baking powder and start kneading until we get a soft dough; let us take the vanilla and start kneading by hand. Let us chop the walnuts finely with the help of a knife, take them into the bowl and mix.",
+        "Let us take the margarine, put the granulated sugar over it and crack the eggs in; let us start kneading by hand for a few seconds and add the flour slowly so that we get a dough that does not stick to the hands.",
+        "Let us add the baking powder and start kneading until we get a soft dough. Let us add the vanilla and continue kneading by hand. Let us chop the walnuts finely with a knife, put them into the bowl and mix.",
         "Let us shape our dough with the cookie press.",
-        "Let us lay parchment paper on the baking tray and let us line up the dough that we shaped with the cookie press on the baking tray.",
-        "Let us cook it at 180 degrees for 20 minutes.",
-        "After it cooled, I wrapped them one by one in cling film and put them into the storage containers that I bought for the freezer; you can put them into a suitable container, and you can eat them 20 minutes after taking them out of the freezer. Enjoy your meal."
+        "Let us line the baking tray with parchment paper and arrange the dough we shaped with the cookie press on it.",
+        "Let us bake it at 180 degrees for 20 minutes.",
+        "After they cooled, I wrapped them one by one in cling film and put them into the storage containers I had bought for the freezer. You can put them into a suitable container. You can eat them 20 minutes after taking them out of the freezer. Enjoy your meal."
       ]
     },
     "alternatives": [],
@@ -4684,19 +4684,19 @@ export const kilerRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kg çeri domates",
+        "yarım kg çeri domates",
         "1 yemek kaşığı nohut",
         "6-7 diş sarımsak",
         "3 çay kaşığı kaya tuzu",
-        "Yarım su bardağından az sirke",
-        "Su (içme suyu)"
+        "yarım su bardağından az sirke",
+        "su (içme suyu)"
       ],
       "en": [
         "Half a kg cherry tomatoes",
         "1 tablespoon chickpeas",
         "6-7 cloves garlic",
         "3 teaspoons rock salt",
-        "Less than half a teacup vinegar",
+        "Less than half a cup vinegar",
         "Water (drinking water)"
       ]
     },
@@ -4749,7 +4749,7 @@ export const kilerRecipes: Recipe[] = [
         "1 liter drinking water",
         "3 tablespoons rock salt",
         "1 teaspoon lemon salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "1 teacup grape or apple vinegar",
         "4-5 cloves garlic",
         "1 piece red cabbage or beetroot",
@@ -4758,18 +4758,18 @@ export const kilerRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "tencereye içme suyunu, kaya tuzunu, limon tuzunu, tozşekerini ve sirkeyi ekleyip içiçe karıştıralımki tuzlar erisin.",
-        "Tuzlar yeterince eriyince bıçak sırtı ile ezilmiş sarımsak dişlerini ve kırmızı lahana parçasını ekleyip ocağa yollayalım.",
-        "Kaynamaya başlayınca 5 dakika daha kaynatalım lahananın rengi iyice suya gaçsin ve sarımsak aroması içice çıksın diye. Acı seviyorsanız acı biber de ekleyebilirsiniz ben eklemedim. Turşu suyu artık hazır.",
-        "Sebze parçalarını sudan ayıralım. Temiz bir cam şişeye dikkatlice turşu suyunu dökelim ve iyice soğumasını bekleyip buzdolabına kaldıralım.",
-        "Kebapcılardan veya balık ekmekçilerden alışık olduğumuz ikramlık servis edilen turşu suyun aynısı oldu diyebilirim. Siz de seviyorsanız mutlaka deneyin. Afiyet şifa olsun."
+        "Tencereye içme suyunu, kaya tuzunu, limon tuzunu, toz şekerini ve sirkeyi ekleyip tuzlar eriyene kadar iyice karıştıralım.",
+        "Tuzlar yeterince eriyince bıçak sırtıyla ezilmiş sarımsak dişlerini ve kırmızı lahana parçasını ekleyip ocağa koyalım.",
+        "Kaynamaya başlayınca lahananın rengi iyice suya geçsin ve sarımsak aroması ortaya çıksın diye 5 dakika daha kaynatalım. Acı seviyorsanız acı biber de ekleyebilirsiniz; ben eklemedim. Turşu suyu artık hazır.",
+        "Sebze parçalarını sudan ayıralım. Temiz bir cam şişeye dikkatlice turşu suyunu dökelim; iyice soğumasını bekleyip buzdolabına kaldıralım.",
+        "Kebapçılardan veya balık ekmekçilerden alışık olduğumuz ikramlık turşu suyunun aynısı olduğunu söyleyebilirim. Siz de seviyorsanız mutlaka deneyin. Afiyet şifa olsun."
       ],
       "en": [
-        "Add the drinking water, the rock salt, the lemon salt, the powdered sugar and the vinegar into the pot and mix until the salts dissolve.",
-        "When the salts have dissolved sufficiently, add the garlic cloves crushed with the back of a knife and the piece of red cabbage and send it to the stove.",
-        "When it starts boiling, let us boil for 5 more minutes so that the color of the cabbage passes thoroughly into the water and the aroma of the garlic comes out well. If you like it hot, you can also add the hot pepper; I did not add it. Our pickling brine is now ready.",
-        "Let us separate the vegetable pieces from the water. Let us carefully pour the pickling brine into a clean glass bottle and wait for it to cool completely and put it in the refrigerator.",
-        "I can say that it is the same pickling brine served as an accompaniment that we are accustomed to getting from kebab houses or fish sandwich shops. You must definitely try it as well if you like it. Enjoy your meal, may it be good for your health."
+        "Add the drinking water, rock salt, lemon salt, granulated sugar and vinegar to the pot and mix well until the salts dissolve.",
+        "When the salts have dissolved sufficiently, add the garlic cloves crushed with the back of a knife and the piece of red cabbage and put the pot on the stove.",
+        "When it starts boiling, let it boil for 5 more minutes so that the color of the cabbage fully infuses into the water and the garlic aroma comes through. If you like heat, you can also add a hot pepper; I did not. The pickling brine is now ready.",
+        "Let us separate the vegetable pieces from the water. Let us carefully pour the pickling brine into a clean glass bottle, wait for it to cool completely and put it in the refrigerator.",
+        "I can say that it is the same pickling brine served as an accompaniment that we are used to getting from kebab houses or fish sandwich shops. You should definitely try it if you like it. Enjoy, and may it do you good."
       ]
     },
     "alternatives": [],
@@ -4794,14 +4794,14 @@ export const kilerRecipes: Recipe[] = [
         "1 kg kornişon",
         "0,5 kg havuç",
         "1 baş sarımsak",
-        "Kaya tuzu",
-        "Sirke",
-        "Toz şeker",
+        "kaya tuzu",
+        "sirke",
+        "toz şeker",
         "3 kg lık kavanoz için turşu suyu ölçüleri;",
         "1 su bardağı üzüm sirkesi",
         "5 yemek kaşığı kaya tuzu",
         "0,5 yemek kaşığı toz şeker",
-        "Şişenin tamamını dolduracak kadar sıcak su"
+        "şişenin tamamını dolduracak kadar sıcak su"
       ],
       "en": [
         "2 kg cucumbers",
@@ -4810,11 +4810,11 @@ export const kilerRecipes: Recipe[] = [
         "1 head garlic",
         "Rock salt",
         "Vinegar",
-        "Powdered sugar",
+        "granulated sugar",
         "Pickling brine measurements for a 3 kg jar;",
         "1 cup grape vinegar",
         "5 tablespoons rock salt",
-        "0.5 tablespoon powdered sugar",
+        "0.5 tablespoon granulated sugar",
         "Enough hot water to fill the whole jar"
       ]
     },
@@ -4862,7 +4862,7 @@ export const kilerRecipes: Recipe[] = [
         "3 lt drinking water (15 cups)",
         "1 cup coarse rock salt",
         "1 heaped tablespoon lemon salt",
-        "2 teaspoons powdered sugar",
+        "2 teaspoons granulated sugar",
         "3 cups vinegar",
         "A handful of chickpeas",
         "3 heads garlic"
@@ -4960,11 +4960,11 @@ export const kilerRecipes: Recipe[] = [
         "500 gram toz şeker",
         "1 orta boy çay bardağı soğuk su",
         "1 çay kaşığı tereyağ",
-        "Yarım çay kaşığı limon tuzu"
+        "yarım çay kaşığı limon tuzu"
       ],
       "en": [
         "800 gram mulberries",
-        "500 gram powdered sugar",
+        "500 gram granulated sugar",
         "1 medium teacup cold water",
         "1 teaspoon butter",
         "Half a teaspoon lemon salt"
@@ -5007,7 +5007,7 @@ export const kilerRecipes: Recipe[] = [
         "4 kilo domates",
         "1 çay bardağı sıvı yağ",
         "1 baş sarımsak",
-        "Yarım çay bardağı sirke",
+        "yarım çay bardağı sirke",
         "3 yemek kaşığı tuz",
         "2 tatlı kaşığı şeker"
       ],
@@ -5060,7 +5060,7 @@ export const kilerRecipes: Recipe[] = [
   {
     "id": "nefis-kiler-597",
     "name": {
-      "tr": "Domatesli Acı Sos",
+      "tr": "Domatesli Üzeri için acı sos",
       "en": "Hot Sauce With Tomatoes"
     },
     "cuisine": "kiler",
@@ -5121,9 +5121,9 @@ export const kilerRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 kilo kapya biber",
-        "Turşuluk tuz",
-        "Biraz sıvı yağ",
-        "Su"
+        "turşuluk tuz",
+        "biraz sıvı yağ",
+        "su"
       ],
       "en": [
         "2 kilo bell peppers",
@@ -5176,13 +5176,13 @@ export const kilerRecipes: Recipe[] = [
         "1 kg kapya biber",
         "1 dolu yemek kaşığı tuz",
         "1 tatlı kaşığı toz şeker",
-        "Yarım çay bardağı zeytinyağı ( sıvı yağ da kullanabilirsiniz)"
+        "yarım çay bardağı zeytinyağı ( sıvı yağ da kullanabilirsiniz)"
       ],
       "en": [
         "6 kg tomatoes",
         "1 kg bell peppers",
         "1 heaped tablespoon salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "Half a teacup olive oil (you can also use vegetable oil)"
       ]
     },

@@ -12,6 +12,10 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // One-off Node migration/audit scripts and local tooling, not app source.
+    "scripts/**",
+    "nefis-scraper/**",
+    ".tmp-*",
   ]),
 ]);
 

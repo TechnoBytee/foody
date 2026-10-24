@@ -8,7 +8,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
     cuisine: "et",
     time: 90,
     difficulty: "easy",
-    ingredients: { tr: ["yulaf", "nohut", "sebze", "et suyu", "bal", "tuz", "kekik"], en: ["yulaf", "nohut", "sebze", "et suyu", "bal", "tuz", "kekik"] },
+    ingredients: { tr: ["yulaf", "nohut", "sebze", "et suyu", "bal", "tuz", "kekik"], en: ["oats", "chickpeas", "vegetables", "broth", "honey", "salt", "thyme"] },
     steps: {
       tr: [
         "Yulaf ve nohudu et suyunda yumuşayana kadar pişirin.",
@@ -37,7 +37,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
     cuisine: "et",
     time: 35,
     difficulty: "easy",
-    ingredients: { tr: ["buğday", "süt", "safran", "tarçın", "yumurta sarısı", "bal"], en: ["buğday", "süt", "safran", "tarçın", "yumurta sarısı", "bal"] },
+    ingredients: { tr: ["buğday", "süt", "safran", "tarçın", "yumurta sarısı", "bal"], en: ["wheat", "milk", "saffron", "cinnamon", "egg yolk", "honey"] },
     steps: {
       tr: [
         "Buğdayı sütte yumuşayana kadar pişirin.",
@@ -66,7 +66,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "easy",
-    ingredients: { tr: ["sarı bezelye", "tereyağı", "tuz", "karabiber", "soğan"], en: ["sarı bezelye", "tereyağı", "tuz", "karabiber", "soğan"] },
+    ingredients: { tr: ["sarı bezelye", "tereyağı", "tuz", "karabiber", "soğan"], en: ["yellow peas", "butter", "salt", "black pepper", "onion"] },
     steps: {
       tr: [
         "Bezelyeleri yumuşayana kadar haşlayın.",
@@ -95,7 +95,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
     cuisine: "et",
     time: 70,
     difficulty: "medium",
-    ingredients: { tr: ["badem", "tavuk", "pirinç unu", "bal", "gül suyu", "süt"], en: ["badem", "tavuk", "pirinç unu", "bal", "gül suyu", "süt"] },
+    ingredients: { tr: ["badem", "tavuk", "pirinç unu", "bal", "gül suyu", "süt"], en: ["almonds", "chicken", "rice flour", "honey", "rose water", "milk"] },
     steps: {
       tr: [
         "Bademleri tavuk suyunda kaynatıp süzün.",
@@ -123,7 +123,7 @@ export const ortaCagAvrupaRecipes: Recipe[] = [
     cuisine: "et",
     time: 45,
     difficulty: "easy",
-    ingredients: { tr: ["elma", "sirke", "bal", "tarçın", "şeker"], en: ["elma", "sirke", "bal", "tarçın", "şeker"] },
+    ingredients: { tr: ["elma", "sirke", "bal", "tarçın", "şeker"], en: ["apple", "vinegar", "honey", "cinnamon", "sugar"] },
     steps: {
       tr: [
         "Elmaları sirkeyle kaynatıp süzün.",

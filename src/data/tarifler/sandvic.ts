@@ -15,10 +15,10 @@ export const sandvicRecipes: Recipe[] = [
         "600 gr un (yaklaşık 5 su bardağı)",
         "120 gram tereyağı (veya margarin)",
         "2 çay kaşığı tuz",
-        "220 ml ılık süt (1 su bardağından biraz fazla)",
+        "220 ml ılık süt (1 su bardağından biraz fazla)",
         "150 ml ılık su (1 su bardağından iki parmak az)",
         "1 çay kaşığı şeker",
-        "Yarım yaş maya (20g)"
+        "yarım yaş maya (20g)"
       ],
       "en": [
         "600 g flour (about 5 cups)",
@@ -42,7 +42,7 @@ export const sandvicRecipes: Recipe[] = [
         "Bu süreçten sonra yumurta, su ve süt karışımını fırçayla sürün.",
         "Susam serpin ve önceden ısınmış fırında 200 derecede alt üst 17-20 dakika pişirin.",
         "Hamburger ekmeğimiz hazır fırından alarak telin üstünde üstü kapalı soğumaya bırakın.",
-        "Hamburger köftesi için kıymaya tuz, karabiber, kimyon ve domates tozu ilave edilir ve  iyice yoğrulur.",
+        "Hamburger köftesi için kıymaya tuz, karabiber, kimyon ve domates tozu ilave edilir ve iyice yoğrulur.",
         "Hafif unlanmış bir yerde kıyma elle düzleştirilir ve bir bardakla yuvarlak çıkartılır.",
         "Buzluğa sığacak bir tabağa dizilir.",
         "Üstüne yağlı kart serilir ve bir sıra daha yapılır.",
@@ -113,7 +113,7 @@ export const sandvicRecipes: Recipe[] = [
         "Ardından hamuru toparlayın ve üzerini temiz bir örtü ile örterek yaklaşık 45 dakika mayalanmaya bırakın.",
         "Mayalanan hamurun havasını alıp tekrar toparladıktan sonra 8 bezeye ayırın.",
         "Tezgahı hafif yağlayıp, her bezeyi yuvarlayın.",
-        "Ardından bezeleri hafifçe unlanmış tabağa alarak  üzerini örtüp tekrar mayalanmaya bırakın 15-20 dk.",
+        "Ardından bezeleri hafifçe unlanmış tabağa alarak üzerini örtüp tekrar mayalanmaya bırakın 15-20 dk.",
         "Her bezeyi hafif oval şeklinde açın ve iç içe katlayarak şekil verin. Bu aşamada katlanan kısımlara parmak uçlarınız ile bastırmalısınız ki açılmasın.",
         "Küçük ve ince gözükecekler korkmayın.",
         "Şekillendirdiğiniz ekmekleri pişirme kağıdı serili tepsiye alın ve tepside üzerini örtüp tekrar 40 dk mayalanmaya bırakın ve kocaman olacaklar.",
@@ -219,7 +219,7 @@ export const sandvicRecipes: Recipe[] = [
         "2 yemek kaşığı domates salçası",
         "2 yemek kaşığı tereyağı",
         "2 su bardağı sıcak su (400 ml)",
-        "Yarım tatlı kaşığı tuz",
+        "yarım tatlı kaşığı tuz",
         "1 tatlı kaşığı un"
       ],
       "en": [
@@ -240,7 +240,7 @@ export const sandvicRecipes: Recipe[] = [
         "Son olarak tuzu da ilave edelim ve sosumuzu kaynamaya bırakalım.",
         "Salçalı sosumuz kaynayınca sosisleri içerisine alalım.",
         "Sosisleri orta ateşte çevirerek yaklaşık 20 dakika kadar orta ateşte pişirelim.",
-        "Sosisler piştikten sonra sandviç ekmeğinin içerisine marul, patates kızartması, sosis, doğranmış turşu, ketçap, mayonez, hardal ekleyerek servis edelim.  Dilerseniz pişen sosislerinizin suyundan 1-2 yemek kaşığı kadar sandviç ekmeklerinizin içine gezdirerek de sandviçinizi hazırlayabilirsiniz. Afiyet olsun!"
+        "Sosisler piştikten sonra sandviç ekmeğinin içerisine marul, patates kızartması, sosis, doğranmış turşu, ketçap, mayonez, hardal ekleyerek servis edelim. Dilerseniz pişen sosislerinizin suyundan 1-2 yemek kaşığı kadar sandviç ekmeklerinizin içine gezdirerek de sandviçinizi hazırlayabilirsiniz. Afiyet olsun!"
       ],
       "en": [
         "For the sausage sandwich, first melt the butter in a suitable pan.",
@@ -276,7 +276,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 dal taze soğan",
         "1 çay kaşığı tuz",
         "1 çay kaşığı toz kırmızı biber",
-        "Yarım çay kaşığı karabiber"
+        "yarım çay kaşığı karabiber"
       ],
       "en": [
         "3 cans of canned corn (375 g drained weight)",
@@ -294,7 +294,7 @@ export const sandvicRecipes: Recipe[] = [
         "Üzerine tuz, karabiber ve kırmızı toz biberi ekleyip karıştıralım.",
         "Hazırladığımız bu harcı, pişirme kağıdı serdiğimiz fırın tepsisine 2 eşit parça halinde ve yuvarlak lavaş formu vererek yayalım.",
         "Önceden ısıttığımız 180 °C fırında, alt üst fansız ayarda 20 dakika pişirelim. Ben 2 tepside, 4 tane mısır lavaş olacak şekilde hazırladım. Siz kişi sayınıza göre malzemeleri arttırabilirsiniz.",
-        "İç dolgusu için ayrı bir  karıştırma kabına yoğurt, süzme yoğurt, hardal, dereotu, tuz ve haşlayıp didiklediğimiz tavuk göğsünü alıp karıştıralım.",
+        "İç dolgusu için ayrı bir karıştırma kabına yoğurt, süzme yoğurt, hardal, dereotu, tuz ve haşlayıp didiklediğimiz tavuk göğsünü alıp karıştıralım.",
         "Fırından çıkıp ılıyan mısır lavaşlarımızın üzerine önce marul yapraklarını, ardından hazırladığımız tavuklu iç harcı yerleştirelim. Dilerseniz farklı yeşillikler de ekleyebilirsiniz.",
         "Son olarak dilimlediğimiz kornişon turşuları da ekleyip katlayalım. Mısır sandviçlerimiz servise hazır. Afiyet olsun!"
       ],
@@ -408,7 +408,7 @@ export const sandvicRecipes: Recipe[] = [
         "Hamburgerlerimizin yumuşak olması için fırının en alt tabanına fırın tepsisi koyup içine 1 bardak su koyalım sonra ekmeklerimizi fırının orta kısmına koyup yaklaşık 20-25 dk üzeri kızarana kadar pişirelim.",
         "Fırından çıkarıp soğumaya bırakalım.",
         "İçi için kıymamıza bütün malzemeleri ince doğrayıp katalım isteyen kendi arzusuna göre hazırlayabilir iyice yoğurduktan sonra hamburger büyüklüğünde köfteler yapıp margarinle kızartalım.",
-        "Sonra soğuyan ekmeklerimizi kesip arasına köftelerimizi domateslerimizi marulumuzu isteyen soğanı istediğimiz gibi süsleyelim dilim peynir koyacaksak hafif erimesi için mikrodalga fırında yada normal fırında 1 dk kadar ısıtalım.Afiyet olsun."
+        "Sonra soğuyan ekmeklerimizi kesip arasına köftelerimizi domateslerimizi marulumuzu isteyen soğanı istediğimiz gibi süsleyelim dilim peynir koyacaksak hafif erimesi için mikrodalga fırında ya da normal fırında 1 dk kadar ısıtalım.Afiyet olsun."
       ],
       "en": [
         "First, for our hamburger buns, put the flour into a bowl, add all our ingredients on top, mix with the help of a spoon and then knead it by hand; if it is sticky you can add more flour. Take the dough to the kitchen counter and knead it a little more by pressing it against the counter.",
@@ -442,7 +442,7 @@ export const sandvicRecipes: Recipe[] = [
         "2 adet yeşil biber",
         "sıvıyağ",
         "tuz",
-        "Üzeri için rendelenmiş kaşar peyniri"
+        "üzeri için rendelenmiş kaşar peyniri"
       ],
       "en": [
         "3 medium tomatoes",
@@ -488,7 +488,7 @@ export const sandvicRecipes: Recipe[] = [
         "2 tatlı kaşığı şeker",
         "1 tatlı kaşığı tuz",
         "1 paket instant maya",
-        "Un (ele yapışan kıvam olacak)"
+        "un (ele yapışan kıvam olacak)"
       ],
       "en": [
         "1 cup lukewarm milk",
@@ -509,7 +509,7 @@ export const sandvicRecipes: Recipe[] = [
         "180 derecelik fırında, nar gibi kızartma kadar pişirelim.",
         "🍗🍗🍗 Çıtır tavuk için; ince doğranmış (fileto) tavukları önce yumurtaya, sonra pane harcına bulayıp, kızgın yağda kızartalım (pane harcı marketlerde rahatlıkla bulunuyor).💡💡 Eğer hazır pane harcı kullanmak istemiyorsanız, galeta ununa dilediğiniz baharatları ekleyip pane yerine kullanabilirsiniz, öyle de lezzetli olur.",
         "🍟🍟🍟 Çıtır patatesi için; ince doğradığımız patateslere unu, mısır ununu, kabartma tozu ve tuzunu ekleyip harmanlayıp, kızgın yağda kızartın, inanılmaz lezzetli oluyor.",
-        "🍔🍔🍔Hazırladığımız malzemeleri damak tadımıza göre dilediğiniz şekilde servis edebilirsiniz. 🍔"
+        "🍔🍔🍔Hazırladığımız malzemeleri damak tadımıza göre dilediğiniz şekilde servis edebilirsiniz. 🍔"
       ],
       "en": [
         "🍞🍞🍞 For the bread; mix all the ingredients except the flour in a bowl and add the flour little by little, in a controlled way. Prepare a sticky, soft dough, cover it and leave it to rise.",
@@ -540,11 +540,11 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Sucuk",
-        "Sosis",
-        "Salam",
-        "Kaşar peyniri",
-        "Sandviç ekmeği veya hamburger ekmeği"
+        "sucuk",
+        "sosis",
+        "salam",
+        "kaşar peyniri",
+        "sandviç ekmeği veya hamburger ekmeği"
       ],
       "en": [
         "Sucuk (spicy cured beef sausage)",
@@ -556,9 +556,9 @@ export const sandvicRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Sosis, salam ve sucuk jülyen şekilde dilimlenir. Isıtılmış tavada sotelenir.",
-        "Sandviç ekmeği ikiye bölünüp ısıtılır. Sandviç ekmeğinin arasına sotelenmiş malzemeler konulur.",
-        "Kaşar peyniri tavada arkalı önlü erimeden kızartılır. Ekmek arasındaki malzemelerin üstüne konur. Tercihe göre ketçap ve mayonez sıkılıp servis edilir."
+        "Sosis, salam ve sucuk jülyen şekilde dilimlenir. Isıtılmış tavada sotelenir.",
+        "Sandviç ekmeği ikiye bölünüp ısıtılır. Sandviç ekmeğinin arasına sotelenmiş malzemeler konulur.",
+        "Kaşar peyniri tavada arkalı önlü erimeden kızartılır. Ekmek arasındaki malzemelerin üstüne konur. Tercihe göre ketçap ve mayonez sıkılıp servis edilir."
       ],
       "en": [
         "Slice the sausage, salami and sucuk into julienne strips. Fry them in a heated pan.",
@@ -588,8 +588,8 @@ export const sandvicRecipes: Recipe[] = [
         "1.5 su bardağı ılık su",
         "2 yemek kaşığı silme şeker",
         "1 yemek kaşığı tuz",
-        "1 paket kurumaya",
-        "Çeyrek çay bardağı sıvı yağ"
+        "1 paket kuru maya",
+        "çeyrek çay bardağı sıvı yağ"
       ],
       "en": [
         "500 g flour",
@@ -597,7 +597,7 @@ export const sandvicRecipes: Recipe[] = [
         "2 tablespoons sugar",
         "1 tablespoon salt",
         "1 packet dry yeast",
-        "A quarter cup of vegetable oil"
+        "A quarter teacup of vegetable oil"
       ]
     },
     "steps": {
@@ -643,8 +643,8 @@ export const sandvicRecipes: Recipe[] = [
         "1 yumurta akı",
         "1 paket instant maya",
         "50 gram yumuşamış tereyağı",
-        "Yarım çay bardağı sıvı yağ",
-        "Aldığı kadar un"
+        "yarım çay bardağı sıvı yağ",
+        "aldığı kadar un"
       ],
       "en": [
         "1 cup lukewarm milk",
@@ -654,7 +654,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 egg white",
         "1 packet instant yeast",
         "50 g softened butter",
-        "Half a cup of vegetable oil",
+        "Half a teacup of vegetable oil",
         "Enough flour as it takes"
       ]
     },
@@ -751,9 +751,9 @@ export const sandvicRecipes: Recipe[] = [
         "1 tam ceviz",
         "1 yemek kaşığı çok küçük doğranmış domates",
         "1 yemek kaşığı çok küçük doğranmış salatalık",
-        "Bir tutam maydanoz",
+        "bir tutam maydanoz",
         "1 tatlı kaşığı nar ekşisi",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 slices of sourdough whole wheat bread",
@@ -801,7 +801,7 @@ export const sandvicRecipes: Recipe[] = [
         "500 gram garnitür",
         "2 yemek kaşığı mayonez",
         "4 yemek kaşığı süzme yoğurt",
-        "Kornişon turşu"
+        "kornişon turşu"
       ],
       "en": [
         "500 g garnish salad",
@@ -847,8 +847,8 @@ export const sandvicRecipes: Recipe[] = [
         "1 adet yumurta (sarısı üzerine akı içine)",
         "1 su bardağı ılık süt",
         "1 su bardağı ılık su",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım paket kuru maya (10 gram lık paketti)",
+        "yarım su bardağı sıvı yağ",
+        "yarım paket kuru maya (10 gram lık paketti)",
         "1 yemek kaşığı şeker",
         "1 tatlı kaşığı tuz",
         "5,5 su bardağı un"
@@ -900,17 +900,17 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım avokado",
-        "Tuz",
-        "Karabiber",
+        "yarım avokado",
+        "tuz",
+        "karabiber",
         "2 adet bıldırcın yumurtası veya 1 adet tavuk yumurtası",
-        "Ekmek",
-        "Labne peynir (tercihen sürülebilir herhangi bir peynir)",
-        "Domates",
-        "Salatalık",
-        "Dilediğiniz bir katı peynir",
-        "Yarım limon",
-        "Zeytinyağı ve tereyağı"
+        "ekmek",
+        "labne peynir (tercihen sürülebilir herhangi bir peynir)",
+        "domates",
+        "3 salatalık",
+        "dilediğiniz bir katı peynir",
+        "yarım limon",
+        "zeytinyağı ve tereyağı"
       ],
       "en": [
         "Half an avocado",
@@ -965,7 +965,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 tatlı kaşığı biber salçası",
         "1 yemek kaşığı margarin",
         "1 küçük dilim kaşar",
-        "Vanilya- rom aroması (yoksa pudra şekeri bir çay kaşığı)"
+        "vanilya- rom aroması (yoksa pudra şekeri bir çay kaşığı)"
       ],
       "en": [
         "1 egg",
@@ -1022,13 +1022,13 @@ export const sandvicRecipes: Recipe[] = [
         "1 yemek kaşığı zeytinyağı (≈10 g)",
         "2 çay kaşığı karbonat",
         "1 yemek kaşığı elma sirkesi",
-        "Bol maydanoz",
-        "Dereotu",
-        "Kapya biber",
+        "bol maydanoz",
+        "dereotu",
+        "kapya biber",
         "12 adet siyah zeytin (≈48-60 g)",
-        "Tuz",
-        "Kekik",
-        "Çörek otu (kaplara böldükten sonra üstlerine konulabilir)"
+        "tuz",
+        "kekik",
+        "çörek otu (kaplara böldükten sonra üstlerine konulabilir)"
       ],
       "en": [
         "4 eggs",
@@ -1082,7 +1082,7 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Her sandviç ekmeği için 1 adet tavuk göğsü",
+        "her sandviç ekmeği için 1 adet tavuk göğsü",
         "5 yemek kaşığı zeytinyağı",
         "1 tatlı kaşığı tavuk baharatı",
         "2 tatlı kaşığı kırmızı toz biber",
@@ -1153,7 +1153,7 @@ export const sandvicRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 dilim kaşar peynirden (normal kalın değil)",
-        "Domates",
+        "domates",
         "1 adet sandviç ekmeği (evinizde hangi ekmek varsa oda olur)"
       ],
       "en": [
@@ -1192,10 +1192,10 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım adet avakado",
+        "yarım adet avakado",
         "3 dilim füme kaburga",
         "3 dilim salam",
-        "3  adet çeri domatesi",
+        "3 adet çeri domatesi",
         "3 dilim tel peynir",
         "1 yemek kaşığı chipotle sos"
       ],
@@ -1242,11 +1242,11 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "1 adet baget ekmek sandvinç",
+        "1 adet baget ekmek sandviç",
         "2 adet marul",
         "1 adet kornişon turşu",
         "1 adet tatlı sivri biber",
-        "Yarım domates",
+        "yarım domates",
         "1 dilim beyaz peynir",
         "1 tatlı kaşığı domatesli acuka sos (listemde tarifi var bakabilirsiniz)",
         "1 tatlı kaşığı dilimlenmiş siyah ve yeşil zeytin",
@@ -1272,7 +1272,7 @@ export const sandvicRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Yumurtamızı haşlayalım  bagetimizi ortadan ikiye kesip sosumuzu sürelim .",
+        "Yumurtamızı haşlayalım bagetimizi ortadan ikiye kesip sosumuzu sürelim .",
         "Marulumuzuda yıkadıktan sonra doğrayalım, baget ekmeğimizin içine alalım ,kornişon turşumuzu dilimleyip biberimizi ortadan ikiye bölelim ve marulumuzun üzerine ilave edelim.",
         "Beyaz peynirimizi ufalayalım, domatesimizi unutmayalım, küçük doğruyorum .",
         "Zeytinlerimizi biberlerimizin üzerine koyalım ,haşlanmış yumurtayı bölüyoruz ,domatesimizin üzerine koyalım .",
@@ -1437,7 +1437,7 @@ export const sandvicRecipes: Recipe[] = [
         "Soslama ve büyük buluşma! sos kasesinde mayonez, chili sos ve acı sosu pürüzsüz olana kadar karıştırın.",
         "Kızarttığınız sıcak tavukları hemen bu sosa batırıp her yerinin sosla kaplanmasını sağlayın.",
         "Fırından çıkan taze parmesanlı ekmeklerinizin içini açın; tabanına taze marul yaprakları, üzerine bolca soslu çıtır tavuk ve lezzeti dengeleyecek turşular koyarak servis edin.",
-        "Vee gurme sandviçiniz hazır! yanına buz gibi bir içecekle evde restoran konseptinin tadını çıkarın. Afiyet olsun! 👩‍🍳 servis önerilerinizi veya denedikten sonraki yorumlarınızı aşağıya bırakmayı unutmayın! 👇."
+        "Vee gurme sandviçiniz hazır! yanına buz gibi bir içecekle evde restoran konseptinin tadını çıkarın. Afiyet olsun! 👩🍳 servis önerilerinizi veya denedikten sonraki yorumlarınızı aşağıya bırakmayı unutmayın! 👇."
       ],
       "en": [
         "Put the lukewarm milk, water, honey and dry yeast into the kneading bowl.",
@@ -1525,14 +1525,14 @@ export const sandvicRecipes: Recipe[] = [
         "1 kutu ton balığı",
         "2 adet lavaş",
         "2 yaprak marul",
-        "Doğranmış kırmızı lahana",
+        "doğranmış kırmızı lahana",
         "5-6 sap maydanoz",
-        "Yarım kutu konserve mısır",
-        "Yarım limonun suyu",
-        "Mayonez",
-        "Hardal",
-        "Tuz",
-        "Karabiber"
+        "yarım kutu konserve mısır",
+        "yarım limonun suyu",
+        "mayonez",
+        "hardal",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "1 can of tuna",
@@ -1584,7 +1584,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 çay kaşığı kekik",
         "2-3 yemek kaşığı zeytinyağı",
         "1-2 diş sarımsak",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2-3 tablespoons ricotta cheese (cream cheese also works)",
@@ -1629,9 +1629,9 @@ export const sandvicRecipes: Recipe[] = [
         "200 gram ton balığı (3 konserve)",
         "4-5 adet kornişon turşu",
         "10 yemek kaşığı mayonez",
-        "Küçük boy göbek marulun yarısı",
-        "İsteğe göre dereotu",
-        "Maydanoz"
+        "küçük boy göbek marulun yarısı",
+        "isteğe göre dereotu",
+        "maydanoz"
       ],
       "en": [
         "200 g tuna (3 cans)",
@@ -1776,7 +1776,7 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "3 adet küçük boy tonbalığı",
         "210 gr konserve mısır",
-        "Marul",
+        "marul",
         "3/4 (bir yarım+bir çeyrek) tane tatlı alman turşusu",
         "3 yemek kaşığı mayonez",
         "1 buçuk yemek kaşığı hardal"
@@ -1877,10 +1877,10 @@ export const sandvicRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 gram et sucuk",
-        "Domates dilimleri",
-        "Biber",
-        "Tuz",
-        "Ekmek"
+        "domates dilimleri",
+        "biber",
+        "tuz",
+        "ekmek"
       ],
       "en": [
         "500 g meat sucuk",
@@ -1930,7 +1930,7 @@ export const sandvicRecipes: Recipe[] = [
         "220 gram patates",
         "250 gram havuç",
         "3 adet yumurta",
-        "Bir miktar taze maydanoz",
+        "bir miktar taze maydanoz",
         "180 gram rendelenmiş light peynir",
         "1 yemek kaşığı keten tohumu (isteğe bağlı)"
       ],
@@ -1997,7 +1997,7 @@ export const sandvicRecipes: Recipe[] = [
       ],
       "en": [
         "2 cups milk",
-        "1 tea cup of water",
+        "1 tea teacup of water",
         "60 g butter",
         "2 tablespoons sugar",
         "1 teaspoon salt",
@@ -2090,8 +2090,8 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "4 adet ekmek",
         "1 adet salatalık",
-        "Kaşar peyniri",
-        "Üzüm"
+        "kaşar peyniri",
+        "üzüm"
       ],
       "en": [
         "4 slices of bread",
@@ -2124,7 +2124,7 @@ export const sandvicRecipes: Recipe[] = [
   {
     "id": "nefis-sandvic-1740",
     "name": {
-      "tr": "Taco Burger",
+      "tr": "Tako Burger",
       "en": "Taco Burger"
     },
     "cuisine": "sandvic",
@@ -2133,10 +2133,10 @@ export const sandvicRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 gram orta yağlı kıyma",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı toz biber",
-        "1 yemek kaşığı worchester sos",
+        "tuz",
+        "karabiber",
+        "kırmızı toz biber",
+        "1 yemek kaşığı Worcestershire sos",
         "1 tatlı kaşığı sarımsak tozu",
         "8 adet 15 cm’ lik tortilla",
         "8 dilim cheddar peyniri",
@@ -2192,10 +2192,10 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "•750 gram tavuk göğsü (julienne doğranmış)",
         "•200 ml süt",
-        "•1 yemek kaşığı limon suyu",
-        "•1 tatlı kaşığı tuz",
-        "•1 tatlı kaşığı karabiber",
-        "•1,5 tatlı kaşığı sarımsak tozu"
+        "1 yemek kaşığı limon suyu",
+        "1 tatlı kaşığı tuz",
+        "1 tatlı kaşığı karabiber",
+        "1,5 tatlı kaşığı sarımsak tozu"
       ],
       "en": [
         "750 g chicken breast (cut into julienne strips)",
@@ -2296,8 +2296,8 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Baget ekmeği (ben baget kullandım siz dilediğiniz baget ekmeğini dilediğiniz kadar kullanabilirsiniz )",
-        "Sürülebilir krem peynir (zeytin ve kekikli de kullanabilirsiniz )",
+        "baget ekmeği (ben baget kullandım siz dilediğiniz baget ekmeğini dilediğiniz kadar kullanabilirsiniz )",
+        "sürülebilir krem peynir (zeytin ve kekikli de kullanabilirsiniz )",
         "1 tane domates",
         "3 yaprak marul",
         "4 dilim dana jambon",
@@ -2345,10 +2345,10 @@ export const sandvicRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 baget ekmek",
-        "Amerikan Salatası (tarifi hesabımda var)",
+        "amerikan salatası (tarifi hesabımda var)",
         "3-4 yaprak kıvırcık marul",
-        "Aç bitir dana jambon",
-        "Aç bitir dana fıstıklı salam",
+        "aç bitir dana jambon",
+        "aç bitir dana fıstıklı salam",
         "3-4 adet kornişon salatalık turşusu",
         "4 dilim eritme peyniri",
         "2-3 kaşık mayonez"
@@ -2411,7 +2411,7 @@ export const sandvicRecipes: Recipe[] = [
         "5 adet janepeno biber",
         "1 adet soğan",
         "5 diş sarımsak",
-        "Yarım limon",
+        "yarım limon",
         "50 ml elma sirkesi",
         "1 tatlı kaşığı tuz"
       ],
@@ -2470,7 +2470,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": [
         "1.5 cups of water at room temperature",
         "1 instant yeast",
-        "1 tablespoon powdered sugar",
+        "1 tablespoon granulated sugar",
         "1 teaspoon salt",
         "2 tablespoons vegetable oil",
         "3.5-4 cups flour (add it carefully)"
@@ -2553,7 +2553,7 @@ export const sandvicRecipes: Recipe[] = [
         "2 yemek kaşığı ketçap",
         "2 yemek kaşığı mayonez",
         "1 yemek kaşığı tereyağı",
-        "Tortilla"
+        "tortilla"
       ],
       "en": [
         "4 sausages",
@@ -2653,7 +2653,7 @@ export const sandvicRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı süt",
-        "Yarım su bardağı su",
+        "yarım su bardağı su",
         "1 adet yumurta",
         "2 yemek kaşığı şeker",
         "1,5 tatlı kaşığı tuz",
@@ -2718,7 +2718,7 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı ılık süt",
         "1 su bardağı ılık su",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "3 yemek kaşığı şeker",
         "1 paket instant maya",
         "1,5 tatlı kaşığı tuz",
@@ -2777,10 +2777,10 @@ export const sandvicRecipes: Recipe[] = [
         "1 tatlı kaşığı ketçap",
         "1 tatlı kaşığı soya sosu",
         "1 tatlı kaşığı barbekü sos",
-        "Yarım su bardağı su",
-        "Tuz",
-        "Karabiber",
-        "Kaşar peyniri veya cheddar peyniri",
+        "yarım su bardağı su",
+        "tuz",
+        "karabiber",
+        "kaşar peyniri veya cheddar peyniri",
         "4 adet hamburger ekmeği"
       ],
       "en": [
@@ -2874,7 +2874,7 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "1 adet zeytinli kekikli baget ekmek",
         "1 diş sarımsak",
-        "Labne",
+        "labne",
         "1 çay kaşığı kırmızı toz biber",
         "2 adet salatalık turşusu",
         "1 adet kapya biber turşusu (közlenmişde olabilir)",
@@ -2935,18 +2935,18 @@ export const sandvicRecipes: Recipe[] = [
         "1 adet baget ekmeği (zeytinli)",
         "6-7 adet kuru domates",
         "50 gram somon füme",
-        "Kuzu kulağı (roka da olabilir)",
-        "Çeyrek Avokado",
-        "Labne",
+        "kuzu kulağı (roka da olabilir)",
+        "çeyrek avokado",
+        "labne",
         "1 adet dilim çedar",
-        "Tuz",
-        "Karabiber"
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "1 baguette bread (with olives)",
         "6-7 sun-dried tomatoes",
         "50 g smoked salmon",
-        "Lamb's ear lettuce (arugula also works)",
+        "Lamb's lettuce (arugula also works)",
         "A quarter avocado",
         "Labneh",
         "1 slice of cheddar",
@@ -2990,7 +2990,7 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "1 baget ekmek",
         "6-7 tane biber dolgulu zeytin",
-        "Piliç veya hindi füme",
+        "piliç veya hindi füme",
         "4 yaprak marul"
       ],
       "en": [
@@ -3034,9 +3034,9 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "1 baget ekmek",
         "2 adet domates",
-        "Labne peyniri",
-        "Roka",
-        "Salam"
+        "labne peyniri",
+        "roka",
+        "salam"
       ],
       "en": [
         "1 baguette bread",
@@ -3075,9 +3075,9 @@ export const sandvicRecipes: Recipe[] = [
         "1 adet baget ekmek",
         "4-5 adet jülyen kesilmiş sosis",
         "4-5 adet jülyen kesilmiş salam",
-        "Bir miktar ince doğranmış sucuk",
-        "Ekmek içini dolduracak kadar yeterli miktarda dilimlenmiş kaşar",
-        "İsteğe bağlı pastırma (çemeni sıyrılmış pastırmada ekleyebilirsiniz"
+        "bir miktar ince doğranmış sucuk",
+        "ekmek içini dolduracak kadar yeterli miktarda dilimlenmiş kaşar",
+        "isteğe bağlı pastırma (çemeni sıyrılmış pastırmada ekleyebilirsiniz"
       ],
       "en": [
         "1 baguette bread",
@@ -3135,7 +3135,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": [
         "1.5 cups lukewarm water",
         "1 tablespoon butter (at room temperature)",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "1 teaspoon salt",
         "1 packet dry yeast",
         "1 egg (set aside a teaspoon of the yolk)",
@@ -3207,7 +3207,7 @@ export const sandvicRecipes: Recipe[] = [
         "3-4 dilim sucuk (isteğe göre az veya çok)",
         "2 yemek kaşığı rendelenmiş kaşar",
         "1 yemek kaşığı rendelenmiş çedar",
-        "Opsiyonel: biraz tatlı toz biber veya füme paprika"
+        "opsiyonel: biraz tatlı toz biber veya füme paprika"
       ],
       "en": [
         "1 quality sandwich bread (large and soft)",
@@ -3269,8 +3269,8 @@ export const sandvicRecipes: Recipe[] = [
         "1 yemek kaşığı soya sosu",
         "1 adet kuru soğan",
         "1 yemek kaşığı salça",
-        "Tuz, karabiber",
-        "Kekik, fesleğen, pul biber, tatlı biber",
+        "tuz, karabiber",
+        "kekik, fesleğen, pul biber, tatlı biber",
         "1 yemek kaşığı tereyağı",
         "1 yemek kaşığı zeytinyağ"
       ],
@@ -3334,7 +3334,7 @@ export const sandvicRecipes: Recipe[] = [
         "4 tane zeytin",
         "1 tane domates",
         "2-3 yaprak marul",
-        "İsteğe bağlı mayonez veya hardal"
+        "isteğe bağlı mayonez veya hardal"
       ],
       "en": [
         "2 slices of toast bread",
@@ -3399,13 +3399,13 @@ export const sandvicRecipes: Recipe[] = [
       "en": [
         "1 chicken breast",
         "1 level teaspoon salt",
-        "1 tea cup of vegetable oil",
+        "1 tea teacup of vegetable oil",
         "1 teaspoon curry",
         "1 teaspoon black pepper",
         "1 teaspoon powder pepper",
         "1 teaspoon chili flakes",
         "1 tablespoon yogurt",
-        "1 tea cup of water"
+        "1 tea teacup of water"
       ]
     },
     "steps": {
@@ -3517,10 +3517,10 @@ export const sandvicRecipes: Recipe[] = [
         "2 yemek kaşığı mayonez",
         "1 çay kaşığı hardal",
         "1 dal doğranmış yeşil soğan (isteğe bağlı)",
-        "Tuz",
-        "Karabiber",
-        "Sarımsak tozu",
-        "Kajun"
+        "tuz",
+        "karabiber",
+        "sarımsak tozu",
+        "kajun"
       ],
       "en": [
         "4 slices of toast bread or 2 sandwich breads",
@@ -3568,7 +3568,7 @@ export const sandvicRecipes: Recipe[] = [
         "100gr tereyağı (yumuşak)",
         "1 su bardağı toz şeker",
         "1 su bardağı süt (oda ısısında)",
-        "1 adet kabartma tozu",
+        "1 paket kabartma tozu",
         "1 paket vanilin",
         "3 yemek kaşığı kakao",
         "2-2,5 su bardağı un"
@@ -3576,7 +3576,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": [
         "1 egg",
         "100 g butter (soft)",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "1 cup milk (at room temperature)",
         "1 packet baking powder",
         "1 packet vanillin",
@@ -3665,23 +3665,23 @@ export const sandvicRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "600 gram tavuk göğsü",
-        "Tuz",
-        "Kırmızı toz biber",
-        "Pul biber",
-        "Karabiber (isteğe göre miktar ayarlanabilir)",
+        "tuz",
+        "kırmızı toz biber",
+        "pul biber",
+        "karabiber (isteğe göre miktar ayarlanabilir)",
         "2-3 yemek kaşığı sıvı yağ",
         "5 yemek kaşığı teriyaki sosu",
         "6 adet sandviç ekmeği",
-        "Sürülebilir peynir",
+        "sürülebilir peynir",
         "9 dilim kaşar peyniri veya cheddar peyniri",
         "1-2 adet domates",
         "1 adet soğan",
-        "Kıvırcık marul",
-        "Mısır (isteğe bağlı)",
-        "Zeytin (isteğe bağlı)",
-        "Acı biber (isteğe bağlı)",
-        "Hamburger sosu (isteğe bağlı)",
-        "Acı sos (isteğe bağlı)"
+        "kıvırcık marul",
+        "mısır (isteğe bağlı)",
+        "zeytin (isteğe bağlı)",
+        "acı biber (isteğe bağlı)",
+        "hamburger sosu (isteğe bağlı)",
+        "acı sos (isteğe bağlı)"
       ],
       "en": [
         "600 g chicken breast",
@@ -3745,8 +3745,8 @@ export const sandvicRecipes: Recipe[] = [
         "3 adet kiraz domates",
         "1 yemek kaşığı hardal",
         "1 yemek kaşığı mayonez",
-        "Birkaç damla limon suyu",
-        "Tuz"
+        "birkaç damla limon suyu",
+        "tuz"
       ],
       "en": [
         "1 sandwich bread",
@@ -3797,7 +3797,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "1 su bardağı sıcak su",
         "1/2 (yarım) çk kırmızı toz biber",
-        "Çok az kekik"
+        "çok az kekik"
       ],
       "en": [
         "5 beef sausages",
@@ -3851,8 +3851,8 @@ export const sandvicRecipes: Recipe[] = [
         "14 dilim ince dilimli tost ekmeği",
         "2 kutu ton balığı",
         "4 çeri domates (dilimlenmiş)",
-        "Dereotu (süsleme için)",
-        "Mayonez"
+        "dereotu (süsleme için)",
+        "mayonez"
       ],
       "en": [
         "14 slices of thinly sliced toast bread",
@@ -3902,12 +3902,12 @@ export const sandvicRecipes: Recipe[] = [
         "2 yumurta",
         "3 yemek kaşığı lor peyniri",
         "4 dilim cheddar peyniri",
-        "Sandviç ekmeği veya hamburger ekmeği (benim evimde kalan hamburger ekmeği vardı kullandım)",
-        "Roka",
-        "Marul",
-        "Kırmızı toz biber",
-        "Karabiber",
-        "Tuz"
+        "sandviç ekmeği veya hamburger ekmeği (benim evimde kalan hamburger ekmeği vardı kullandım)",
+        "roka",
+        "marul",
+        "kırmızı toz biber",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "6-7 medium mushrooms",
@@ -4017,7 +4017,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 paket milföy",
         "3 adet marul",
         "1 paket sucuk",
-        "Yarım paket kaşar"
+        "yarım paket kaşar"
       ],
       "en": [
         "1 pack of puff pastry",
@@ -4056,7 +4056,7 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "1 paket kuru maya",
         "1.5 su bardağı ılık süt",
-        "Yarım bardak ılık su",
+        "yarım bardak ılık su",
         "3 yemek kaşığı şeker",
         "2 yumurta (birisinin sarısı ayrılacak)",
         "1 tatlı kaşığı tuz",
@@ -4115,9 +4115,9 @@ export const sandvicRecipes: Recipe[] = [
         "2 adet yumurta",
         "1 tatlı kaşığı labne",
         "1 tatlı kaşığı zeytinyağı",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber"
+        "tuz",
+        "karabiber",
+        "pulbiber"
       ],
       "en": [
         "1 whole wheat or oat lavash",
@@ -4162,17 +4162,17 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Ekmek",
+        "ekmek",
         "1 küçük patates",
         "5 küçük sosis",
         "1 kornişon turşu",
         "6 dilim sucuk",
         "3 dilim kaşar peyniri",
-        "Tuz",
-        "Sıvı yağ",
-        "Margarin",
-        "Ketçap",
-        "Mayonez"
+        "tuz",
+        "sıvı yağ",
+        "margarin",
+        "ketçap",
+        "mayonez"
       ],
       "en": [
         "Bread",
@@ -4233,7 +4233,7 @@ export const sandvicRecipes: Recipe[] = [
         "75 gram tereyağı/margarin (eritilip ılınmış)"
       ],
       "en": [
-        "1 cup milk (at room temperature)",
+        "1 teacup milk (at room temperature)",
         "1 packet instant yeast",
         "1 tablespoon honey (at room temperature)",
         "2 eggs (at room temperature)",
@@ -4244,7 +4244,7 @@ export const sandvicRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Brioche sandviç ekmeği için;  süt, maya ve bal karıştırılır. 5-10 dk beklenir.",
+        "Brioche sandviç ekmeği için; süt, maya ve bal karıştırılır. 5-10 dk beklenir.",
         "Ayrı bir kapta çırpılmış olan yumurtalar yavaşça eklenip karşıtırılır. Tuz eklenir.",
         "Unun 1 bardak kadar kısmı eklenir.",
         "Tereyağı/margarin eklenir. Karıştırılır.",
@@ -4300,7 +4300,7 @@ export const sandvicRecipes: Recipe[] = [
       ],
       "en": [
         "600 g flour",
-        "1 tea cup of lukewarm milk",
+        "1 tea teacup of lukewarm milk",
         "300 ml lukewarm water",
         "1 packet dry yeast",
         "3 sugars",
@@ -4359,7 +4359,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 adet tam buğday sandviç ekmeği",
         "1-2 yaprak marul",
         "1 ince dilim kaşar",
-        "Yarım kare süzme peynir",
+        "yarım kare süzme peynir",
         "1 adet salatalık",
         "2 adet çeri domates",
         "1 dilim hindi füme"
@@ -4470,12 +4470,12 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "2 dilim tam buğday veya çavdarlı ekmek (50gr)",
         "2 dilim hindi füme",
-        "Biraz yeşillik (fesleğen çok yakıştı)",
+        "biraz yeşillik (fesleğen çok yakıştı)",
         "1 adet haşlanmış yumurta",
-        "Bir kaç dilim domates veya 2 adet çeri domates",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber"
+        "bir kaç dilim domates veya 2 adet çeri domates",
+        "tuz",
+        "karabiber",
+        "pulbiber"
       ],
       "en": [
         "2 slices of whole wheat or sourdough bread (50gr)",
@@ -4523,7 +4523,7 @@ export const sandvicRecipes: Recipe[] = [
         "2 dilim tam buğday veya çavdarlı ekmek (50gr)",
         "2 dilim hindi füme",
         "1 dilim beyaz peynir",
-        "Biraz yeşillik (fesleğen çok yakıştı)"
+        "biraz yeşillik (fesleğen çok yakıştı)"
       ],
       "en": [
         "2 slices of whole wheat or sourdough bread (50gr)",
@@ -4564,8 +4564,8 @@ export const sandvicRecipes: Recipe[] = [
         "4-5 değilim domates",
         "4-5 dilim salatalık",
         "1 dilim kaşar peyniri",
-        "Krem peynir",
-        "İsterseniz tereyağı"
+        "krem peynir",
+        "isterseniz tereyağı"
       ],
       "en": [
         "1 croissant",
@@ -4608,12 +4608,12 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "3 adet haşlanmış yumurta",
         "1 adet avokado",
-        "Bir tutam taze soğan",
-        "Bir tutam maydanoz (dereotu daha çok yakışır bende yoktu)",
-        "Yarım limon",
+        "bir tutam taze soğan",
+        "bir tutam maydanoz (dereotu daha çok yakışır bende yoktu)",
+        "yarım limon",
         "2 yemek kaşığı zeytinyağı",
         "1 çay kaşığı tuz",
-        "Bir çimdik karabiber"
+        "bir çimdik karabiber"
       ],
       "en": [
         "3 boiled eggs",
@@ -4673,9 +4673,9 @@ export const sandvicRecipes: Recipe[] = [
         "1 adet kabak",
         "1 adet soğan",
         "1 adet domates",
-        "Yarım çay kaşığı tuz",
-        "Yarım çay kaşığı pul biber",
-        "4/5 yemek kaşığı sıvı yağ"
+        "yarım çay kaşığı tuz",
+        "yarım çay kaşığı pul biber",
+        "4-5 yemek kaşığı sıvı yağ"
       ],
       "en": [
         "1 zucchini",
@@ -4683,7 +4683,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 tomato",
         "Half a teaspoon salt",
         "Half a teaspoon chili flakes",
-        "4/5 cup of vegetable oil"
+        "4-5 tablespoons of vegetable oil"
       ]
     },
     "steps": {
@@ -4723,11 +4723,11 @@ export const sandvicRecipes: Recipe[] = [
         "2 yemek kaşığı salça",
         "2 su bardağı su",
         "6 adet sandviç ekmeği",
-        "Marul",
-        "Kornişon turşu",
-        "Ketçap",
-        "Mayonez",
-        "Hardal"
+        "marul",
+        "kornişon turşu",
+        "ketçap",
+        "mayonez",
+        "hardal"
       ],
       "en": [
         "6 sausages",
@@ -4781,7 +4781,7 @@ export const sandvicRecipes: Recipe[] = [
         "1 tatlı kaşığı fıstık ezmesi",
         "2 tane tost ekmeği",
         "1 tane domates",
-        "Marul",
+        "marul",
         "2 dilim kaşar peyniri"
       ],
       "en": [
@@ -4828,13 +4828,13 @@ export const sandvicRecipes: Recipe[] = [
         "5 adet önceden hazırlanmış köfte",
         "1 adet patates",
         "1 adet soğan",
-        "Birkaç dal maydanoz",
+        "birkaç dal maydanoz",
         "1 adet domates",
         "3-4 adet kornişon turşu",
         "1 adet marul yaprağı",
-        "Tuz",
-        "Karabiber",
-        "Sumak"
+        "tuz",
+        "karabiber",
+        "sumak"
       ],
       "en": [
         "1 pita bread",
@@ -4887,9 +4887,9 @@ export const sandvicRecipes: Recipe[] = [
         "4 adet sandviç ekmek",
         "1 yemek kaşığı salça",
         "1 su bardağı su",
-        "Patates",
-        "Ketçap",
-        "Mayonez"
+        "patates",
+        "ketçap",
+        "mayonez"
       ],
       "en": [
         "4 long sausages",
@@ -4945,13 +4945,13 @@ export const sandvicRecipes: Recipe[] = [
         "1 adet köy biber",
         "2-3 adet domates",
         "5 yemek kaşığı sıvı yağ",
-        "Yarım yemek kaşığı tereyağ",
+        "yarım yemek kaşığı tereyağ",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kırmızı tatlı toz biber",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı kuru kekik",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "400 g mushrooms (1 pack)",
@@ -5014,7 +5014,7 @@ export const sandvicRecipes: Recipe[] = [
         "80 gram yumuşak tereyağı",
         "500 gram un",
         "1 orta boy yumurta",
-        "Ellerinize biraz sıvı yağ"
+        "ellerinize biraz sıvı yağ"
       ],
       "en": [
         "200 ml lukewarm water",
@@ -5079,9 +5079,9 @@ export const sandvicRecipes: Recipe[] = [
         "3 yaprak göbek",
         "1 adet domates",
         "3 adet kornişon turşu",
-        "Mayonez sos",
-        "Tuz",
-        "Karabiber"
+        "mayonez sos",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "1 chicken breast",
@@ -5132,7 +5132,7 @@ export const sandvicRecipes: Recipe[] = [
         "5-6 adet zeytin",
         "3 yemek kaşığı tam buğday unu",
         "1 paket kabartma tozu",
-        "Çörekotu (Ben unutmuşum ama üzerine de çörekotu koyun bence)"
+        "çörekotu (Ben unutmuşum ama üzerine de çörekotu koyun bence)"
       ],
       "en": [
         "1 egg",
@@ -5176,18 +5176,18 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım haşlanmış didiklenmiş tavuk",
+        "yarım haşlanmış didiklenmiş tavuk",
         "1 avuç iri kırılmış ceviz",
         "1 tatlı kaşığı celery salt veya kuru kereviz yaprağı ( opsiyonel)",
         "2 adet taze soğan, doğranmış",
-        "Mayonez ( tutacak kadar 2-3 çorba kaşığı)",
-        "Tuz",
-        "Karabiber",
-        "Sandviç ekmeği ( istediğiniz tür)",
-        "Mayonez",
-        "Dijon hardal",
-        "Marul yaprağı",
-        "Domates"
+        "mayonez ( tutacak kadar 2-3 çorba kaşığı)",
+        "tuz",
+        "karabiber",
+        "sandviç ekmeği ( istediğiniz tür)",
+        "mayonez",
+        "dijon hardal",
+        "marul yaprağı",
+        "domates"
       ],
       "en": [
         "Half a boiled shredded chicken",
@@ -5242,11 +5242,11 @@ export const sandvicRecipes: Recipe[] = [
       "tr": [
         "400 gram sosis",
         "100 gram sucuk",
-        "1 ,5 yemek kaşığı sana yağ",
+        "1,5 yemek kaşığı Sana yağı",
         "10 dilim kaşar peyniri",
-        "Ketçap",
-        "Mayonez",
-        "Normal veya sandivç ekmeği"
+        "ketçap",
+        "mayonez",
+        "normal veya sandivç ekmeği"
       ],
       "en": [
         "400 g sausage",
@@ -5355,7 +5355,7 @@ export const sandvicRecipes: Recipe[] = [
         "Kıymayı ekleyelim, yeşil zeytin ekleyelim, yumurtayı ekleyelim.",
         "Baharatlar ve tuzu ekleyerek iyice karıştıralım.",
         "Suda bekleyen halkaları suyunu alıp kurulayalım ,az yağda alt üst mühürleyelim .1 dk.",
-        "İçine  harcı koyalım ve çevirerek pişirelim.",
+        "İçine harcı koyalım ve çevirerek pişirelim.",
         "Sandviç ekmeğine sos sürelim ,köfteleri koyalım ,üzerine kıvırcık ve domates kaşar peyniri ekleyerek kapatalım.",
         "Ayrı olrak daha fresh lezzet için yoğurt tercih edebilirsiniz."
       ],
@@ -5402,9 +5402,9 @@ export const sandvicRecipes: Recipe[] = [
       "en": [
         "1 tablespoon sugar",
         "1 packet yeast",
-        "1 tea cup of lukewarm water",
+        "1 tea teacup of lukewarm water",
         "1 cup lukewarm milk",
-        "1 tea cup of vegetable oil",
+        "1 tea teacup of vegetable oil",
         "1 egg",
         "1 teaspoon salt",
         "4 - 4.5 cups flour"
@@ -5478,9 +5478,9 @@ export const sandvicRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "SuperFresh patates (1 porsiyon yani 200 gram)",
+        "superfresh patates (1 porsiyon yani 200 gram)",
         "6 yemek kaşığı zeytinyağı",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "SuperFresh potatoes (1 portion, that is 200 grams)",

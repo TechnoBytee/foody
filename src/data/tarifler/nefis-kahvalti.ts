@@ -84,7 +84,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 büyük kaşık hamur dökülerek hamurun kendi kendine yayılmasını bekleyelim.",
         "Üzeri göz göz olmaya başlayan pankeklerimizi spatula yardımı ile ters çevirelim. Diğer taraflarını da pişirelim.",
         "Her iki tarafı da pişen pankeklerimizi servis tabağına alalım.",
-        "Üzerine  pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
+        "Üzerine pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
       ],
       "en": [
         "To make the pancakes, first beat the eggs and the sugar well in a suitable mixing bowl.",
@@ -138,7 +138,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 büyük kaşık hamur dökülerek hamurun kendi kendine yayılmasını bekleyelim.",
         "Üzeri göz göz olmaya başlayan pankeklerimizi spatula yardımı ile ters çevirelim. Diğer taraflarını da pişirelim.",
         "Her iki tarafı da pişen pankeklerimizi servis tabağına alalım.",
-        "Üzerine  pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
+        "Üzerine pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
       ],
       "en": [
         "To make the pancakes, first beat the eggs and the sugar well in a suitable mixing bowl.",
@@ -294,10 +294,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta",
         "1 yemek kaşığı şeker",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 su bardağından 1 parmak az un",
         "1 paket vanilya",
-        "Yarım paket kabartma tozu"
+        "yarım paket kabartma tozu"
       ],
       "en": [
         "1 egg",
@@ -310,24 +310,24 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Yumurta ve şekeri güzelce çırpalım. Ben genellikle çırpıcı ile elimde çırpıyorum ama mikserle çırparsanız pankekleriniz daha kabarık olur ;)",
+        "Yumurta ve şekeri güzelce çırpalım. Ben genellikle çırpıcı ile elimde çırpıyorum ama mikserle çırparsanız pankekleriniz daha kabarık olur;)",
         "Daha sonra süt, un, kabartma tozu ve vanilyayı ekleyerek pürüzsüz hamur elde edinceye kadar karıştırmanız yeterli. Çok fazla çırpmanızı önermem. Dilerseniz bu tarifi 1 paket kabartma tozu kullanarak da hazırlayabilirsiniz.",
-        "Pişirmek için tavamızı ısıtalım. Ocağınızı çok yüksek ateşte açarsanız pankeklerin içi pişmeden dışı yanacaktır. Bu nedenle orta ateşte açın. İlk pişen pankeki bölerek ortasının pişip pişmediğinden emin olun. Eğer içinde hamurluk varsa ocağı bir tık daha kısmanız anlamına gelir ;)",
+        "Pişirmek için tavamızı ısıtalım. Ocağınızı çok yüksek ateşte açarsanız pankeklerin içi pişmeden dışı yanacaktır. Bu nedenle orta ateşte açın. İlk pişen pankeki bölerek ortasının pişip pişmediğinden emin olun. Eğer içinde hamurluk varsa ocağı bir tık daha kısmanız anlamına gelir;)",
         "İlk hamuru dökmeden önce tavamızı çok az yağ ile yağlayalım. Peçeteyi yağa çok az batırarak tavaya sürmeniz bile yeterli. İlk pişirmeden hamur yapışabilir sonrasında hiç yağ kullanmanıza gerek yok.",
         "Pankek hamurundan 1 yemek kaşığı kadar alarak tavaya aralıklı olarak dökün. Çok yakın dökerseniz çevirirken birbirlerine yapışabilirler.",
         "Videoda gösterdiğim gibi üzeri göz göz olan yani delik delik olan pankek ben artık çevrilmek için hazırım diyor. O pankekleri hemen çevirebilirsiniz.",
         "Tüm hamuru bu şekilde pişirdikten sonra afiyetle yiyebilirsiniz.",
-        "Mükemmel pankekler için püf noktalarını yazıyorum okumanızı öneririm ;)"
+        "Mükemmel pankekler için püf noktalarını yazıyorum okumanızı öneririm;)"
       ],
       "en": [
-        "Beat the egg and the sugar well. I usually whisk it by hand, but if you beat with a mixer your pancakes will be fluffier ;)",
+        "Beat the egg and the sugar well. I usually whisk it by hand, but if you beat with a mixer your pancakes will be fluffier;)",
         "Then add the milk, the flour, the baking powder and the vanilla and mix just until you get a smooth batter. I would not recommend beating too much. If you like, you can also make this recipe with a full packet of baking powder.",
-        "Heat your pan for cooking. If you set your burner to very high heat the outside of the pancakes will burn before the inside cooks. For this reason use medium heat. Cut the first pancake you cook open and make sure the middle is cooked through. If there is still raw batter inside, that means you should turn the heat down a notch ;)",
+        "Heat your pan for cooking. If you set your burner to very high heat the outside of the pancakes will burn before the inside cooks. For this reason use medium heat. Cut the first pancake you cook open and make sure the middle is cooked through. If there is still raw batter inside, that means you should turn the heat down a notch;)",
         "Before pouring the first batter, grease your pan with very little oil. It is even enough to dip a paper towel barely in the oil and wipe the pan. The first one may stick, after that you will not need any oil at all.",
         "Take about 1 tbsp of pancake batter and pour it into the pan at intervals. If you pour them too close together they may stick to each other when you flip them.",
         "As I show in the video, a pancake whose surface has turned full of holes is telling me it is ready to be flipped. You can flip those right away.",
         "Once you have cooked all the batter this way, you can eat it with pleasure.",
-        "I am writing down the tips for perfect pancakes, I recommend you read them ;)"
+        "I am writing down the tips for perfect pancakes, I recommend you read them;)"
       ]
     },
     "alternatives": [],
@@ -355,7 +355,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "2 adet ince doğranmış sivri biber",
         "2-3 dal ince kıyılmış maydanoz",
         "5- 6 adet kare tost ekmeği (ince dilimlenmiş normal ekmekle de olur)",
-        "Oda ısısında yumuşamış tereyağı"
+        "oda ısısında yumuşamış tereyağı"
       ],
       "en": [
         "1 cup mashed, grated white cheese",
@@ -370,12 +370,12 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Kaşar peynirini, beyaz peyniri ve yumurtayı rondoda çekin (eğer rondonuz yoksa ki olmayabilir sorun değil  peynirleri rendeleyin yumurtayı kırın hepsini güzelce  karıştırın harmanlayın..",
-        "Peynirli yumurtalı harcın içine doğranmış sivri  biber, kabuğu, çekirdekleri çıkmış doğranmış domates, kıyılmış maydanozları ekleyin..ve  güzelce harmanlayın.. Bu kıvamı resimlerden görebilirsiniz..",
+        "Kaşar peynirini, beyaz peyniri ve yumurtayı rondoda çekin (eğer rondonuz yoksa ki olmayabilir sorun değil peynirleri rendeleyin yumurtayı kırın hepsini güzelce karıştırın harmanlayın..",
+        "Peynirli yumurtalı harcın içine doğranmış sivri biber, kabuğu, çekirdekleri çıkmış doğranmış domates, kıyılmış maydanozları ekleyin..ve güzelce harmanlayın.. Bu kıvamı resimlerden görebilirsiniz..",
         "Bu harmanladığınız karışım çok cıvık olmamalı ekmeklerin üstünde duracak ekmeklerden akmayacak kıvamda, yoğunlukta olmalıdır..",
         "Fırınınızı 180-200 derece de ısıtmaya başlayın…",
-        "Ekmeklerinizin üstüne güzelce  oda ısısında ki tereyağı sürün… Şimdi yağlanmış ekmeklerin üstüne de peynirli harçtan sürün ve içinde ekmekler olan tepsiyi  iyice  ısınmış fırına verin ekmeklerin üstleri güzelce  kızarana kadar  pişirin.",
-        "Ben bir süre bu şekilde pişirdin sonra ızgarayı yakıp öyle devam ettim… Izgara olmadan da pişer ama ekmekler ısınmış fırına atılacak  bunu unutmayın…ısınmamış fırında ekmeklerin üstündeki peynirler fırın ısınana kadar eriyip tepsiye akabilir. Bu nedenle ekmeklerin üzerine sürülecek  karışım çok cıvık olmamalı… Kıvamı  resimlerden görebilirsiniz…",
+        "Ekmeklerinizin üstüne güzelce oda ısısında ki tereyağı sürün… Şimdi yağlanmış ekmeklerin üstüne de peynirli harçtan sürün ve içinde ekmekler olan tepsiyi iyice ısınmış fırına verin ekmeklerin üstleri güzelce kızarana kadar pişirin.",
+        "Ben bir süre bu şekilde pişirdin sonra ızgarayı yakıp öyle devam ettim… Izgara olmadan da pişer ama ekmekler ısınmış fırına atılacak bunu unutmayın…ısınmamış fırında ekmeklerin üstündeki peynirler fırın ısınana kadar eriyip tepsiye akabilir. Bu nedenle ekmeklerin üzerine sürülecek karışım çok cıvık olmamalı… Kıvamı resimlerden görebilirsiniz…",
         "Pişirme süresi yok.. Ekmeklerin üstleri kızardı mı tamamdır. Üstleri güzelce kızarmış, kendileri yumuşacık ekmeklerinizi sıcak sıcak tüketin…"
       ],
       "en": [
@@ -410,7 +410,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 su bardağı süt (200 ml)",
         "1 paket kabartma tozu",
         "150 gr beyaz peynir",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "1 çay kaşığı tuz",
         "1 çay kaşığı pul biber",
         "1,5 su bardağı un"
@@ -428,8 +428,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "İlk olarak  beyaz peyniri bir çatalla ezelim. Ben beyaz peynir kullanmayı tercih ettim, dilerseniz evinizde bulunan başka bir peynirle de bu tarifi hazırlayabilirsiniz.",
-        "Bir karıştırma kabına un ve  sütü alarak karıştırmaya başlayalım.",
+        "İlk olarak beyaz peyniri bir çatalla ezelim. Ben beyaz peynir kullanmayı tercih ettim, dilerseniz evinizde bulunan başka bir peynirle de bu tarifi hazırlayabilirsiniz.",
+        "Bir karıştırma kabına un ve sütü alarak karıştırmaya başlayalım.",
         "Karışan hamura 1 adet yumurta ekleyip karıştırmaya devam edelim. Eğer kullandığınız yumurta küçükse 2 adet de kullanabilirsiniz.",
         "Daha sonra pankek hamuruna sırasıyla kabartma tozu, pul biber, tuz, ezdiğimiz beyaz peynir ve ince kıyılmış çeyrek demet maydanozu ilave ederek tüm malzemeyi son kez karıştıralım.",
         "Pankek hamuru artık hazır, pişirmek için tavaya biraz sıvı yağ alarak ısıtalım.",
@@ -515,8 +515,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "400 gram tam yağlı beyaz peynir",
-        "Çeyrek demet dereotu",
-        "Yarım su bardağı ceviz",
+        "çeyrek demet dereotu",
+        "yarım su bardağı ceviz",
         "2 diş sarımsak"
       ],
       "en": [
@@ -564,9 +564,9 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 adet biber",
         "200 gram sucuk",
         "4 adet yumurta",
-        "Kaşar peyniri",
-        "Tuz",
-        "Sıvı yağ"
+        "kaşar peyniri",
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "4 round lavaş",
@@ -627,8 +627,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "100 gram beyaz peynir",
         "100 gram haşlanmış mısır",
         "75 gram siyah zeytin",
-        "Yarım bağ maydanoz",
-        "Yarım bağ dere otu"
+        "yarım bağ maydanoz",
+        "yarım bağ dere otu"
       ],
       "en": [
         "1.5 cups milk",
@@ -683,8 +683,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 yumurta",
         "1 yemek kaşığı şeker",
         "2 yemek kaşığı yoğurt",
-        "Yarım paket kabartma tozu",
-        "Yarım paket vanilya",
+        "yarım paket kabartma tozu",
+        "yarım paket vanilya",
         "1 su bardağı un"
       ],
       "en": [
@@ -735,7 +735,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 paket kabartma tozu",
         "1 paket vanilin",
         "2 yemek kaşığı sıvı yağ",
-        "Bir çimdik tuz"
+        "bir çimdik tuz"
       ],
       "en": [
         "1 egg",
@@ -794,7 +794,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "2 yemek kaşığı mısır unu",
         "1 su bardağı su (200 ml)",
         "1 su bardağı kuymaklık peynir / tel peynir karışık",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "2 tbsp butter",
@@ -853,7 +853,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Kahvaltılar için kolay unsuz fit pankek tarifim için öncelikle yulafı bir kabin içine alıyoruz. Ardından sütü ilave edip tuzu ekliyoruz.",
-        "Bundan sonra blender ile kıvam alana kadar çekiyoruz. Süt veya yulafı kıvamına göre ekleyebilir ayarlayabilirsiniz.  Vaktiniz varsa 5-10 dakika bekletebilirsiniz yulaf şişip kıvam alacak.",
+        "Bundan sonra blender ile kıvam alana kadar çekiyoruz. Süt veya yulafı kıvamına göre ekleyebilir ayarlayabilirsiniz. Vaktiniz varsa 5-10 dakika bekletebilirsiniz yulaf şişip kıvam alacak.",
         "Ardından teflon bir tavda arkalı önlü pişiriyoruz. Afiyet olsun."
       ],
       "en": [
@@ -880,8 +880,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Kibrit kuyusundan büyük bir parça süzme peynir",
-        "Kibrit kutusundan büyük bir parça ezine peyniri",
+        "kibrit kuyusundan büyük bir parça süzme peynir",
+        "kibrit kutusundan büyük bir parça ezine peyniri",
         "2 tatlı kaşığı kekik",
         "2 tatlı kaşığı çörekotu",
         "2 tatlı kaşığı susam",
@@ -1085,12 +1085,12 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "3 paket finger bisküvi",
         "1,5 tatlı kaşığı toz tarçın",
         "1 çay kaşığı toz zencefil",
-        "Yarım çay kaşığı toz karanfil ya da muskat rendesi ( ben muskat rendesi kullandım)",
+        "yarım çay kaşığı toz karanfil ya da muskat rendesi ( ben muskat rendesi kullandım)",
         "1 çay bardağı esmer şeker",
         "1 yemek kaşığı pekmez veya akçaağaç şurubu",
         "1 çay bardağı sıvı yağ",
         "50 gram tuzsuz tereyağı",
-        "Yarım çay bardağı ılık su",
+        "yarım çay bardağı ılık su",
         "1 çimdik tuz"
       ],
       "en": [
@@ -1252,7 +1252,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Paketli halk ekmeği zeytinli ve fındıklı",
+        "paketli halk ekmeği zeytinli ve fındıklı",
         "3 adet yumurta",
         "1 tutam dereotu",
         "1 çay kaşığı tuz",
@@ -1301,7 +1301,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "2 yemek kaşığı un",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı tereyağı",
@@ -1318,10 +1318,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Fırını 220 derecede ısıtın. Tereyağını tavaya alıp fırına sürün. 1 adet yumurta süt un ve tuzu çırpın. T",
-        "ereyağı eridikten sonra karışımı tavaya dökün.",
+        "Fırını 220 derecede ısıtın. Tereyağını tavaya alıp fırına sürün. 1 adet yumurta, süt, un ve tuzu çırpın.",
+        "Tereyağı eridikten sonra karışımı tavaya dökün.",
         "Yanlardan tamamen kabarınca fırından alıp üzerine 1 adet yumurta kırın. Fırına tekrar koyun.",
-        "Sonradan eklenen yumurta pişene kadar pişirin."
+        "Sonradan eklenen yumurta pişene kadar fırında tutun."
       ],
       "en": [
         "Preheat the oven to 220 degrees. Melt the butter in a pan, spread it over the base and place the pan in the oven. Beat 1 egg with the milk, flour and salt.",
@@ -1351,10 +1351,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "50 gram beyaz peynir (isteğe göre artırılabilir)",
         "1 yemek kaşığı salça (ben domates kullandım)",
         "1 yemek kaşığı zeytinyağı",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber",
-        "Nane"
+        "tuz",
+        "karabiber",
+        "pulbiber",
+        "nane"
       ],
       "en": [
         "50 gram white cheese (you can increase it as you wish)",
@@ -1396,7 +1396,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 çay bardağı süt",
         "2 çay kaşığı tuz",
         "2 çay bardağı un ( duruma göre ekleyebilirsiniz kıvamı kek hamurundan biraz koyu olacak)",
-        "Yarım paket kabartma tozu"
+        "yarım paket kabartma tozu"
       ],
       "en": [
         "1 egg",
@@ -1444,7 +1444,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "3 büyük boy patates",
         "1 su bardağı rendelenmiş kaşar",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "1 dolu tatlı kaşığı tuz",
         "1 adet yumurta",
         "2 su bardağı un"
@@ -1516,18 +1516,18 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Pazılarımızın yapraklarını tek tek yıkayalım ,güzelce süzelim.",
+        "Pazılarımızın yapraklarını tek tek yıkayalım, güzelce süzelim.",
         "İnce bir şekilde doğrayalım.",
-        "Kabın içine alalım ve üzerine su ekleyelim ,10 dakika sonra süzelim.",
-        "üzerine sarımsağımızı rendeleyelim zeytinyağı,tuz,un,yumurta ekleyelim ve güzelce karıştıralım dereotunu ince bir şekilde doğrayalım kabın içine alalım ve üzerine köy biberimizi,kereviz sapını,kıymamızı ekleyelim ve güzelce karıştıralım.",
-        "Yuvarlak borcama zeytinyağı döküp fırça yardımı ile yayalım pazı harcımızı koyalım. 200 derecede 20 dakika pişirelim afiyet olsun."
+        "Kabın içine alalım ve üzerine su ekleyelim; 10 dakika sonra süzelim.",
+        "Üzerine sarımsağımızı rendeleyelim; zeytinyağı, tuz, un ve yumurta ekleyip güzelce karıştıralım. Dereotunu ince bir şekilde doğrayalım, kabın içine alalım. Üzerine köy biberimizi, kereviz sapını ve kıymamızı ekleyip güzelce karıştıralım.",
+        "Yuvarlak borcama zeytinyağı döküp fırça yardımıyla yayalım, pazı harcımızı koyalım. 200 derecede 20 dakika pişirelim. Afiyet olsun."
       ],
       "en": [
         "Wash the leaves of our chard one by one and drain them well.",
         "Chop them finely.",
-        "Put them into a container and add water over them, drain after 10 minutes.",
-        "Grate the garlic over the top, add the olive oil, the salt, the flour and the eggs and mix well; chop the dill finely, put it into the container and add the country pepper, the celery stalk and the minced meat on top and mix well.",
-        "Pour olive oil into a round baking dish and spread it with the help of a brush, then put the chard mixture in. Bake at 200 degrees for 20 minutes, enjoy your meal."
+        "Put them into a container and add water over them; drain after 10 minutes.",
+        "Grate the garlic over the top, add the olive oil, salt, flour and eggs and mix well. Chop the dill finely and put it into the container. Add the village pepper, celery stalk and minced meat on top and mix well.",
+        "Pour olive oil into a round baking dish and spread it with a brush, then put the chard mixture in. Bake at 200 degrees for 20 minutes. Enjoy your meal."
       ]
     },
     "alternatives": [],
@@ -1701,7 +1701,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 su bardağı süt",
         "1 yumurta",
         "3 yemek kaşığı toz şeker",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 paket kabartma tozu",
         "1 paket vanilya",
         "1.5 su bardağı un"
@@ -1754,10 +1754,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta",
         "1 yemek kaşığı şeker",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 su parmağında az un",
         "1 paket vanilya",
-        "Yarım paket kabartma tozu"
+        "yarım paket kabartma tozu"
       ],
       "en": [
         "1 egg",
@@ -1802,8 +1802,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1 çay bardağı süt",
         "1 yumurta",
-        "Az şeker",
-        "Az tuz",
+        "az şeker",
+        "az tuz",
         "7 yemek kaşığı un"
       ],
       "en": [
@@ -1851,7 +1851,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 kilo patates (her kişi için 2 patates olsun)",
         "1 çay kaşığı tuz",
         "4 yemek kaşığı sıvı yağ",
-        "Ön haşlama için kaynar su"
+        "ön haşlama için kaynar su"
       ],
       "en": [
         "1 kilo potatoes (2 potatoes per person)",
@@ -1899,7 +1899,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "2 adet yumurta",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kırmızı toz biber",
-        "Tuz",
+        "tuz",
         "1 çay kaşığı kimyon",
         "4 yemek kaşığı un",
         "3 diş sarımsak"
@@ -1944,8 +1944,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
   {
     "id": "nefis-nefis-kahvalti-1238",
     "name": {
-      "tr": "Kuymak (Muhlama)",
-      "en": "Kuymak (Mıhlama)"
+      "tr": "Kuymak (Mıhlama)",
+      "en": "Kuymak (Mihlama)"
     },
     "cuisine": "nefis-kahvalti",
     "time": 70,
@@ -2006,8 +2006,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "2 çorba kaşığı toz şeker",
         "1 su bardağı süt",
         "1,5 su bardağı un",
-        "Vanilin",
-        "Kabartma tozu",
+        "vanilin",
+        "kabartma tozu",
         "1 yemek kaşığı mavi haşhaş"
       ],
       "en": [
@@ -2061,7 +2061,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "3 adet domates (boyutu malzemelere göre değişir)",
         "1/2 (yarım) çay kaşığı tuz",
         "3 adet yumurta",
-        "Yarım soğan"
+        "yarım soğan"
       ],
       "en": [
         "2 tbsp vegetable oil",
@@ -2106,10 +2106,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta",
         "1 yemek kaşığı şeker",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 su bardağından 1 parmak eksik un",
         "1 paket vanilya",
-        "Yarım paket kabartma tozu"
+        "yarım paket kabartma tozu"
       ],
       "en": [
         "1 egg",
@@ -2209,7 +2209,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "150 gram beyaz peynir",
         "3 dilim hindi salamı",
         "2 adet yumurta sarısı (biri içini biri dışına)",
-        "Susam"
+        "susam"
       ],
       "en": [
         "5 sheets of puff pastry",
@@ -2317,7 +2317,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "2 yemek kaşığı yoğurt",
         "1-2 yemek kaşığı süt",
         "1 çay kaşığı kabartma tozu",
-        "İsteğe bağlı 1 çay kaşığı tarçın"
+        "isteğe bağlı 1 çay kaşığı tarçın"
       ],
       "en": [
         "1 egg",
@@ -2370,10 +2370,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "3 adet yumurta",
         "1 adet kuru soğan",
-        "Bir tutam rendelenmiş kaşar peyniri",
-        "Bir tutam maydanoz",
-        "Tuz",
-        "Zeytinyağı"
+        "bir tutam rendelenmiş kaşar peyniri",
+        "bir tutam maydanoz",
+        "tuz",
+        "zeytinyağı"
       ],
       "en": [
         "3 eggs",
@@ -2474,7 +2474,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "2 kg kapya biber",
         "4 adet domates",
-        "Yarım kg yeşil biber kıl olursa daha iyi olur",
+        "yarım kg yeşil biber kıl olursa daha iyi olur",
         "1 baş sarımsak",
         "1 su bardağı sirke",
         "1 çay bardağı zeytin yağ",
@@ -2526,7 +2526,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1 kg kızartmalık biber",
         "1 çay bardağı sıvı yağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 kg frying peppers",
@@ -2567,8 +2567,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 adet orta boy patates",
-        "Yarım çay bardağı sıvı yağ",
-        "Tuz"
+        "yarım çay bardağı sıvı yağ",
+        "tuz"
       ],
       "en": [
         "4 medium potatoes",
@@ -2580,7 +2580,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "Patatesleri doğrayalım ve yıkıyalım.",
         "Sıvı yağı tavaya koyalım ve yağ ısınınca patatesleri koyalım.",
-        "Patatesleri kızartırken sürekli karıştırmak yada altını üstüne çevirme gibi müdahale etmeyelim.",
+        "Patatesleri kızartırken sürekli karıştırmak ya da altını üstüne çevirme gibi müdahale etmeyelim.",
         "Altının kızardığına emin olduktan sonra alt üst çevirelim.",
         "Kızaran patatesleri tabağa alalım ve tuzlayım. Ben kızarttıktan sonra tuzluyorum daha güzel oluyor."
       ],
@@ -2651,8 +2651,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "2 adet yumurta",
         "3 yemek kaşığı tepeleme un",
         "1 tatlı kaşığı silme karabiber",
-        "Pul biber",
-        "Toz biber",
+        "pul biber",
+        "toz biber",
         "1 çay kaşığı tepeleme tuz"
       ],
       "en": [
@@ -2702,13 +2702,13 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "​2 adet yumurta",
-        "​1 çay bardağı rendelenmiş kaşar peyniri",
-        "​1 tatlı kaşığı tereyağı (veya sıvı yağ)",
-        "​İsteğe göre tuz",
-        "Karabiber",
-        "Pul biber",
-        "Kekik ( bem sadece tuz ekliyorum)"
+        "2 adet yumurta",
+        "1 çay bardağı rendelenmiş kaşar peyniri",
+        "1 tatlı kaşığı tereyağı (veya sıvı yağ)",
+        "isteğe göre tuz",
+        "karabiber",
+        "pul biber",
+        "kekik ( bem sadece tuz ekliyorum)"
       ],
       "en": [
         "2 eggs",
@@ -2727,7 +2727,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "Yumurtalar hafifçe piştikten sonra üzerine damak zevkinize göre tuz ve baharatları serpiştirin.",
         "Yumurtanın pişmesine yakın, rendelenmiş kaşar peynirini yumurtanın her yerine eşit şekilde yayarak serpiştirin.",
         "Tavanın kapağını kapatın ve kısık ateşte kaşar peynirleri tamamen eriyip hafifçe yumuşayana kadar yaklaşık 1-2 dakika bekleyin.",
-        "​Sıcak sıcak servis tabağına alıp afiyetle tüketebilirsin. Şimdiden afiyet olsun😊."
+        "Sıcak sıcak servis tabağına alıp afiyetle tüketebilirsin. Şimdiden afiyet olsun😊."
       ],
       "en": [
         "Put the butter in a small pan and melt it over medium heat. Take care that the butter does not burn.",
@@ -2760,7 +2760,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "3 adet parmak sosis",
         "1 adet yumurta",
         "50 gram rendelenmiş kaşar peyniri",
-        "Yarım kapya biber",
+        "yarım kapya biber",
         "2 dal dereotu",
         "10 gram çörekotu",
         "10 gram susam"
@@ -2813,7 +2813,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 tatlı kaşığı toz şeker",
         "2 tatlı kaşığı tuz",
         "4.5 su bardağı un",
-        "Kızartmak için sıvı yağ"
+        "kızartmak için sıvı yağ"
       ],
       "en": [
         "2 cups milk",
@@ -2860,7 +2860,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "2 adet yumurta",
         "4 yemek kaşığı şeker",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "1 su bardağı süt",
         "1 paket kabartma tozu",
         "1 paket vanilya",
@@ -2952,9 +2952,9 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1,5 kg domates",
         "6 diş sarımsak",
-        "Kaya tuzu",
-        "Kekik",
-        "Zeytinyağ"
+        "kaya tuzu",
+        "kekik",
+        "zeytinyağ"
       ],
       "en": [
         "1.5 kg tomatoes",
@@ -2967,7 +2967,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Domatesleri 4 e bölelim ve yağlı kağıt serili tepsiye dizelim.",
-        "Kaya tuzu ve  kekik ilave edelim.",
+        "Kaya tuzu ve kekik ilave edelim.",
         "250°c fırında domatesler güzelce közlenip, yumuşamaya kadar pişirelim.",
         "Domatesleri sıcakken kavanozlara dolduralım. Aralarına sarımsak yerleştirelim.",
         "Küçük kavanozlar dolduktan sonra üzerine zeytinyağ ekleyelim.",
@@ -3154,7 +3154,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 çay kaşığı tuz",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kırmızı toz biber",
-        "Rendelenmiş kaşar peyniri"
+        "rendelenmiş kaşar peyniri"
       ],
       "en": [
         "2 potatoes",
@@ -3192,7 +3192,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
   {
     "id": "nefis-nefis-kahvalti-1263",
     "name": {
-      "tr": "Margherita Pizza",
+      "tr": "Margarita Pizza",
       "en": "Margherita Pizza"
     },
     "cuisine": "nefis-kahvalti",
@@ -3203,10 +3203,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "4 dilim ekmek",
         "3 adet yumurta",
         "3 yemek kaşığı süt",
-        "Rendelenmiş kaşar peyniri",
-        "Domates sosu",
-        "Domates",
-        "Maydonoz"
+        "rendelenmiş kaşar peyniri",
+        "domates sosu",
+        "domates",
+        "maydonoz"
       ],
       "en": [
         "4 slices of bread",
@@ -3263,7 +3263,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı",
         "1 çay kaşığı toz acı biber",
         "2 yemek kaşığı sıvı yağ",
-        "Göz kararı tuz",
+        "göz kararı tuz",
         "1 çay bardağı rendelenmiş kaşar peyniri"
       ],
       "en": [
@@ -3313,10 +3313,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "100 gram kaşar peyniri",
         "3 adet orta boy yumurta",
         "2 yemek kaşığı sıvı yağ",
-        "Yarım çay kaşığı pul biber",
-        "Yarım çay kaşığı kırmızı toz biber",
-        "Bir fiske karabiber",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı pul biber",
+        "yarım çay kaşığı kırmızı toz biber",
+        "bir fiske karabiber",
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "2 large tomatoes",
@@ -3368,9 +3368,9 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "2 adet yumurta",
         "2 yemek kaşığı yoğurt",
-        "Lor peyniri ya da kaşar peyniri",
+        "lor peyniri ya da kaşar peyniri",
         "3 yemek kaşığı yulaf",
-        "Yeşillik ( ben yeşil soğan ve maydanoz koydum)"
+        "yeşillik ( ben yeşil soğan ve maydanoz koydum)"
       ],
       "en": [
         "2 eggs",
@@ -3474,8 +3474,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 çay kaşığı tuz",
         "1 yemek kaşığı sıvı yağ",
         "1 tatlı kaşığı kuru maya",
-        "Yumurta",
-        "Kaşar"
+        "yumurta",
+        "kaşar"
       ],
       "en": [
         "4 cups flour",
@@ -3579,8 +3579,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağı",
         "1,5 yemek kaşığı mısır unu",
         "1 çay bardağı su",
-        "Kaşar peyniri",
-        "Tuz"
+        "kaşar peyniri",
+        "tuz"
       ],
       "en": [
         "2 tbsp butter",
@@ -3624,12 +3624,12 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Sucuk",
+        "sucuk",
         "1 yemek kaşığı un",
         "1 çay bardağı süt",
-        "Kaşar",
-        "İsteğe göre üstüne karabiber",
-        "Kırmızı biber"
+        "kaşar",
+        "isteğe göre üstüne karabiber",
+        "kırmızı biber"
       ],
       "en": [
         "sucuk (Turkish sausage)",
@@ -3674,10 +3674,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "3 adet yumurta",
         "2 tatlı kaşığı tereyağı",
-        "Bir tutam tuz",
+        "bir tutam tuz",
         "3 çorba kaşığı sürülebilir taze peynir (labne) veya soğan aromalı boursin peyniri",
         "1 adet ince kıyılmış taze soğan",
-        "Bir avuç ufalanmış tahıl cipsi veya soğan aromalı cips"
+        "bir avuç ufalanmış tahıl cipsi veya soğan aromalı cips"
       ],
       "en": [
         "3 eggs",
@@ -4001,12 +4001,12 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "3 adet yumurta",
         "3 adet domates",
         "2 adet biber",
-        "Yarı kapya",
+        "yarı kapya",
         "1 adet küçük boy soğan",
-        "Yağ (göz kararı)",
-        "Karabiber (göz kararı)",
-        "Pulbiber (göz kararı)",
-        "Tuz (göz kararı)"
+        "yağ (göz kararı)",
+        "karabiber (göz kararı)",
+        "pulbiber (göz kararı)",
+        "tuz (göz kararı)"
       ],
       "en": [
         "3 eggs",
@@ -4023,7 +4023,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "İlk önce domatesi rendeleyin ve bir kaseye koyunuz .",
-        "Sonra biberleri  oldukça küçük doğrayınız ,daha sonra soğanı da küçük nizami bir şekilde doğrayınız ,yumurtayı bir kaseye alıp biraz beyazından arındırın ve güzelce çırpın ve herşey hazır gelelim pişirmeye.",
+        "Sonra biberleri oldukça küçük doğrayınız ,daha sonra soğanı da küçük nizami bir şekilde doğrayınız ,yumurtayı bir kaseye alıp biraz beyazından arındırın ve güzelce çırpın ve herşey hazır gelelim pişirmeye.",
         "Yağı kızdırın ve soğanları atın hafif renk alınca biberleri atın, biberler yumuşayınca domatesi atın ve üzerine kimyon,tuz ve pul biberi atın.",
         "Daha sonra 4-5 dk bekleyin ve yumurtayı ekleyip hemen hızlıca karıştırın ama çok değil yumurta içinde karşılaşmadan alınız yani 20 sn yeterli olacaktır. İşte bu kadar afiyet olsun."
       ],
@@ -4054,14 +4054,14 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "2 yemek kaşığı domates salçası",
         "1 çay bardağı su",
-        "Kaşar",
+        "kaşar",
         "3 adet yumurta",
-        "Tuz",
-        "Sıvı yağ"
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "2 tbsp tomato paste",
-        "1 cup water",
+        "1 teacup water",
         "kaşar cheese",
         "3 eggs",
         "salt",
@@ -4106,10 +4106,10 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "4 adet domates",
         "2 adet köy biberi",
         "1 yemek kaşığı tereyağı",
-        "Kaşar peyniri rendesi",
+        "kaşar peyniri rendesi",
         "1 çay kaşığı tuz",
-        "Yarım çay kaşığı pul biber",
-        "Yarım çay kaşığı karabiber"
+        "yarım çay kaşığı pul biber",
+        "yarım çay kaşığı karabiber"
       ],
       "en": [
         "2 egg yolks",
@@ -4158,8 +4158,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "3 adet yumurta",
         "1 çay bardağının yarısından az yoğurt",
         "1 dilim beyaz peynir",
-        "Tuz",
-        "Kırmızı toz biber",
+        "tuz",
+        "kırmızı toz biber",
         "50 gram doğranmış margarin"
       ],
       "en": [
@@ -4205,7 +4205,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
-        "Yarım su bardağı ılık su",
+        "yarım su bardağı ılık su",
         "4 yemek kaşığı toz şeker",
         "2 adet yumurta (1’inin sarısı üzeri için ayrılacak)",
         "1 yemek kaşığı kuru maya (veya 1 paket yaş maya)",
@@ -4267,9 +4267,9 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "4–5 ədəd yetişmiş pomidor",
         "4 ədəd yumurta",
         "30–40 q kərə yağı",
-        "Duz — zövqə görə",
+        "duz — zövqə görə",
         "️qara istiot — zövqə görə",
-        "Şəkər tozu-1 çay qaşığı"
+        "şəkər tozu-1 çay qaşığı"
       ],
       "en": [
         "4-5 ripe tomatoes",
@@ -4325,7 +4325,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 yemek kaşığı rende kaşar",
         "1 yemek kaşığı yulaf",
         "30 gr beyaz peynir",
-        "Küçük tutam doğranmış maydanoz",
+        "küçük tutam doğranmış maydanoz",
         "1 fiske tuz",
         "1 çay kaşığı pul biber"
       ],
@@ -4374,8 +4374,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta",
         "3 yemek kaşığı yulaf unu",
-        "Bir fiske tuz",
-        "Yarım su bardağı su"
+        "bir fiske tuz",
+        "yarım su bardağı su"
       ],
       "en": [
         "1 egg",
@@ -4429,9 +4429,9 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "4 adet orta boy domates",
         "1 turk kahve fincanı zeytinyağı veya sıvıyağ",
         "1 çay kaşığı tuz",
-        "Toz tatlı biber",
-        "Yarım çay kaşığı tozşeker",
-        "Karabiber",
+        "toz tatlı biber",
+        "yarım çay kaşığı toz şeker",
+        "karabiber",
         "1 Türk kahve fincanı su",
         "2 adet büyük boy yumurta"
       ],
@@ -4544,7 +4544,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı yoğurt",
         "1 adet yumurta",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yemek kaşığı şeker",
         "1 tatlı kaşığı tuz",
         "1 tane kabartma tozu",
@@ -4597,12 +4597,12 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet yumurta",
-        "Bir tutam maydanoz",
+        "bir tutam maydanoz",
         "1 yemek kaşığı lor",
         "1 yemek kaşığı doğranmış kaşar",
         "1 çay kaşığı çörek otu",
         "1 çay kaşığı pulbiber",
-        "Tuz",
+        "tuz",
         "1 tatlı kaşığı tereyağ"
       ],
       "en": [
@@ -4646,11 +4646,11 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım çay bardağı yoğurt",
+        "yarım çay bardağı yoğurt",
         "1 adet yumurta",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "1 çay kaşığı tuz",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "half a teacup yogurt",
@@ -4696,7 +4696,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 yemek kaşığı beyaz un",
         "1 adet yumurta",
         "1 su bardağı süt (ya da yarım su bardağı yoğurt ve yarım su bardağı su karışımı)",
-        "1 tatlı kaşığı bal yada pekmez (isteğe göre)",
+        "1 tatlı kaşığı bal ya da pekmez (isteğe göre)",
         "1 paket kabartma tozu",
         "1 çimdik tuz"
       ],
@@ -4823,7 +4823,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 yemek kaşığı yoğurt",
-        "Yarım tatlı kaşığı mayonez"
+        "yarım tatlı kaşığı mayonez"
       ],
       "en": [
         "3 tbsp yogurt",
@@ -4869,15 +4869,15 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 bütün bayat dilimlenmiş bayat ekmek",
         "3 adet yumurta",
         "1 su bardağı yoğurt",
-        "Yarım çay bardağı zeytinyağ",
+        "yarım çay bardağı zeytinyağ",
         "1 paket kabartma tozu",
         "100 gram peynir",
         "2 dal yeşil soğan",
         "5-6 dal maydanoz",
         "5-6 dal dereotu",
-        "Rendelenmiş kaşar",
-        "Susam",
-        "Çörekotu"
+        "rendelenmiş kaşar",
+        "susam",
+        "çörekotu"
       ],
       "en": [
         "1 whole sliced piece of stale bread",
@@ -4984,7 +4984,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "tr": [
         "2 adet orta boy patates",
         "2-3 yemek kaşığı tereyağ",
-        "Su"
+        "su"
       ],
       "en": [
         "2 medium potatoes",
@@ -5031,7 +5031,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
         "1 tatlı kaşığı nar ekşisi",
         "1 çay kaşığı sumak",
         "1 çay kaşığı pul biber",
-        "Tuz",
+        "tuz",
         "4-5 dal maydanoz"
       ],
       "en": [
@@ -5175,9 +5175,9 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 kase zeytin",
-        "Biraz kekik",
+        "biraz kekik",
         "2 tatlı kaşığı susam",
-        "Biraz limon suyu",
+        "biraz limon suyu",
         "4 yemek kaşığı sıvı yağ",
         "3 yemek kaşığı nar ekşisi"
       ],

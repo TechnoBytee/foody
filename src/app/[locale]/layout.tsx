@@ -10,12 +10,22 @@ const instrumentSerif = Instrument_Serif({
   weight: "400",
 });
 
-export const metadata: Metadata = {
-  title: "foody",
-  description: "Dünyanın tüm mutfaklarından tarifler, alternatifler ve fikirler.",
-  manifest: "/manifest.json",
-  appleWebApp: { capable: true, statusBarStyle: "default", title: "foody" },
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  return {
+    title: "foody",
+    description:
+      locale === "tr"
+        ? "Dünyanın tüm mutfaklarından tarifler, alternatifler ve fikirler."
+        : "Recipes, alternatives and ideas from every cuisine.",
+    manifest: "/manifest.json",
+    appleWebApp: { capable: true, statusBarStyle: "default", title: "foody" },
+  };
+}
 
 export function generateStaticParams() {
   return [{ locale: "tr" }, { locale: "en" }];

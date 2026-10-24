@@ -2,6 +2,8 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { recipes, getRecipe } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
+import { getAlternatives } from "@/services/ai";
+import RecipeCards from "@/components/RecipeCards";
 
 export function generateStaticParams() {
   return recipes.map((r) => ({ id: r.id }));
@@ -16,6 +18,7 @@ export default async function RecipePage({
   const recipe = getRecipe(id);
   if (!recipe) notFound();
   const messages = getMessages(locale);
+  const alternatives = await getAlternatives(recipe, locale);
 
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
@@ -90,10 +93,12 @@ export default async function RecipePage({
         </ol>
       </section>
 
-      <section className="rounded-xl border border-[#EAEAEA] bg-white p-6">
-        <h2 className="font-serif text-xl">{messages.alternatives}</h2>
-        <p className="mt-2 text-sm text-[#2F3437]">{recipe.alternatives.join(", ")}</p>
-      </section>
+      {alternatives.length > 0 && (
+        <section className="flex flex-col gap-4">
+          <h2 className="font-serif text-xl">{messages.alternatives}</h2>
+          <RecipeCards recipes={alternatives} locale={locale} />
+        </section>
+      )}
     </main>
   );
 }

@@ -8,7 +8,7 @@ export const bizansIslamRecipes: Recipe[] = [
     cuisine: "et",
     time: 90,
     difficulty: "medium",
-    ingredients: { tr: ["buğday", "bal", "kuruyemiş", "nar", "kakao", "zeytinyağı"], en: ["buğday", "bal", "kuruyemiş", "nar", "kakao", "zeytinyağı"] },
+    ingredients: { tr: ["buğday", "bal", "kuruyemiş", "nar", "kakao", "zeytinyağı"], en: ["wheat", "honey", "nuts", "pomegranate", "cocoa", "olive oil"] },
     steps: {
       tr: [
         "Buğdayı tavada kavurup öğütün.",
@@ -37,7 +37,7 @@ export const bizansIslamRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "hard",
-    ingredients: { tr: ["un", "su", "sirke", "tereyağı", "tuz"], en: ["un", "su", "sirke", "tereyağı", "tuz"] },
+    ingredients: { tr: ["un", "su", "sirke", "tereyağı", "tuz"], en: ["flour", "water", "vinegar", "butter", "salt"] },
     steps: {
       tr: [
         "Hamuru 10 dakika dinlendirin.",
@@ -65,7 +65,7 @@ export const bizansIslamRecipes: Recipe[] = [
     cuisine: "et",
     time: 90,
     difficulty: "medium",
-    ingredients: { tr: ["et", "sirke", "bal", "tarçın", "karanfil", "safran", "tuz"], en: ["et", "sirke", "bal", "tarçın", "karanfil", "safran", "tuz"] },
+    ingredients: { tr: ["et", "sirke", "bal", "tarçın", "karanfil", "safran", "tuz"], en: ["meat", "vinegar", "honey", "cinnamon", "clove", "saffron", "salt"] },
     steps: {
       tr: [
         "Eti parçalayıp sirkeye bırakın, sonra baharatlarla marine edin.",
@@ -94,7 +94,7 @@ export const bizansIslamRecipes: Recipe[] = [
     cuisine: "et",
     time: 40,
     difficulty: "easy",
-    ingredients: { tr: ["bayat ekmek", "et suyu", "sebze", "nohut", "baharat", "zeytinyağı"], en: ["bayat ekmek", "et suyu", "sebze", "nohut", "baharat", "zeytinyağı"] },
+    ingredients: { tr: ["bayat ekmek", "et suyu", "sebze", "nohut", "baharat", "zeytinyağı"], en: ["stale bread", "broth", "vegetables", "chickpeas", "spice", "olive oil"] },
     steps: {
       tr: [
         "Ekmeği küçük parçalar hâlinde doğrayın.",
@@ -123,7 +123,7 @@ export const bizansIslamRecipes: Recipe[] = [
     cuisine: "et",
     time: 80,
     difficulty: "medium",
-    ingredients: { tr: ["erişte", "nohut", "fasulye", "ıspanak", "kaşk", "nane", "soğan", "tuz"], en: ["erişte", "nohut", "fasulye", "ıspanak", "kaşk", "nane", "soğan", "tuz"] },
+    ingredients: { tr: ["erişte", "nohut", "fasulye", "ıspanak", "keşk", "nane", "soğan", "tuz"], en: ["noodles", "chickpeas", "beans", "spinach", "kashk", "mint", "onion", "salt"] },
     steps: {
       tr: [
         "Baklagilleri önceden ıslatın.",
@@ -151,7 +151,7 @@ export const bizansIslamRecipes: Recipe[] = [
     cuisine: "et",
     time: 240,
     difficulty: "hard",
-    ingredients: { tr: ["buğday", "et", "ghi", "baharat", "soğan", "tuz"], en: ["buğday", "et", "ghi", "baharat", "soğan", "tuz"] },
+    ingredients: { tr: ["buğday", "et", "ghi", "baharat", "soğan", "tuz"], en: ["wheat", "meat", "ghee", "spice", "onion", "salt"] },
     steps: {
       tr: [
         "Eti haşlayıp yağını alın.",
@@ -179,7 +179,7 @@ export const bizansIslamRecipes: Recipe[] = [
     cuisine: "et",
     time: 60,
     difficulty: "medium",
-    ingredients: { tr: ["pirinç", "safran", "zerdeçal", "şeker", "gül suyu", "badem"], en: ["pirinç", "safran", "zerdeçal", "şeker", "gül suyu", "badem"] },
+    ingredients: { tr: ["pirinç", "safran", "zerdeçal", "şeker", "gül suyu", "badem"], en: ["rice", "saffron", "turmeric", "sugar", "rose water", "almonds"] },
     steps: {
       tr: [
         "Safrani ılık suda 10 dakika bekletin.",

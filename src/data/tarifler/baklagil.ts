@@ -18,8 +18,8 @@ export const baklagilRecipes: Recipe[] = [
         "2 su bardağı un",
         "1 yemek kaşığı salça",
         "1 tatlı kaşığı kimyon",
-        "Karabiber",
-        "Tuz"
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "2 cups fine bulgur",
@@ -74,8 +74,8 @@ export const baklagilRecipes: Recipe[] = [
         "2 su bardağı un",
         "1 yemek kaşığı salça",
         "1 tatlı kaşığı kimyon",
-        "Karabiber",
-        "Tuz"
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "2 cups fine bulgur",
@@ -242,13 +242,13 @@ export const baklagilRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo kuşbaşı doğranmış et",
+        "yarım kilo kuşbaşı doğranmış et",
         "1,5 su bardağı haşlanmış nohut",
         "1 adet kuru soğan",
         "3 yemek kaşığı sıvı yağ",
         "2 yemek kaşığı salça",
-        "Tuz",
-        "Pul biber"
+        "tuz",
+        "pul biber"
       ],
       "en": [
         "500 g cubed meat",
@@ -266,7 +266,7 @@ export const baklagilRecipes: Recipe[] = [
         "Soğanları yemeklik doğrayarak sıvı yağda pembeleşene kadar kavurun.",
         "Salçayı, tuzunu, pul biberini ilave edip 2 dakika daha kavurun.",
         "Haşlanmış etleri ve haşlanmış nohutu da ilave ederek bir kaç kez karıştırın.",
-        "Daha sonra üzerlerine çıkacak kadar yaklaşık 6 su bardağı kaynamış su koyup beraber biraz daha (10-15 dakika kadar) kaynattıktan sonra ocağı kapatabilirsiniz.. Afiyet olsun…"
+        "Daha sonra üzerlerine çıkacak kadar yaklaşık 6 su bardağı kaynamış su koyup beraber biraz daha (10-15 dakika kadar) kaynattıktan sonra ocağı kapatabilirsiniz.. Afiyet olsun…"
       ],
       "en": [
         "Cut the meat into cubes and boil it until tender.",
@@ -361,8 +361,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 su bardağı kırmızı mercimek",
         "3 su bardağı su (gerekirse yoğurma aşamasında biraz daha eklenebilir)",
         "4-5 adet taze soğan",
-        "Çeyrek demet maydanoz",
-        "1,5 su bardağı  köftelik bulgur",
+        "çeyrek demet maydanoz",
+        "1,5 su bardağı köftelik bulgur",
         "5 yemek kaşığı sıvı yağ",
         "1 adet kuru soğan",
         "1,5 yemek kaşığı domates salçası",
@@ -393,7 +393,7 @@ export const baklagilRecipes: Recipe[] = [
         "Mercimeklerimizi güzelce yıkayalım ve uygun bir tencereye alalım.",
         "Üzerine 3 su bardağı su ilave ederek mercimekler yumuşayıncaya kadar pişirelim.",
         "Suyunu çekince bulguru içine ilave ederek karıştıralım.",
-        "30 dakika kadar tencerenin kapağını kapatarak bekleyelim.",
+        "30 dakika kadar tencerenin kapağını kapatarak bekleyelim.",
         "Tavamıza ince ince kıydığımız soğanı, sıvı yağda hafif pembeleşene kadar kavuralım.",
         "İçerisine salçaları ilave ederek bir kaç dakika daha kavuralım ve ocaktan alalım.",
         "Dinlendirdiğimiz mercimekleri başka bir kaba alalım.",
@@ -445,8 +445,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı biber salçası",
         "2 su bardağı nohut",
         "1 çay kaşığı kırmızı toz biber",
-        "Yarım çay kaşığı karabiber",
-        "Tuz"
+        "yarım çay kaşığı karabiber",
+        "tuz"
       ],
       "en": [
         "250 g cubed meat",
@@ -580,7 +580,7 @@ export const baklagilRecipes: Recipe[] = [
         "2 yemek kaşığı salça",
         "7 su bardağı su",
         "2 çay kaşığı tuz",
-        "Yarım çay bardağı zeytinyağı (ya da sıvı yağ)"
+        "yarım çay bardağı zeytinyağı (ya da sıvı yağ)"
       ],
       "en": [
         "1.5 cups green lentils",
@@ -589,7 +589,7 @@ export const baklagilRecipes: Recipe[] = [
         "2 tablespoons tomato paste",
         "7 cups water",
         "2 teaspoons salt",
-        "1/2 cup olive oil (or vegetable oil)"
+        "1/2 teacup olive oil (or vegetable oil)"
       ]
     },
     "steps": {
@@ -631,7 +631,7 @@ export const baklagilRecipes: Recipe[] = [
         "2,5 su bardağı mercimek",
         "5 su bardağı su",
         "2 su bardağı köftelik bulgur",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2.5 cups lentils",
@@ -685,12 +685,12 @@ export const baklagilRecipes: Recipe[] = [
         "1 diş sarımsak",
         "2-3 adet domates",
         "2 yemek kaşığı domates salçası",
-        "Karabiber",
-        "Pulbiber",
-        "Kimyon",
-        "Zeytinyağı",
-        "Tuz",
-        "Yarım bardak sıcak su"
+        "karabiber",
+        "pulbiber",
+        "kimyon",
+        "zeytinyağı",
+        "tuz",
+        "yarım bardak sıcak su"
       ],
       "en": [
         "2 cups cooked chickpeas",
@@ -746,10 +746,10 @@ export const baklagilRecipes: Recipe[] = [
         "4 orta boy domates",
         "1 su bardağı zeytinyağı",
         "2 dolu çorba kaşığı biber salçası",
-        "Kimyon",
-        "Tozbiber",
-        "Tuz",
-        "Karabiber",
+        "kimyon",
+        "tozbiber",
+        "tuz",
+        "karabiber",
         "2 su bardağı su"
       ],
       "en": [
@@ -802,14 +802,14 @@ export const baklagilRecipes: Recipe[] = [
         "250 gram kuşbaşı",
         "1 adet kuru soğan",
         "2 diş sarımsak",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "1 kaşığı tuz",
         "1 tatlı kaşığı pul biber",
         "1 çay kaşığı kara biber",
         "1 çay kaşığı kimyon",
         "1 tatlı kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Yeterince su"
+        "yeterince su"
       ],
       "en": [
         "1 kg beans",
@@ -867,11 +867,11 @@ export const baklagilRecipes: Recipe[] = [
         "2 adet domates",
         "2 diş sarımsak",
         "1 yemek kaşığı domates salçası",
-        "Yarım çay bardağı sıvı yağ",
-        "Pul biber",
-        "Karabiber",
-        "Kimyon",
-        "Tuz"
+        "yarım çay bardağı sıvı yağ",
+        "pul biber",
+        "karabiber",
+        "kimyon",
+        "tuz"
       ],
       "en": [
         "3 cups cooked chickpeas",
@@ -881,7 +881,7 @@ export const baklagilRecipes: Recipe[] = [
         "2 tomatoes",
         "2 cloves garlic",
         "1 tablespoon tomato paste",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "Chili flakes",
         "Black pepper",
         "Cumin",
@@ -926,7 +926,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 tutam maydanoz",
         "1 kahve fincanı galeta unu",
         "1 adet yumurta",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 teacup green lentils",
@@ -976,11 +976,11 @@ export const baklagilRecipes: Recipe[] = [
         "1 adet kapya biber",
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Tuz",
-        "Pul biber",
-        "Karabiber",
-        "Yağ",
-        "Su"
+        "tuz",
+        "pul biber",
+        "karabiber",
+        "yağ",
+        "su"
       ],
       "en": [
         "2 cups kidney beans",
@@ -1059,9 +1059,9 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
         "1 tatlı kaşığı nane",
-        "Çeyrek çay bardağından 1 parmak fazla sıvıyağ",
-        "Göz kararı tuz",
-        "Üstünü geçecek kadar su"
+        "çeyrek çay bardağından 1 parmak fazla sıvıyağ",
+        "göz kararı tuz",
+        "üstünü geçecek kadar su"
       ],
       "en": [
         "1 medium onion",
@@ -1071,7 +1071,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 tablespoon tomato paste",
         "1 teaspoon pepper paste",
         "1 teaspoon mint",
-        "A little more than 1/4 cup vegetable oil",
+        "A little more than 1/4 teacup vegetable oil",
         "Salt to taste",
         "Enough water to cover"
       ]
@@ -1111,7 +1111,7 @@ export const baklagilRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı yeşil mercimek",
-        "1 su bardağı kare kesme makarna yada erişte",
+        "1 su bardağı kare kesme makarna ya da erişte",
         "1 adet soğan",
         "1 çay kaşığı nane",
         "1 çay kaşığı pulbiber",
@@ -1178,8 +1178,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı biber salçası",
         "3 yemek kaşığı sıvı yağ",
         "1 çay kaşığı pul biber",
-        "Yarım çay kaşığı karabiber",
-        "Tuz",
+        "yarım çay kaşığı karabiber",
+        "tuz",
         "5-6 su bardağı sıcak su"
       ],
       "en": [
@@ -1242,9 +1242,9 @@ export const baklagilRecipes: Recipe[] = [
         "3 su bardağı sıcak su",
         "1 su bardağından bir parmak eksik un",
         "1 tatlı kaşığı tuz",
-        "Sosu için: 2 su bardağı yoğurt",
+        "sosu için: 2 su bardağı yoğurt",
         "2 diş sarımsak",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 cups bulgur for meatballs",
@@ -1347,9 +1347,9 @@ export const baklagilRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 su bardağı kuru fasulye",
-        "Yarım kg kadar kırmızı et",
+        "yarım kg kadar kırmızı et",
         "1-2 yemek kaşığı sıvı yağ",
-        "Yumurta sarısı kadar biber ve domates salçası",
+        "yumurta sarısı kadar biber ve domates salçası",
         "1 yemek kaşığı kadar kuyruk yağı",
         "1 adet limon"
       ],
@@ -1420,14 +1420,14 @@ export const baklagilRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kg kuru fasulye",
+        "yarım kg kuru fasulye",
         "1 adet kuru soğan",
         "1 yemek kaşığı domates salçası",
-        "Yarım yemek kaşığı biber salçası",
+        "yarım yemek kaşığı biber salçası",
         "1 çay bardağı zeytinyağı",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kimyon",
-        "Göz kararı tuz"
+        "göz kararı tuz"
       ],
       "en": [
         "500 g kidney beans",
@@ -1546,8 +1546,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı sumak (dolu dolu olmasın)",
         "1 tatlı kaşığı kimyon",
         "3 yemek kaşığı nar ekşisi",
-        "Yarım tatlı kaşığı tuz",
-        "Yarım çay bardağı sıvı yağ ekle"
+        "yarım tatlı kaşığı tuz",
+        "yarım çay bardağı sıvı yağ ekle"
       ],
       "en": [
         "2 cups fine bulgur",
@@ -1561,7 +1561,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 teaspoon cumin",
         "3 tablespoons pomegranate molasses",
         "1/2 teaspoon salt",
-        "1/2 cup vegetable oil"
+        "1/2 teacup vegetable oil"
       ]
     },
     "steps": {
@@ -1611,7 +1611,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 su bardağı kırmızı mercimek",
         "1,5 su bardağı kısırlık bulgur",
         "3 su bardağı su",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "4 dal taze soğan",
         "1 adet kuru soğan",
         "2 yemek kaşığı salça",
@@ -1677,10 +1677,10 @@ export const baklagilRecipes: Recipe[] = [
         "1 su bardağı kırmızı mercimek",
         "1 su bardağı ince bulgur",
         "1 orta boy soğan",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 yemek kaşığı dolusu salça",
-        "Tuz",
-        "Pul biber",
+        "tuz",
+        "pul biber",
         "10 dal maydanoz",
         "5 dal taze soğan",
         "1 limon suyu",
@@ -1690,7 +1690,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 cup red lentils",
         "1 cup fine bulgur",
         "1 medium onion",
-        "1/2 cup olive oil",
+        "1/2 teacup olive oil",
         "1 heaped tablespoon tomato paste",
         "Salt",
         "Chili flakes",
@@ -1739,13 +1739,13 @@ export const baklagilRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet patates",
-        "Yarım su bardağı ince bulgur",
+        "yarım su bardağı ince bulgur",
         "1 orta boy soğan",
         "1 yemek kaşığı salça",
-        "Çok az sıvı yağ",
-        "Yarım demet maydanoz",
-        "Yarım limon suyu",
-        "Tuz"
+        "çok az sıvı yağ",
+        "yarım demet maydanoz",
+        "yarım limonun suyu",
+        "tuz"
       ],
       "en": [
         "2 potatoes",
@@ -1799,8 +1799,8 @@ export const baklagilRecipes: Recipe[] = [
         "3-4 diş sarımsak",
         "1 çay bardağı zeytinyağı",
         "1 tatlı kaşığı şeker",
-        "Tuz",
-        "Kekik"
+        "tuz",
+        "kekik"
       ],
       "en": [
         "1 kg fresh broad beans in their pods",
@@ -1877,13 +1877,13 @@ export const baklagilRecipes: Recipe[] = [
         "3 su bardağı kaynamış su",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Sıvı yağ",
+        "sıvı yağ",
         "1 adet kuru soğan ( yemeklik doğranmış )",
         "4-5 dal yeşil soğan ( ince kıyılmış )",
         "1 demet maydanoz ( ince kıyılmış )",
-        "Pul biber",
-        "Karabiber",
-        "Kimyon, tuz"
+        "pul biber",
+        "karabiber",
+        "kimyon, tuz"
       ],
       "en": [
         "1 cup red lentils",
@@ -1944,8 +1944,8 @@ export const baklagilRecipes: Recipe[] = [
         "2 adet kapya biber",
         "2 diş sarımsak",
         "1 yemek kaşığı biber salçası tepeleme",
-        "Yarım çay bardağı sıvı yağ",
-        "Tuz"
+        "yarım çay bardağı sıvı yağ",
+        "tuz"
       ],
       "en": [
         "3 cups kidney beans",
@@ -1954,13 +1954,13 @@ export const baklagilRecipes: Recipe[] = [
         "2 bell peppers",
         "2 cloves garlic",
         "1 tablespoon pepper paste for the topping",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "Salt"
       ]
     },
     "steps": {
       "tr": [
-        "Öncelikle 3 su bardağı kuru fasulyeyi geceden bol suyla ocakta 15 dakika kaynatıp ,altını kapatıp 4-5 su bardağı soğuk su ekleyip, kapağını örtüp sabaha kadar ıslatıyoruz bu şekilde. Ertesi gün suyunu süzüp kullanıyoruz. 👩🏻‍🍳",
+        "Öncelikle 3 su bardağı kuru fasulyeyi geceden bol suyla ocakta 15 dakika kaynatıp ,altını kapatıp 4-5 su bardağı soğuk su ekleyip, kapağını örtüp sabaha kadar ıslatıyoruz bu şekilde. Ertesi gün suyunu süzüp kullanıyoruz. 👩🏻🍳",
         "Güvece sıvı yağı alıp kızdırıyoruz. Arpacık soğanları kavuruyor, ardından küçük doğradığımız kapya biberleri ekliyoruz. Birkaç dakika sonra çeri domatesleri ilave ediyoruz. Baharatları, sarımsağı ve salçayı ekleyip 1-2 dakika kavuruyoruz.",
         "Süzdüğümüz kuru fasulyeleri de ekleyip birkaç dakika çeviriyoruz. Üzerini 4-5 parmak geçecek kadar sıcak su ekleyip (fasulyenin cinsine göre sıcak su takviyesi gerekebilir, fasulye pişmeyebilir) tuzunu ayarlıyoruz. 🔥",
         "Ben güvecimi fırının en yüksek derecesinde, en alt rafında pişirdim. Fırınınız büyükse orta rafta pişirebilirsiniz. Ocakta yapacaksanız orta ateşte pişirin. Mis gibi, lokum gibi güveçte kuru fasulyemiz hazır! 🤎 Afiyet olsun! 😋"
@@ -1995,8 +1995,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz ve karabiber",
         "1 adet kuru soğan",
         "1 diş sarımsak",
-        "Yarım çay bardağı sıvı yağ",
-        "Yeteri kadar su"
+        "yarım çay bardağı sıvı yağ",
+        "yeteri kadar su"
       ],
       "en": [
         "300 g cubed beef",
@@ -2004,7 +2004,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 teaspoon salt and black pepper",
         "1 onion",
         "1 clove garlic",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "Enough water"
       ]
     },
@@ -2107,7 +2107,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "4–5 dal taze soğan",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı pul biber",
         "1 çay kaşığı kimyon",
@@ -2184,9 +2184,9 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1/2 (yarım) yemek kaşığı biber salçası",
         "4 yemek kaşığı sıvı yağ",
-        "Birer çay kaşığı toz kırmızı biber ve pul biber",
-        "Yarım çay kaşığı karabiber",
-        "Çay kaşığı ucuyla kimyon",
+        "birer çay kaşığı toz kırmızı biber ve pul biber",
+        "yarım çay kaşığı karabiber",
+        "çay kaşığı ucuyla kimyon",
         "1 tatlı kaşığı tuz",
         "4,5 su bardağına yakın su"
       ],
@@ -2254,10 +2254,10 @@ export const baklagilRecipes: Recipe[] = [
         "1 su bardağı su",
         "1 adet yumurta",
         "1 su bardağı galeta unu",
-        "Yarım çay kaşığı kimyon",
+        "yarım çay kaşığı kimyon",
         "1 çay kaşığı tuz",
         "1 çay kaşığı pul biber",
-        "Bir tutam maydanoz"
+        "bir tutam maydanoz"
       ],
       "en": [
         "1 cup green lentils",
@@ -2385,11 +2385,11 @@ export const baklagilRecipes: Recipe[] = [
         "1 orta boy kuru soğan",
         "1 yemek kaşığı tepeleme domates salçası",
         "1 tatlı kaşığı tepeleme acı biber salçası",
-        "Göz kararı tuz",
+        "göz kararı tuz",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı karabiber",
-        "Çeyrek çay bardağı sıvıyağ",
-        "Üzerini 2 parmak geçinceye kadar kaynar su"
+        "çeyrek çay bardağı sıvıyağ",
+        "üzerini 2 parmak geçinceye kadar kaynar su"
       ],
       "en": [
         "3 dinner plates of cooked chickpeas",
@@ -2400,7 +2400,7 @@ export const baklagilRecipes: Recipe[] = [
         "Salt to taste",
         "1 teaspoon cumin",
         "1 teaspoon black pepper",
-        "1/4 cup vegetable oil",
+        "1/4 teacup vegetable oil",
         "Boiling water to cover by 2 fingers"
       ]
     },
@@ -2505,14 +2505,14 @@ export const baklagilRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 su bardağı köftelik ince bulgur",
-        "Yarım bardak irmik",
+        "yarım bardak irmik",
         "1.5 su bardağı un",
         "3 su bardağı sıcak su",
         "1 adet yumurta",
         "1 yemek kaşık salça",
         "1.5 tatlı kaşığı karabiber",
-        "Kimyon",
-        "Tuz"
+        "kimyon",
+        "tuz"
       ],
       "en": [
         "3 cups fine bulgur for meatballs",
@@ -2581,9 +2581,9 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı kuru reyhan",
         "1 çay kaşığı tuz",
         "1 çay çay kaşığı kimyon",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 yemek kaşığı un",
-        "Yarım çay bardağı irmik"
+        "yarım çay bardağı irmik"
       ],
       "en": [
         "3-4 medium potatoes (boiled)",
@@ -2595,7 +2595,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 teaspoon cumin",
         "1/2 teaspoon black pepper",
         "1 tablespoon flour",
-        "1/2 cup cracked wheat"
+        "1/2 teacup cracked wheat"
       ]
     },
     "steps": {
@@ -2641,7 +2641,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 kaşık domates salçasi",
         "1 kaşık biber salçası",
         "1 çay bardağı zeytinyağı",
-        "Tuz",
+        "tuz",
         "2 su bardağı su"
       ],
       "en": [
@@ -2697,11 +2697,11 @@ export const baklagilRecipes: Recipe[] = [
         "1 adet soğan",
         "2 diş sarımsak",
         "1 tutam maydanoz",
-        "Tuz",
-        "Kekik",
-        "Pul biber",
-        "Kara biber",
-        "Nane",
+        "tuz",
+        "kekik",
+        "pul biber",
+        "kara biber",
+        "nane",
         "1 çay bardağı haşlanmış makarna suyu",
         "1 yemek kaşığı tereyağı"
       ],
@@ -2836,8 +2836,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "1 çay kaşığından az karabiber",
         "3 yemek kaşığı sıvı yağ",
-        "Tuz",
-        "Yeteri kadar su 3 su bardağı (200 ml)"
+        "tuz",
+        "yeteri kadar su 3 su bardağı (200 ml)"
       ],
       "en": [
         "500 g peas",
@@ -2884,8 +2884,8 @@ export const baklagilRecipes: Recipe[] = [
         "2 adet limonun suyu",
         "4 yemek kaşığı tahin",
         "2 közlenmiş kapya biber",
-        "Tuz (istediğiniz miktarda)",
-        "Yarım çay kaşığı kimyon",
+        "tuz (istediğiniz miktarda)",
+        "yarım çay kaşığı kimyon",
         "2 küçük diş sarımsak"
       ],
       "en": [
@@ -2949,8 +2949,8 @@ export const baklagilRecipes: Recipe[] = [
         "3 cloves garlic",
         "2 bell peppers",
         "4 green peppers",
-        "1.5 cups olive oil",
-        "1 cup water",
+        "1.5 teacups olive oil",
+        "1 teacup water",
         "1 tablespoon red pepper powder",
         "1 teaspoon salt",
         "1 tablespoon tomato paste"
@@ -2996,9 +2996,9 @@ export const baklagilRecipes: Recipe[] = [
         "2 diş sarımsak",
         "1,5 su bardağı şehriye",
         "200 ml yağlı krema",
-        "Tuz",
-        "Karabiber",
-        "Damak zevkinize göre su"
+        "tuz",
+        "karabiber",
+        "damak zevkinize göre su"
       ],
       "en": [
         "5 tablespoons oil",
@@ -3047,8 +3047,8 @@ export const baklagilRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet kuru soğan",
-        "Yarım çay bardağı sıvı yağ",
-        "500 gr kemikli dana eti  “kuşbaşı da olabilir”",
+        "yarım çay bardağı sıvı yağ",
+        "500 gr kemikli dana eti “kuşbaşı da olabilir”",
         "1 su bardağı ıslatılmış nohut",
         "500 gram buğday (2 su bardağı)",
         "1 yemek kaşığı domates salçası",
@@ -3060,7 +3060,7 @@ export const baklagilRecipes: Recipe[] = [
       ],
       "en": [
         "1 onion",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "500 g beef with bone 'it can also be cubed'",
         "1 cup soaked chickpeas",
         "500 g wheat (2 cups)",
@@ -3112,13 +3112,13 @@ export const baklagilRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı ince (kısırlık) bulgur",
         "1 su bardağı sıcak su",
-        "Yarım su bardağı irmik",
+        "yarım su bardağı irmik",
         "1 tane yumurta",
         "1 tepeleme yemek kaşığı un",
         "1 çay kaşığı tuz",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Birer tutam karabiber ve kimyon"
+        "birer tutam karabiber ve kimyon"
       ],
       "en": [
         "1 cup fine (pilaf) bulgur",
@@ -3196,10 +3196,10 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı köfte baharatı",
-        "Tuz",
-        "Sıcak su",
+        "tuz",
+        "sıcak su",
         "2 su bardağı sıvı yağ",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "6 adet yumurta"
       ],
       "en": [
@@ -3268,10 +3268,10 @@ export const baklagilRecipes: Recipe[] = [
         "1 demet taze soğan",
         "2 yemek kaşığı salça (biber ve domates salçası karışık kullanabilirsiniz)",
         "3 su bardağı su (gerekirse yoğurma aşamasında biraz daha eklenebilir)",
-        "Yeteri kadar tuz",
-        "Kimyon",
-        "Pul biber",
-        "Karabiber"
+        "yeteri kadar tuz",
+        "kimyon",
+        "pul biber",
+        "karabiber"
       ],
       "en": [
         "1 cup red lentils",
@@ -3333,7 +3333,7 @@ export const baklagilRecipes: Recipe[] = [
         "250 gram süzme yoğurt",
         "3-4 diş sarımsak ( istenen miktarda )",
         "30 gram tereyağı",
-        "Tuz – karabiber ( istenen miktarda )"
+        "tuz – karabiber ( istenen miktarda )"
       ],
       "en": [
         "750 g fresh beans",
@@ -3386,9 +3386,9 @@ export const baklagilRecipes: Recipe[] = [
         "3 tane orta boy biber",
         "4-5 tane orta boy domates",
         "1 yemek kaşığı domates salçası",
-        "Tozbiber",
-        "Tuz",
-        "Zeytinyağı",
+        "tozbiber",
+        "tuz",
+        "zeytinyağı",
         "1 su bardağı su"
       ],
       "en": [
@@ -3443,7 +3443,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 adet kapya biber",
         "1 kaşık dolusu salça",
         "1 kase bulgur",
-        "Üzerini gelecek kadar kaynar su"
+        "üzerini gelecek kadar kaynar su"
       ],
       "en": [
         "2 tablespoons vegetable oil",
@@ -3494,7 +3494,7 @@ export const baklagilRecipes: Recipe[] = [
       "tr": [
         "250 gram kuşbaşı dana eti",
         "1 su bardağı barbunya",
-        "Yarım orta boy kuru soğan",
+        "yarım orta boy kuru soğan",
         "1 diş sarımsak",
         "1 orta boy havuç (isteğe bağlı)",
         "1 yemek kaşığı zeytinyağı, 1 yemek kaşığı sıvı yağ",
@@ -3503,7 +3503,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 çay kaşığı tuz",
         "1 çay kaşığı toz kırmızı biber",
         "1 çay kaşığı pul biber (isteğe bağlı)",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 su bardağı sıcak su"
       ],
       "en": [
@@ -3567,7 +3567,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 çay kaşığı pul biber",
         "1 çay kaşığı nane",
         "3 yemek kaşığı sıvı yağ",
-        "Tuz",
+        "tuz",
         "4 su bardağı su"
       ],
       "en": [
@@ -3622,9 +3622,9 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı kimyon",
         "1 tatlı kaşığı pul biber",
-        "Yarım demet maydanoz",
-        "Yarım demet taze soğan",
-        "Yarım limon suyu",
+        "yarım demet maydanoz",
+        "yarım demet taze soğan",
+        "yarım limonun suyu",
         "2 yemek kaşığı nar ekşisi",
         "1 tatlı kaşığı tuz"
       ],
@@ -3693,7 +3693,7 @@ export const baklagilRecipes: Recipe[] = [
         "3 yemek kaşığı zeytinyağı veya sıvı yağ",
         "1 yemek kaşığı domates salçası",
         "1 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "2 su bardağı sıcak su"
       ],
       "en": [
@@ -3753,11 +3753,11 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı zeytinyağı",
         "1/2 (yarım) tatlı kaşığı biber salçası",
         "2 yemek kaşığı domates rendesi",
-        "Pul biber",
-        "Zerdeçal",
-        "Karabiber",
-        "Kimyon",
-        "Tuz"
+        "pul biber",
+        "zerdeçal",
+        "karabiber",
+        "kimyon",
+        "tuz"
       ],
       "en": [
         "1 cup cooked chickpeas",
@@ -3810,7 +3810,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 su bardağı rende kaşar",
         "1 tatlı kaşığı toz biber",
         "1 çorba kaşığı zeytinyağı",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 cups cooked chickpeas",
@@ -3855,8 +3855,8 @@ export const baklagilRecipes: Recipe[] = [
         "1,5 su bardağı nohut",
         "3 su bardağı buğday yarma",
         "350-400 gram kadar kırmızı et",
-        "Su",
-        "Baharat"
+        "su",
+        "baharat"
       ],
       "en": [
         "1.5 cups chickpeas",
@@ -3907,8 +3907,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 çay bardağı yarma, dövme",
         "1 su bardağı nohut (ıslanmış)",
         "1,5 yemek kaşığı sumak ekşi sosu",
-        "Tuz",
-        "Su"
+        "tuz",
+        "su"
       ],
       "en": [
         "1 bunch purslane",
@@ -3965,18 +3965,18 @@ export const baklagilRecipes: Recipe[] = [
         "1 su bardağı haşlanmış barbunya",
         "1 bağ semizotu",
         "2 adet kuru soğan",
-        "Yarım çay bardağı pirinç",
+        "yarım çay bardağı pirinç",
         "1 yemek kaşığı salça",
         "2 yemek kaşığı sıvı yağ",
-        "Tuz",
-        "Pul biber (tercihe göre)",
+        "tuz",
+        "pul biber (tercihe göre)",
         "3 bardak kaynamış su"
       ],
       "en": [
         "1 cup boiled broad beans",
         "1 bunch purslane",
         "2 onions",
-        "1/2 cup rice",
+        "1/2 teacup rice",
         "1 tablespoon tomato paste",
         "2 tablespoons vegetable oil",
         "Salt",
@@ -4080,9 +4080,9 @@ export const baklagilRecipes: Recipe[] = [
         "150 gram kıyma",
         "1 adet yumurta",
         "1 tatlı kaşığı biber salçası",
-        "Tuz",
-        "Kimyon",
-        "Karabiber"
+        "tuz",
+        "kimyon",
+        "karabiber"
       ],
       "en": [
         "1 cup fine bulgur for pilaf",
@@ -4147,9 +4147,9 @@ export const baklagilRecipes: Recipe[] = [
         "1 çay kaşığı tuz",
         "1 çay kaşığı toz biber",
         "1 çay kaşığı pul biber",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "2-3 dal taze soğan",
-        "Yarım limon suyu ( isteğe bağlı )"
+        "yarım limon suyu ( isteğe bağlı )"
       ],
       "en": [
         "3-4 medium potatoes",
@@ -4284,16 +4284,16 @@ export const baklagilRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "750 gram sarı yada kırmızı mercimek",
+        "750 gram sarı ya da kırmızı mercimek",
         "1 su bardağından 1 parmak eksik zeytin yağı",
-        "1 adet kabartma tozu",
+        "1 paket kabartma tozu",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kırmızı biber",
-        "Yarım demet dereotu",
-        "Yarım demet maydanoz",
+        "yarım demet dereotu",
+        "yarım demet maydanoz",
         "2 adet yumurta",
-        "1 adet kabartma tozu",
+        "1 paket kabartma tozu",
         "300 gram beyaz peynir"
       ],
       "en": [
@@ -4362,7 +4362,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı kimyon",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı pulbiber",
-        "Tuz",
+        "tuz",
         "4 yemek kaşığı sıvı yağ",
         "8-9 adet kuru biber"
       ],
@@ -4477,11 +4477,11 @@ export const baklagilRecipes: Recipe[] = [
         "1 çay bardağı haşlanmış yeşil mercimek",
         "1 çay bardağı galeta unu",
         "1 adet yumurta",
-        "Yarım rendelenmiş ve suyu sıkılmış soğan",
+        "yarım rendelenmiş ve suyu sıkılmış soğan",
         "1 diş ezilmiş sarımsak",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
-        "Karabiber",
-        "Kimyon"
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
+        "karabiber",
+        "kimyon"
       ],
       "en": [
         "1 teacup boiled green lentils",
@@ -4534,7 +4534,7 @@ export const baklagilRecipes: Recipe[] = [
         "7-8 adet çeri domates",
         "2 adet yeşil sivri biber",
         "2 adet kapya biber",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "2 yemek kaşığı tereyağı",
         "1 yemek kaşığı dolusu biber salçası",
         "1 tatlı kaşığı pul biber",
@@ -4542,8 +4542,8 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı kimyon",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı nane",
-        "Yeteri kadar sıcak su",
-        "Tuz"
+        "yeteri kadar sıcak su",
+        "tuz"
       ],
       "en": [
         "3 cups kidney beans",
@@ -4552,7 +4552,7 @@ export const baklagilRecipes: Recipe[] = [
         "7-8 cherry tomatoes",
         "2 green pointed peppers",
         "2 bell peppers",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "2 tablespoons butter",
         "1 heaped tablespoon pepper paste",
         "1 teaspoon chili flakes",
@@ -4598,17 +4598,17 @@ export const baklagilRecipes: Recipe[] = [
         "1.5 su bardağı kısırlık bulgur",
         "3 su bardağı su",
         "1 adet soğan",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "5 yemek kaşığı zeytinyağı",
         "5-6 dal taze soğan",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "1 adet limon",
-        "Tuz",
-        "Kimyon",
-        "Karabiber",
-        "Kırmızı toz biber",
-        "Acı pul biber"
+        "tuz",
+        "kimyon",
+        "karabiber",
+        "kırmızı toz biber",
+        "acı pul biber"
       ],
       "en": [
         "1 cup red lentils",
@@ -4673,7 +4673,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 çay kaşığı biber salçası (isteğe bağlı)",
         "1 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "5 su bardağı (orta boy) sıcak su"
       ],
       "en": [
@@ -4731,7 +4731,7 @@ export const baklagilRecipes: Recipe[] = [
         "2 su bardağı aşurelik buğday",
         "1 parça tereyağı",
         "8 su bardağı su",
-        "Biraz kavrulmuş kuşbaşı et (yoksa tavuk veya kemikle de olur)"
+        "biraz kavrulmuş kuşbaşı et (yoksa tavuk veya kemikle de olur)"
       ],
       "en": [
         "2 cups dessert wheat",
@@ -4746,7 +4746,7 @@ export const baklagilRecipes: Recipe[] = [
         "İçine eti ve bir parça tereyağını da ekleyip 8 su bardağı suyu koydum.",
         "Fislerr düdüklü de ikinci kademede 15 dk pişti.",
         "Biraz taneliydi sonra biraz daha kısık ayarda kaynattım.",
-        "Üstüne son olarak tereyağı kızarttım içine isteğe bağlı salça yada kırmızı biber koyabilirsiniz. Afiyet olsun 😋."
+        "Üstüne son olarak tereyağı kızarttım içine isteğe bağlı salça ya da kırmızı biber koyabilirsiniz. Afiyet olsun 😋."
       ],
       "en": [
         "I soaked the dessert wheat in hot water the day before. In the morning I washed the wheat well and put it in the pressure cooker.",
@@ -4774,7 +4774,7 @@ export const baklagilRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Haşlanmış nohut",
+        "haşlanmış nohut",
         "2 adet kapya biber",
         "2 adet yeşil biber",
         "1 adet kuru soğan",
@@ -4916,7 +4916,7 @@ export const baklagilRecipes: Recipe[] = [
         "1-2 dilim limon kabuğu",
         "2-3 dal dereotu",
         "4-5 yemek kaşığı zeytinyağ",
-        "Tuz (damak tadınıza göre 1 çay kaşığı kadar)"
+        "tuz (damak tadınıza göre 1 çay kaşığı kadar)"
       ],
       "en": [
         "350 g shelled broad beans",
@@ -4969,7 +4969,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "1 tatlı kaşığı tuz",
-        "Yarım su bardağı sıcak su",
+        "yarım su bardağı sıcak su",
         "1 adet yumurta",
         "1 adet soğan (rendesi)"
       ],
@@ -5040,14 +5040,14 @@ export const baklagilRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo ayıklanmış ispir fasulyesi",
+        "yarım kilo ayıklanmış ispir fasulyesi",
         "1 adet kuru soğan",
         "2 adet küçük havuç",
         "3-4 yemek kaşığı zeytinyağı",
         "1 adet portakalın suyu",
         "1 diş sarımsak",
-        "Tuz",
-        "Bir tutam maydanoz"
+        "tuz",
+        "bir tutam maydanoz"
       ],
       "en": [
         "500 g picked İspir beans",
@@ -5145,18 +5145,18 @@ export const baklagilRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 su bardağı yeşil mercimek",
-        "Yarım çay bardağı zeytinyağ",
+        "yarım çay bardağı zeytinyağ",
         "1 tane iri boy kuru soğan",
         "2 kaşık karışık salça",
-        "Tuz",
-        "Karabiber",
-        "Kimyon",
-        "Su",
+        "tuz",
+        "karabiber",
+        "kimyon",
+        "su",
         "2 kaşık tereyağ"
       ],
       "en": [
         "2 cups green lentils",
-        "1/2 cup olive oil",
+        "1/2 teacup olive oil",
         "1 large onion",
         "2 spoons mixed paste",
         "Salt",
@@ -5207,7 +5207,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 su bardağı haşlanmış nohut",
         "1 çay kaşığı tuz",
         "2 yemek kaşığı zeytinyağı",
-        "Arzu edilen baharatlar (ben kırmızı toz biber ve kimyon kullandım)"
+        "arzu edilen baharatlar (ben kırmızı toz biber ve kimyon kullandım)"
       ],
       "en": [
         "1 cup cooked chickpeas",
@@ -5254,9 +5254,9 @@ export const baklagilRecipes: Recipe[] = [
       "tr": [
         "2 su bardağı aşurelik buğday (200 ml )",
         "2 adet tavuk kalça but",
-        "Tuz",
+        "tuz",
         "1 yemek kaşığı tereyağ",
-        "Dartı (peynircilerden alabilirsiniz)",
+        "dartı (peynircilerden alabilirsiniz)",
         "1 litre su"
       ],
       "en": [
@@ -5312,9 +5312,9 @@ export const baklagilRecipes: Recipe[] = [
         "1 tatlı kaşığı biber salçası",
         "1 tatlı kaşığı kimyon",
         "1’er çay kaşığı karabiber",
-        "Kırmızı biber",
-        "Tuz",
-        "Galeta unu"
+        "kırmızı biber",
+        "tuz",
+        "galeta unu"
       ],
       "en": [
         "2 cups boiled lentils",
@@ -5365,8 +5365,8 @@ export const baklagilRecipes: Recipe[] = [
         "2 su bardağı kurumuş iç bakla",
         "1 orta boy soğan",
         "2-3 diş sarımsak",
-        "Tuz",
-        "Yarım demet ince doğranmış dereotu"
+        "tuz",
+        "yarım demet ince doğranmış dereotu"
       ],
       "en": [
         "2 cups dried shelled broad beans",
@@ -5414,13 +5414,13 @@ export const baklagilRecipes: Recipe[] = [
         "2 adet kuru soğan",
         "1 çay bardağı zeytinyağı",
         "2 yemek kaşığı domates salçası veya biber salçası",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "5-6 dal taze soğan",
-        "Nar ekşisi",
-        "Tuz",
-        "Pulbiber",
-        "Kimyon",
-        "Karabiber"
+        "nar ekşisi",
+        "tuz",
+        "pulbiber",
+        "kimyon",
+        "karabiber"
       ],
       "en": [
         "1 cup red lentils",
@@ -5485,24 +5485,24 @@ export const baklagilRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
-        "Yarım su bardağı ince bulgur",
+        "yarım su bardağı ince bulgur",
         "1 adet soğan",
         "1,5 çay bardağı zeytinyağı",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Tuz",
+        "tuz",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı pulbiber",
         "1 çay kaşığı kimyon",
         "2-3 dal yeşil soğan",
-        "Maydanoz",
-        "Limon"
+        "maydanoz",
+        "limon"
       ],
       "en": [
         "1 cup red lentils",
         "1/2 cup fine bulgur",
         "1 onion",
-        "1.5 cups olive oil",
+        "1.5 teacups olive oil",
         "1 tablespoon tomato paste",
         "1 tablespoon pepper paste",
         "Salt",
@@ -5556,13 +5556,13 @@ export const baklagilRecipes: Recipe[] = [
         "2 adet yumurta",
         "1 su bardağı galeta unu",
         "1 orta boy kuru soğan",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "5-6 adet taze soğan",
         "3 diş sarımsak (arzuya göre)",
         "1 tatlı kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
-        "Kimyon",
-        "Pul biber"
+        "yarım çay kaşığı karabiber",
+        "kimyon",
+        "pul biber"
       ],
       "en": [
         "2 cups green lentils",
@@ -5623,10 +5623,10 @@ export const baklagilRecipes: Recipe[] = [
         "1 adet orta boy patates",
         "1 adet yumurta",
         "1 buçuk su bardağı galeta unu",
-        "Tuz",
-        "Karabiber",
-        "Kimyon",
-        "Pul biber",
+        "tuz",
+        "karabiber",
+        "kimyon",
+        "pul biber",
         "3 yemek kaşığı sıvı yağ"
       ],
       "en": [
@@ -5651,7 +5651,7 @@ export const baklagilRecipes: Recipe[] = [
         "Ezici istediğim gibi ezmedi blender kullandım.",
         "Üzerine yumurtayı, tuzu, baharatları, galeta ununu ilave edip yoğuruyoruz.",
         "Yoğurduğumuz harcı 10-15 dakika dinlendiriyoruz.",
-        "Dinlendirme işlemi bittikten sonra, küçük parçalara ayırıp buzdolabı poşetine koyup oklava yada merdane yardımıyla poşetin içine yayarak çok kalın olmayacak şekilde açıyoruz.",
+        "Dinlendirme işlemi bittikten sonra, küçük parçalara ayırıp buzdolabı poşetine koyup oklava ya da merdane yardımıyla poşetin içine yayarak çok kalın olmayacak şekilde açıyoruz.",
         "Açtığımız harcı buzdolabı poşetine zarar vermeden bıçağın arkasıyla döner boyutunda kesiyoruz.",
         "Kalan harcımıza da aynı işlemi uyguluyoruz. Bütün malzemeler hazır olduğunda buzlukta 1 saat dinlendiriyoruz.",
         "Küçük bir tencereye sıvı yağı ve domates salçasını alıp kavuruyoruz.",
@@ -5698,7 +5698,7 @@ export const baklagilRecipes: Recipe[] = [
       "tr": [
         "1 büyük kemik (elimde var diye kaburga kısmını kullandım)",
         "1 kase kadar kuşbaşı doğranmış et",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 defne yaprağı"
       ],
       "en": [
@@ -5746,7 +5746,7 @@ export const baklagilRecipes: Recipe[] = [
         "3 su bardağı kaynar su",
         "1 su bardağı un",
         "1 adet yumurta",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 cups fine bulgur",
@@ -5958,11 +5958,11 @@ export const baklagilRecipes: Recipe[] = [
         "1 orta boy kuru soğan",
         "2,5 su bardağı aşurelik buğday",
         "2 lt su",
-        "Tuz",
-        "Karabiber",
-        "Tereyağ",
-        "Kırmızı toz biber",
-        "İsteğe bağlı nohut"
+        "tuz",
+        "karabiber",
+        "tereyağ",
+        "kırmızı toz biber",
+        "isteğe bağlı nohut"
       ],
       "en": [
         "2 chicken pieces (we prefer them fatty, but it can also be made with breast, though it will be a little dry)",
@@ -6079,7 +6079,7 @@ export const baklagilRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "1 çay bardağı zeytinyağı",
-        "Yarım yemek kaşığı tereyağı",
+        "yarım yemek kaşığı tereyağı",
         "1,5 tatlı kaşığı tuz",
         "1 çay kaşığı pul biber"
       ],

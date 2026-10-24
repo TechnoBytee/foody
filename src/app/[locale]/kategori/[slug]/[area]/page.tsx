@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allCuisines, recipesByCuisineAndArea, areas } from "@/data/recipes";
-import { getMessages, Locale } from "@/i18n";
+import { Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
 
 export function generateStaticParams() {
@@ -17,7 +17,6 @@ export default async function CuisineAreaPage({
   const cuisine = allCuisines.find((c) => c.slug === slug);
   const areaData = areas.find((a) => a.slug === area);
   if (!cuisine || !areaData) notFound();
-  const messages = getMessages(locale);
   const list = recipesByCuisineAndArea(slug, area);
 
   return (

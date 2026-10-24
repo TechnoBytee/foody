@@ -21,7 +21,7 @@ export const icecekRecipes: Recipe[] = [
       "en": [
         "1 lemon",
         "1 orange",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "1 teaspoon citric acid (optional)",
         "3 liters water"
       ]
@@ -85,7 +85,7 @@ export const icecekRecipes: Recipe[] = [
         "Ev yapımı limonata tarifi için öncelikle, limonların kabuğunu rendeleyelim. Limon kabuklarını rendelerken beyaz kısımların limonataya acılık vermemesi için derin almadığınızdan emin olun.",
         "Rendelediğimiz limon kabuklarının üzerine toz şeker ilave edelim.",
         "Bir spatula veya elimizle birkaç dakika ezerek limon aromasının şekere geçmesini sağlayalım. Şeker miktarını kendi damak zevkinize göre ayarlayabilirsiniz.",
-        "Şeker ve limon kabuklarını yeterince ezdikten sonra, bir sürahi veya kaseye birkaç yaprak taze nane ve limon dilimlerini alalım.  Ezdiğimiz şeker ve kabukları ilave edelim.",
+        "Şeker ve limon kabuklarını yeterince ezdikten sonra, bir sürahi veya kaseye birkaç yaprak taze nane ve limon dilimlerini alalım. Ezdiğimiz şeker ve kabukları ilave edelim.",
         "Son olarak, kabuklarını rendelediğimiz limonları içerisine sıkalım.",
         "Soğuk suyu ekleyelim ve içindeki şeker eriyinceye kadar karıştıralım.",
         "Limonatayı bu şekilde en az 2 saat kadar buzdolabında bekletelim.",
@@ -125,11 +125,11 @@ export const icecekRecipes: Recipe[] = [
         "4 tatlı kaşığı granül kahve",
         "2 tatlı kaşığı toz şeker",
         "3 su bardağı soğuk süt",
-        "Buz"
+        "buz"
       ],
       "en": [
         "4 teaspoons instant coffee",
-        "2 teaspoons powdered sugar",
+        "2 teaspoons granulated sugar",
         "3 cups cold milk",
         "Ice"
       ]
@@ -220,14 +220,14 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "5 yemek kaşığı nescafe gold yada classic",
+        "5 yemek kaşığı nescafe gold ya da classic",
         "5 yemek kaşığı toz şeker",
         "5 yemek kaşığı su",
-        "Kaç fincan hazırlanacaksa o miktarda süt"
+        "kaç fincan hazırlanacaksa o miktarda süt"
       ],
       "en": [
         "5 tablespoons Nescafe Gold or Classic",
-        "5 tablespoons powdered sugar",
+        "5 tablespoons granulated sugar",
         "5 tablespoons water",
         "As much milk as the number of cups you will prepare"
       ]
@@ -238,8 +238,8 @@ export const icecekRecipes: Recipe[] = [
         "Hazırlanan karışım fincanların tabanına 1 – 1. 5 yemek kaşığı kadar paylaştırılır.",
         "Ayrı bir yerde süt ısıtılır.",
         "Fincanların kenarından sıcak süt dökülür.",
-        "Köpüğü hoop yukarıya😍 lezzeti süte 😍 üzerini de ben çikolata sosu ile şekillendirdim.",
-        "Mis kokulu kahveler servise hazır, afiyet olsun 💕🙋🏻😚"
+        "Köpüğü hoop yukarıya😍 lezzeti süte 😍 üzerini de ben çikolata sosu ile şekillendirdim.",
+        "Mis kokulu kahveler servise hazır, afiyet olsun 💕🙋🏻😚"
       ],
       "en": [
         "Put the Nescafe, sugar and water in a jar and whip well with a mixer for 6-7 minutes to make it very frothy.",
@@ -326,7 +326,7 @@ export const icecekRecipes: Recipe[] = [
         "1 kase mango",
         "1 kase muz",
         "1 su bardağı portakal suyu",
-        "Misket limonu"
+        "misket limonu"
       ],
       "en": [
         "1 bowl pineapple",
@@ -447,7 +447,7 @@ export const icecekRecipes: Recipe[] = [
         "Vişneleri sap ve yapraklardan arındıralım. Güzelce yıkadıktan sonra çekirdeklerini çıkartalım. Vişneleri çekirdek çıkarma aparatı ile çıkartabileceğiniz gibi pipet ya da çatal iğne ile de kolaylıkla çıkartabilirsiniz.",
         "Ardından vişneleri tencereye alalım, üzerine suyu ilave ederek karıştıralım ve ocağı yakalım.",
         "Vişneler kaynamaya başladıktan 15 dk. sonra şekeri ilave ederek karıştıralım.",
-        "15 dakika daha kaynattıktan sonra sıcak sıcak, bekletmeden kavanozlara dolduralım. Ben yarım litrelik kavanozlarla  adet vişne kompostosu elde ettim.",
+        "15 dakika daha kaynattıktan sonra sıcak sıcak, bekletmeden kavanozlara dolduralım. Ben yarım litrelik kavanozlarla adet vişne kompostosu elde ettim.",
         "Kavanozların ağız kısmını silerek kullanılmamış yeni kapaklar ile sıkıca kapatalım. Kapaklar eski olduğunda hava alıp bozulabiliyor.",
         "Vişne kompostomuzu güneş almayan serin bir yerde muhafaza ederek dilediğiniz zaman tüketebilirsiniz. Afiyet olsun!"
       ],
@@ -480,7 +480,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 tatlı kaşığı Türk kahvesi",
         "1 kahve fincanı su",
-        "Buz",
+        "buz",
         "1 çay bardağı soğuk süt"
       ],
       "en": [
@@ -528,9 +528,9 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "2 adet ayva",
         "1 su bardağı sıcak su",
-        "Çay kalışı ucu ile tarçın",
+        "çay kalışı ucu ile tarçın",
         "1-2 adet karanfil",
-        "Çay kaşığı ucu ile zencefil"
+        "çay kaşığı ucu ile zencefil"
       ],
       "en": [
         "2 quinces",
@@ -658,7 +658,7 @@ export const icecekRecipes: Recipe[] = [
       "en": [
         "2 oranges",
         "1 lemon",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "3 liters water"
       ]
     },
@@ -700,7 +700,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "16 adet mandalina",
         "1 çay kaşığı limon tuzu",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 su bardağı toz şeker (şeker ölçüsünü damak tadına göre değiştirebilirsiniz)",
         "1 şişe su"
       ],
@@ -708,7 +708,7 @@ export const icecekRecipes: Recipe[] = [
         "16 mandarins",
         "1 teaspoon citric acid",
         "The juice of half a lemon",
-        "1 cup powdered sugar (you can change the sugar amount to taste)",
+        "1 cup granulated sugar (you can change the sugar amount to taste)",
         "1 bottle water"
       ]
     },
@@ -745,9 +745,9 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "400 ml su",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "1 adet limon suyu ve posası",
-        "Yumurta büyüklüğünde zencefil"
+        "yumurta büyüklüğünde zencefil"
       ],
       "en": [
         "400 ml water",
@@ -758,7 +758,7 @@ export const icecekRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Bütün malzemeleri blendere koyup çekelim buz dolabında muhafaza edelim.",
+        "Bütün malzemeleri blendere koyup çekelim buzdolabında muhafaza edelim.",
         "Günlük 50ml olmak üzere hafta içelim (troid hastaları 21 gün uygulayabilir)."
       ],
       "en": [
@@ -784,7 +784,7 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım şeftali",
+        "yarım şeftali",
         "1bardak sade kefir",
         "1 yemek kaşığı chia",
         "1 yemek kaşığı yulaf ezmesi"
@@ -865,7 +865,7 @@ export const icecekRecipes: Recipe[] = [
         "1 şişe maden suyu (sade)",
         "1 çay kaşığı toz zencefil",
         "1 çay kaşığı toz tarçın",
-        "Yarım limonun suyu"
+        "yarım limonun suyu"
       ],
       "en": [
         "1 bottle mineral water (plain)",
@@ -902,10 +902,10 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım limon",
+        "yarım limon",
         "1 tatlı kaşığı nane",
         "5-6 tane karanfil",
-        "İsteğe göre 1 adet çubuk tarçın",
+        "isteğe göre 1 adet çubuk tarçın",
         "1 tutam hibiskus (nar çiçeği)"
       ],
       "en": [
@@ -991,9 +991,9 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet havuç",
-        "Taze zencefil",
+        "taze zencefil",
         "2 adet portakal",
-        "İsteğe bağlı toz zerdeçal",
+        "isteğe bağlı toz zerdeçal",
         "1 adet limon",
         "1 adet yeşil elma"
       ],
@@ -1039,8 +1039,8 @@ export const icecekRecipes: Recipe[] = [
         "1 adet yeşil elma veya 2 adet kırmızı elma",
         "1 adet limon",
         "2 adet portakal",
-        "Taze zencefil",
-        "İsteğe bağlı toz zerdeçal"
+        "taze zencefil",
+        "isteğe bağlı toz zerdeçal"
       ],
       "en": [
         "2 medium beets",
@@ -1082,11 +1082,11 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Büyük 1 su bardağı",
-        "Buz",
-        "Süt",
+        "büyük 1 su bardağı",
+        "buz",
+        "süt",
         "1,5 tatlı kaşığı granül kahve",
-        "Sıcak su",
+        "sıcak su",
         "2 adet küp şeker (isteğe bağlı)"
       ],
       "en": [
@@ -1133,7 +1133,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "1 kg Cornelian cherries",
-        "1 cup powdered sugar (200 ml)"
+        "1 cup granulated sugar (200 ml)"
       ]
     },
     "steps": {
@@ -1220,10 +1220,10 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım kilo kırmızı erik",
-        "Yarım kilo şeker",
+        "yarım kilo kırmızı erik",
+        "yarım kilo şeker",
         "1 lt su",
-        "Yarım limon"
+        "yarım limon"
       ],
       "en": [
         "Half a kilo red plums",
@@ -1264,9 +1264,9 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1,5 tatlı kaşığı granül kahve",
         "1 tatlı kaşığı şeker(biraz daha ekleyebilirsiniz)",
-        "Yarım çay bardağı kaynar su",
-        "Buz (isteğe bağlı)",
-        "Süt"
+        "yarım çay bardağı kaynar su",
+        "buz (isteğe bağlı)",
+        "süt"
       ],
       "en": [
         "1.5 teaspoons instant coffee",
@@ -1310,7 +1310,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 sap kereviz",
         "1 adet kabuğu soyulmuş limon",
-        "İsteğe bağlı olarak lezzet vermesi için 2 turuncu ve 2 mor havuç veya yarım salatalık"
+        "isteğe bağlı olarak lezzet vermesi için 2 turuncu ve 2 mor havuç veya yarım salatalık"
       ],
       "en": [
         "1 celery stalk",
@@ -1453,7 +1453,7 @@ export const icecekRecipes: Recipe[] = [
       "en": [
         "1 kg fresh red or black plums",
         "1.5 – 2 liters water (to your taste)",
-        "1 cup powdered sugar (you can increase or decrease it according to the sourness of the plums)",
+        "1 cup granulated sugar (you can increase or decrease it according to the sourness of the plums)",
         "1 cinnamon stick",
         "3-4 cloves"
       ]
@@ -1503,7 +1503,7 @@ export const icecekRecipes: Recipe[] = [
         "2 tatlı kaşığı şeker",
         "1 çay bardağı su",
         "1 su bardağı süt",
-        "Topping sos"
+        "topping sos"
       ],
       "en": [
         "3/4 (one half + one quarter) cup ice",
@@ -1511,7 +1511,7 @@ export const icecekRecipes: Recipe[] = [
         "2 teaspoons sugar",
         "1 tea glass water",
         "1 cup milk",
-        "Topping sauce"
+        "sauce, for topping"
       ]
     },
     "steps": {
@@ -1554,7 +1554,7 @@ export const icecekRecipes: Recipe[] = [
         "5-6 adet karanfil",
         "1 çubuk tarçın",
         "1,5 su bardağı şeker",
-        "Üstünü geçecek kadar su"
+        "üstünü geçecek kadar su"
       ],
       "en": [
         "4 nectarines",
@@ -1680,7 +1680,7 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Bir demet taze reyhan",
+        "bir demet taze reyhan",
         "1 adet limon",
         "1 su bardağı şeker",
         "6 tane karanfil",
@@ -1738,7 +1738,7 @@ export const icecekRecipes: Recipe[] = [
       "en": [
         "1 box strawberries",
         "3.5 lemons",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "1 bottle water"
       ]
     },
@@ -1788,8 +1788,8 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 tatlı kaşığı granül kahve",
         "2 tatlı kaşığı şeker",
-        "Az soğuk su",
-        "Süt"
+        "az soğuk su",
+        "süt"
       ],
       "en": [
         "1 teaspoon instant coffee",
@@ -1830,11 +1830,11 @@ export const icecekRecipes: Recipe[] = [
         "1 çay bardağı toz şeker",
         "1 limon kabuğu dilimi",
         "4 su bardağı su",
-        "Yarım limon suyu"
+        "yarım limonun suyu"
       ],
       "en": [
         "4 slices seedless watermelon",
-        "1 tea glass powdered sugar",
+        "1 tea glass granulated sugar",
         "1 strip of lemon peel",
         "4 cups water",
         "The juice of half a lemon"
@@ -2011,11 +2011,11 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı granül kahve",
-        "Yarım paket şekerli vanilin",
-        "Birazcık sıcak su",
+        "yarım paket şekerli vanilin",
+        "birazcık sıcak su",
         "2 adet buz",
-        "Süt",
-        "Çikolata sosu"
+        "süt",
+        "çikolata sosu"
       ],
       "en": [
         "1 teaspoon instant coffee",
@@ -2144,7 +2144,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "200 ml light süt",
         "1 tatlı kaşığı kırmızı pancar tozu",
-        "Bal isteğe göre"
+        "bal isteğe göre"
       ],
       "en": [
         "200 ml light milk",
@@ -2240,20 +2240,20 @@ export const icecekRecipes: Recipe[] = [
         "5 -6 adet şeftali",
         "8 -10 adet kayısı",
         "1 su bardağı toz şeker",
-        "Yarım limon suyu (tercihe bağlı olarak)"
+        "yarım limon suyu (tercihe bağlı olarak)"
       ],
       "en": [
         "1 kg Angelica plums",
         "5 -6 peaches",
         "8 -10 apricots",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "The juice of half a lemon (optional)"
       ]
     },
     "steps": {
       "tr": [
         "Meyveleri yıkayıp çekirdeklerinden ayıklayın tencereye alıp, üzerini 2-3 parmak geçecek kadar su koyun.",
-        "Meyveleri tamamen yumuşayana kadar haşlayın, haşlanan meyveleri kevgirden yada blenderden geçirin.",
+        "Meyveleri tamamen yumuşayana kadar haşlayın, haşlanan meyveleri kevgirden ya da blenderden geçirin.",
         "İçerken ağızda pütürlük olmaması için tekrar tel süzgeçten geçirin.",
         "Püreyi ocağa alıp üzerine şekerini ilave edin .",
         "Yaklaşık 5-6 dakika daha kaynatıp sıcak sıcak kavanozalara doldurun .",
@@ -2294,8 +2294,8 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Ceviz büyüklüğünde taze zencefil",
-        "Yarım adet limon",
+        "ceviz büyüklüğünde taze zencefil",
+        "yarım adet limon",
         "7 adet tane karabiber",
         "1 büyük çay fincanı sıcak su"
       ],
@@ -2395,8 +2395,8 @@ export const icecekRecipes: Recipe[] = [
         "1 adet limon",
         "1 litre su",
         "1 çay kaşığı zeytinyağı",
-        "Bal ( damak tadınıza göre ayarlayın)",
-        "Taze nane"
+        "bal ( damak tadınıza göre ayarlayın)",
+        "taze nane"
       ],
       "en": [
         "1 lemon",
@@ -2438,10 +2438,10 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 yemek kaşığı granül kahve",
         "1 yemek kaşığı şeker",
-        "Yarım çay bardağı sıcak su",
+        "yarım çay bardağı sıcak su",
         "2 yemek kaşığı karamel sosu",
         "1.5 su bardağı soğuk süt",
-        "İsteğe bağlı buz"
+        "isteğe bağlı buz"
       ],
       "en": [
         "1 tablespoon instant coffee",
@@ -2455,7 +2455,7 @@ export const icecekRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Öncelikle pet şişeye kahveyi şekeri ve sıcak suyu alıp köpürünceye kadar çalkalayalım.",
-        "Daha sonra su ve karamel sosunu bir çırpıcı yardımıyla yada kahvede uyguladığımız şekilde köpürtüp bardağımıza alalım ,üzerine buz ilave edelim.",
+        "Daha sonra su ve karamel sosunu bir çırpıcı yardımıyla ya da kahvede uyguladığımız şekilde köpürtüp bardağımıza alalım ,üzerine buz ilave edelim.",
         "En son hazırladığımız kahveyi ilave edip soğuk servis edelim deneyecek olanlara afiyet olsun."
       ],
       "en": [
@@ -2484,7 +2484,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 adet olgun şeftali",
         "1 adet limon",
-        "Yarım su bardağı şeker (damak tadınıza göre)",
+        "yarım su bardağı şeker (damak tadınıza göre)",
         "2 yemek kaşığı kuru çay",
         "1 buçuk litre su"
       ],
@@ -2542,11 +2542,11 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım limon",
+        "yarım limon",
         "2 yemek kaşığı bal",
-        "Yarım tatlı kaşığı zeytinyağ",
-        "Yarım litre su",
-        "Buz"
+        "yarım tatlı kaşığı zeytinyağ",
+        "yarım litre su",
+        "buz"
       ],
       "en": [
         "Half a lemon",
@@ -2585,9 +2585,9 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı taze çekilmiş (yaklaşık 100g)",
-        "Orta-kaba incelikte kahve (filtre kahve öğütümü idealdir çok ince olmamalı)",
+        "orta-kaba incelikte kahve (filtre kahve öğütümü idealdir çok ince olmamalı)",
         "4 su bardağı soğuk veya oda sıcaklığında içme suyu (yaklaşık 800ml)",
-        "Bolca buz küpü (servis için)"
+        "bolca buz küpü (servis için)"
       ],
       "en": [
         "1 cup freshly ground (about 100g)",
@@ -2636,7 +2636,7 @@ export const icecekRecipes: Recipe[] = [
         "4-5 adet ceviz",
         "1 çorba kaşığı keten tohumu-çörek otu-chia tohumu karışımı(siz herhangi birini de seçebilirsiniz)",
         "1 çorba kaşığı tahin",
-        "Yaklaşık 250 ml kefir (aroması istediğiniz gibi olabilir)"
+        "yaklaşık 250 ml kefir (aroması istediğiniz gibi olabilir)"
       ],
       "en": [
         "3 dates",
@@ -2674,13 +2674,13 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "İstediğin miktarda buz",
+        "istediğin miktarda buz",
         "2 tatlı kaşığı granül kahve",
-        "Aldığı kadar süt(süt yoksa süt tozu",
-        "Şeker ve suyu karıştırarak da yapabilirsiniz)",
+        "aldığı kadar süt(süt yoksa süt tozu",
+        "şeker ve suyu karıştırarak da yapabilirsiniz)",
         "2 tatlı kaşığı toz şeker",
-        "Yarım paket şekerli vanilin",
-        "Biraz su"
+        "yarım paket şekerli vanilin",
+        "biraz su"
       ],
       "en": [
         "Ice cubes, as many as you like",
@@ -2731,7 +2731,7 @@ export const icecekRecipes: Recipe[] = [
         "1 âdet limonun rendesi",
         "1,5 su bardağı soğuk su",
         "1 âdet maden suyu",
-        "Bolca kırık buz"
+        "bolca kırık buz"
       ],
       "en": [
         "1 peach",
@@ -2782,7 +2782,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "2 demet taze reyhan",
         "2 su bardağı toz şeker",
-        "1 adet limon suyu",
+        "1 adet limonun suyu",
         "1 küçük çubuk tarçın",
         "4-5 adet karanfil",
         "2 yemek kaşığı hibiskus çiçeği",
@@ -2790,7 +2790,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "2 bunches fresh basil",
-        "2 cups powdered sugar",
+        "2 cups granulated sugar",
         "1 lemon juice",
         "1 small cinnamon stick",
         "4-5 cloves",
@@ -2841,7 +2841,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "3 lemons",
-        "1.5 cups powdered sugar",
+        "1.5 cups granulated sugar",
         "500 ml hot water",
         "1 liter cold water"
       ]
@@ -2883,17 +2883,17 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı soğuk süt",
-        "Yarım çay bardağı sıcak su",
+        "yarım çay bardağı sıcak su",
         "1,5 tatlı kaşığı granül kahve",
-        "Buz küpleri",
-        "Toz şeker (isteğe bağlı)"
+        "buz küpleri",
+        "toz şeker (isteğe bağlı)"
       ],
       "en": [
         "1 cup cold milk",
         "Half a tea glass hot water",
         "1.5 teaspoons instant coffee",
         "Ice cubes",
-        "Powdered sugar (optional)"
+        "granulated sugar (optional)"
       ]
     },
     "steps": {
@@ -2935,7 +2935,7 @@ export const icecekRecipes: Recipe[] = [
       "en": [
         "2 oranges",
         "2 lemons",
-        "1 cup + 1.5 cups powdered sugar",
+        "1 cup + 1.5 cups granulated sugar",
         "1 tablespoon ground citric acid + half a cup hot water",
         "2.5 liters water"
       ]
@@ -2981,16 +2981,16 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı soğuk süt",
-        "Yarım çay bardağı sıcak su",
+        "yarım çay bardağı sıcak su",
         "2 tatlı kaşığı granül kahve",
-        "Toz şeker (isteğe bağlı)",
-        "Buz küpleri"
+        "toz şeker (isteğe bağlı)",
+        "buz küpleri"
       ],
       "en": [
         "1 cup cold milk",
         "Half a tea glass hot water",
         "2 teaspoons instant coffee",
-        "Powdered sugar (optional)",
+        "granulated sugar (optional)",
         "Ice cubes"
       ]
     },
@@ -3028,11 +3028,11 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "10 kilo koruk (olgunlaşmamış üzüm)",
         "16 su bardağı toz şeker",
-        "Bir kaç adet ıtır çiçeğinin yaprakları (şerbete koku vermesi için olmasada olur)"
+        "bir kaç adet ıtır çiçeğinin yaprakları (şerbete koku vermesi için olmasada olur)"
       ],
       "en": [
         "10 kg Cornelian cherries (unripe grapes)",
-        "16 cups powdered sugar",
+        "16 cups granulated sugar",
         "A few leaves of linden flowers (to give the syrup an aroma; it is not necessary)"
       ]
     },
@@ -3117,7 +3117,7 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet limon",
-        "Buz küpleri",
+        "buz küpleri",
         "1 çay kaşığı şeker"
       ],
       "en": [
@@ -3214,7 +3214,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "The juice of 1 large lemon",
-        "1 tea glass powdered sugar",
+        "1 tea glass granulated sugar",
         "4-5 cups water"
       ]
     },
@@ -3300,7 +3300,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 kilo vişne",
         "1 kilo şeker",
-        "İsteğe göre şeker"
+        "isteğe göre şeker"
       ],
       "en": [
         "1 kg cherries",
@@ -3423,15 +3423,15 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 kasa vişne ( ortalama 7-8 kg)",
-        "Vişnelerin üzerini geçecek kadar su",
-        "Toz şeker ( 4-5 su bardağı kullandım siz damak tadınıza göre ayarlayın)",
+        "vişnelerin üzerini geçecek kadar su",
+        "toz şeker ( 4-5 su bardağı kullandım siz damak tadınıza göre ayarlayın)",
         "1 çay kaşığı tuz",
         "5 litre musluk suyu"
       ],
       "en": [
         "1 crate of cherries (about 7-8 kg)",
         "Water to cover the cherries",
-        "Powdered sugar (I used 4-5 cups; you adjust it to your taste)",
+        "granulated sugar (I used 4-5 cups; you adjust it to your taste)",
         "1 teaspoon salt",
         "5 liters tap water"
       ]
@@ -3445,7 +3445,7 @@ export const icecekRecipes: Recipe[] = [
         "Ocağın üzerine alın.",
         "Vişneler hafif patlayana kadar pişirin. Rengi soluklaşacaktır. Bu süreçten sonra çok kaynatmayın. Rengi bozulmasın.",
         "Süzgeçle vişneleri kevgire aşama aşama alalım.",
-        "Patates ezici yada elinizle güzelce kevgirden geçirin.",
+        "Patates ezici ya da elinizle güzelce kevgirden geçirin.",
         "Elinizle yapacaksanız biraz soğusun eliniz yanar.",
         "Tüm vişneleri kevgirden geçirdikten sonra kalan çekirdek ve posayı ayrı bir tencereye alın.",
         "Üzerine 2 litre su ekleyip elinizle güzelce aromasını çıkarın.",
@@ -3512,7 +3512,7 @@ export const icecekRecipes: Recipe[] = [
         "1 çay bardağı süt",
         "1 çay bardağı şeker",
         "1 su bardağı soğuk su",
-        "Çay kaşığının ucu ile zerdeçal ve vanilya"
+        "çay kaşığının ucu ile zerdeçal ve vanilya"
       ],
       "en": [
         "2 lemons",
@@ -3552,7 +3552,7 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Süt",
+        "süt",
         "1 adet muz",
         "8 adet badem"
       ],
@@ -3596,7 +3596,7 @@ export const icecekRecipes: Recipe[] = [
         "1 su bardağı süt",
         "2 yemek kaşığı vanilyalı dondurma",
         "1 yemek kaşığı karamel sos",
-        "Bolca buz"
+        "bolca buz"
       ],
       "en": [
         "1 shot americano or half a cup of filter coffee",
@@ -3674,7 +3674,7 @@ export const icecekRecipes: Recipe[] = [
   {
     "id": "nefis-icecek-1179",
     "name": {
-      "tr": "Kimyasalsız  Reyhan Şerbeti",
+      "tr": "Kimyasalsız Reyhan Şerbeti",
       "en": "Chemical-Free Basil Sherbet"
     },
     "cuisine": "icecek",
@@ -3689,7 +3689,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "1 large bunch of purple-leaf basil",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "1 large lemon, peeled, sliced and seedless",
         "1.5 liters boiling water"
       ]
@@ -3729,14 +3729,14 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı süt",
-        "1 tatlı kaşığı granül kahve",
+        "1 tatlı kaşığı granül kahve",
         "1 yemek kaşığı toz şeker",
         "1 çay bardağından az sıcak su"
       ],
       "en": [
         "1 cup milk",
         "1 teaspoon instant coffee",
-        "1 tablespoon powdered sugar",
+        "1 tablespoon granulated sugar",
         "Less than 1 tea glass hot water"
       ]
     },
@@ -3770,7 +3770,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 kilo yeşil eriğin kırmızısı",
         "2 su bardağı şeker",
-        "Su"
+        "su"
       ],
       "en": [
         "1 kg of the red skin of green plums",
@@ -3856,8 +3856,8 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "1 adet limon",
         "1 adet portakal",
-        "Yarım limon suyu",
-        "1 su bardağı şeker( isteğe göre arttırılabilir yada azaltılabilir",
+        "yarım limonun suyu",
+        "1 su bardağı şeker( isteğe göre arttırılabilir ya da azaltılabilir",
         "1,50 litre su"
       ],
       "en": [
@@ -3949,7 +3949,7 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 demet reyhan",
-        "Yarım su bardağı şeker (damak zevkinize göre ayarlayabilirsiniz)",
+        "yarım su bardağı şeker (damak zevkinize göre ayarlayabilirsiniz)",
         "1,5 litre su",
         "1 çay kaşığı limon tuzu"
       ],
@@ -3992,11 +3992,11 @@ export const icecekRecipes: Recipe[] = [
         "1 su bardağı toz şeker (200 g)",
         "1,5 litre soğuk su",
         "1 avuç taze nane yaprağı",
-        "Bol buz"
+        "bol buz"
       ],
       "en": [
         "5 juicy lemons",
-        "1 cup powdered sugar (200 g)",
+        "1 cup granulated sugar (200 g)",
         "1.5 liters cold water",
         "1 handful fresh mint leaves",
         "Plenty of ice"
@@ -4039,11 +4039,11 @@ export const icecekRecipes: Recipe[] = [
         "1 demet taze mor reyhan (yaprakları ayıklanmış ve yıkanmış)",
         "1 büyük çay bardağı toz şeker (150 ml’lik büyük çay bardağı)",
         "6 su bardağı kaynamış sıcak su",
-        "Yarım büyük boy limonun suyu"
+        "yarım büyük boy limonun suyu"
       ],
       "en": [
         "1 bunch fresh purple basil (leaves picked and washed)",
-        "1 large tea glass powdered sugar (the large 150 ml tea glass)",
+        "1 large tea glass granulated sugar (the large 150 ml tea glass)",
         "6 cups boiled hot water",
         "The juice of half a large lemon"
       ]
@@ -4136,8 +4136,8 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "2 adet limon",
         "1 su bardağı şeker",
-        "Yarım litre su",
-        "Birkaç yaprak taze nane"
+        "yarım litre su",
+        "birkaç yaprak taze nane"
       ],
       "en": [
         "2 lemons",
@@ -4229,10 +4229,10 @@ export const icecekRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet limon (bulamadıysanız lime limonu olmak zorunda değil, sarı market limonu ile de olur)",
-        "Sapları ayrılmış bir kase taze nane (yeni toplanmış olursa siyahlığı olmaz içeceğe berrak bir renk katar)",
-        "Şeker",
+        "sapları ayrılmış bir kase taze nane (yeni toplanmış olursa siyahlığı olmaz içeceğe berrak bir renk katar)",
+        "şeker",
         "500 ml su",
-        "Buz (isteğe bağlıdır)"
+        "buz (isteğe bağlıdır)"
       ],
       "en": [
         "3 lemons (if you cannot find them, you do not have to use lime; yellow market lemons will also do)",
@@ -4280,16 +4280,16 @@ export const icecekRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "​3 su bardağı çekirdeksiz karpuz (küp küp doğranmış)",
-        "​2–3 adet taze sıkılmış limon suyu",
-        "​3–4 yemek kaşığı toz şeker veya süzme bal (karpuzunuzun tatlılığına göre ayarlayabilirsiniz)",
-        "​3 su bardağı buz gibi soğuk su",
-        "​Bol miktarda buz"
+        "3 su bardağı çekirdeksiz karpuz (küp küp doğranmış)",
+        "2–3 adet taze sıkılmış limon suyu",
+        "3–4 yemek kaşığı toz şeker veya süzme bal (karpuzunuzun tatlılığına göre ayarlayabilirsiniz)",
+        "3 su bardağı buz gibi soğuk su",
+        "bol miktarda buz"
       ],
       "en": [
         "3 cups seedless watermelon (diced)",
         "The juice of 2–3 freshly squeezed lemons",
-        "3–4 tablespoons powdered sugar or strained honey (you can adjust it according to the sweetness of your watermelon)",
+        "3–4 tablespoons granulated sugar or strained honey (you can adjust it according to the sweetness of your watermelon)",
         "3 cups ice-cold water",
         "A large amount of ice"
       ]
@@ -4333,7 +4333,7 @@ export const icecekRecipes: Recipe[] = [
         "1 su bardağından biraz az süt",
         "5 çay kaşığı granül kahve",
         "1 tatlı kaşığı şeker",
-        "Biraz su"
+        "biraz su"
       ],
       "en": [
         "A little less than 1 cup milk",
@@ -4434,7 +4434,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "1 cup hibiscus plant",
-        "1.5 cups powdered sugar",
+        "1.5 cups granulated sugar",
         "1 cinnamon stick",
         "8-10 cloves",
         "2 liters water",
@@ -4446,7 +4446,7 @@ export const icecekRecipes: Recipe[] = [
       "tr": [
         "Tencereye şeker hibiskus ,tarçın ,limon ve karanfili alalım.",
         "Üzerine su ekleyip 5 dakika kaynatıp soğumaya bırakalım.",
-        "Sonrasında süzüp 1 tane şeftali yada dilediğiniz bir meyveyi küp küp doğrayıp sürahiye alalım.",
+        "Sonrasında süzüp 1 tane şeftali ya da dilediğiniz bir meyveyi küp küp doğrayıp sürahiye alalım.",
         "Şerbeti üzerine döküp bol buzla servis edelim, afiyetler olsun detaylı tarif için tıkayın 👇."
       ],
       "en": [
@@ -4520,7 +4520,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "1 kg red plums (village plums)",
-        "2 cups powdered sugar",
+        "2 cups granulated sugar",
         "2 liters water"
       ]
     },
@@ -4561,7 +4561,7 @@ export const icecekRecipes: Recipe[] = [
       ],
       "en": [
         "1 bunch fresh basil",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "Citric acid as big as 3 chickpeas",
         "6 cups water"
       ]
@@ -4648,7 +4648,7 @@ export const icecekRecipes: Recipe[] = [
       "en": [
         "1 bunch fresh basil",
         "1 liter boiling water",
-        "1 cup powdered sugar (you can adjust it to your taste)",
+        "1 cup granulated sugar (you can adjust it to your taste)",
         "2-3 hibiscus",
         "3 sliced lemons (the hidden touch that fixes the color)",
         "1 packet citric acid"

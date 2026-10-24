@@ -20,14 +20,14 @@ export const pilavRecipes: Recipe[] = [
         "1 adet kırmızı biber",
         "1 adet orta boy domates ya da 8 adet çeri domates",
         "1 yemek kaşığı salça",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Kimyon"
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "kimyon"
       ],
       "en": [
         "2 cups pilaf-grade bulgur",
-        "1/3 cup vegetable oil (4 tablespoons)",
+        "1/3 teacup vegetable oil (4 tablespoons)",
         "3 cups hot water",
         "1 medium dry onion",
         "2 long green peppers",
@@ -84,7 +84,7 @@ export const pilavRecipes: Recipe[] = [
         "2,5 su bardağı sıcak su",
         "3 yemek kaşığı tereyağı",
         "1 yemek kaşığı sıvı yağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 cups rice",
@@ -138,7 +138,7 @@ export const pilavRecipes: Recipe[] = [
         "2 su bardağı pirinç",
         "2 adet patates",
         "1 yemek kaşığı tereyağı",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "500 g cubed beef",
@@ -271,7 +271,7 @@ export const pilavRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağı",
         "2 yemek kaşığı sıvı yağ",
         "2 su bardağı arpa şehriye",
-        "Tuz",
+        "tuz",
         "3 su bardağı sıcak su"
       ],
       "en": [
@@ -286,7 +286,7 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "Pilav tenceresine tereyağını koyarak eritin, sıvı yağı ekleyin.",
         "Şehriyeleri ekleyin ve biraz kırmızılaşana kadar yani rengini alana kadar kavurun.",
-        "Üzerini bir parmak geçecek kadar sıcak su ekleyin, ben 3 su bardağı ekledim. Gerekirse ilave yapabilirsiniz. .",
+        "Üzerini bir parmak geçecek kadar sıcak su ekleyin, ben 3 su bardağı ekledim. Gerekirse ilave yapabilirsiniz. .",
         "İsteğe bağlı olarak bu aşamada bulyonu ekleyebilirsiniz.",
         "Son olarak tuzunu da ekleyerek kapağını kapatın.",
         "Şehriyeler suyu çekince altını kapatabilirsiniz. Afiyet olsun."
@@ -334,7 +334,7 @@ export const pilavRecipes: Recipe[] = [
         "500 g cubed meat",
         "3 large carrots",
         "2 medium onions",
-        "1 cup olive oil",
+        "1 teacup olive oil",
         "1 heaped tablespoon butter",
         "3 cups baldo rice",
         "1 cup almonds",
@@ -394,7 +394,7 @@ export const pilavRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "2 su bardağı arpa şehriye",
         "3 su bardağı sıcak su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 tablespoons vegetable oil",
@@ -448,12 +448,12 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "1, 5 su bardağı bulgur",
         "3,5 su bardağı sıcak su",
-        "Yarım yemek kaşığı biber salçası",
+        "yarım yemek kaşığı biber salçası",
         "1 yemek kaşığı domates salçası",
         "1 tavuk bulyon (isteğe bağlı koymayabilirsiniz)",
-        "2 yemek kasığı tereyağı",
+        "2 yemek kaşığı tereyağı",
         "3 yemek kaşığı sıvı yağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1.5 cups bulgur",
@@ -516,7 +516,7 @@ export const pilavRecipes: Recipe[] = [
         "1 çay kaşığı toz zencefil",
         "1 çay kaşığı kişniş",
         "1 çay bardağı zeytinyağı",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1.5 cups coarse bulgur",
@@ -532,7 +532,7 @@ export const pilavRecipes: Recipe[] = [
         "1 teaspoon cumin",
         "1 teaspoon ground ginger",
         "1 teaspoon coriander",
-        "1 cup olive oil",
+        "1 teacup olive oil",
         "Salt"
       ]
     },
@@ -571,11 +571,11 @@ export const pilavRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1,50 su bardağı pirinç",
-        "Su",
-        "Margarin",
-        "Yarım biber",
+        "su",
+        "margarin",
+        "yarım biber",
         "3 adet domates",
-        "Tuz",
+        "tuz",
         "1 yemek kaşığı karabiber"
       ],
       "en": [
@@ -629,9 +629,9 @@ export const pilavRecipes: Recipe[] = [
         "2 adet havuç",
         "2 adet soğan",
         "1 diş sarımsak",
-        "Margarin",
-        "Su",
-        "Kahve bardağı ile sıvı yağ",
+        "margarin",
+        "su",
+        "kahve bardağı ile sıvı yağ",
         "1 adet sivri biber",
         "1,5 su bardağı basmati pirinç"
       ],
@@ -741,7 +741,7 @@ export const pilavRecipes: Recipe[] = [
         "2 yemek kaşığı şehriye"
       ],
       "en": [
-        "1 cup bulgur",
+        "1 teacup bulgur",
         "1 cup water",
         "1 teaspoon butter (you can use a tablespoon if you prefer)",
         "1 tablespoon vegetable oil",
@@ -778,9 +778,9 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "1 su bardağı kuşkus",
+        "1 su bardağı kuskus",
         "1 adet sivri yeşil biber",
-        "Yarım adet kapya biber",
+        "yarım adet kapya biber",
         "1 adet soğan",
         "1 tatlı kaşığı salça",
         "1 çay bardağı domates sosu",
@@ -795,7 +795,7 @@ export const pilavRecipes: Recipe[] = [
         "Half a bell pepper",
         "1 onion",
         "1 teaspoon tomato paste",
-        "1 cup tomato sauce",
+        "1 teacup tomato sauce",
         "1 teaspoon salt",
         "1 spoon vegetable oil",
         "1 spoon butter",
@@ -806,7 +806,7 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "Tavaya soğan ve biberleri alalım kavuralım.",
         "Sonra salçayı ekleyip kavurmaya devam edelim.",
-        "Kavrulunca kuskusu ilava edelim ,kavurmaya devam edelim.",
+        "Kavrulunca kuskusu ilave edelim, kavurmaya devam edelim.",
         "Tuz ve domates sosunu dökelim ,sonra suyu ilave edip kısık ateşte ağzı kapalı bir şekilde pişirelim.",
         "Pişen kuskusu 10 -15 dk dinlendirip servis edelim. Deneyecek olanlara şimdiden afiyet olsun."
       ],
@@ -909,9 +909,9 @@ export const pilavRecipes: Recipe[] = [
         "1 adet kapya biber",
         "1 adet yeşil köy biber",
         "1 adet kuru soğan",
-        "1tatlı kaşığı tatlı biber salçasi",
+        "1tatlı kaşığı tatlı biber salçası",
         "1 çay kaşığı tuz, toz tatlı biber",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 tatlı kaşığı tereyağ",
         "4 yemek kaşığı zeytinyağı",
         "2 su bardağı su",
@@ -929,7 +929,7 @@ export const pilavRecipes: Recipe[] = [
         "1 teaspoon butter",
         "4 tablespoons olive oil",
         "2 cups water",
-        "1 small cup cooked chickpeas"
+        "1 small teacup cooked chickpeas"
       ]
     },
     "steps": {
@@ -964,17 +964,17 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​1 paket arpa şehriye",
-        "​2 adet domates (küp doğranmış)",
-        "​1 adet kapya biber (doğranmış)",
-        "​1 adet kuru soğan (yemeklik doğranmış)",
-        "​200 gram tavuk göğsü",
-        "​700 ml su",
-        "​200 ml sıvı krema",
-        "​1,5 yemek kaşığı domates/biber salçası",
-        "​1 yemek kaşığı sebze çeşnisi veya sebze bulyon",
-        "​1 tatlı kaşığı tuz",
-        "​100–150 gram rendelenmiş kaşar peyniri"
+        "1 paket arpa şehriye",
+        "2 adet domates (küp doğranmış)",
+        "1 adet kapya biber (doğranmış)",
+        "1 adet kuru soğan (yemeklik doğranmış)",
+        "200 gram tavuk göğsü",
+        "700 ml su",
+        "200 ml sıvı krema",
+        "1,5 yemek kaşığı domates/biber salçası",
+        "1 yemek kaşığı sebze çeşnisi veya sebze bulyon",
+        "1 tatlı kaşığı tuz",
+        "100–150 gram rendelenmiş kaşar peyniri"
       ],
       "en": [
         "1 package orzo",
@@ -1100,8 +1100,8 @@ export const pilavRecipes: Recipe[] = [
         "4-5 diş sarımsak",
         "1 tutam maydanoz",
         "1 kahve fincanı kadar zeytinyağı",
-        "Tuz",
-        "Karabiber",
+        "tuz",
+        "karabiber",
         "1 yemek kaşığı karışık salça",
         "1 su bardağı pilavlık bulgur",
         "2,5 su bardağı sıcak su"
@@ -1127,7 +1127,7 @@ export const pilavRecipes: Recipe[] = [
         "Küp doğranmış kabakları da ilave edelim sarımsakları doğrayıp üzerine ilave edelim.",
         "Salça ve baharatları koyup en son bulguru ilave ediyoruz 3-4 dakika kadar kavuruyoruz.",
         "Üzerine sucak su ilave edip suyunu çekip bulgur yumuşayana kadar pişiriyoruz.",
-        "Üzerine maydanozu  serpiştiriyoruz."
+        "Üzerine maydanozu serpiştiriyoruz."
       ],
       "en": [
         "Finely chop the onions and fry them in olive oil until they turn golden.",
@@ -1158,15 +1158,15 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "1 adet patates",
         "1 adet havuç",
-        "Yarım çay bardağı bezelye(haşlanmış dondurulmuş kullandım)",
+        "yarım çay bardağı bezelye(haşlanmış dondurulmuş kullandım)",
         "1 su bardağı pirinç",
-        "Yağ",
-        "Tuz"
+        "yağ",
+        "tuz"
       ],
       "en": [
         "1 potato",
         "1 carrot",
-        "Half a cup of peas (I used cooked frozen peas)",
+        "Half a teacup of peas (I used cooked frozen peas)",
         "1 cup rice",
         "Oil",
         "Salt"
@@ -1212,14 +1212,14 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı pirinç",
         "6 yemek kaşığı tel şehriye",
-        "Yarım çay bardağına yakın zeytinyağ",
+        "yarım çay bardağına yakın zeytinyağ",
         "2,5 çay kaşığı tuz",
         "1,5 su bardağı kaynar su"
       ],
       "en": [
         "1 cup rice",
         "6 tablespoons broken orzo",
-        "Just under half a cup of olive oil",
+        "Just under half a teacup of olive oil",
         "2.5 teaspoons salt",
         "1.5 cups boiling water"
       ]
@@ -1263,15 +1263,15 @@ export const pilavRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı pirinç",
-        "Yarım su bardağı bulgur",
+        "yarım su bardağı bulgur",
         "1 adet soğan",
-        "Tereyağı (göz kararı)",
+        "tereyağı (göz kararı)",
         "1 yemek kaşığı kuş üzümü",
-        "Tarçın (göz kararı çok az)",
-        "Karabiber (isteğe göre)",
-        "Zerdeçal (çok az)",
-        "Tuz",
-        "Yenibahar (isteğe göre)",
+        "tarçın (göz kararı çok az)",
+        "karabiber (isteğe göre)",
+        "zerdeçal (çok az)",
+        "tuz",
+        "yenibahar (isteğe göre)",
         "3 su bardağı su",
         "1 tatlı kaşığı nar ekşisi"
       ],
@@ -1340,15 +1340,15 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı pirinç",
         "2 su bardağı su",
-        "Yarım çay bardağı tel şehriye",
-        "Yarım su bardağı haşlanmış nohut",
+        "yarım çay bardağı tel şehriye",
+        "yarım su bardağı haşlanmış nohut",
         "3 yemek kaşığı sıvı yağ",
         "2 çay kaşığı tuz"
       ],
       "en": [
         "1 cup rice",
         "2 cups water",
-        "Half a cup of broken orzo",
+        "Half a teacup of broken orzo",
         "Half a cup cooked chickpeas",
         "3 tablespoons vegetable oil",
         "2 teaspoons salt"
@@ -1390,8 +1390,8 @@ export const pilavRecipes: Recipe[] = [
         "1 adet orta boy havuç",
         "1 su bardağı haşlanmış tavuk suyu",
         "1,5 su bardağı bulgur",
-        "Göz kararı tuz",
-        "Sıvı yağ"
+        "göz kararı tuz",
+        "sıvı yağ"
       ],
       "en": [
         "1 small dry onion",
@@ -1441,12 +1441,12 @@ export const pilavRecipes: Recipe[] = [
         "1 büyük boy kuru soğan",
         "2 adet kırmızı kapya biber",
         "2 adet yeşil biber",
-        "Yarım yemek kaşığı biber salçası",
+        "yarım yemek kaşığı biber salçası",
         "1 çay kaşığı karabiber",
         "1 çay bardağı zeytinyağı",
         "25 gram kuyruk yağı",
         "1 yemek kaşığı tereyağı",
-        "Tuz",
+        "tuz",
         "3.5 su bardağı su"
       ],
       "en": [
@@ -1457,7 +1457,7 @@ export const pilavRecipes: Recipe[] = [
         "2 green peppers",
         "Half a tablespoon pepper paste",
         "1 teaspoon black pepper",
-        "1 cup olive oil",
+        "1 teacup olive oil",
         "25 g tail fat",
         "1 tablespoon butter",
         "Salt",
@@ -1522,10 +1522,10 @@ export const pilavRecipes: Recipe[] = [
         "2 su bardağı arpa şehriye",
         "1 paket krema",
         "3 su bardağı su",
-        "Karabiber",
-        "Tuz",
-        "Tozbiber",
-        "Sıvıyağ",
+        "karabiber",
+        "tuz",
+        "tozbiber",
+        "sıvıyağ",
         "1 çorba kaşığı tereyağı"
       ],
       "en": [
@@ -1572,22 +1572,22 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "​3 büyük boy yeşil domates",
-        "​1 adet orta boy soğan",
-        "​2-3 diş sarımsak",
-        "​Yarım çay bardağı zeytinyağı",
-        "​Yarım çay bardağı pirinç",
-        "​1 su bardağı su",
-        "​1 yemek kaşığı kıyılmış taze nane",
-        "​1 yemek kaşığı kıyılmış dereotu",
-        "Tuz"
+        "3 büyük boy yeşil domates",
+        "1 adet orta boy soğan",
+        "2-3 diş sarımsak",
+        "yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı pirinç",
+        "1 su bardağı su",
+        "1 yemek kaşığı kıyılmış taze nane",
+        "1 yemek kaşığı kıyılmış dereotu",
+        "tuz"
       ],
       "en": [
         "3 large green tomatoes",
         "1 medium onion",
         "2-3 cloves of garlic",
-        "Half a cup olive oil",
-        "Half a cup rice",
+        "Half a teacup olive oil",
+        "Half a teacup rice",
         "1 cup water",
         "1 tablespoon chopped fresh mint",
         "1 tablespoon chopped dill",
@@ -1632,8 +1632,8 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "1 paket tavuk",
         "1 su bardağı nohut",
-        "Tuz",
-        "Su",
+        "tuz",
+        "su",
         "1.50 su bardağı bulgur"
       ],
       "en": [
@@ -1733,7 +1733,7 @@ export const pilavRecipes: Recipe[] = [
         "2,5 su bardağı yıkanmış pirinç",
         "1 su bardağı haşlanmış nohut",
         "2 su bardağı tavuk suyu",
-        "1 su bardağı su",
+        "1 su bardağı su",
         "1,5 tatlı kaşığı tuz"
       ],
       "en": [
@@ -1751,7 +1751,7 @@ export const pilavRecipes: Recipe[] = [
         "Pirinçi güzelce yıkayıp süzelim.",
         "Sıvıyağ ve tereyağı tenceremize dökelim ve 5 dakika boyunca kavuralım.",
         "Daha sonra nohut ve tuz ekleyip karıştıralım.",
-        "Ardından tavuk ve normal suyu ilave edelim ve karıştıralım.",
+        "Ardından tavuk ve normal suyu ilave edelim ve karıştıralım.",
         "Kapağını kapatıp kısık ateşte pişirelim.",
         "Suyunu tamamen çektikten sonra altını kapatıp demlenmeye bırakalım.",
         "Tavukları haşlayalım.",
@@ -1796,18 +1796,18 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Tuz",
+        "tuz",
         "1 buçuk su bardağı pirinç",
         "1 çay bardağı tel şehriye",
         "1 yemek kaşığı karabiber",
-        "Üzerini geçecek kadar su",
-        "Margarin",
+        "üzerini geçecek kadar su",
+        "margarin",
         "2 yemek kaşığı sıvı yağ"
       ],
       "en": [
         "Salt",
         "1.5 cups rice",
-        "1 cup broken orzo",
+        "1 teacup broken orzo",
         "1 tablespoon black pepper",
         "Enough water to cover it",
         "Margarine",
@@ -1850,18 +1850,18 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "1,5 su bardağı pirinç",
         "1 adet orta boy soğan",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı yenibahar",
         "1 çay kaşığı karabiber",
         "1 paket ton balığı",
-        "Limon",
+        "limon",
         "3 su bardağı kaynar su"
       ],
       "en": [
         "1.5 cups rice",
         "1 medium onion",
-        "Half a cup olive oil",
+        "Half a teacup olive oil",
         "1 teaspoon salt",
         "1 teaspoon allspice",
         "1 teaspoon black pepper",
@@ -1908,9 +1908,9 @@ export const pilavRecipes: Recipe[] = [
         "2 yemek kaşığı salça",
         "1 yemek kaşığı kimyon",
         "1 yemek kaşığı karabiber",
-        "Tuz",
-        "Margarin",
-        "Su",
+        "tuz",
+        "margarin",
+        "su",
         "2 adet domates",
         "1 adet soğan"
       ],
@@ -2079,7 +2079,7 @@ export const pilavRecipes: Recipe[] = [
         "3 su bardağı sıcak su"
       ],
       "en": [
-        "1 cup broken orzo",
+        "1 teacup broken orzo",
         "2 tablespoons butter or vegetable oil",
         "2 cups pilaf-grade bulgur",
         "1 teaspoon salt",
@@ -2134,7 +2134,7 @@ export const pilavRecipes: Recipe[] = [
         "2 cups pilaf-grade bulgur",
         "2 teaspoons salt",
         "1 teaspoon red pepper flakes",
-        "1 cup oil",
+        "1 teacup oil",
         "1 liter water"
       ]
     },
@@ -2179,15 +2179,15 @@ export const pilavRecipes: Recipe[] = [
         "1 adet havuç",
         "2-3 dal taze soğanın yeşil kısımları (beyaz kök kısımları dahil etmedim, farklı bir yemekte kullanmak için ayırırsanız çok daha iyi olacaktır)",
         "3 yemek kaşığı domates salçası",
-        "Bir miktar zeytinyağı",
-        "Yaklaşık yarım–1 su bardağı su (salçayı açmak için, kontrollü ekleyin)",
-        "Pul biber",
-        "Paprika",
-        "Kırmızı toz biber",
-        "Karabiber",
-        "Tuz",
-        "Kekik / thyme",
-        "Siyah limon tozu (yoksa misket limonu veya narenciye veyahut az birşey limon + azıcık sumak veyahut damak tadınıza göre kimyon ile değiştirebilirsiniz)"
+        "bir miktar zeytinyağı",
+        "yaklaşık yarım–1 su bardağı su (salçayı açmak için, kontrollü ekleyin)",
+        "pul biber",
+        "paprika",
+        "kırmızı toz biber",
+        "karabiber",
+        "tuz",
+        "kekik / thyme",
+        "siyah limon tozu (yoksa misket limonu veya narenciye veyahut az birşey limon + azıcık sumak veyahut damak tadınıza göre kimyon ile değiştirebilirsiniz)"
       ],
       "en": [
         "1 large plate of leftover orzo rice pilaf from the previous day",
@@ -2271,7 +2271,7 @@ export const pilavRecipes: Recipe[] = [
         "* 1 su bardağı haşlanmış nohut",
         "* 4-5 diş sarımsak",
         "* yarım su bardağı sıvı yağ",
-        "* 50 gram tereyağı",
+        "50 gram tereyağı",
         "* 3-3,5su bardağı su",
         "* tuz",
         "* karabiber"
@@ -2337,13 +2337,13 @@ export const pilavRecipes: Recipe[] = [
         "1 tatlı kaşığı biber salçası",
         "1 adet domatesin rendesi",
         "1 çay kaşığı tuz",
-        "Toz tatlı biber",
-        "Yarım çay kaşığı karabiber",
+        "toz tatlı biber",
+        "yarım çay kaşığı karabiber",
         "5 yemek kaşığı zeytinyağı veya sıvıyağ",
         "3 su bardağı su"
       ],
       "en": [
-        "1 cup siyez bulgur",
+        "1 teacup siyez bulgur",
         "1 cup pilaf-grade bulgur",
         "1 dry onion",
         "3 cloves of garlic",
@@ -2398,10 +2398,10 @@ export const pilavRecipes: Recipe[] = [
         "1 adet domates",
         "2 adet et bulyon",
         "2 adet çarliston biber",
-        "Sıvı yağ",
+        "sıvı yağ",
         "1 yemek kaşığı salça",
         "4 su bardağı kaynamış su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 cups pilaf-grade bulgur",
@@ -2459,12 +2459,12 @@ export const pilavRecipes: Recipe[] = [
         "1 su bardağı yıkanmamış pirinç",
         "2 yemek kaşığı salça",
         "4 adet kalçalı but",
-        "Yarım su bardağı zeytinyağı b",
+        "yarım su bardağı zeytinyağı b",
         "1 er tatlı kaşığı tuz",
-        "Karabiber",
-        "Kırmızı toz biber",
-        "Kekik",
-        "Kimyon"
+        "karabiber",
+        "kırmızı toz biber",
+        "kekik",
+        "kimyon"
       ],
       "en": [
         "4 cups rice",
@@ -2525,7 +2525,7 @@ export const pilavRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı",
         "1 yemek kaşığı ayçiçek yağı veya zeytinyağı",
         "1 çay kaşığı tuz",
-        "İsteğe bağlı: 1-2 damla limon suyu (pirinçin daha beyaz görünmesine yardımcı olur)"
+        "isteğe bağlı: 1-2 damla limon suyu (pirinçin daha beyaz görünmesine yardımcı olur)"
       ],
       "en": [
         "1 cup baldo rice (200 ml cup)",
@@ -2586,7 +2586,7 @@ export const pilavRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı",
         "2-3 yemek kaşığı sıvı yağ",
         "3 su bardağı kaynamış su",
-        "Tuz",
+        "tuz",
         "1 adet tavuk bulyon"
       ],
       "en": [
@@ -2644,7 +2644,7 @@ export const pilavRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı pul biber",
-        "Yarım çay bardağı sıvı yağ"
+        "yarım çay bardağı sıvı yağ"
       ],
       "en": [
         "500 g beef",
@@ -2655,7 +2655,7 @@ export const pilavRecipes: Recipe[] = [
         "1 tablespoon tomato paste",
         "1 teaspoon salt",
         "1 teaspoon red pepper flakes",
-        "Half a cup vegetable oil"
+        "Half a teacup vegetable oil"
       ]
     },
     "steps": {
@@ -2705,7 +2705,7 @@ export const pilavRecipes: Recipe[] = [
       ],
       "en": [
         "1 cup pilaf-grade lentils",
-        "1 cup bulgur",
+        "1 teacup bulgur",
         "1 teaspoon tomato paste",
         "4 cups water",
         "1 coffee cup olive oil",
@@ -2746,7 +2746,7 @@ export const pilavRecipes: Recipe[] = [
         "3 adet yeşil biber",
         "1 yemek kaşığı salça",
         "2 adet domates",
-        "Yarım bardak domates rendesi",
+        "yarım bardak domates rendesi",
         "1 su bardağı bulgur",
         "2,5 su bardağı su"
       ],
@@ -2799,15 +2799,15 @@ export const pilavRecipes: Recipe[] = [
         "1 adet soğan",
         "1 adet kırmızı biber",
         "2 adet yeşil biber",
-        "Bezelye",
+        "bezelye",
         "1 lt et suyu",
         "1 kaşık tereyağ",
-        "Tuz",
-        "İsteğe bağlı domates rendesi veya salça"
+        "tuz",
+        "isteğe bağlı domates rendesi veya salça"
       ],
       "en": [
         "1 cup orzo",
-        "1 cup green lentils",
+        "1 teacup green lentils",
         "1 onion",
         "1 red pepper",
         "2 green peppers",
@@ -2854,12 +2854,12 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı yeşil mercimek",
-        "Yarım su bardağı basmati pirinç",
+        "yarım su bardağı yeşil mercimek",
+        "yarım su bardağı basmati pirinç",
         "3 adet kuru soğan",
         "1 fincan zeytinyağı",
         "1 tatlı kaşığı tuz",
-        "Susam",
+        "susam",
         "2 su bardağı mercimeğin haşlama suyu"
       ],
       "en": [
@@ -2915,9 +2915,9 @@ export const pilavRecipes: Recipe[] = [
         "1 su bardağı et suyu",
         "1 su bardağı su",
         "4 yemek kaşığı sıvı yağ",
-        "Tuz",
-        "Karabiber",
-        "Kimyon"
+        "tuz",
+        "karabiber",
+        "kimyon"
       ],
       "en": [
         "1 cup bulgur",
@@ -2978,8 +2978,8 @@ export const pilavRecipes: Recipe[] = [
         "1 tatlı kaşığı tereyağ ya da margarin",
         "3 yemek kaşığı tel şehriye",
         "4 su bardağı su",
-        "Sıvı yağ",
-        "Tuz"
+        "sıvı yağ",
+        "tuz"
       ],
       "en": [
         "2 cups rice",
@@ -3031,12 +3031,12 @@ export const pilavRecipes: Recipe[] = [
         "1 adet kırmızı kapya biber",
         "1 su bardağı arpa şehriye",
         "2 su bardağı su",
-        "Karabiber",
-        "Muskat",
-        "Zerdeçal",
-        "Tarçın",
-        "Tuz",
-        "Zeytinyağı"
+        "karabiber",
+        "muskat",
+        "zerdeçal",
+        "tarçın",
+        "tuz",
+        "zeytinyağı"
       ],
       "en": [
         "4 boneless chicken chops",
@@ -3085,7 +3085,7 @@ export const pilavRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 dolu kase pirinç (2 dolu su bardağı pirinç)",
-        "Yarım su bardağı şehriye",
+        "yarım su bardağı şehriye",
         "4 yemek kaşığı sıvı yağ",
         "2 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber"
@@ -3150,12 +3150,12 @@ export const pilavRecipes: Recipe[] = [
         "3,5-4 su bardağı sıcak su",
         "1 orta boy kuru soğan",
         "3 orta boy domates",
-        "Yarım yemek kaşığı biber salçası",
+        "yarım yemek kaşığı biber salçası",
         "1 yemek kaşığı domates salçası",
         "1 tavuk bulyon (isteğe bağlı)",
-        "Göz kararı sıvı yağ",
-        "Karabiber",
-        "Tuz"
+        "göz kararı sıvı yağ",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "2 cups bulgur",
@@ -3211,9 +3211,9 @@ export const pilavRecipes: Recipe[] = [
         "3 adet havuç",
         "2 yemek kaşığı tereyağı",
         "2 su bardağı pirinç",
-        "Tuz",
-        "Tarçın",
-        "Zerdeçal"
+        "tuz",
+        "tarçın",
+        "zerdeçal"
       ],
       "en": [
         "300 g red meat",
@@ -3259,9 +3259,9 @@ export const pilavRecipes: Recipe[] = [
         "250 gram spagetti",
         "3 yemek kaşığı bolognese sos",
         "100 gram mantar",
-        "Chery domates",
+        "chery domates",
         "2 diş sarımsak",
-        "Roka",
+        "roka",
         "1 tatlı kaşığı pul biber",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı kaya tuzu"
@@ -3413,9 +3413,9 @@ export const pilavRecipes: Recipe[] = [
         "1 adet kuru soğan",
         "2 su bardağı bulgur",
         "3 su bardağı tavuk suyu",
-        "Tuz",
-        "Karabiber",
-        "Sıvıyağ"
+        "tuz",
+        "karabiber",
+        "sıvıyağ"
       ],
       "en": [
         "5 tomatoes",
@@ -3467,9 +3467,9 @@ export const pilavRecipes: Recipe[] = [
         "1 adet küçük kuru soğan",
         "3 su bardağı sıcak su",
         "1 silme çay kaşığı tuz",
-        "Çay kaşığı ucu ile karabiber",
+        "çay kaşığı ucu ile karabiber",
         "1 çay kaşığı pul biber",
-        "Çay kaşığı ucu ile tarçın"
+        "çay kaşığı ucu ile tarçın"
       ],
       "en": [
         "1.5 cups orzo",
@@ -3529,8 +3529,8 @@ export const pilavRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "4 su bardağı sıcak su (veya tavuk suyu)",
         "1 çay kaşığı tuz (damak tadına göre)",
-        "İsteğe bağlı: 1 çay kaşığı pul biber",
-        "Karabiber"
+        "isteğe bağlı: 1 çay kaşığı pul biber",
+        "karabiber"
       ],
       "en": [
         "2 cups pilaf-grade bulgur",
@@ -3586,8 +3586,8 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı pirinç (ithal pilavlık pirinç kullandım)",
         "1.5 su bardağı sıcak su",
-        "Yarım tablet tavuk bulyon",
-        "Yarım su bardağı haşlanmış nohut",
+        "yarım tablet tavuk bulyon",
+        "yarım su bardağı haşlanmış nohut",
         "3-4 yemek kaşığı konserve mısır",
         "1 yemek kaşığı tereyağ (lezzet için önemli)",
         "2 yemek kaşığı sıvı yağ (pirinçlerin parlak ve tane tane olması için)"
@@ -3650,8 +3650,8 @@ export const pilavRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı yenibahar",
         "1 kutu ton balığı",
-        "Zeytinyağı",
-        "Tuz"
+        "zeytinyağı",
+        "tuz"
       ],
       "en": [
         "1 onion",
@@ -3706,7 +3706,7 @@ export const pilavRecipes: Recipe[] = [
         "1 su bardağı bezelye",
         "2 su bardağı pirinç",
         "5 adet yeşil soğan",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "1 çay bardağı zeytinyağı",
         "1 yemek kaşığı sıkılmış limon suyu",
         "4 su bardağı sıcak su",
@@ -3721,7 +3721,7 @@ export const pilavRecipes: Recipe[] = [
         "2 cups rice",
         "5 spring onions",
         "Half a bunch of dill",
-        "1 cup olive oil",
+        "1 teacup olive oil",
         "1 tablespoon freshly squeezed lemon juice",
         "4 cups hot water",
         "1 teaspoon salt",
@@ -3770,20 +3770,20 @@ export const pilavRecipes: Recipe[] = [
         "2 adet kuru soğan",
         "6-7 adet yeşil biber",
         "1 yemek kaşığı tereyağı",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yemek kaşığı karışık salça",
         "2 su bardağı bulgur",
         "4 su bardağı sıcak su",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber"
+        "tuz",
+        "karabiber",
+        "pulbiber"
       ],
       "en": [
         "6 tomatoes",
         "2 dry onions",
         "6-7 green peppers",
         "1 tablespoon butter",
-        "Half a cup vegetable oil",
+        "Half a teacup vegetable oil",
         "1 tablespoon mixed vegetable paste",
         "2 cups bulgur",
         "4 cups hot water",
@@ -3838,22 +3838,22 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "1 su bardağı basmati pirinçi",
+        "1 su bardağı basmati pirinci",
         "2 su bardağı tavuk suyu",
         "1 küçük kuru soğan",
-        "Yarım çay bardağı file badem",
+        "yarım çay bardağı file badem",
         "1 tatlı kaşığı kuş üzümü",
         "2 yemek kaşığı zeytinyağı",
         "1 yemek kaşığı tereyağı",
         "1 çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon",
-        "Tuz"
+        "yarım çay kaşığı kimyon",
+        "tuz"
       ],
       "en": [
         "1 cup basmati rice",
         "2 cups chicken stock",
         "1 small dry onion",
-        "Half a cup slivered almonds",
+        "Half a teacup slivered almonds",
         "1 teaspoon currants",
         "2 tablespoons olive oil",
         "1 tablespoon butter",
@@ -3959,7 +3959,7 @@ export const pilavRecipes: Recipe[] = [
         "1 çay kaşığı pul biber",
         "1 çay kaşığı nane",
         "3 yemek kaşığı sıvı yağ",
-        "Tuz",
+        "tuz",
         "4 su bardağı su"
       ],
       "en": [
@@ -4011,9 +4011,9 @@ export const pilavRecipes: Recipe[] = [
         "1/2 (yarım) çay kaşığı karabiber",
         "1/2 (yarım) çay kaşığı şeker",
         "1 çay kaşığı tuz",
-        "Zeytinyağı",
-        "Kuru üzüm (isteğe bağlı)",
-        "Dereotu ve maydanoz(isteğe bağlı)"
+        "zeytinyağı",
+        "kuru üzüm (isteğe bağlı)",
+        "dereotu ve maydanoz(isteğe bağlı)"
       ],
       "en": [
         "1 eggplant",
@@ -4070,7 +4070,7 @@ export const pilavRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağı",
         "3 su bardağı sıcak su",
         "1 su bardağı haşlanmış nohut",
-        "Yeteri kadar tuz"
+        "yeteri kadar tuz"
       ],
       "en": [
         "150 g cubed and boiled beef",
@@ -4134,17 +4134,17 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​1 buçuk su bardağı baldo pirinç",
-        "​1 adet orta boy kuru soğan (çok ince yemeklik doğranmış)",
+        "1 buçuk su bardağı baldo pirinç",
+        "1 adet orta boy kuru soğan (çok ince yemeklik doğranmış)",
         "3 diş sarımsak (ezilmiş)",
-        "​2 yemek kaşığı ghee (sade yağ)",
-        "​1 yemek kaşığı soğuk ghee (en son eklemek için)",
-        "​1 litre su",
+        "2 yemek kaşığı ghee (sade yağ)",
+        "1 yemek kaşığı soğuk ghee (en son eklemek için)",
+        "1 litre su",
         "500 gram karides",
-        "​35 ml elma sirkesi + 265 ml stok suyu (asidite dengesi için italyanlar genelde 1/2 (yarım) çay bardağı sek beyaz şarap kullanır)",
-        "1 su bardağı ​rendelenmiş gouda peyniri (parmesan veya sert izmir tulum peyniri de kullanılabilir)",
-        "​Tuz",
-        "Karabiber"
+        "35 ml elma sirkesi + 265 ml stok suyu (asidite dengesi için italyanlar genelde 1/2 (yarım) çay bardağı sek beyaz şarap kullanır)",
+        "1 su bardağı rendelenmiş gouda peyniri (parmesan veya sert izmir tulum peyniri de kullanılabilir)",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "1.5 cups baldo rice",
@@ -4154,7 +4154,7 @@ export const pilavRecipes: Recipe[] = [
         "1 tablespoon cold ghee (to add at the end)",
         "1 liter water",
         "500 g shrimp",
-        "35 ml apple cider vinegar plus 265 ml stock (for the acidity balance; the Italians usually use 1/2 (half) cup of dry white wine)",
+        "35 ml apple cider vinegar plus 265 ml stock (for the acidity balance; the Italians usually use 1/2 (half) teacup of dry white wine)",
         "1 cup grated Gouda cheese (parmesan or firm Izmir tulum cheese can also be used)",
         "Salt",
         "Black pepper"
@@ -4164,9 +4164,9 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "Tencereye 1 lt suya 500 gram karideslerinizi koyup haşlamaya başlayın. (risotto için yaptığımız karides stoğumuza sıcak ihtiyacımız olacak).",
         "2 yemek kaşığı ghee, soğanlar ve sarımsaklar tavaya atılır. Soğan terleyinceye kadar kavurma işlemini yapın (soğanı öldürmekle uğraşmayın zaten su çektirme yaparken, pişme süresince soğanınız eriyecek).",
-        "Pirinci ekleyin ve soğan, sarımsaklar ile birlikte kavurmaya devam edin. 3 dk’lık bir kavurma işlemi pirinç için yeterli olacaktır. Özellikle spatula yada tahta kaşık kullanın.",
+        "Pirinci ekleyin ve soğan, sarımsaklar ile birlikte kavurmaya devam edin. 3 dk’lık bir kavurma işlemi pirinç için yeterli olacaktır. Özellikle spatula ya da tahta kaşık kullanın.",
         "Asidite sağlaması için 35 ml elma sirkesine 265 ml kaynamış olan karides stoğundan ekleyip pirinçin üzerine dökün ve pirinçinizi ezmeden nazikçe tavada karıştırarak sıvıyı yedirin.",
-        "Sıvıyı yedirme işlemini anlamak için spatula yada kaşığınızla tavada yol açın (aşağıda fotoğraflardaki gibi tavanın zemini görünecek şekilde yol açın) ve açtığınız yola sağdan soldan ne kadar sıvı gelerek yolu kapattığını izleyin. Çok sıvı varsa yol açtığınız gibi kapanır ama sıvı azalmışsa yol olduğu gibi açık kalır. Sıvının çekildiğini gördüğünüzde karides suyunuzdan bir kepçe alın ve nazikçe karıştırmaya devam edin.",
+        "Sıvıyı yedirme işlemini anlamak için spatula ya da kaşığınızla tavada yol açın (aşağıda fotoğraflardaki gibi tavanın zemini görünecek şekilde yol açın) ve açtığınız yola sağdan soldan ne kadar sıvı gelerek yolu kapattığını izleyin. Çok sıvı varsa yol açtığınız gibi kapanır ama sıvı azalmışsa yol olduğu gibi açık kalır. Sıvının çekildiğini gördüğünüzde karides suyunuzdan bir kepçe alın ve nazikçe karıştırmaya devam edin.",
         "Karides suyunuz ocakta kısık ateşte durmalı, su soğursa risotto’nuza eklediğiniz an risotto pişmesini de durdurmuş olursunuz. Suyun hepsini pilav yapar gibi eklemeyin yoksa risotto’nun kremamsı dokusunu kazanamazsınız. Tavada her yol açtığınızda yol açık kalıyorsa 1 kepçe karides suyu ekleyerek ve nazikçe karıştırmaya özen göstererek işlemi tahminen 20-30 dk yapmaya devam edin.",
         "1 lt stoğunuz bitene kadar işlemi yapın ve son kepçe karides suyunu da ekledikten sonra risottonuzun altını kapatın.",
         "Tuz, karabiber, 1 yemek kaşığı soğuk ghee, karideslerinizi ve peynirinizi ekleyip karıştırarak kapağını kapatın. 5 dk dinlendirin.",
@@ -4283,7 +4283,7 @@ export const pilavRecipes: Recipe[] = [
         "Kaynamaya başlayınca orta ateşe alıyoruz.",
         "Son 5 dakika ise kısık ateşe alıyoruz ve ocağı kapatıyoruz.",
         "10 dakika demlenmesi için bekletiyoruz. Ve uygun bir tepsiye tencereyi ters çeviriyoruz. Servise hazır.",
-        "Mevsimi olmadığı için havuç kullanmadım normalde havuç da kullanıyorum. Yanına salata ve yoğurt çok yakışır. Afiyet olsun."
+        "Mevsimi olmadığı için havuç kullanmadım normalde havuç da kullanıyorum. Yanına salata ve yoğurt çok yakışır. Afiyet olsun."
       ],
       "en": [
         "First wash and coarsely chop the vegetables, the peppers and the eggplants, and peel and chop the potatoes in the same way.",
@@ -4382,13 +4382,13 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım çay bardağı zeytinyağı",
-        "Yarım demetten biraz az dere otu",
-        "2 su bardağı Osmancık yada baldo pirinç",
+        "yarım çay bardağı zeytinyağı",
+        "yarım demetten biraz az dere otu",
+        "2 su bardağı Osmancık ya da baldo pirinç",
         "2 su bardağı bezelye"
       ],
       "en": [
-        "Half a cup olive oil",
+        "Half a teacup olive oil",
         "A little less than half a bunch of dill",
         "2 cups Osmancik or baldo rice",
         "2 cups peas"
@@ -4437,12 +4437,12 @@ export const pilavRecipes: Recipe[] = [
         "1 adet kuru soğan",
         "3 diş sarımsak",
         "1 su bardağı ekmek içi veya galeta unu",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 çay kaşığı kırmızı toz biber",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı karbonat",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon",
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı kimyon",
         "1 tatlı kaşığı tuz"
       ],
       "en": [
@@ -4551,7 +4551,7 @@ export const pilavRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 dolu kase pirinç (2 dolu su bardağı pirinç)",
-        "Yarım su bardağı şehriye",
+        "yarım su bardağı şehriye",
         "4 yemek kaşığı sıvı yağ",
         "2 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber"
@@ -4618,11 +4618,11 @@ export const pilavRecipes: Recipe[] = [
         "2 su bardağı iri bulgur (200 ml)",
         "2 yemek kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Sıvı yağ",
-        "Karabiber",
-        "Pulbiber",
-        "Tuz",
-        "Kuru reyhan",
+        "sıvı yağ",
+        "karabiber",
+        "pulbiber",
+        "tuz",
+        "kuru reyhan",
         "1.5 litre sıcak su (göreceli)"
       ],
       "en": [
@@ -4688,9 +4688,9 @@ export const pilavRecipes: Recipe[] = [
         "1 adet kuru soğan",
         "1 adet domates rendesi",
         "1 çay kaşığı yenibahar",
-        "Karabiber",
-        "Dereotu",
-        "Tuz"
+        "karabiber",
+        "dereotu",
+        "tuz"
       ],
       "en": [
         "2 cups pilaf rice",
@@ -4754,10 +4754,10 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "2 kepçe zeytinyağı",
         "1 adet soğan",
-        "Kuzu eti veya dana eti",
+        "kuzu eti veya dana eti",
         "3 adet havuç",
-        "Tuz",
-        "Kimyon",
+        "tuz",
+        "kimyon",
         "1,5 su bardağı sıcak su",
         "1 su bardağı pirinç"
       ],
@@ -4817,10 +4817,10 @@ export const pilavRecipes: Recipe[] = [
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı yenibahar",
         "1 tatlı kaşığı kimyon",
-        "Tuz",
-        "Yarım çay bardağı kadar zeytinyağı",
+        "tuz",
+        "yarım çay bardağı kadar zeytinyağı",
         "2 kutu ton balığı",
-        "Limon"
+        "limon"
       ],
       "en": [
         "3 cups baldo rice",
@@ -4829,7 +4829,7 @@ export const pilavRecipes: Recipe[] = [
         "1 teaspoon allspice",
         "1 teaspoon cumin",
         "Salt",
-        "Half a cup olive oil",
+        "Half a teacup olive oil",
         "2 cans of canned tuna",
         "Lemon"
       ]
@@ -4866,23 +4866,23 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "300 gram kuşbaşı dana eti",
         "1.5 su bardağı pilavlık bulgur",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yemek kaşığı tereyağ",
         "1 adet kapya biber",
         "2 adet yeşil biber",
         "1 adet büyük kuru soğan",
         "1 su bardağı domates rendesi",
         "1 yemek kaşığı salça",
-        "Yarım çay kaşığı kaşığı karabiber",
-        "Yarım çay kaşığı kırmızı biber",
-        "Yarım çay kaşığı pulbiber",
-        "Üzerini örtecek kadar sıcak et suyu (haşlanan etin suyu)",
-        "Tuz"
+        "yarım çay kaşığı kaşığı karabiber",
+        "yarım çay kaşığı kırmızı biber",
+        "yarım çay kaşığı pulbiber",
+        "üzerini örtecek kadar sıcak et suyu (haşlanan etin suyu)",
+        "tuz"
       ],
       "en": [
         "300 g cubed beef",
         "1.5 cups pilaf-grade bulgur",
-        "Half a cup vegetable oil",
+        "Half a teacup vegetable oil",
         "1 tablespoon butter",
         "1 bell pepper",
         "2 green peppers",
@@ -4934,7 +4934,7 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Çeyrek çay bardağı sıvı yağ",
+        "çeyrek çay bardağı sıvı yağ",
         "1 orta boy soğan",
         "1 su bardağı pirinç",
         "2 çay kaşığı tuz",
@@ -4945,7 +4945,7 @@ export const pilavRecipes: Recipe[] = [
         "2 küçük paket konserve ton balığı"
       ],
       "en": [
-        "A quarter cup vegetable oil",
+        "A quarter teacup vegetable oil",
         "1 medium onion",
         "1 cup rice",
         "2 teaspoons salt",
@@ -4994,14 +4994,14 @@ export const pilavRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "1 su bardağı pilavlik bulgur",
+        "1 su bardağı pilavlık bulgur",
         "1 adet küçük boy kuru soğan",
         "1 diş sarımsak",
         "1 adet yeşil köy biberi",
         "1 adet kapya biber",
         "1 tatlı kaşığı tatlı biber salçası",
         "1 cay kaşığı tuz toz tatlı biber",
-        "Yarım çay kaşığı karabiber kimyon",
+        "yarım çay kaşığı karabiber kimyon",
         "4 yemek kaşığı zeytinyağı",
         "2 su bardağı su"
       ],
@@ -5098,16 +5098,16 @@ export const pilavRecipes: Recipe[] = [
       "tr": [
         "300 gr dana kuşbaşı",
         "2-3 yemek kaşığı sıvı yağ",
-        "Yarım yemek kaşığı tereyağ",
+        "yarım yemek kaşığı tereyağ",
         "1 adet kapya biber",
         "2 adet yeşil sivri biber",
         "1 adet soğan",
         "2 diş sarımsak",
-        "Yarım yemek kaşığı domates salçası",
+        "yarım yemek kaşığı domates salçası",
         "1 tatlı kaşığı tuz",
-        "Yarım tatlı kaşığı kırmızı toz biber",
-        "Yarım tatlı kaşığı karabiber",
-        "1,5 su bardağı arpa şehriye",
+        "yarım tatlı kaşığı kırmızı toz biber",
+        "yarım tatlı kaşığı karabiber",
+        "1,5 su bardağı arpa şehriye",
         "2,5 su bardağı sıcak su veya et suyu"
       ],
       "en": [
@@ -5133,7 +5133,7 @@ export const pilavRecipes: Recipe[] = [
         "Yaklaşık 45-50 dakika sürüyor.",
         "Bu esnada soğanı ve biberleri küp küpler halinde doğrayalım.",
         "Etler suyunu çektiğinde üzerine tereyağ, doğranmış soğan, sarımsak ve biberleri ekleyip kavuralım.",
-        "Sonra domates salçası,tuz ve baharatlarını ekleyip salçanın kokusu çıkana kadar kavuralım.",
+        "Sonra domates salçası,tuz ve baharatlarını ekleyip salçanın kokusu çıkana kadar kavuralım.",
         "Şehriyeleri ekleyip karıştıralım.",
         "Üzerine suyunu ilave edip kapağını kapatıp orta ateşte yaklaşık 20 dakika şehriyeler yumuşayana kadar pişirelim.",
         "10 dakika dinlendirip üzerine ince kıyılmış maydanoz serpip servis edin. Deneyeceklere şimdiden afiyet olsun ♥️🤗."
@@ -5169,15 +5169,15 @@ export const pilavRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
-        "​2 adet büyük kuru soğan",
-        "​300 gram ton balığı (isteğe bağlı 200 gram da kullanılabilir)",
-        "Ayçiçek Yağı",
-        "Zeytinyağı",
-        "​2 çay kaşığı karabiber",
-        "​1 çay kaşığı kimyon",
-        "​1 çay kaşığı yenibahar",
-        "​3 su bardağı sıcak su",
-        "​Servis için limon"
+        "2 adet büyük kuru soğan",
+        "300 gram ton balığı (isteğe bağlı 200 gram da kullanılabilir)",
+        "ayçiçek yağı",
+        "zeytinyağı",
+        "2 çay kaşığı karabiber",
+        "1 çay kaşığı kimyon",
+        "1 çay kaşığı yenibahar",
+        "3 su bardağı sıcak su",
+        "servis için limon"
       ],
       "en": [
         "2 cups rice",
@@ -5194,15 +5194,15 @@ export const pilavRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Pirinci sıcak suda 20 dakika bekletin, ardından süzüp kenara alın. ​",
+        "Pirinci sıcak suda 20 dakika bekletin, ardından süzüp kenara alın. ",
         "Kuru soğanları yemeklik doğrayın.",
         "Tencereye ayçiçek yağı ve zeytinyağı ekleyip soğanları pembeleşinceye kadar kavurun.",
         "Kavrulan soğanlara pul biber, karabiber, kimyon ve yenibaharı ilave edip birkaç kez karıştırın.",
-        "Dilerseniz bu aşamada tuz ekleyebilirsiniz ​süzülen pirinçi ekleyin ve 2-3 dakika birlikte kavurun.",
-        "Süzülen pirinçi ekleyin ve 2-3 dakika birlikte kavurun. ​üzerine 3 su bardağı sıcak suyu ekleyin.",
+        "Dilerseniz bu aşamada tuz ekleyebilirsiniz süzülen pirinçi ekleyin ve 2-3 dakika birlikte kavurun.",
+        "Süzülen pirinçi ekleyin ve 2-3 dakika birlikte kavurun. üzerine 3 su bardağı sıcak suyu ekleyin.",
         "Tencerenin kapağını kapatıp pilav suyunu çekene kadar pişirin.",
         "Pilav piştikten sonra, demlenen pilava ton balığını ekleyip nazikçe karıştırın.",
-        "10-15 dakika demlenmeye bırakın. ​limon dilimleri eşliğinde sıcak olarak servis edin."
+        "10-15 dakika demlenmeye bırakın. limon dilimleri eşliğinde sıcak olarak servis edin."
       ],
       "en": [
         "Leave the rice in hot water for 20 minutes, then drain it and set it aside.",
@@ -5239,7 +5239,7 @@ export const pilavRecipes: Recipe[] = [
         "2 diş sarımsak",
         "1 adet limon",
         "1 büyük çay bardağı pirinç (basmati)",
-        "Yarım çay bardağı zeytinyağ",
+        "yarım çay bardağı zeytinyağ",
         "2 küp şeker",
         "1 tatlı kaşığı silme tuz",
         "2,5 su bardağı sıcak su"
@@ -5249,8 +5249,8 @@ export const pilavRecipes: Recipe[] = [
         "1 large onion",
         "2 cloves of garlic",
         "1 lemon",
-        "1 large cup of rice (basmati)",
-        "Half a cup olive oil",
+        "1 large teacup of rice (basmati)",
+        "Half a teacup olive oil",
         "2 cubes of sugar",
         "1 level teaspoon salt",
         "2.5 cups hot water"
@@ -5423,7 +5423,7 @@ export const pilavRecipes: Recipe[] = [
         "4 adet havuç",
         "1 adet soğan",
         "7-8 diş sarımsak",
-        "Yarım çay bardağından az zeytinyağ",
+        "yarım çay bardağından az zeytinyağ",
         "1 yemek kaşığı tereyağ",
         "2 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
@@ -5435,7 +5435,7 @@ export const pilavRecipes: Recipe[] = [
         "4 carrots",
         "1 onion",
         "7-8 cloves of garlic",
-        "Less than half a cup olive oil",
+        "Less than half a teacup olive oil",
         "1 tablespoon butter",
         "2 teaspoons salt",
         "1 teaspoon black pepper",
@@ -5483,15 +5483,15 @@ export const pilavRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağı",
         "3 yemek kaşığı sıvı yağ",
         "1 su bardağı pirinç",
-        "Yarım çay bardağı arpa şehriye",
+        "yarım çay bardağı arpa şehriye",
         "3 su bardağı sıcak su veya tavuk suyu",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 tablespoons butter",
         "3 tablespoons vegetable oil",
         "1 cup rice",
-        "Half a cup orzo",
+        "Half a teacup orzo",
         "3 cups hot water or chicken stock",
         "Salt"
       ]
@@ -5540,10 +5540,10 @@ export const pilavRecipes: Recipe[] = [
         "2 orta boy soğan",
         "3 adet havuç",
         "2 su bardağı basmati pirinç",
-        "Karabiber",
-        "Tuz",
-        "Sarımsak",
-        "Sıvı yağ",
+        "karabiber",
+        "tuz",
+        "sarımsak",
+        "sıvı yağ",
         "6 su bardağı sıcak su"
       ],
       "en": [
@@ -5599,7 +5599,7 @@ export const pilavRecipes: Recipe[] = [
         "8-9 adet küçük boy soğan",
         "3 yemek kaşığı domates salçası (isteğe bağlı olarak 2 yemek kaşığı domates salçası 1 yemek kaşığı biber salçası koyabilirsiniz)",
         "4 su bardağı su",
-        "Tuz",
+        "tuz",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı pulbiber",
         "1 tatlı kaşığı kimyon",
@@ -5681,7 +5681,7 @@ export const pilavRecipes: Recipe[] = [
         "2 bouillon cubes",
         "1 tablespoon salt",
         "3 cups rice",
-        "1 cup vegetable oil"
+        "1 teacup vegetable oil"
       ]
     },
     "steps": {
@@ -5734,9 +5734,9 @@ export const pilavRecipes: Recipe[] = [
         "3 yemek kaşığı sıvı yağ",
         "2 su bardağı baldo pirinç",
         "3 su bardağı sıcak su (varsa tavuk veya et suyu)",
-        "Tuz",
-        "Karabiber",
-        "Bir tutam dereotu"
+        "tuz",
+        "karabiber",
+        "bir tutam dereotu"
       ],
       "en": [
         "300 g chopped button mushrooms",
@@ -5788,9 +5788,9 @@ export const pilavRecipes: Recipe[] = [
         "1 adet büyük kuru soğan",
         "200 gram kadar kuşbaşı dana veya kuzu et",
         "1 su bardağı pirinç",
-        "Tuz",
-        "Yağ",
-        "Karabiber"
+        "tuz",
+        "yağ",
+        "karabiber"
       ],
       "en": [
         "3-4 large carrots",
@@ -5898,7 +5898,7 @@ export const pilavRecipes: Recipe[] = [
         "3 yemek kaşığı şehriye",
         "1 kase pirinç",
         "2 kase sıcak su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "5 tablespoons vegetable oil",
@@ -5942,14 +5942,14 @@ export const pilavRecipes: Recipe[] = [
         "1 su bardağına yakın sıvı yağ",
         "3 su bardağı pirinç",
         "1 baş sarımsak",
-        "Yarım çay kaşığı zerdeçal",
+        "yarım çay kaşığı zerdeçal",
         "4 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
         "1 silme tatlı kaşığı kimyon",
         "2 yemek kaşığı kuş üzümü",
         "1 çay kaşığı pulbiber",
         "1 çay kaşığı toz biber",
-        "Üzerini 1 parmak kadar geçecek kadar su"
+        "üzerini 1 parmak kadar geçecek kadar su"
       ],
       "en": [
         "500 g cubed meat",

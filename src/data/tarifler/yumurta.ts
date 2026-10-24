@@ -13,15 +13,15 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet patates",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "4 adet yumurta",
         "1 silme çay kaşığı tuz",
-        "Çay kaşığı ucu ile karabiber",
-        "Çay kaşığı ucu ile toz biber"
+        "çay kaşığı ucu ile karabiber",
+        "çay kaşığı ucu ile toz biber"
       ],
       "en": [
         "2 potatoes",
-        "Half a cup of vegetable oil",
+        "Half a teacup of vegetable oil",
         "4 eggs",
         "1 level teaspoon salt",
         "A pinch of black pepper",
@@ -68,8 +68,8 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "1 adet bayat ekmek",
         "3 adet yumurta",
-        "Tuz",
-        "Sıvı yağ"
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "1 slice of stale bread",
@@ -117,11 +117,11 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 dilim jumbo tost ekmeği",
-        "Kaşar peyniri",
+        "kaşar peyniri",
         "1 adet yumurta",
         "1 yemek kaşığı tereyağı",
         "3 yemek kaşığı sıvı yağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 slices of jumbo toast bread",
@@ -170,9 +170,9 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "2-3 adet yumurta",
         "1 yemek kaşığı sirke",
-        "Yoğurt",
+        "yoğurt",
         "2 yemek kaşığı tereyağı",
-        "Pul biber"
+        "pul biber"
       ],
       "en": [
         "2-3 eggs",
@@ -224,7 +224,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı",
         "1 su bardağı kaşar peyniri rendesi",
         "1 tutam maydanoz",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "2 eggs",
@@ -270,16 +270,16 @@ export const yumurtaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilogram ıspanak",
+        "yarım kilogram ıspanak",
         "3-4 adet yumurta",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Kırmızı biber",
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "kırmızı biber",
         "2-3 çorba kaşığı sıvı yağ",
         "1.5 yemek kaşığı salça",
         "1 orta boy soğan",
-        "Yarım çorba kaşığı çemen (tercihe bağlı)"
+        "yarım çorba kaşığı çemen (tercihe bağlı)"
       ],
       "en": [
         "Half a kilogram of spinach",
@@ -337,10 +337,10 @@ export const yumurtaRecipes: Recipe[] = [
         "4 adet orta boy soğan",
         "1 yemek kaşığı domates salçası",
         "2 adet domates rendesi (ya da 4 yemek kaşığı kışlık sos)",
-        "Yeteri kadar tuz",
-        "Yarım su bardağı sıcak su",
+        "yeteri kadar tuz",
+        "yarım su bardağı sıcak su",
         "4 adet yumurta",
-        "Karabiber"
+        "karabiber"
       ],
       "en": [
         "4 tablespoons vegetable oil",
@@ -393,14 +393,14 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "6 adet yumurta",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 avuç dereotu",
-        "Yarım limonun suyu",
+        "yarım limonun suyu",
         "3-4 yemek kaşığı zeytinyağı",
         "1 dolu çay kaşığı kekik",
         "1 dolu çay kaşığı kırmızı pul biber",
-        "Yarım çay kaşığı karabiber",
-        "Tuz"
+        "yarım çay kaşığı karabiber",
+        "tuz"
       ],
       "en": [
         "6 eggs",
@@ -452,11 +452,11 @@ export const yumurtaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yumurta",
-        "Maydanoz",
-        "Pul biber, karabiber",
-        "Tuz",
-        "Zeytinyağı"
+        "yumurta",
+        "maydanoz",
+        "pul biber, karabiber",
+        "tuz",
+        "zeytinyağı"
       ],
       "en": [
         "Eggs",
@@ -507,15 +507,15 @@ export const yumurtaRecipes: Recipe[] = [
         "2 tatlı kaşığı un",
         "2 yemek kaşığı sıvı yağ",
         "1 tatlı kaşığı tuz (peynirin tuz miktarına göre)",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı kırmızı tatlı biber",
-        "Yarım çay kaşığı kekik"
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı kırmızı tatlı biber",
+        "yarım çay kaşığı kekik"
       ],
       "en": [
         "2 eggs",
         "2 slices of white cheese",
         "3 sprigs of parsley",
-        "Half a cup of milk",
+        "Half a teacup of milk",
         "2 teaspoons flour",
         "2 tablespoons vegetable oil",
         "1 teaspoon salt (depending on how salty the cheese is)",
@@ -564,9 +564,9 @@ export const yumurtaRecipes: Recipe[] = [
         "4-5 adet acı tatlı karışık sivri biber",
         "2 adet yumurta",
         "4 -5 yemek kaşığı sıvı yağ",
-        "Yarım tatlı kaşığı kekik",
+        "yarım tatlı kaşığı kekik",
         "1 yarım tatlı kaşığı pul biber",
-        "Yarım tatlı kaşığı karabiber",
+        "yarım tatlı kaşığı karabiber",
         "2 çay kaşığı tuz"
       ],
       "en": [
@@ -679,19 +679,19 @@ export const yumurtaRecipes: Recipe[] = [
         "2 adet yumurta",
         "3 yemek kaşığı tepeleme un",
         "1 tatlı kaşığı silme karabiber",
-        "Pul biber",
-        "Toz biber",
+        "pul biber",
+        "toz biber",
         "1 çay kaşığı tepeleme tuz"
       ],
       "en": [
         "1 large courgette",
         "1 small potato",
         "2 eggs",
-        "3 tablespoons of leveled flour",
+        "3 tablespoons of heaped flour",
         "1 heaped teaspoon black pepper",
         "Red pepper flakes",
         "Red pepper powder",
-        "1 teaspoon of leveled salt"
+        "1 teaspoon of heaped salt"
       ]
     },
     "steps": {
@@ -735,10 +735,10 @@ export const yumurtaRecipes: Recipe[] = [
         "100 gram kaşar peyniri",
         "3 adet orta boy yumurta",
         "2 yemek kaşığı sıvı yağ",
-        "Yarım çay kaşığı pul biber",
-        "Yarım çay kaşığı kırmızı toz biber",
-        "Bir fiske karabiber",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı pul biber",
+        "yarım çay kaşığı kırmızı toz biber",
+        "bir fiske karabiber",
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "2 large tomatoes",
@@ -792,11 +792,11 @@ export const yumurtaRecipes: Recipe[] = [
         "1 çay bardağı su",
         "1 yemek kaşığı tereyağ",
         "1 çay kaşığı kırmızı toz biber",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "3 eggs",
-        "Half a cup of water",
+        "Half a teacup of water",
         "1 tablespoon butter",
         "1 teaspoon red pepper powder",
         "Salt"
@@ -877,15 +877,15 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "Yarım çay bardağı süt",
+        "yarım çay bardağı süt",
         "3 yemek kaşığı yulaf ezmesi",
-        "Yarım çay kaşığı tuz",
-        "Yarım çay kaşığı toz biber"
+        "yarım çay kaşığı tuz",
+        "yarım çay kaşığı toz biber"
       ],
       "en": [
         "1 egg",
-        "Half a cup of milk",
-        "3 tablespoons oat flour",
+        "Half a teacup of milk",
+        "3 tablespoons rolled oats",
         "Half a teaspoon salt",
         "Half a teaspoon red pepper powder"
       ]
@@ -933,12 +933,12 @@ export const yumurtaRecipes: Recipe[] = [
         "3 adet yumurta",
         "3 adet domates",
         "2 adet biber",
-        "Yarı kapya",
+        "yarı kapya",
         "1 adet küçük boy soğan",
-        "Yağ (göz kararı)",
-        "Karabiber (göz kararı)",
-        "Pulbiber (göz kararı)",
-        "Tuz (göz kararı)"
+        "yağ (göz kararı)",
+        "karabiber (göz kararı)",
+        "pulbiber (göz kararı)",
+        "tuz (göz kararı)"
       ],
       "en": [
         "3 eggs",
@@ -955,7 +955,7 @@ export const yumurtaRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "İlk önce domatesi rendeleyin ve bir kaseye koyunuz .",
-        "Sonra biberleri  oldukça küçük doğrayınız ,daha sonra soğanı da küçük nizami bir şekilde doğrayınız ,yumurtayı bir kaseye alıp biraz beyazından arındırın ve güzelce çırpın ve herşey hazır gelelim pişirmeye.",
+        "Sonra biberleri oldukça küçük doğrayınız ,daha sonra soğanı da küçük nizami bir şekilde doğrayınız ,yumurtayı bir kaseye alıp biraz beyazından arındırın ve güzelce çırpın ve herşey hazır gelelim pişirmeye.",
         "Yağı kızdırın ve soğanları atın hafif renk alınca biberleri atın, biberler yumuşayınca domatesi atın ve üzerine kimyon,tuz ve pul biberi atın.",
         "Daha sonra 4-5 dk bekleyin ve yumurtayı ekleyip hemen hızlıca karıştırın ama çok değil yumurta içinde karşılaşmadan alınız yani 20 sn yeterli olacaktır. İşte bu kadar afiyet olsun."
       ],
@@ -986,8 +986,8 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "1 adet orta boy patates",
         "1 adet yumurta",
-        "Yarım çay kaşığı tuz",
-        "Yarım çay kaşığı pulbiber"
+        "yarım çay kaşığı tuz",
+        "yarım çay kaşığı pulbiber"
       ],
       "en": [
         "1 medium potato",
@@ -1040,13 +1040,13 @@ export const yumurtaRecipes: Recipe[] = [
         "4 yemek kaşığı yulaf ezmesi",
         "1 çay bardağı süt",
         "1 dilim peynir",
-        "Yarım çay kaşığı tuz",
-        "Yarım çay kaşığı toz biber"
+        "yarım çay kaşığı tuz",
+        "yarım çay kaşığı toz biber"
       ],
       "en": [
         "1 egg",
-        "4 tablespoons oat flour",
-        "Half a cup of milk",
+        "4 tablespoons rolled oats",
+        "Half a teacup of milk",
         "1 slice of cheese",
         "Half a teaspoon salt",
         "Half a teaspoon red pepper powder"
@@ -1090,7 +1090,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 çay kaşığı pulbiber"
       ],
       "en": [
-        "4 tablespoons oat flour (or ground oats)",
+        "4 tablespoons rolled oats (or ground oats)",
         "1 egg",
         "1 heaped tablespoon yogurt",
         "2 slices of crumbled cheese",
@@ -1100,7 +1100,7 @@ export const yumurtaRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Uygun bir karıştırma kabına yulaf ezmesi, yumurta, yoğurt ekleyip karıştırıyoruz.  Üzerine ufalanmış peynir ve baharatları ekleyip karıştırıyoruz.",
+        "Uygun bir karıştırma kabına yulaf ezmesi, yumurta, yoğurt ekleyip karıştırıyoruz. Üzerine ufalanmış peynir ve baharatları ekleyip karıştırıyoruz.",
         "Tavaya zeytinyağı alıyoruz ve ısıtıyoruz. Sonra üzerine omlet harcımızı ekleyip yayıyoruz. 2 dakika sonra ters çevirip pişiriyoruz. Arkalı önlü 2 dakika aralıklarla pişiriyoruz.",
         "Pişirdikten sonra ocaktan alıyoruz ve tabağa alıyoruz. Servise hazır. Tarifi deneyip fotoğraf ve yorum bırakmayı unutmayın. Rabbim sofralarınıza bereket versin, şimdiden afiyet ve kolaylıklar dilerim🤲💐"
       ],
@@ -1186,7 +1186,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kırmızı toz biber",
         "1 çay kaşığı çörekotu",
-        "Margarin"
+        "margarin"
       ],
       "en": [
         "6 eggs",
@@ -1234,12 +1234,12 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "1 yemek kaşığı yoğurt",
         "1 adet yumurta",
-        "Tuz",
-        "İsteğe bağlı kaşar peynir",
+        "tuz",
+        "isteğe bağlı kaşar peynir",
         "1 kaşık un",
-        "Kimyon",
-        "Kırmızı toz biber",
-        "Sıvı yağ"
+        "kimyon",
+        "kırmızı toz biber",
+        "sıvı yağ"
       ],
       "en": [
         "1 tablespoon yogurt",
@@ -1285,7 +1285,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 orta boy soğan",
         "3 yemek kaşığı kadar beyaz peynir",
         "2 yemek kaşığı kadar eriyen herhangi bir peynir (kaşar-çeçil gibi)",
-        "Baharatlar (tuz-karabiber-nane-kekik-toz biber- kimyon- pulbiber)",
+        "baharatlar (tuz-karabiber-nane-kekik-toz biber- kimyon- pulbiber)",
         "2 adet yumurta"
       ],
       "en": [
@@ -1331,7 +1331,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 adet yeşil biber",
         "1 adet domates",
         "2 adet yumurta",
-        "Yarım yemek kaşığı domates salçası",
+        "yarım yemek kaşığı domates salçası",
         "1 çay kaşığı tuz",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı toz biber"
@@ -1381,9 +1381,9 @@ export const yumurtaRecipes: Recipe[] = [
         "4 adet mantar",
         "2 yemek kaşığı lor peyniri",
         "1 tatlı kaşığı zeytinyağı",
-        "Tuz",
-        "Karabiber",
-        "Pul biber"
+        "tuz",
+        "karabiber",
+        "pul biber"
       ],
       "en": [
         "3 eggs",
@@ -1434,7 +1434,7 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "3 yemek kaşığı haşlanmış maş fasulyesi",
         "2 adet çırpmışmış yumurta",
-        "Yarım minik doğranmış kuru soğan",
+        "yarım minik doğranmış kuru soğan",
         "1 adet yeşil biber halka doğranmış",
         "1 diş ezilmiş sarımsak",
         "2 yemek kaşığı zeytinyağı",
@@ -1442,7 +1442,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 tutam kırmızı pul biber"
       ],
       "en": [
-        "3 tablespoons of boiled mash beans",
+        "3 tablespoons of boiled mung beans",
         "2 beaten eggs",
         "Half a small finely chopped onion",
         "1 green pepper sliced into rings",
@@ -1525,12 +1525,12 @@ export const yumurtaRecipes: Recipe[] = [
         "1 tatlı kaşığı biber salçası",
         "1 yemek kaşığı margarin",
         "1 küçük dilim kaşar",
-        "Vanilya- rom aroması (yoksa pudra şekeri bir çay kaşığı)"
+        "vanilya- rom aroması (yoksa pudra şekeri bir çay kaşığı)"
       ],
       "en": [
         "1 egg",
         "1 slice of toast bread",
-        "1 tablespoon red pepper paste",
+        "1 teaspoon red pepper paste",
         "1 tablespoon margarine",
         "1 small slice of kaşar",
         "Vanilla-rum flavoring (or 1 teaspoon powdered sugar)"
@@ -1580,9 +1580,9 @@ export const yumurtaRecipes: Recipe[] = [
         "½ kırmızı sivri biber",
         "½ yeşil sivri biber",
         "¼ kırmızı soğan",
-        "Biraz maydanoz",
-        "Tuz ve karabiber",
-        "İsteğe bağlı rendelenmiş light mozzarella peyniri"
+        "biraz maydanoz",
+        "tuz ve karabiber",
+        "isteğe bağlı rendelenmiş light mozzarella peyniri"
       ],
       "en": [
         "3-4 eggs",
@@ -1627,7 +1627,7 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 dilim kalıp kavurma",
-        "Yarım domates",
+        "yarım domates",
         "1 çay kaşığı domates salçası",
         "1 adet yumurta",
         "1 tutam maydanoz",
@@ -1785,9 +1785,9 @@ export const yumurtaRecipes: Recipe[] = [
         "1 tatlı kaşığı salça",
         "1 tatlı kaşığı susam",
         "1 tatlı kaşığı çörek otu",
-        "Yarım çay bardağı süt",
+        "yarım çay bardağı süt",
         "2 adet yumurta",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 tablespoon butter",
@@ -1795,7 +1795,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 teaspoon tomato paste",
         "1 teaspoon sesame seeds",
         "1 teaspoon caraway",
-        "Half a cup of milk",
+        "Half a teacup of milk",
         "2 eggs",
         "Salt"
       ]
@@ -1845,7 +1845,7 @@ export const yumurtaRecipes: Recipe[] = [
         "10 slices of sucuk (spicy sausage)",
         "3 tablespoons vegetable oil",
         "1 teaspoon salt",
-        "1 cup of grated kaşar cheese"
+        "1 teacup of grated kaşar cheese"
       ]
     },
     "steps": {
@@ -1887,8 +1887,8 @@ export const yumurtaRecipes: Recipe[] = [
         "1 adet yeşil biber",
         "3 yemek kaşığı domates sosu",
         "1 adet yumurta",
-        "Tuz",
-        "Pul biber"
+        "tuz",
+        "pul biber"
       ],
       "en": [
         "1 small onion",
@@ -1933,10 +1933,10 @@ export const yumurtaRecipes: Recipe[] = [
         "1 konserve kutusu ton balığı",
         "2 adet yumurta",
         "1 adet domates",
-        "Tuz",
-        "Kara biber",
-        "Kırmızı biber",
-        "İsteğe göre kaşar peyniri"
+        "tuz",
+        "kara biber",
+        "kırmızı biber",
+        "isteğe göre kaşar peyniri"
       ],
       "en": [
         "1 can of tuna",
@@ -2023,12 +2023,12 @@ export const yumurtaRecipes: Recipe[] = [
         "5 adet yuvarlak minik ekmek",
         "2 tane yeşil çarliston biber",
         "6 adet yumurta",
-        "1 barmak kalınlığında beyaz peynir",
+        "1 parmak kalınlığında beyaz peynir",
         "2 yemek kaşığı zeytinyağı",
         "2 dal taze nane",
-        "Roka",
+        "roka",
         "1 tutam dereotu",
-        "Maydanoz"
+        "maydanoz"
       ],
       "en": [
         "5 small round rolls",
@@ -2082,8 +2082,8 @@ export const yumurtaRecipes: Recipe[] = [
         "1 adet yumurta",
         "2 adet minik yuvarlak ekmek",
         "1 adet közlenmiş yeşil çarliston biber",
-        "Yarım domates",
-        "Biraz maydanoz"
+        "yarım domates",
+        "biraz maydanoz"
       ],
       "en": [
         "1 tablespoon olive oil",
@@ -2182,10 +2182,10 @@ export const yumurtaRecipes: Recipe[] = [
         "3 adet köy biberi / 2 çarliston biber / 3 tatlı sivri biber",
         "3 dilim hindi füme (veya dana ya da piliç füme, size kalmış) / 2 dilim salam / 3-4 kokteyl sosis",
         "3 yumurta",
-        "Tuz",
-        "Karabiber",
-        "Sıvıyağ",
-        "İsteğe bağlı kaşar peyniri"
+        "tuz",
+        "karabiber",
+        "sıvıyağ",
+        "isteğe bağlı kaşar peyniri"
       ],
       "en": [
         "1-2 capsicum peppers",
@@ -2242,8 +2242,8 @@ export const yumurtaRecipes: Recipe[] = [
         "1 yemek kaşığı susam",
         "1 çay kaşığı tereyağı (glutensiz)",
         "yarım çay kaşığı karabiber",
-        "Pul biber",
-        "Kekik",
+        "pul biber",
+        "kekik",
         "1 çay kaşığı tuz"
       ],
       "en": [
@@ -2293,11 +2293,11 @@ export const yumurtaRecipes: Recipe[] = [
         "7-8 adet haşlanmış patates",
         "5 adet haşlanmış yumurta",
         "7 dal yeşil soğan",
-        "Biraz maydanoz",
-        "Biraz dereotu",
-        "Göz kararı pul biber, karabiber, toz sumak, tuz",
+        "biraz maydanoz",
+        "biraz dereotu",
+        "göz kararı pul biber, karabiber, toz sumak, tuz",
         "1 adet limonun suyu",
-        "Zeytinyağı"
+        "zeytinyağı"
       ],
       "en": [
         "7-8 boiled potatoes",
@@ -2395,8 +2395,8 @@ export const yumurtaRecipes: Recipe[] = [
         "1 kilo mantar",
         "4 adet yumurta",
         "1 çay kaşığı pul biber",
-        "Tuz",
-        "Sıvı yağ"
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "1 kilo mushrooms",
@@ -2443,8 +2443,8 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet haşlanmış yumurta",
-        "Beyaz peynir",
-        "Toz kırmızı biber ️"
+        "beyaz peynir",
+        "toz kırmızı biber ️"
       ],
       "en": [
         "2 boiled eggs",
@@ -2567,7 +2567,7 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "200 gram tavuk göğsü",
-        "Yarım soğan",
+        "yarım soğan",
         "1 tane domates",
         "1 dolu dolu tatlı kaşığı salça",
         "2 adet yumurta",
@@ -2577,7 +2577,7 @@ export const yumurtaRecipes: Recipe[] = [
         "200 g chicken breast",
         "Half an onion",
         "1 tomato",
-        "1 heaped tablespoon tomato paste",
+        "1 heaped teaspoon tomato paste",
         "2 eggs",
         "1 small potato (not essential)"
       ]
@@ -2670,11 +2670,11 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "2 adet yumurta",
         "4.5 adet mantar",
-        "Yarım kırmızı biber",
+        "yarım kırmızı biber",
         "2 adet yeşil biber",
-        "Tuz",
-        "Tereyağı",
-        "Rendelenmiş kaşar (isteğe bağlı)"
+        "tuz",
+        "tereyağı",
+        "rendelenmiş kaşar (isteğe bağlı)"
       ],
       "en": [
         "2 eggs",
@@ -2725,10 +2725,10 @@ export const yumurtaRecipes: Recipe[] = [
         "50 gram kaşar peyniri",
         "3 dal maydanoz",
         "1 tatlı kaşığı tereyağı",
-        "Sucuk",
-        "Tuz",
-        "Kara biber",
-        "Pul biber"
+        "sucuk",
+        "tuz",
+        "kara biber",
+        "pul biber"
       ],
       "en": [
         "3 vine tomatoes",
@@ -2780,7 +2780,7 @@ export const yumurtaRecipes: Recipe[] = [
         "200 ml süt",
         "1 paket kabartma tozu",
         "3-4 gram zeytinyağı",
-        "Dilerseniz muz, elma gibi meyveler"
+        "dilerseniz muz, elma gibi meyveler"
       ],
       "en": [
         "100 g whole wheat flour",
@@ -2830,7 +2830,7 @@ export const yumurtaRecipes: Recipe[] = [
       ],
       "en": [
         "1 egg",
-        "1 tablespoon powdered sugar",
+        "1 tablespoon granulated sugar",
         "1 packet vanilla sugar",
         "1 Turkish coffee cup of olive oil",
         "3 small round rolls (cut each one in half through the middle)"
@@ -2925,7 +2925,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": [
         "1 egg",
         "1 sprig fresh onion",
-        "1 tablespoon of rind cheese (it should be crumbled)",
+        "1 tablespoon of string cheese (it should be crumbled)",
         "1 teaspoon salt",
         "1 tablespoon olive oil"
       ]
@@ -3012,11 +3012,11 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "4 adet yumurta",
         "2 adet orta boy soğan",
-        "Zeytinyağ",
-        "Pul biber",
-        "Karabiber",
-        "Nane",
-        "Tuz"
+        "zeytinyağ",
+        "pul biber",
+        "karabiber",
+        "nane",
+        "tuz"
       ],
       "en": [
         "4 eggs",
@@ -3152,8 +3152,8 @@ export const yumurtaRecipes: Recipe[] = [
         "3 adet yumurta",
         "8-10 adet pastırma",
         "1 yemek kaşığı dolusu tereyağı",
-        "Tuz",
-        "Ezine peynir (arzuya göre parmesan, tulum, eski kaşar da eklenebilir çemen tozu kullanılabilir)"
+        "tuz",
+        "ezine peynir (arzuya göre parmesan, tulum, eski kaşar da eklenebilir çemen tozu kullanılabilir)"
       ],
       "en": [
         "1 potato",
@@ -3200,7 +3200,7 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta",
         "1 çay kaşığı mısır unu",
-        "Göz kararı ufalanmış beyaz peynir",
+        "göz kararı ufalanmış beyaz peynir",
         "1 tatlı kaşığı zeytinyağı"
       ],
       "en": [
@@ -3243,10 +3243,10 @@ export const yumurtaRecipes: Recipe[] = [
         "1 adet üçgen şeklinde rendelenmiş kaşar peyniri",
         "1 çay tabağı kadar ufalanmış tulum peyniri",
         "1 kalıp kavurma",
-        "Çeyrek sucuk",
+        "çeyrek sucuk",
         "1 adet domates",
         "1 adet biber",
-        "Çok az zeytinyağı"
+        "çok az zeytinyağı"
       ],
       "en": [
         "2 bazlama",
@@ -3294,12 +3294,12 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "2 adet yumurta",
         "5 parça bazlama ekmek",
-        "Yarım çay kaşığı kekik",
-        "Yarım çay kaşığı pul biber",
-        "Yarım çay kaşığı tuz",
-        "Yarım paket kabartma tozu",
+        "yarım çay kaşığı kekik",
+        "yarım çay kaşığı pul biber",
+        "yarım çay kaşığı tuz",
+        "yarım paket kabartma tozu",
         "1 çay bardağı süt",
-        "Yarım yemek kaşığı un"
+        "yarım yemek kaşığı un"
       ],
       "en": [
         "2 eggs",
@@ -3308,7 +3308,7 @@ export const yumurtaRecipes: Recipe[] = [
         "Half a teaspoon red pepper flakes",
         "Half a teaspoon salt",
         "Half a packet baking powder",
-        "1 cup milk",
+        "1 teacup milk",
         "Half a tablespoon flour"
       ]
     },
@@ -3346,7 +3346,7 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "1 adet baget ekmeği",
         "1 tutam dereotu",
-        "Yarım salatalık",
+        "yarım salatalık",
         "1 yaprak marul",
         "1 adet üçgen kaşar peyniri",
         "6 adet dilimlenmiş sucuk",
@@ -3396,15 +3396,15 @@ export const yumurtaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Kərə yağı(zövqə uyğun az miqdarda zeytun yağı)",
+        "kərə yağı(zövqə uyğun az miqdarda zeytun yağı)",
         "1 baş soğan",
-        "300-350 qr göbələk‍",
+        "300-350 g mantar",
         "1 balaca sarı kök",
         "1 diş sarımsaq",
         "2 yumurta",
-        "Şüyüd",
-        "Duz",
-        "İstiot"
+        "şüyüd",
+        "duz",
+        "istiot"
       ],
       "en": [
         "Clarified butter (a small amount of olive oil, to taste)",
@@ -3423,7 +3423,7 @@ export const yumurtaRecipes: Recipe[] = [
         "Göbələkləri suda gözlətmədən yuyub üzərlərini soy. Hər birini 4 yerə böl.",
         "Soğanı yarımhalqa şəklində doğra. Bu şəkildə doğramaq yeməyə az miqdarda şirinlik qatacaq.",
         "Tavaya kərə yağı və az miqdarda istəyə uyğun zeytun yağı tök. Üzərinə doğranmış soğanları əlavə et.",
-        "Soğanlar öldükdən sonra rəngləri sarılaşana yaxın göbələkləri əlavə et. Tavanın üzərinə qapaq qoyma ki suyu çəkilə bilsin. Ocağı orta xodla aşağı xod arasında qoy.",
+        "Soğanlar öldükdən sonra rəngləri sarılaşana yaxın mantarləri əlavə et. Tavanın üzərinə qapaq qoyma ki suyu çəkilə bilsin. Ocağı orta xodla aşağı xod arasında qoy.",
         "Az miqrarda göbələyin suyu qaldıqdan sonra 1 diş sarımsağı və duz istiotunu əlavə et.",
         "Kasada 2 yumurtanı çırp və göbələyin üzərinə hər tərəfinə gələcək şəkildə tök.",
         "Ən sonda isə şüyüdü xırda xırda doğrayıb üzərinə əlavə et. Nuş olsun❤️."
@@ -3457,18 +3457,18 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 gram taze fasulye",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "3 su bardağı su",
         "1 küçük boy kırmızı soğan",
         "1 küçük boy beyaz soğan",
-        "Karabiber",
-        "Tuz",
-        "Pulbiber",
+        "karabiber",
+        "tuz",
+        "pulbiber",
         "4 adet yumurta"
       ],
       "en": [
         "500 g fresh green beans",
-        "Half a cup of olive oil",
+        "Half a teacup of olive oil",
         "3 cups of water",
         "1 small red onion",
         "1 small white onion",
@@ -3558,14 +3558,14 @@ export const yumurtaRecipes: Recipe[] = [
         "1 tatlı kaşığı tereyağı",
         "2 adet yumurta",
         "1 dilim kaşar peyniri",
-        "Çay kaşığının ucuyla kekik",
-        "Çay kaşığının ucuyla pul biber",
-        "Çay kaşığının ucuyla karabiber",
-        "Çay kaşığının ucuyla tuz"
+        "çay kaşığının ucuyla kekik",
+        "çay kaşığının ucuyla pul biber",
+        "çay kaşığının ucuyla karabiber",
+        "çay kaşığının ucuyla tuz"
       ],
       "en": [
         "2 tomatoes",
-        "1 tablespoon butter",
+        "1 teaspoon butter",
         "2 eggs",
         "1 slice of kaşar cheese",
         "Thyme, a pinch",
@@ -3654,7 +3654,7 @@ export const yumurtaRecipes: Recipe[] = [
         "4 yemek kaşığı yoğurt (süzme yoğurt kullandım)",
         "2 diş sarımsak",
         "1 dolu yemek kaşığı tereyağ",
-        "Toz biber"
+        "toz biber"
       ],
       "en": [
         "3 eggs",
@@ -3701,9 +3701,9 @@ export const yumurtaRecipes: Recipe[] = [
         "1 yemek kaşığı sıvı yağ",
         "1 çay kaşığı tuz",
         "1 çay kaşığı pulbiber",
-        "Toz biber",
+        "toz biber",
         "1 çay kaşığı karabiber",
-        "Kekik"
+        "kekik"
       ],
       "en": [
         "4 tablespoons of menemen sauce that I prepared and stored for the winter",
@@ -3756,12 +3756,12 @@ export const yumurtaRecipes: Recipe[] = [
         "1 adet domates (küçük)",
         "1 adet yeşil soğan",
         "2 damla limon suyu",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 avocado",
         "1 egg",
-        "1 tablespoon butter",
+        "1 teaspoon butter",
         "1 tomato (small)",
         "1 green onion",
         "2 drops of lemon juice",
@@ -3865,7 +3865,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 bunch of leafy greens",
         "3 eggs",
         "1 tablespoon olive oil",
-        "1 tablespoon tomato paste",
+        "1 teaspoon tomato paste",
         "1 teaspoon salt",
         "1 teaspoon red pepper flakes",
         "1 teaspoon red pepper powder",
@@ -3905,14 +3905,14 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "50 gram 10 yemek kaşığı yada yarım çay bardağı süt (ölçüsü ile istediğiniz kadar arttırabilirsiniz)",
+        "50 gram 10 yemek kaşığı ya da yarım çay bardağı süt (ölçüsü ile istediğiniz kadar arttırabilirsiniz)",
         "1 fiske tuz",
-        "İsteğe bağlı karabiber, pul biber",
-        "Tereyağı"
+        "isteğe bağlı karabiber, pul biber",
+        "tereyağı"
       ],
       "en": [
         "1 egg",
-        "50 g, that is 10 tablespoons or half a cup of milk (you can increase it as much as you like)",
+        "50 g, that is 10 tablespoons or half a teacup of milk (you can increase it as much as you like)",
         "1 pinch of salt",
         "Black pepper and red pepper flakes, optional",
         "Butter"
@@ -3955,10 +3955,10 @@ export const yumurtaRecipes: Recipe[] = [
         "1 tutam maydanoz (ince kıyılmış)",
         "1 diş sarımsak (isteğe bağlı, ezilmiş)",
         "1 yemek kaşığı ceviz içi (ince doğranmış)",
-        "Yarım limon suyu",
-        "Tuz",
-        "Pul biber",
-        "Karabiber",
+        "yarım limonun suyu",
+        "tuz",
+        "pul biber",
+        "karabiber",
         "1 çay kaşığı zeytinyağı",
         "2 adet haşlanmış yumurta (dilimlenmiş)"
       ],
@@ -4016,9 +4016,9 @@ export const yumurtaRecipes: Recipe[] = [
         "3 adet yumurta",
         "4 kaşık sıvı yağ",
         "1 kaşık tereyağı",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber"
+        "tuz",
+        "karabiber",
+        "pulbiber"
       ],
       "en": [
         "1 potato",
@@ -4065,11 +4065,11 @@ export const yumurtaRecipes: Recipe[] = [
         "1 adet yumurta",
         "2 yemek kaşığı iç kabak çekirdeği",
         "1 yemek kaşığı tereyağ",
-        "İsteğe bağlı köz biber"
+        "isteğe bağlı köz biber"
       ],
       "en": [
         "1 egg",
-        "2 tablespoons of zucchini seeds",
+        "2 tablespoons of pumpkin seeds",
         "1 tablespoon butter",
         "Roasted pepper, optional"
       ]
@@ -4107,8 +4107,8 @@ export const yumurtaRecipes: Recipe[] = [
         "2 adet yumurta",
         "1 su bardağı su",
         "3-4 yemek kaşığı yoğurt",
-        "Yarım yemek kaşığı tereyağı",
-        "Yarım çay kaşığı pul biber"
+        "yarım yemek kaşığı tereyağı",
+        "yarım çay kaşığı pul biber"
       ],
       "en": [
         "2 eggs",
@@ -4153,11 +4153,11 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet yumurta",
-        "Yarım bağ ıspanak",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Yarım çay bardağı kaşar rendesi",
+        "yarım bağ ıspanak",
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "yarım çay bardağı kaşar rendesi",
         "1 tutam maydanoz"
       ],
       "en": [
@@ -4166,7 +4166,7 @@ export const yumurtaRecipes: Recipe[] = [
         "Salt",
         "Black pepper",
         "Red pepper flakes",
-        "Half a cup of grated kaşar",
+        "Half a teacup of grated kaşar",
         "1 handful of parsley"
       ]
     },
@@ -4209,12 +4209,12 @@ export const yumurtaRecipes: Recipe[] = [
         "1 adet patates (ince doğranmış)",
         "3 yemek kaşığı sıvıyağ",
         "3 adet yumurta",
-        "Kaşar peyniri",
-        "Domates",
-        "Maydanoz",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber"
+        "kaşar peyniri",
+        "domates",
+        "maydanoz",
+        "tuz",
+        "karabiber",
+        "pulbiber"
       ],
       "en": [
         "1 potato (cut into thin slices)",
@@ -4264,15 +4264,15 @@ export const yumurtaRecipes: Recipe[] = [
         "2 yumurta",
         "1 su bardağı su",
         "3 yemek kaşığı yoğurt",
-        "Yarım çay bardağı sıvı yağ",
-        "Pul biber ve tuz"
+        "yarım çay bardağı sıvı yağ",
+        "pul biber ve tuz"
       ],
       "en": [
         "1 kg spinach",
         "2 eggs",
         "1 cup of water",
         "3 tablespoons yogurt",
-        "Half a cup of vegetable oil",
+        "Half a teacup of vegetable oil",
         "Red pepper flakes and salt"
       ]
     },
@@ -4321,8 +4321,8 @@ export const yumurtaRecipes: Recipe[] = [
         "2 adet yumurta",
         "1 tatlı kaşığı pulbiber",
         "1 çay kaşığı karabiber",
-        "Tuz (dilediğiniz kadar)",
-        "Zeytinyağı (dilediğiniz kadar)"
+        "tuz (dilediğiniz kadar)",
+        "zeytinyağı (dilediğiniz kadar)"
       ],
       "en": [
         "300 g spinach",
@@ -4377,16 +4377,16 @@ export const yumurtaRecipes: Recipe[] = [
         "250-300 gram ıspanak",
         "3 yemek kaşığı zeytinyağ",
         "50 ml. su",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı tozbiber",
+        "tuz",
+        "karabiber",
+        "kırmızı tozbiber",
         "4 adet yumurta",
         "2 litre su",
         "2 yemek kaşığı sirke",
         "1,5 – 2 tatlı kaşığı tuz",
         "5 yemek kaşığı yoğurt",
         "1 diş sarımsak",
-        "Tuz",
+        "tuz",
         "1 tatlı kaşığı tereyağ",
         "1 tatlı kaşığı kırmızı tozbiber"
       ],
@@ -4449,7 +4449,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 yemek kaşığı sıvı yağ",
         "1 yemek kaşığı tereyağ",
         "1 yemek kaşığı pul biber",
-        "Yeteri kadar tuz"
+        "yeteri kadar tuz"
       ],
       "en": [
         "2 tomatoes",
@@ -4509,9 +4509,9 @@ export const yumurtaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 baş soğan",
-        "Yarım kg fasulye",
+        "yarım kg fasulye",
         "1 tatlı kaşığı kadar tuz",
-        "Sıvı yağ",
+        "sıvı yağ",
         "2 adet yumurta"
       ],
       "en": [
@@ -4612,9 +4612,9 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "4-5 adet bayat ekmek",
         "2 yumurta",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 yemek kaşığı esmer şeker",
-        "Yarım çay kaşığı kabartma tozu",
+        "yarım çay kaşığı kabartma tozu",
         "1 çay kaşığı vanilya şekeri",
         "1 tutam tuz",
         "1 portakal rendesi"
@@ -4669,12 +4669,12 @@ export const yumurtaRecipes: Recipe[] = [
         "1 avuç çökelek peynir",
         "1 tutam kekik",
         "1 tutam maydanoz",
-        "Yarım tatlı kaşığı tuz"
+        "yarım tatlı kaşığı tuz"
       ],
       "en": [
         "3 eggs",
-        "1 tablespoon butter",
-        "1 tablespoon extra virgin olive oil",
+        "1 teaspoon butter",
+        "1 teaspoon extra virgin olive oil",
         "3 slices of pastrami",
         "1 handful of çökelek cheese",
         "1 handful of thyme",
@@ -4718,11 +4718,11 @@ export const yumurtaRecipes: Recipe[] = [
         "8 adet yumurta",
         "2 adet soğan",
         "2 yemek kaşığı domates salçası",
-        "Tuz",
-        "Karabiber",
-        "Kekik",
-        "Kimyon",
-        "Zeytinyağı"
+        "tuz",
+        "karabiber",
+        "kekik",
+        "kimyon",
+        "zeytinyağı"
       ],
       "en": [
         "1 bunch of spinach (the one I bought was large, it may be 2 depending on the size)",
@@ -4777,9 +4777,9 @@ export const yumurtaRecipes: Recipe[] = [
         "1 yemek kaşığı kadar kıyma",
         "2 adet yumurta",
         "50 gram tulum peyniri",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
+        "tuz",
+        "karabiber",
+        "pul biber",
         "1 parça tereyağı (ya da sıvı yağ)"
       ],
       "en": [
@@ -4828,16 +4828,16 @@ export const yumurtaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kapya biber",
+        "yarım kapya biber",
         "2 adet kıl biber",
         "4 dal kuşkonmaz",
         "1 çay kaşığı biber salçası",
         "2 yumurta",
-        "Kibrit kutusu büyüklüğünde peynir (ben bergama tulum peyniri tercih ettim)",
-        "Kimyon",
-        "Tuz",
-        "Karabiber",
-        "Zeytinyağı"
+        "kibrit kutusu büyüklüğünde peynir (ben bergama tulum peyniri tercih ettim)",
+        "kimyon",
+        "tuz",
+        "karabiber",
+        "zeytinyağı"
       ],
       "en": [
         "Half a capsicum pepper",
@@ -4892,7 +4892,7 @@ export const yumurtaRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı",
         "1 çay kaşığı kekik",
         "1 çay kaşığı pulbiber",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "4 eggs",
@@ -4934,9 +4934,9 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "3-4 tane soğan",
         "2 yumurta",
-        "Bir kaç tutam tuz",
-        "Yağ",
-        "Toz biber"
+        "bir kaç tutam tuz",
+        "yağ",
+        "toz biber"
       ],
       "en": [
         "3-4 onions",
@@ -4980,7 +4980,7 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "3-4 tane patates",
         "1 yemek kaşığı salça",
-        "Bir kaç tutam tuz",
+        "bir kaç tutam tuz",
         "2 yumurta"
       ],
       "en": [
@@ -5020,7 +5020,7 @@ export const yumurtaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım tutam semizotu",
+        "yarım tutam semizotu",
         "1 adet küçük soğan",
         "1 adet küçük kırmızı biber( ben acı tercih ettim)",
         "1 adet küçük domates",
@@ -5072,7 +5072,7 @@ export const yumurtaRecipes: Recipe[] = [
       "tr": [
         "3 adet orta boy patates",
         "1 adet orta boy kuru soğan",
-        "4 yemek kasığı patatesin kızardığı yağ",
+        "4 yemek kaşığı patatesin kızardığı yağ",
         "2 yemek kaşığı tereyağı",
         "1 çay kaşığı tuz"
       ],

@@ -22,7 +22,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 yemek kaşığı biber salçası",
         "1 yemek kaşığı tereyağı",
         "2 litreye yakın sıcak su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 cup red lentils",
@@ -80,7 +80,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "5 adet domates",
         "4 su bardağı su",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 silme tatlı kaşığı tuz"
       ],
       "en": [
@@ -140,7 +140,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 diş sarımsak",
         "1 su bardağı kırmızı mercimek",
         "1 kahve fincanı bulgur (4 yemek kaşığı)",
-        "Yarım kahve fincanı pirinç (2 yemek kaşığı)",
+        "yarım kahve fincanı pirinç (2 yemek kaşığı)",
         "6 su bardağı sıcak su + 2,5 su bardağı sıcak su"
       ],
       "en": [
@@ -209,7 +209,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı un",
         "1 litre sıcak su",
         "1 su bardağı süt",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 tatlı kaşığı tuz"
       ],
       "en": [
@@ -276,7 +276,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz (haşlarken kullanılacak)",
         "1 su bardağı tavuk suyu",
         "3 su bardağı sıcak su",
-        "Yarım çay bardağı tel şehriye",
+        "yarım çay bardağı tel şehriye",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı nane",
         "1 çay kaşığı pulbiber",
@@ -303,7 +303,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "Çorba tenceresine tavuk suyunu, sıcak suyu ve didiklenmiş tavuk etlerini ekleyip kaynatalım.",
         "Kaynadıktan sonra içerisine tel şehriyeleri ilave edip karıştıralım.",
         "Terbiyesi için limon suyu, un ve suyu çırparak çorbaya ilave edelim. Çorbamızı kısık ateşte, ara ara karıştırarak pişmeye bırakalım.",
-        "Şehriyeler pişmeye yakın tuz, nane, isteğe bağlı pul biber ve karabiber serperek 5 dakika kadar kaynattıktan sonra ocaktan alalım.  Deneyecek herkese afiyet olsun…"
+        "Şehriyeler pişmeye yakın tuz, nane, isteğe bağlı pul biber ve karabiber serperek 5 dakika kadar kaynattıktan sonra ocaktan alalım. Deneyecek herkese afiyet olsun…"
       ],
       "en": [
         "Put the chicken meat in a suitable pot and add salt on top.",
@@ -391,11 +391,11 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet kuru soğan",
         "1 yemek kaşığı salça",
         "8 su bardağı et suyu (yoksa bulyon da kullanılabilir)",
-        "Tuz",
-        "Pul biber",
-        "Nane",
-        "Karabiber",
-        "Yarım çay bardağı sıvı yağ"
+        "tuz",
+        "pul biber",
+        "nane",
+        "karabiber",
+        "yarım çay bardağı sıvı yağ"
       ],
       "en": [
         "1 cup green lentils",
@@ -452,7 +452,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "5 adet domates",
         "4 su bardağı su",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 silme tatlı kaşığı tuz"
       ],
       "en": [
@@ -508,8 +508,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "tr": [
         "400 gram kıyma",
         "1 soğan rendesi",
-        "Tuz",
-        "Karabiber",
+        "tuz",
+        "karabiber",
         "1 adet yumurta",
         "3 çorba kaşığı pirinç"
       ],
@@ -609,14 +609,14 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet havuç",
         "1 adet soğan",
         "3 diş sarımsak",
-        "Yarım tavuk göğsü",
+        "yarım tavuk göğsü",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı karabiber",
-        "Yarım çay bardağı sıvı yağ",
-        "Yeteri miktarda tuz",
+        "yarım çay bardağı sıvı yağ",
+        "yeteri miktarda tuz",
         "1 çay bardağı tel şehriye",
-        "Biraz doğranmış maydanoz",
-        "Yeterli miktarda kaynar su"
+        "biraz doğranmış maydanoz",
+        "yeterli miktarda kaynar su"
       ],
       "en": [
         "1 tomato",
@@ -745,8 +745,8 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 diş sarımsak",
         "1 yemek kaşığı domates salçası",
         "1 çay bardağı tel şehriye",
-        "Su",
-        "Tuz"
+        "su",
+        "tuz"
       ],
       "en": [
         "1 tablespoon butter",
@@ -802,12 +802,12 @@ export const nefis_corbaRecipes: Recipe[] = [
         "5 bardak su",
         "2 diş sarımsak",
         "1 yemek kaşığı domates salçası",
-        "Zeytinyağı",
+        "zeytinyağı",
         "1/2 (yarım) yemek kaşığı biber salçası",
         "1 yemek kaşığı un",
         "1 tatlı kaşığı nane",
-        "Karabiber",
-        "Tuz",
+        "karabiber",
+        "tuz",
         "2 yemek kaşığı limon suyu",
         "1 çay bardağı arpa şehriye"
       ],
@@ -867,7 +867,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "3 yemek kaşığı zeytinyağı",
         "1 çay kaşığı tuz",
         "1 çay kaşığı kuru nane",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 çay kaşığı karabiber"
       ],
       "en": [
@@ -922,7 +922,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 tatlı kaşığı karışık biber salçası",
         "1 su bardağı süt",
         "4.5 su bardağı su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "5 tablespoons tarhana",
@@ -989,9 +989,9 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağı",
         "3 yemek kaşığı un",
         "1,5 litre su",
-        "Tuz",
+        "tuz",
         "1 küçük kase konserve mısır",
-        "Karabiber",
+        "karabiber",
         "6-7 dal dereotu"
       ],
       "en": [
@@ -1048,7 +1048,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 tatlı kaşığı salça",
         "1 tatlı kaşığı kırmızı tozbiber",
         "5 su bardağı sıcak su",
-        "Tuz",
+        "tuz",
         "1 adet tavuksuyu tablet",
         "1 tatlı kaşığı nane"
       ],
@@ -1108,10 +1108,10 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 çay bardağı küçük makarna / tortellini benzeri çorbalık makarna",
         "1–1,5 yemek kaşığı tereyağı veya zeytinyağı",
         "1,5–2 litre su veya tavuk suyu",
-        "Tuz",
-        "Karabiber",
-        "Biraz maydanoz",
-        "İsteğe göre az miktarda limon suyu"
+        "tuz",
+        "karabiber",
+        "biraz maydanoz",
+        "isteğe göre az miktarda limon suyu"
       ],
       "en": [
         "1 chicken breast or 2 chicken thighs",
@@ -1179,11 +1179,11 @@ export const nefis_corbaRecipes: Recipe[] = [
         "3 yemek kaşığı zeytinyağı",
         "1 yemek kaşığı tereyağı",
         "1 küp şeker",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 çay kaşığı pulbiber",
         "1 çay kaşığı toz biber",
-        "Çay kaşığı ucuyla kimyon",
-        "Yarım çay kaşığı zerdeçal",
+        "çay kaşığı ucuyla kimyon",
+        "yarım çay kaşığı zerdeçal",
         "1 tatlı kaşığı kekik",
         "1 tatlı kaşığı tuz",
         "1,5 litre sıcak su"
@@ -1296,13 +1296,13 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet soğan (orta boy)",
         "1 orta boy patates",
         "2 diş sarımsak",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yemek kaşığı tereyağı",
-        "Yarım çay kaşığı zerdeçal",
+        "yarım çay kaşığı zerdeçal",
         "1 talı kaşığı tuz",
         "1 çay kaşığı karabiber",
         "1 buçuk litre su",
-        "Yarım çay kaşığı kimyon"
+        "yarım çay kaşığı kimyon"
       ],
       "en": [
         "300 g pumpkin (peeled, chopped) (I used the butternut variety)",
@@ -1364,7 +1364,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet küçük boy soğan",
         "1 tatlı kaşığı tane karabiber",
         "1 tatlı kaşığına yakın tuz",
-        "Tavuğun üzerini geçecek kadar su"
+        "tavuğun üzerini geçecek kadar su"
       ],
       "en": [
         "1 medium chicken breast or thigh",
@@ -1434,10 +1434,10 @@ export const nefis_corbaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım tavuk göğsü",
+        "yarım tavuk göğsü",
         "3 yemek kaşığı şehriye (tepeleme)",
         "5 su bardağı su",
-        "Yağ"
+        "yağ"
       ],
       "en": [
         "Half a chicken breast",
@@ -1622,7 +1622,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 kahve fincanı yeşil mercimek",
         "1 çay bardağı haşlanmış nohut",
         "1 çay bardağı haşlanmış börülce",
-        "Yarım kilo semizotu(pirpirim)",
+        "yarım kilo semizotu(pirpirim)",
         "1 çay kaşığı toz sumak",
         "1 çay kaşığı tuz",
         "1 çay kaşığı karabiber",
@@ -1697,7 +1697,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı zerdeçal",
         "1 çay kaşığı pul biber",
-        "2 kaşık sıvı yağı yada tereyağı",
+        "2 kaşık sıvı yağı ya da tereyağı",
         "1.5 litre su"
       ],
       "en": [
@@ -1768,7 +1768,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 çay kaşığı tuz",
         "1 tatlı kaşığı zerdeçal",
         "1 çay kaşığı karabiber",
-        "Alabildiğine sıcak su"
+        "alabildiğine sıcak su"
       ],
       "en": [
         "1.5 tablespoons butter",
@@ -1869,14 +1869,14 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 tane kapya biber",
         "3 diş sarımsak",
         "1 çay bardağı kırmızı mercimek",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber",
-        "Toz kırmızı biber",
+        "tuz",
+        "karabiber",
+        "pulbiber",
+        "toz kırmızı biber",
         "2 parça tavuk göğsü (ben 1 parça kullandım)",
         "1 dilim limon",
         "1 yemek kaşığı tereyağı",
-        "Su"
+        "su"
       ],
       "en": [
         "1 potato",
@@ -1975,7 +1975,7 @@ export const nefis_corbaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 tüm tavuk",
-        "Su",
+        "su",
         "1 adet soğan",
         "1 adet patates",
         "1 su bardağı sıvı yağ",
@@ -2106,7 +2106,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 su bardağı kırmızı mercimek",
         "1 minik paket dana ilikli kemik suyu",
         "5 su bardağı sıcak su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1.5 tablespoons butter",
@@ -2161,10 +2161,10 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 diş sarımsak",
         "2 yemek kaşığı un",
         "1 paket sıvı krema",
-        "Kuru dereotu",
-        "Tuz",
-        "İsteğe göre et/tavuk suyu",
-        "Kaynamış su"
+        "kuru dereotu",
+        "tuz",
+        "isteğe göre et/tavuk suyu",
+        "kaynamış su"
       ],
       "en": [
         "1 large leek",
@@ -2218,12 +2218,12 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağ",
         "1 yemek kaşığı zeytinyağı",
         "2 yemek kaşığı domates ve biber salçası",
-        "Karabiber",
-        "Pulbiber",
-        "Nane",
+        "karabiber",
+        "pulbiber",
+        "nane",
         "10 su bardağı su",
         "2-3 yemek kaşığı arpa şehriye",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 tablespoons ground meat",
@@ -2289,9 +2289,9 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 diş sarımsak",
         "1 orta boy soğan",
         "1 çay kaşığı ucuyla zerdeçal",
-        "Tuz",
-        "Nane",
-        "Zeytinyağ"
+        "tuz",
+        "nane",
+        "zeytinyağ"
       ],
       "en": [
         "1 bowl of finely chopped chicken breast",
@@ -2346,8 +2346,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "tr": [
         "400 gram kıyma",
         "1 soğan rendesi",
-        "Tuz",
-        "Karabiber",
+        "tuz",
+        "karabiber",
         "1 adet yumurta",
         "3 çorba kaşığı pirinç"
       ],
@@ -2402,10 +2402,10 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet orta boy tatlı patates",
         "1 adet orta boy havuç",
         "2 diş sarımsak",
-        "Zeytinyağı",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı toz biber"
+        "zeytinyağı",
+        "tuz",
+        "karabiber",
+        "kırmızı toz biber"
       ],
       "en": [
         "1 medium red onion",
@@ -2501,9 +2501,9 @@ export const nefis_corbaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet kuru soğan",
-        "Yarım havuç",
+        "yarım havuç",
         "1 adet patates",
-        "Yarım kabak",
+        "yarım kabak",
         "1 adet köy biberi",
         "2 diş sarımsak",
         "1 yemek kaşığı zeytinyağı",
@@ -2516,7 +2516,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet kereviz sapı",
         "1 tutam dereotu",
         "1 dal taze soğan",
-        "Yarım pırasa"
+        "yarım pırasa"
       ],
       "en": [
         "1 dry onion",
@@ -2584,8 +2584,8 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 orta boy soğan",
         "1/2 (yarım) kahve fincanı zeytinyağ",
         "1 limon suyu",
-        "Tuz",
-        "Pul biber",
+        "tuz",
+        "pul biber",
         "1/2 (yarım) kahve fincanı koruk suyu"
       ],
       "en": [
@@ -2640,7 +2640,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet biber",
         "1 adet domates",
         "3 diş sarımsak",
-        "Yarım adet pırasa",
+        "yarım adet pırasa",
         "2 adet göğüs eti",
         "3-4 dal maydanoz",
         "1 çay kaşığı toz zencefil",
@@ -2758,16 +2758,16 @@ export const nefis_corbaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Haşlanmış tavuk ve suyu",
+        "haşlanmış tavuk ve suyu",
         "3 tatlı kaşığı un",
         "1 tane orta boy rendelenmiş havuç",
         "2 diş sarımsak",
-        "Yarım su bardağı pirinç",
+        "yarım su bardağı pirinç",
         "1 kaşık tereyağ ve sıvı yağ",
         "1 adet soğan",
-        "Maydanoz",
-        "Tuz",
-        "Pul biber"
+        "maydanoz",
+        "tuz",
+        "pul biber"
       ],
       "en": [
         "Boiled chicken and its water",
@@ -2826,7 +2826,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 orta boy havuç",
         "1 orta boy soğan",
         "1 orta boy kapya biber",
-        "Yarım tavuk göğüsü",
+        "yarım tavuk göğüsü",
         "1 çay kaşığı kırmızı toz biber",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı tuz",
@@ -2887,9 +2887,9 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 orta boy patates",
         "1 orta boy kuru soğan",
         "2 su bardağı süt",
-        "Yeterli miktarda tuz",
+        "yeterli miktarda tuz",
         "2 yemek kaşığı un",
-        "Tereyağ yada sıvı yağ"
+        "tereyağ ya da sıvı yağ"
       ],
       "en": [
         "1 medium celery",
@@ -2948,11 +2948,11 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 adet yeşil kabak",
         "3 su bardağı süt",
         "4 su bardağı su",
-        "Dereotu",
-        "Pulbiber",
-        "Karabiber",
-        "Tuz",
-        "Nane"
+        "dereotu",
+        "pulbiber",
+        "karabiber",
+        "tuz",
+        "nane"
       ],
       "en": [
         "1 tablespoon olive oil",
@@ -3008,11 +3008,11 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağı",
         "2 yemek kaşığı sıvı yağ",
         "2 yemek kaşığı un",
-        "Sıvı krema (100 ml)",
+        "sıvı krema (100 ml)",
         "3-4 damla taze limon suyu (renginin bembeyaz kalması için)",
         "5 su bardağı oda sıcaklığında su (sıcak değil)",
         "2 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber"
+        "yarım çay kaşığı karabiber"
       ],
       "en": [
         "1 pack of mushrooms (300-400 g)",
@@ -3073,11 +3073,11 @@ export const nefis_corbaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "250-300gr kıyma",
-        "Küçük soğan rendesi(ince yeri)",
-        "Tuz",
-        "Karabiber",
-        "Toz biber",
-        "Yarım çay bardağı ince bulgur",
+        "küçük soğan rendesi(ince yeri)",
+        "tuz",
+        "karabiber",
+        "toz biber",
+        "yarım çay bardağı ince bulgur",
         "1 yumurta sarısı (isteğe bağlı)"
       ],
       "en": [
@@ -3127,12 +3127,12 @@ export const nefis_corbaRecipes: Recipe[] = [
         "500 gram tavuk göğsü",
         "1,5 lt soğuk su",
         "1 silme tatlı kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 adet orta boy limon",
         "3/4 (bir yarım+bir çeyrek) su bardağı tel şehriye",
-        "Yarım çay kaşığı pul biber",
+        "yarım çay kaşığı pul biber",
         "1 kesme şeker boyutu tereyağ",
-        "İlave 1 su bardağı sıcak su"
+        "ilave 1 su bardağı sıcak su"
       ],
       "en": [
         "500 g chicken breast",
@@ -3339,7 +3339,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 adet tavuk kalçalı but",
         "3 yemek kaşığı sirke",
         "1 adet yumurta",
-        "Yarım çay bardağı tel şehriye",
+        "yarım çay bardağı tel şehriye",
         "2 yemek kaşığı un",
         "2 su bardağı yoğurt",
         "4 yemek kaşığı limon suyu",
@@ -3398,9 +3398,9 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 tatlı kaşığı salça",
         "1 çay bardağı yeşil mercimek",
         "2 su bardağı tavuk suyu",
-        "Tuz",
-        "Karabiber",
-        "Sevdiğiniz baharatlar"
+        "tuz",
+        "karabiber",
+        "sevdiğiniz baharatlar"
       ],
       "en": [
         "3 tablespoons olive oil",
@@ -3467,7 +3467,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "5 yemek kaşığı sıvı yağ",
         "6 su bardağı su",
         "2 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 çay kaşığı toz tatlı biber"
       ],
       "en": [
@@ -3522,11 +3522,11 @@ export const nefis_corbaRecipes: Recipe[] = [
       "tr": [
         "3 adet orta boy domates",
         "1 yemek kaşığı domates salçası",
-        "Sıvı yağ",
-        "Tel şehriye",
+        "sıvı yağ",
+        "tel şehriye",
         "1 tatlı kaşığı un",
         "5 su bardağı su",
-        "Kuru nane"
+        "kuru nane"
       ],
       "en": [
         "3 medium tomatoes",
@@ -3540,7 +3540,7 @@ export const nefis_corbaRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "İlk olarak domateslerimizi 2 ye bölüp rendeliyoruz, sonra rendelenmiş domatesleri bir süzgeçten geçirebilir yada ronda da pürüzsüz yapabiliriz.",
+        "İlk olarak domateslerimizi 2 ye bölüp rendeliyoruz, sonra rendelenmiş domatesleri bir süzgeçten geçirebilir ya da ronda da pürüzsüz yapabiliriz.",
         "Domateslerimiz hazır olunca bir kaba koyuyoruz, ardından tencereye sıvı yağ koyup unla kavuruyoruz ,kokusu çıkana kadar .",
         "Sonra ise tel şehriyelerimizi atıp kavurmaya devam ediyoruz.",
         "Salçalısı koyuyoruz ,ardından rendelenmiş domatesleri ekliyoruz, biraz kıvam aldıktan sonra 5 bardak su ekliyoruz,ardından tuz ve kuru nane ekliyoruz ve kaynamaya bırakıyoruz."
@@ -3574,11 +3574,11 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet havuç",
         "1 adet soğan",
         "1,5 su bardağı kırmızı mercimek",
-        "Tuz",
-        "Karabiber",
+        "tuz",
+        "karabiber",
         "1 çay kaşığı zerdeçal",
-        "Sıvıyağ",
-        "Sıcak su"
+        "sıvıyağ",
+        "sıcak su"
       ],
       "en": [
         "1 potato",
@@ -3637,7 +3637,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "3 kg ankon -yayla domatesi",
         "3 kg kırmızı biber",
         "4kg tava yoğurdu",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "5 kg all-purpose flour",
@@ -3693,14 +3693,14 @@ export const nefis_corbaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 gram kemikli kuzu gerdan",
-        "Yarım su bardağı pirinç",
+        "yarım su bardağı pirinç",
         "1 yemek kaşığı tereyağı",
         "4-5 diş sarımsak (iyice ezilmiş)",
         "1 tatlı kaşığı biber salçası",
         "4 su bardağı et suyu (eti haşladığımız saf su)",
-        "Tuz",
-        "Bolca acı kırmızı pul biber (veya toz biber)",
-        "Karabiber"
+        "tuz",
+        "bolca acı kırmızı pul biber (veya toz biber)",
+        "karabiber"
       ],
       "en": [
         "500 g bone-in lamb neck",
@@ -3761,8 +3761,8 @@ export const nefis_corbaRecipes: Recipe[] = [
         "4 su bardağı sıcak su",
         "1 yemek kaşığı tereyağı",
         "1 tatlı kaşığı tuz",
-        "Karabiber",
-        "Pul biber",
+        "karabiber",
+        "pul biber",
         "1–2 yemek kaşığı limon suyu veya çay kaşığı limon tuzu"
       ],
       "en": [
@@ -3827,8 +3827,8 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı un",
         "1 su bardağı konserve domates sosu",
         "1 yemek kaşığı dolusu domates salçası",
-        "Kıvamına göre su",
-        "Yarım su bardağı süt",
+        "kıvamına göre su",
+        "yarım su bardağı süt",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı karabiber"
       ],
@@ -3928,9 +3928,9 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet orta boy soğan",
         "2 yemek kaşığı tepeleme domates salçası",
         "11 su bardağı su",
-        "Tuz",
-        "Varsa 1-2 su bardağı et suyu",
-        "Bir miktar sıvı yağ"
+        "tuz",
+        "varsa 1-2 su bardağı et suyu",
+        "bir miktar sıvı yağ"
       ],
       "en": [
         "2.5 cups red lentils",
@@ -3989,7 +3989,7 @@ export const nefis_corbaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı tam doldurmadan tel şehriye",
-        "Sıvı yağ",
+        "sıvı yağ",
         "6 su bardağı kadar kaynar su"
       ],
       "en": [
@@ -4045,7 +4045,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "3 su bardağı su",
         "100 ml krema",
         "1 tatlı kaşığı tuz",
-        "Karabiber (göz kararı)"
+        "karabiber (göz kararı)"
       ],
       "en": [
         "2 tablespoons olive oil",
@@ -4166,11 +4166,11 @@ export const nefis_corbaRecipes: Recipe[] = [
       "tr": [
         "1,5 çorba kaşığı tereyağı",
         "1 çorba kaşığı zeytinyağı",
-        "Yarım su bardağı arpa şehriye",
+        "yarım su bardağı arpa şehriye",
         "1 su bardağı domates rendesi",
-        "Yarım çorba kaşığı salça",
-        "Yarım çay kaşığı karabiber",
-        "Tuz",
+        "yarım çorba kaşığı salça",
+        "yarım çay kaşığı karabiber",
+        "tuz",
         "2 su bardağı tavuk suyu",
         "4 su bardağı su"
       ],
@@ -4222,12 +4222,12 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet havuç",
         "1 adet soğan",
         "1 adet soğan büyüklüğünde kök kereviz",
-        "Yarım paket krema",
+        "yarım paket krema",
         "1 yemek kaşığı domates salçası",
-        "Tavuk suyu yada su",
-        "Zeytin yağlı",
-        "Tuz",
-        "Karabiber"
+        "tavuk suyu ya da su",
+        "zeytin yağlı",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "5 large tomatoes (peeled)",
@@ -4285,7 +4285,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 su bardağı mercimek",
         "1 küçük kuru soğan",
         "2 diş sarımsak",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "1,5 tatlı kaşığı tuz ( tadımlayarak eklenir)",
         "1 tatlı kaşığı pulbiber ( silme)",
         "1 tatlı kaşığı kuru nane ( silme)",
@@ -4345,12 +4345,12 @@ export const nefis_corbaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağına yakın tel şehriye",
-        "Çok az sıvı yağ",
+        "çok az sıvı yağ",
         "1 yemek kaşığı tereyağ",
         "1,5 su bardağı yoğurt",
         "1 yumurta sarısı",
         "1 tepeleme yemek kaşığı un",
-        "İsteğe bağlı çay kaşığı ucuyla zerdeçal ve sarımsak tozu"
+        "isteğe bağlı çay kaşığı ucuyla zerdeçal ve sarımsak tozu"
       ],
       "en": [
         "Just under 1 cup of vermicelli",
@@ -4401,10 +4401,10 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı tereyağı",
         "4-5 yemek kaşığı zeytinyağı (veya sıvı yağ)",
         "2 yemek kaşığı un",
-        "Tuz",
-        "Karabiber",
-        "Zerdeçal",
-        "Üzerini geçecek kadar sıcak su"
+        "tuz",
+        "karabiber",
+        "zerdeçal",
+        "üzerini geçecek kadar sıcak su"
       ],
       "en": [
         "3 cups red lentils",
@@ -4481,14 +4481,14 @@ export const nefis_corbaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 ml dondurulmuş sıvı tarhana",
-        "Sıvı yağ",
+        "sıvı yağ",
         "2 yemek kaşığı kuru nane",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "12 diş sarımsak",
         "8 yemek kaşığı un",
         "2,8 litre su (14 su bardağı)",
-        "Keyfe göre karabiber, pul biber, kırmızı toz biber"
+        "keyfe göre karabiber, pul biber, kırmızı toz biber"
       ],
       "en": [
         "500 ml frozen liquid tarhana",
@@ -4551,7 +4551,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "3 adet orta boy rendelenmiş domates",
         "3 yemek kaşığı sıvı yağ",
         "1 yemek kaşığı tereyağ",
-        "1/2 (yarım) yemek kaşığı domates ,biber karışık salça",
+        "1/2 (yarım) yemek kaşığı domates-biber karışık salça",
         "3 yemek kaşığı un",
         "1 su bardağı süt",
         "4 su bardağı su (kontrollü)"
@@ -4571,7 +4571,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "3 kaşık unu tencereye alıyoruz hafif kavurup yağları ilave ediyoruz onunlada kavuruyoruz(çok değil).",
         "Üzerine salçayı ekleyip çeviriyoruz, sonra rende domates eklenip çırpıcıyla karıştırıp soğuk su ekliyoruz.",
         "Karıştırarak pişiriyoruz kıvamını ayarlıyoruz .",
-        "Damak tadınıza göre tuz ,karabiber ,nane ekliyoruz altını kapatıyoruz.",
+        "Damak tadınıza göre tuz, karabiber, nane ekliyoruz altını kapatıyoruz.",
         "Altını kapatınca sütü ekliyoruz ki kesilmesin."
       ],
       "en": [
@@ -4679,10 +4679,10 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı",
         "2 yemek kaşığı sıvı yağ",
         "7 bardak su (tavuk suyu dahil)",
-        "Pul biber",
-        "Karabiber",
-        "Nane",
-        "Tuz"
+        "pul biber",
+        "karabiber",
+        "nane",
+        "tuz"
       ],
       "en": [
         "2 chicken thighs",
@@ -4751,8 +4751,8 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı sıvı yağ",
         "1 tatlı kaşığı tepeleme zerdeçal",
         "2 adet defne yaprağı",
-        "Yeteri kadar sıcak su",
-        "Tuz"
+        "yeteri kadar sıcak su",
+        "tuz"
       ],
       "en": [
         "1.5 cups red lentils",
@@ -4818,7 +4818,7 @@ export const nefis_corbaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım çay bardağı pirinç",
+        "yarım çay bardağı pirinç",
         "4-5 su bardağı su (kontrollü ekleyelim)"
       ],
       "en": [
@@ -4866,7 +4866,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 kg kapya biber",
         "1/2 (yarım) kg yeşil biber",
         "1 kg süzme yoğurt",
-        "Çiçekli dereotu dalı (bulabilirseniz bir avuç kadar. köylü pazarlarında yeşillik satan yaşlı teyzelere sorarsanız bulma ihtimaliniz olabilir, hatta tarhana mı yapacaksınız diye hoşlarına gidiyor)",
+        "çiçekli dereotu dalı (bulabilirseniz bir avuç kadar. köylü pazarlarında yeşillik satan yaşlı teyzelere sorarsanız bulma ihtimaliniz olabilir, hatta tarhana mı yapacaksınız diye hoşlarına gidiyor)",
         "2-3 tatlı kaşığı tuz"
       ],
       "en": [
@@ -4990,8 +4990,8 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 kg kapya biber",
         "1 adet kuru soğan",
         "1 baş sarımsak",
-        "Yarım su bardağı zeytinyağı",
-        "Tuz"
+        "yarım su bardağı zeytinyağı",
+        "tuz"
       ],
       "en": [
         "2 kg tomatoes",
@@ -5130,7 +5130,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       "tr": [
         "150 gram dana kıyma",
         "1 adet küçük boy kuru soğan (rendelenip suyu sikilip eklenecek)",
-        "Yarım çay kaşığı tuz ,karabiber"
+        "yarım çay kaşığı tuz, karabiber"
       ],
       "en": [
         "150 g beef mince",
@@ -5186,7 +5186,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı un",
         "1 yemek kaşığı salça",
         "2 yemek kaşığı yoğurt",
-        "Arzuya göre et suyu",
+        "arzuya göre et suyu",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı kuru nane",
         "1/2 (yarım) çay kaşığı karabiber",
@@ -5245,9 +5245,9 @@ export const nefis_corbaRecipes: Recipe[] = [
         "4 yemek kaşığı sıvıyağ",
         "2,5 yemek kaşığı un",
         "1 çay kaşığı tuz",
-        "Bir tutam maydanoz veya dereotu yada nane",
-        "İsteğe bağlı bir diş sarımsak",
-        "İsteğe bağlı pul biber",
+        "bir tutam maydanoz veya dereotu ya da nane",
+        "isteğe bağlı bir diş sarımsak",
+        "isteğe bağlı pul biber",
         "5 su bardağı su(daha koyu isterseniz 4 su bardağı da olur) (tavuk suyu veya bulyon)",
         "1 su bardağı süt"
       ],
@@ -5267,7 +5267,7 @@ export const nefis_corbaRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Mantarlar küçük küp şeklinde doğranır, yağlar tencereye alınır karıştırılarak eritilir.",
-        "Mantarlar eklenir biraz karıştırılır (burada ezdiğiniz yada ince doğradığınız sarımsakları koyabilirsiniz).",
+        "Mantarlar eklenir biraz karıştırılır (burada ezdiğiniz ya da ince doğradığınız sarımsakları koyabilirsiniz).",
         "Mantarlar suyunu bırakır ve suyu çekene kadar kavurulur.",
         "Renkleri değişince un koyulur biraz daha kavurulur.",
         "Su/tavuk suyu/süt, bulyon ne kullandı iseniz eklenir.",
@@ -5373,12 +5373,12 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 orta boy patates",
         "1 çay bardağı kırmızı mercimek",
         "1 adet tavuk bulyon (bir su bardağı şeklinde tavuk bulyonuu eritip ekledim.)",
-        "Karabiber",
-        "Pul biber",
-        "Kırmızı biber",
-        "Tuz",
-        "Nane",
-        "Kekik (tavuk bulyon kullandığınız için tuzu biraz azaltabilirsiniz çok tuzlu sevmiyorsanız hiç atmayın diğer baharatları damak zevkinize göre azar azar ekleyebilirsiniz)",
+        "karabiber",
+        "pul biber",
+        "kırmızı biber",
+        "tuz",
+        "nane",
+        "kekik (tavuk bulyon kullandığınız için tuzu biraz azaltabilirsiniz çok tuzlu sevmiyorsanız hiç atmayın diğer baharatları damak zevkinize göre azar azar ekleyebilirsiniz)",
         "3-4 su bardağı sıcak su"
       ],
       "en": [
@@ -5441,8 +5441,8 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı veya zeytinyağı",
         "1 yemek kaşığı un (isteğe bağlı daha kıvamlı olması için)",
         "3 su bardağı su veya tavuk suyu",
-        "Tuz",
-        "Karabiber",
+        "tuz",
+        "karabiber",
         "1 çay kaşığı kimyon"
       ],
       "en": [
@@ -5504,11 +5504,11 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 adet et bulyon",
         "1 tatlı kaşığı kadar domates salçası (ben ev yapımı kullandım)",
         "3 yemek kaşığı zeytinyağı",
-        "Arzuya göre nane",
-        "Arzuya göre acı pul biber",
+        "arzuya göre nane",
+        "arzuya göre acı pul biber",
         "1 yemek kaşığı tatlı toz biber",
-        "Arzuya göre karabiber",
-        "Tuz",
+        "arzuya göre karabiber",
+        "tuz",
         "1 çay kaşığı karışık baharat"
       ],
       "en": [
@@ -5560,7 +5560,7 @@ export const nefis_corbaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yaklaşık 4 su bardağı tavuk suyu (koyu gelirse sıcak su ekleyebilirsiniz)",
+        "yaklaşık 4 su bardağı tavuk suyu (koyu gelirse sıcak su ekleyebilirsiniz)",
         "1 kase didiklenmiş tavuk eti",
         "1’er adet havuç, patates ve soğan",
         "2-3 yemek kaşığı tel şehriye",
@@ -5618,7 +5618,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 tatlı kaşığı tatlı pul biber",
         "1 yemek kaşığı kuru nane",
         "1 tatlı kaşığı karışık baharat",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 cup barley vermicelli",
@@ -5799,7 +5799,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 tatlı kaşığı tam buğday unu",
         "1 su bardağı kemik veya et suyu",
         "1 çay kaşığı nane",
-        "Zeytinyağı"
+        "zeytinyağı"
       ],
       "en": [
         "1 teaspoon baby rice cereal",
@@ -5849,12 +5849,12 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı un",
         "1 yemek kaşığı mısır unu",
         "2 yemek kaşığı tereyağ",
-        "1 yada 2 yemek kaşığı sıvı yağ",
+        "1 ya da 2 yemek kaşığı sıvı yağ",
         "2 su bardağı süt",
         "2 su bardağı su",
         "1 adet kırmızı biber",
         "1 adet havuç",
-        "Bir tutam dereotu"
+        "bir tutam dereotu"
       ],
       "en": [
         "2 tablespoons flour",
@@ -5874,7 +5874,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "Ardından minik minik doğranan havuç ve kırmızı biber 1 dakika daha kavrulur.",
         "Süt ve su katılıp kaynatılır 5 -10 dakika yeterli, damak tadınıza göre azda pişirilebilir.",
         "Ardından dilediğiniz kadar haşlanmış mısır katılır, ( ben kendi haşladığımı ilave ettim, diğeri sert ve geç pişiyor).",
-        "Koyulaşırsa sıcak su yada süt ilave edilebilir.",
+        "Koyulaşırsa sıcak su ya da süt ilave edilebilir.",
         "Ardından tuz karabiber katılıp 1 taşım daha kaynatılır.",
         "Ocağı tamamen kapatınca doğranmış dereotu ile servis edebilirsiniz.",
         "Dileyen kremada ilave edebilir. Ben bayıldım tavsiye ederim."
@@ -5983,7 +5983,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "2 yemek kaşığı un",
         "4 su bardağı su (200 ml var ise 1 su bardağı et suyu)",
         "1 su bardağı süt (oda sıcaklığında)",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "2 çay kaşığı tuz"
       ],
       "en": [
@@ -6036,7 +6036,7 @@ export const nefis_corbaRecipes: Recipe[] = [
         "1 su bardağı haşlanmış buğday",
         "2 diş sarımsak",
         "1 yemek kaşığı tereyağı",
-        "Ben avuç kuru nane"
+        "bir avuç kuru nane"
       ],
       "en": [
         "1 bunch of sainfoin",

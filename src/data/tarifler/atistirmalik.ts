@@ -16,7 +16,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 su bardağı kaynar su",
         "1 adet büyük boy soğan",
         "2 diş sarımsak",
-        "Yarım çay bardağı isot",
+        "yarım çay bardağı isot",
         "1 yemek kaşığı kırmızı pul biber",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı toz kırmızı biber",
@@ -24,7 +24,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "1 çay bardağı sıvı yağ",
         "3 yemek kaşığı salça ( domates ve biber karışık)",
-        "Yarım limon"
+        "yarım limon"
       ],
       "en": [
         "2 cups fine brown bulgur",
@@ -81,11 +81,11 @@ export const atistirmalikRecipes: Recipe[] = [
         "4 adet orta boy patates",
         "2 yemek kaşığı sıvı yağ",
         "2 yemek kaşığı yoğurt",
-        "1 çay kaşığı tuz",
+        "1 çay kaşığı tuz",
         "1 çay kaşığı pul biber",
         "1 fiske nane",
         "1 fiske kekik",
-        "Yarım çay kaşığı karabiber"
+        "yarım çay kaşığı karabiber"
       ],
       "en": [
         "4 medium potatoes",
@@ -137,10 +137,10 @@ export const atistirmalikRecipes: Recipe[] = [
         "1. 5 su bardağı haşlanmış havuç",
         "1. 5 su bardağı rendelenmiş kaşar peyniri",
         "5 adet uzun sosis",
-        "Yeşil ve siyah zeytin",
+        "yeşil ve siyah zeytin",
         "1 çay bardağı kornişon turşu (halka halka doğranmış)",
         "1 tatlı kaşığı salça",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "6-7 medium potatoes",
@@ -194,8 +194,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "3 adet patates",
         "1 er çay kaşığı tuz, karabiber, pul biber",
-        "Yarım yemek kaşığı nişasta veya un",
-        "Sıvı yağ"
+        "yarım yemek kaşığı nişasta veya un",
+        "sıvı yağ"
       ],
       "en": [
         "3 potatoes",
@@ -239,9 +239,9 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "400g taze kültür mantarı",
-        "Tereyağı",
+        "tereyağı",
         "150g rendelenmiş kaşar peyniri",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "400g fresh cultivated mushrooms",
@@ -289,8 +289,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 su bardağı kırmızı mercimek",
         "3 su bardağı su (gerekirse yoğurma aşamasında biraz daha eklenebilir)",
         "4-5 adet taze soğan",
-        "Çeyrek demet maydanoz",
-        "1,5 su bardağı  köftelik bulgur",
+        "çeyrek demet maydanoz",
+        "1,5 su bardağı köftelik bulgur",
         "5 yemek kaşığı sıvı yağ",
         "1 adet kuru soğan",
         "1,5 yemek kaşığı domates salçası",
@@ -321,7 +321,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "Mercimeklerimizi güzelce yıkayalım ve uygun bir tencereye alalım.",
         "Üzerine 3 su bardağı su ilave ederek mercimekler yumuşayıncaya kadar pişirelim.",
         "Suyunu çekince bulguru içine ilave ederek karıştıralım.",
-        "30 dakika kadar tencerenin kapağını kapatarak bekleyelim.",
+        "30 dakika kadar tencerenin kapağını kapatarak bekleyelim.",
         "Tavamıza ince ince kıydığımız soğanı, sıvı yağda hafif pembeleşene kadar kavuralım.",
         "İçerisine salçaları ilave ederek bir kaç dakika daha kavuralım ve ocaktan alalım.",
         "Dinlendirdiğimiz mercimekleri başka bir kaba alalım.",
@@ -437,8 +437,8 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3-4 adet patates",
-        "Yarım çay bardağı zeytinyağı",
-        "Kekik, karabiber, toz kırmızı biber, tuz",
+        "yarım çay bardağı zeytinyağı",
+        "kekik, karabiber, toz kırmızı biber, tuz",
         "1 tatlı kaşığı salça",
         "200 ml sıvı krema"
       ],
@@ -492,8 +492,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "3 yemek kaşığı beyaz un",
         "1 çay kaşığı karbonat ya da kabartma tozu",
         "1 çay bardağı maden suyu",
-        "Tuz",
-        "Karabiber"
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "1-2 onions (I used 1 large onion)",
@@ -554,9 +554,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "5-6 adet kornişon turşu",
         "1 silme tatlı kaşığı tuz",
         "1 tatlı kaşığı toz kırmızı biber",
-        "Yarım tatlı kaşığı kekik",
-        "Yarım çay kaşığı karabiber",
-        "Yarım su bardağı sıcak su (100 ml)",
+        "yarım tatlı kaşığı kekik",
+        "yarım çay kaşığı karabiber",
+        "yarım su bardağı sıcak su (100 ml)",
         "200 g kaşar peyniri"
       ],
       "en": [
@@ -618,7 +618,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "1 paket sütlü çikolata",
         "1 paket bitter çikolata",
-        "İstediğiniz kuru yemiş"
+        "istediğiniz kuru yemiş"
       ],
       "en": [
         "1 pack milk chocolate",
@@ -715,13 +715,13 @@ export const atistirmalikRecipes: Recipe[] = [
         "200 gram kıyma",
         "1 su bardağı köftelik ince bulgur",
         "1.5 su bardağı sıcak su",
-        "Yarım su bardağı irmik",
+        "yarım su bardağı irmik",
         "2 yemek kaşığı un",
         "1 adet yumurta",
         "1 tatlı kaşığı biber salçası",
         "1 tatlı kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon"
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı kimyon"
       ],
       "en": [
         "200g ground beef",
@@ -774,7 +774,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "2 adet orta boy havuç",
         "1 su bardağından 1 parmak eksik yulaf",
-        "Yarım su bardağı ceviz",
+        "yarım su bardağı ceviz",
         "1 çay kaşığı tarçın",
         "2 yemek kaşığı bal"
       ],
@@ -822,9 +822,9 @@ export const atistirmalikRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "İstediğiniz kare çikolata",
-        "Ceviz veya badem",
-        "Fındık"
+        "istediğiniz kare çikolata",
+        "ceviz veya badem",
+        "fındık"
       ],
       "en": [
         "chocolate squares of your choice",
@@ -862,8 +862,8 @@ export const atistirmalikRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Kibrit kuyusundan büyük bir parça süzme peynir",
-        "Kibrit kutusundan büyük bir parça ezine peyniri",
+        "kibrit kuyusundan büyük bir parça süzme peynir",
+        "kibrit kutusundan büyük bir parça ezine peyniri",
         "2 tatlı kaşığı kekik",
         "2 tatlı kaşığı çörekotu",
         "2 tatlı kaşığı susam",
@@ -916,9 +916,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 adet çarliston biber",
         "2 dal taze soğan",
         "1 adet kuru soğan",
-        "Çeyrek demet dereotu",
-        "Çeyrek demet taze nane",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet dereotu",
+        "çeyrek demet taze nane",
+        "çeyrek demet maydanoz",
         "3 yemek kaşığı un",
         "1 yemek kaşığı mısır unu",
         "3 adet yumurta",
@@ -1045,9 +1045,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 çay kaşığı kırmızı biber",
         "1 çay kaşığı nane",
         "2 diş sarımsak",
-        "Tuz",
-        "Zeytinyağı",
-        "Ilık su"
+        "tuz",
+        "zeytinyağı",
+        "ılık su"
       ],
       "en": [
         "1 pack manti",
@@ -1103,9 +1103,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "2 yemek kaşığı sıvı yağ",
         "1–2 su bardağı sıcak su",
-        "Tuz",
-        "Karabiber",
-        "Kekik"
+        "tuz",
+        "karabiber",
+        "kekik"
       ],
       "en": [
         "500g diced beef",
@@ -1170,7 +1170,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 çay kaşığı kimyon",
         "2 adet patates",
         "2 yemek kaşığı ekmek kırıntısı",
-        "Çeyrek çay bardağı sıvı yağ"
+        "çeyrek çay bardağı sıvı yağ"
       ],
       "en": [
         "400g ground beef",
@@ -1290,7 +1290,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 su bardağı kaynar su",
         "1 adet büyük soğan",
         "2 diş sarımsak",
-        "Yarım çay bardağı isot",
+        "yarım çay bardağı isot",
         "1 yemek kaşığı pulbiber",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı kimyon",
@@ -1359,14 +1359,14 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 tatlı kaşığı domates salçası",
         "1 tatlı kaşığı yedi bahar (varsa koy)",
         "1 tatlı kaşığı çiğ köfte baharatı (varsa koy)",
-        "Yarım çay kaşığı kimyon ve karabiber",
+        "yarım çay kaşığı kimyon ve karabiber",
         "1 yemek kaşığı pulbiber (acılı veya tatlı)",
         "1 tatlı kaşığı tatlı toz biber",
         "1 tatlı kaşık da acı toz biber",
         "2 tepeleme yemek kaşığı isot",
         "3.5 çay bardağı kaynar su",
         "1 limon(ekşilik isteğine göre)",
-        "Çok az tuz(salçanın tuzluluğuna göre)"
+        "çok az tuz(salçanın tuzluluğuna göre)"
       ],
       "en": [
         "2 tea glasses white bulgur for meatballs",
@@ -1431,7 +1431,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 kilo patates (her kişi için 2 patates olsun)",
         "1 çay kaşığı tuz",
         "4 yemek kaşığı sıvı yağ",
-        "Ön haşlama için kaynar su"
+        "ön haşlama için kaynar su"
       ],
       "en": [
         "1 kg potatoes (2 per person)",
@@ -1539,8 +1539,8 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 su bardağı ince esmer çiğ köftelik bulgur",
-        "Yarım su bardağı ılık su (bulguru ıslatmak için)",
-        "Yaklaşık yarım su bardağı soğuk su (yoğururken kontrollü eklemek için)"
+        "yarım su bardağı ılık su (bulguru ıslatmak için)",
+        "yaklaşık yarım su bardağı soğuk su (yoğururken kontrollü eklemek için)"
       ],
       "en": [
         "2 cups fine brown bulgur for raw meatballs",
@@ -1583,7 +1583,7 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tahin",
-        "Yarım muz",
+        "yarım muz",
         "1 tatlı kaşığı granül kahve",
         "1,5 su bardağı süt"
       ],
@@ -1634,8 +1634,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 tane domates",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı pul biber",
-        "Tuz",
-        "Sıvı yağ"
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "1 tsp tomato paste",
@@ -1739,8 +1739,8 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "14 adet hurma",
-        "Yarım paket bitter çikolata",
-        "Yarım çay bardağı şekersiz yer fıstığı ezmesi"
+        "yarım paket bitter çikolata",
+        "yarım çay bardağı şekersiz yer fıstığı ezmesi"
       ],
       "en": [
         "14 dates",
@@ -1837,9 +1837,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 kg ground chicken breast (2 chicken breasts if making less)",
         "1 kg fine bulgur for meatballs (2.5 cups if making less)",
         "5 medium onions",
-        "1 tsp or tbsp paprika",
-        "1 tsp or tbsp black pepper",
-        "1 tsp or tbsp red pepper flakes",
+        "1 tsp or teaspoon paprika",
+        "1 tsp or teaspoon black pepper",
+        "1 tsp or teaspoon red pepper flakes",
         "2 tbsp basil",
         "2 cups flour (1 cup if making less)",
         "1 tsp salt",
@@ -1883,10 +1883,10 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 su bardağı çiğ köftelik bulgur (esmer de olabilir)",
-        "Domates suyu (domates kabuklarıyla beraber robottan geçirin ve 1,5 su bardağı domates suyu gerekli)",
+        "domates suyu (domates kabuklarıyla beraber robottan geçirin ve 1,5 su bardağı domates suyu gerekli)",
         "1 soğan rendesi (suyunu sıkın, suyunu kullanmayın)",
         "2 diş sarımsak (rendelenmiş)",
-        "Yarım çay bardağı zeytinyağ",
+        "yarım çay bardağı zeytinyağ",
         "2 tatlı kaşığı isot",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
@@ -1894,9 +1894,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 tatlı kaşığı sumak",
         "1,5 tatlı kaşığı tuz",
         "2 yemek kaşığı limon suyu",
-        "Çeyrek çay bardağı nar ekşisi",
-        "İsteğe bağlı maydanoz",
-        "İsteğe bağlı yeşil soğan"
+        "çeyrek çay bardağı nar ekşisi",
+        "isteğe bağlı maydanoz",
+        "isteğe bağlı yeşil soğan"
       ],
       "en": [
         "2 cups bulgur for raw meatballs (brown also works)",
@@ -1950,18 +1950,18 @@ export const atistirmalikRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Tost ekmeği yada evdeki bayat ekmek",
+        "tost ekmeği ya da evdeki bayat ekmek",
         "1 adet yumurta",
         "4/1 kadar sucuk",
-        "Küçük boy konserve mısır",
+        "küçük boy konserve mısır",
         "3 -4 adet yeşil biber",
         "6 -7 adet kornişon turşu",
         "1 su bardağı kadar süt",
         "2 yemek kaşığı kadar sıvıyağ",
-        "Dilimlenmiş zeytin",
-        "Dilimli kaşar",
-        "İsteğe bağlı tuz",
-        "Karabiber"
+        "dilimlenmiş zeytin",
+        "dilimli kaşar",
+        "isteğe bağlı tuz",
+        "karabiber"
       ],
       "en": [
         "toast bread or stale bread at home",
@@ -2147,10 +2147,10 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "8 tane orta boy haşlanmış patates",
-        "2 bardak rendelenmış kaşar peyniri",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı tozbiber"
+        "2 bardak rendelenmiş kaşar peyniri",
+        "tuz",
+        "karabiber",
+        "kırmızı tozbiber"
       ],
       "en": [
         "8 medium boiled potatoes",
@@ -2200,16 +2200,16 @@ export const atistirmalikRecipes: Recipe[] = [
         "3 diş sarımsak",
         "1 yemek kaşığı domates salça",
         "1 yemek kaşığı biber salça",
-        "Göz kararı tuz",
+        "göz kararı tuz",
         "1.5 tatlı kaşığı pulbiber",
-        "Yarım tatlı kaşığı toz biber",
+        "yarım tatlı kaşığı toz biber",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı kimyon",
         "3 yemek kaşığı isot",
         "1 yemek kaşığı köfte baharatı (varsa)",
-        "Yarım çay bardağı nar ekşi",
+        "yarım çay bardağı nar ekşi",
         "1 su bardağı zeytinyağ",
-        "1 adet limon suyu",
+        "1 adet limonun suyu",
         "2 3 yemek kaşığı ketçap"
       ],
       "en": [
@@ -2316,18 +2316,18 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı çiğköftelik bulgur",
         "1 su bardağı sıcak su",
-        "Yarım çay bardağı sıvı yağ",
-        "Yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı nar ekşisi",
         "1 soğan",
         "1 sarımsak",
         "1 kaşık salça",
-        "İsot",
-        "Toz biber",
-        "Pul biber",
-        "Kimyon",
-        "Tuz",
-        "İnce doğranmış birkaç dal maydanoz",
-        "Nane"
+        "isot",
+        "toz biber",
+        "pul biber",
+        "kimyon",
+        "tuz",
+        "ince doğranmış birkaç dal maydanoz",
+        "nane"
       ],
       "en": [
         "1 cup bulgur for raw meatballs",
@@ -2427,7 +2427,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 yemek kaşığı yulaf",
         "1 avuç ceviz",
         "6 adet kuru kayısı",
-        "Elimizi ıslatmak için 2 yemek kaşığı su",
+        "elimizi ıslatmak için 2 yemek kaşığı su",
         "40 gram sütlü veya bitter çikolata"
       ],
       "en": [
@@ -2442,10 +2442,10 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "1 yemek kaşığı yulafı miksere koyup çok az çekelim.",
         "Üzerine cevizi de ekleyip çok un gibi olmasın onu da mikserle çekin .",
-        "Kayısıları da ekleyip mikserle çekin ama çok parça şekilde olmasın yada dilediğiniz gibi de olabilir.",
+        "Kayısıları da ekleyip mikserle çekin ama çok parça şekilde olmasın ya da dilediğiniz gibi de olabilir.",
         "Karışımdan elinize alıp küçük toplar yapın eğer birleşmede top şeklini vermede zorlanırsanız avcunuza su batırarak şekil verebilirsiniz .",
         "Toplarımı tabağa alıp buzdolabı kaldıralım .",
-        "Sos tavanında su kaynatıp üzerine kase koyup çikolatamızı eritelim, eriyen çikolatayı toplarımızın üstüne gezdirelim yada batıralım, buzdolabına soğuması için koyalım ben servis ederken beyaz çikolatalı sos gezdirdim afiyet olsun."
+        "Sos tavanında su kaynatıp üzerine kase koyup çikolatamızı eritelim, eriyen çikolatayı toplarımızın üstüne gezdirelim ya da batıralım, buzdolabına soğuması için koyalım ben servis ederken beyaz çikolatalı sos gezdirdim afiyet olsun."
       ],
       "en": [
         "Put 1 tbsp oats in a mixer and grind very lightly.",
@@ -2480,14 +2480,14 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 yemek kaşığı çiğköftelik yedi baharat",
         "1 çay kaşığı kimyon",
         "2 adet büyük diş sarımsak",
-        "Yarım çay kaşığı tarçın",
+        "yarım çay kaşığı tarçın",
         "1 çay kaşığı kakao",
         "1 yemek kaşığı biber salçası",
         "1 yemek kaşığı domates salçası",
         "1.5çay bardağı zeytinyağı",
         "1 çay bardağı ceviz içi",
         "2 yemek kaşığı isot biberi",
-        "Yarım çay bardağı turşu suyu"
+        "yarım çay bardağı turşu suyu"
       ],
       "en": [
         "1 large ripe avocado",
@@ -2594,7 +2594,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "5 yemek kaşığı zeytinyağı",
         "2 diş sarımsak",
         "2,5 yemek kaşığı mayonez",
-        "Süzme yoğurt (miktarı isteğe bağlı, ben 4 yemek kaşığı kullandım)",
+        "süzme yoğurt (miktarı isteğe bağlı, ben 4 yemek kaşığı kullandım)",
         "1 tatlı kaşığı tuz"
       ],
       "en": [
@@ -2675,12 +2675,12 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 küçük konserve mısır",
-        "Yarım paket boncuk makarna 2 yemek kaşığı zeytinyağı ile",
+        "yarım paket boncuk makarna 2 yemek kaşığı zeytinyağı ile",
         "1 kutu kornişon turşusu",
         "1 kutu garnitür",
         "4 yemek kaşığı mayonez",
         "1 diş sarımsak",
-        "Göz kararı yoğurt",
+        "göz kararı yoğurt",
         "1 tatlı kaşığı tuz (miktar isteğe bağlı)"
       ],
       "en": [
@@ -2843,8 +2843,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 adet yumurta",
         "2 yemek kaşığı şeker",
         "1 paket vanilya",
-        "Yarım paket kabartma tozu",
-        "Yarım su bardağı süt",
+        "yarım paket kabartma tozu",
+        "yarım su bardağı süt",
         "1 su bardağı un"
       ],
       "en": [
@@ -2894,9 +2894,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 diş sarımsak",
         "1 tatlı kaşığı tereyağ",
         "200 gram rendelenmiş kaşar peyniri",
-        "Tuz",
-        "Karabiber",
-        "İsteğe bağlı çok az rendelenmiş muskat"
+        "tuz",
+        "karabiber",
+        "isteğe bağlı çok az rendelenmiş muskat"
       ],
       "en": [
         "5-6 medium potatoes",
@@ -3112,7 +3112,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "9 adet patates",
         "3-4 kaşık sıvı yağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "9 potatoes",
@@ -3180,7 +3180,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "4 adet mısır",
         "2 litre su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "4 corns",
@@ -3221,7 +3221,7 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 tane mısır",
-        "Çeyrek margarin",
+        "çeyrek margarin",
         "1 su bardağı süt"
       ],
       "en": [
@@ -3273,7 +3273,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 tatlı kaşığı kimyon",
         "2 tatlı kaşığı tuz",
         "1 adet limonun suyu",
-        "Nar ekşisi"
+        "nar ekşisi"
       ],
       "en": [
         "1 pack bulgur for raw meatballs",
@@ -3345,7 +3345,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 tatlı kaşığı kişniş",
         "1 su bardağı çiğköftelik isot",
         "1 çay sıvı yağ",
-        "Yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı nar ekşisi",
         "1 adet orta boy soğan",
         "3 diş sarımsak",
         "1 yemek kaşığı biber salçası",
@@ -3402,14 +3402,14 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 su bardağı sıcak su",
         "1 orta boy soğan",
         "3 diş sarımsak",
-        "1 yemek kasığı biber salçası",
-        "1 yemek kasığı domates salçası",
-        "İsteğe bağlı çiğ köfte baharatı (ben baharatçıdan çiğköfte baharatı alıp 2 yemek kaşığı koyuyorum)",
-        "Yarım demet dere otu",
-        "Yarım demet maydanoz",
-        "Yarım demet taze nane",
+        "1 yemek kaşığı biber salçası",
+        "1 yemek kaşığı domates salçası",
+        "isteğe bağlı çiğ köfte baharatı (ben baharatçıdan çiğköfte baharatı alıp 2 yemek kaşığı koyuyorum)",
+        "yarım demet dere otu",
+        "yarım demet maydanoz",
+        "yarım demet taze nane",
         "1 tatlı kaşığı sumak",
-        "2 yemek kaşığı nar eksisi",
+        "2 yemek kaşığı nar ekşisi",
         "1 su bardağı zeytin yağ",
         "1 çay kaşığı tuz"
       ],
@@ -3434,7 +3434,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "İlk olarak bulgurumuzu robota alalım. Üzerine suyumuzu döküp 1 tur robotu çalıştıralım ve kapatalım daha sonra 10 dk. Dinlenmeye bırakalım.",
         "Bulgurumuz dinlenirken soğanımızı ve sarımsağımızı ince ince doğrayalım.",
-        "Bulgurumuz şişince doğradığımız soğanımızı zeytin yağı nar eksisini ve salçayı ekleyelim ve güzelce karışana kadar robotu çalıştıralım.",
+        "Bulgurumuz şişince doğradığımız soğanımızı zeytin yağı nar ekşisini ve salçayı ekleyelim ve güzelce karışana kadar robotu çalıştıralım.",
         "Harcımız karışırken yeşilliklerimizi doğrayalım. Güzelce karışan kıvama gelen harcımıza yeşilliklerimizide ekleyelim ve tekrar karıştıralım. Az dinlendirdiğimiz köfte harcımızı leğene alıp elimizle yoğurup şeklini verip servis edelim. Afiyet olsun."
       ],
       "en": [
@@ -3523,9 +3523,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 adet konserve mısır (400 gram)",
         "1 tatlı kaşığı toz biber",
         "1 tatlı kaşığı tuz",
-        "Ketçap",
-        "Mayonez",
-        "Acı sos"
+        "ketçap",
+        "mayonez",
+        "acı sos"
       ],
       "en": [
         "1 can corn (400g)",
@@ -3625,7 +3625,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 er çay kaşığı tuz ve şeker",
         "1 adet yumurta",
         "1 hamur kabartma tozu",
-        "Un"
+        "un"
       ],
       "en": [
         "1 tbsp grape vinegar",
@@ -3725,7 +3725,7 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet şeftali",
-        "Yarım limon",
+        "yarım limon",
         "1 su bardağı demlenmiş soğumuş yeşilçay",
         "1 yemek kaşığı bal",
         "1 litre su"
@@ -3825,7 +3825,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "4 su bardağı ince bulgur",
         "2 su bardağı sıcak su",
         "1 çay bardağı sıvı yağ",
-        "Yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı nar ekşisi",
         "1 orta boy domates rendesi",
         "1 orta boy kuru soğan rendesi",
         "2 diş sarımsak",
@@ -3839,7 +3839,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 yemek kaşığı acı pul biber (acısını siz belirlersiniz)",
         "1 tatlı kaşığı kimyon",
         "1 çay kaşığı kara biber",
-        "Yarım demet maydanoz"
+        "yarım demet maydanoz"
       ],
       "en": [
         "4 cups fine bulgur",
@@ -3897,7 +3897,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 adet yeşil biber",
         "1 adet domates",
         "2 adet yumurta",
-        "Yarım yemek kaşığı domates salçası",
+        "yarım yemek kaşığı domates salçası",
         "1 çay kaşığı tuz",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı toz biber"
@@ -3990,7 +3990,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "1 demet reyhan (demetim biraz büyük )",
         "1.5 litre sıcak su",
-        "Yarım tatlı kaşığı limon tuzu",
+        "yarım tatlı kaşığı limon tuzu",
         "8-9 yemek kaşığı toz şeker (siz zevkinize göre ayarlayabilirsiniz)"
       ],
       "en": [
@@ -4035,13 +4035,13 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 adet soğan",
         "2 diş sarımsak",
         "1 çorba kasesi ıslatılmış isot",
-        "Azıcık limon tuzu",
+        "azıcık limon tuzu",
         "250 gram yağsız sinirsiz dana eti",
         "1 adet domates",
         "1 çay kaşığı tuz",
-        "Doğranmış nane",
-        "Maydanoz",
-        "Yeşil soğan",
+        "doğranmış nane",
+        "maydanoz",
+        "yeşil soğan",
         "1 adet limon"
       ],
       "en": [
@@ -4098,8 +4098,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 yemek kaşığı biber salçası",
         "1 adet kuru soğan",
         "2 diş sarımsak",
-        "Yarım limon suyu",
-        "Yarım çay bardağı isot",
+        "yarım limonun suyu",
+        "yarım çay bardağı isot",
         "2 yemek kaşığı sumak",
         "1 tatlı kaşığı kaşığı pulbiber",
         "1 tatlı kaşığı kimyon",
@@ -4181,7 +4181,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "Daha sonra üzerine tereyağı ve yumurta akı ekleyip, karıştıralım.",
         "Karıştırma kabına un, tuz, şeker, kabartma tozunu alıp, karıştıralım.",
         "Ele yapışmayan yumuşak bir hamur elde edelim.",
-        "İki yağlı kağıt arasında inceltip yuvarlak bir kalıp yada bardak ağzıyla keselim.",
+        "İki yağlı kağıt arasında inceltip yuvarlak bir kalıp ya da bardak ağzıyla keselim.",
         "Ortalarına labne peynir sıkıp, sıkıca kapatalım. Tepsiye dizip, yumurta sarısı sürelim.",
         "175-180 derece fırında pişirelim. Afiyet olsun."
       ],
@@ -4277,8 +4277,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "Öncelikle mücver malzemelerini hazırlayalım. Kabakları soyarak rendenin iri kısmında rendeleyelim ve suyunu sıkalım ve bir kaba alalım.",
         "Maydanozu minik minik doğrayalım. Kabak mücver harcını hazırlayalım. Yumurtaları bir kaba alalım. Üzerine sırası ile un, pul biber, karabiber ve tuzu ilave edilerek iyice çırpalım.",
         "Ardından suyunu iyice sıktığımız kabakları ve maydanozu ekleyerek karıştıralım. Böylece mücver harcımız hazır.",
-        "Tavaya az miktarda sıvı yağ alalım ve ısıtalım. Isınan yağımıza kabak karışımından bir kaşık dökelim, çevirerek kızartalım.  Mücverlerin her iki yüzü de kızardıktan sonra havlu kağıt serilmiş tabağa alalım.",
-        "Kabak mücveri sosla beraber servis edelim  işte hazır. Afiyet olsun. Tarifi deneyip fotoğraf paylaşmayı ve yorum yapmayı unutmayın şimdiden kolay gelsin 🌹🌹"
+        "Tavaya az miktarda sıvı yağ alalım ve ısıtalım. Isınan yağımıza kabak karışımından bir kaşık dökelim, çevirerek kızartalım. Mücverlerin her iki yüzü de kızardıktan sonra havlu kağıt serilmiş tabağa alalım.",
+        "Kabak mücveri sosla beraber servis edelim işte hazır. Afiyet olsun. Tarifi deneyip fotoğraf paylaşmayı ve yorum yapmayı unutmayın şimdiden kolay gelsin 🌹🌹"
       ],
       "en": [
         "First prepare the fritter ingredients. Peel the zucchini, grate on the coarse side of the grater, squeeze the water and put in a bowl.",
@@ -4310,8 +4310,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 su bardağı süt",
         "1 adet yumurta",
         "3 yemek kaşığı şeker",
-        "1 adet vanilya",
-        "1 adet kabartma tozu"
+        "1 paket vanilya",
+        "1 paket kabartma tozu"
       ],
       "en": [
         "1 cup flour",
@@ -4359,8 +4359,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1/4 (çeyrek) bağ semizotu",
         "3 kaşık mısır unu",
         "1 kaşık galeta unu",
-        "Pul biber, karabiber, tuz, sarımsak tozu",
-        "İsteğe bağlı 8-9 adet çekirdeği çıkartılmış siyah zeytin",
+        "pul biber, karabiber, tuz, sarımsak tozu",
+        "isteğe bağlı 8-9 adet çekirdeği çıkartılmış siyah zeytin",
         "1 avuç mısır (ben haşlanmamış mısır ile yaptım, haşlanmış da olur)"
       ],
       "en": [
@@ -4463,8 +4463,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 su bardağı sıvı yağ",
         "1 adet soğan",
         "3 adet patates",
-        "Küçük 1 kase beyaz peynir",
-        "Yarım demet maydanoz",
+        "küçük 1 kase beyaz peynir",
+        "yarım demet maydanoz",
         "2 tatlı kaşığı pul biber",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı tuz",
@@ -4489,7 +4489,7 @@ export const atistirmalikRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Öncelikle patatesleri yıkayıp küp şeklinde küçük küçük doğrayalım. Soğan ve maydanozları da küçük olarak doğrayıp hazır hale getirelim.",
-        "Yumurtaları mikserle iyice çırpıp üzerine yoğurt, sıvı yağ, peynir,  karabiber, pul biber ve tuzu ekleyip karıştıralım. Doğradığımız  patates, soğan ve maydanozu ekleyip tekrar karıştıralım. En son kabartma tozu ve unu ekleyerek karıştıralım.",
+        "Yumurtaları mikserle iyice çırpıp üzerine yoğurt, sıvı yağ, peynir, karabiber, pul biber ve tuzu ekleyip karıştıralım. Doğradığımız patates, soğan ve maydanozu ekleyip tekrar karıştıralım. En son kabartma tozu ve unu ekleyerek karıştıralım.",
         "Borcamı yağlayıp borcama malzemeyi dökelim tepsi kağıdı varsa eğer onu kullanabiliriz.",
         "Üzerine susam dökelim ve 180°fırında üzeri iyice kızarana kadar pişirelim. Soğumaya bırakalım. Yani yaklaşık yarım saat sonra servis edelim. Afiyet olsun."
       ],
@@ -4577,8 +4577,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 adet yumurta (sarısı üzerine akı içine)",
         "1 su bardağı ılık süt",
         "1 su bardağı ılık su",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım paket kuru maya (10 gram lık paketti)",
+        "yarım su bardağı sıvı yağ",
+        "yarım paket kuru maya (10 gram lık paketti)",
         "1 yemek kaşığı şeker",
         "1 tatlı kaşığı tuz",
         "5,5 su bardağı un"
@@ -4633,12 +4633,12 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 su bardağı ince bulgur",
         "2 su bardağı sıcak su",
         "1 çay bardağı zeytinyağı",
-        "Yarım çay bardağı nar ekşisi+1 yemek kaşığı nar ekşisi",
+        "yarım çay bardağı nar ekşisi+1 yemek kaşığı nar ekşisi",
         "1 adet soğan",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "4 yemek kaşığı isot",
-        "Yarım yemek kaşığı pulbiber",
+        "yarım yemek kaşığı pulbiber",
         "2,5 yemek kaşığı toz sumak",
         "1 tatlı kaşığı tuz"
       ],
@@ -4694,11 +4694,11 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 su bardağı rendelenmiş havuç",
         "1 su bardağı uzun ince doğranmış soğan",
         "1 su bardağı uzun ince doğranmış biber",
-        "1 tatlı kaşığı biber salçasi",
+        "1 tatlı kaşığı biber salçası",
         "1/4.5 su bardağı süt",
         "1/4.5 su bardağı soda (süt ve soda ikisinin toplamı yaklaşık yarım su bardağından bir parmak fazla oluyor)",
         "1 yemek kaşığı tereyağı",
-        "İstenilen baharatlar (ben tuz karabiber kimyon kuru nane toz biber koydum her birinden bir tatlı kaşığı)"
+        "istenilen baharatlar (ben tuz karabiber kimyon kuru nane toz biber koydum her birinden bir tatlı kaşığı)"
       ],
       "en": [
         "2 cups diced chicken breast",
@@ -4750,10 +4750,10 @@ export const atistirmalikRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Bamya (iri bamya seçmek gerek)",
-        "Mısır unu ve un (karışık)",
+        "bamya (iri bamya seçmek gerek)",
+        "mısır unu ve un (karışık)",
         "1-2 adet yumurta (çırpılmış)",
-        "Yağ"
+        "yağ"
       ],
       "en": [
         "okra (choose large okra)",
@@ -4797,8 +4797,8 @@ export const atistirmalikRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 kavanoz nohut",
-        "Sıvı yağ",
-        "İstediğin baharatlar"
+        "sıvı yağ",
+        "istediğin baharatlar"
       ],
       "en": [
         "1 jar chickpeas",
@@ -4810,7 +4810,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "tr": [
         "Nohutun suyunu süzün ve tavaya veya airfry koyun.",
         "İçine istediğiniz baharatları ekleyin.",
-        "10 dk airfryda yada fırına pişirin,çıtır isterseniz 20dk pişirin.Afiyet olsun 😀😀."
+        "10 dk airfryda ya da fırına pişirin,çıtır isterseniz 20dk pişirin.Afiyet olsun 😀😀."
       ],
       "en": [
         "Drain the chickpeas and put in a pan or air fryer.",
@@ -4842,9 +4842,9 @@ export const atistirmalikRecipes: Recipe[] = [
         "3 yemek kaşığı beyaz un",
         "1 çay kaşığı karbonat ( kabartma tozu olabilir)",
         "1 çay bardağı maden suyu",
-        "Tuz",
-        "Karabiber",
-        "Yenibahar"
+        "tuz",
+        "karabiber",
+        "yenibahar"
       ],
       "en": [
         "2 onions",
@@ -4906,10 +4906,10 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 yemek kaşığı domates salçası",
         "1 su bardağı domates rendesi",
         "1 çay bardağından 1 parmak eksik zeytinyağı",
-        "Yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı nar ekşisi",
         "3 yemek kaşığı isot",
         "1 yemek kaşığından az acı pul biber",
-        "Yarım tatlı kaşığı kimyon",
+        "yarım tatlı kaşığı kimyon",
         "1 tatlı kaşığı tuz"
       ],
       "en": [
@@ -5016,7 +5016,7 @@ export const atistirmalikRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Bayat ekmek",
+        "bayat ekmek",
         "1 çay bardağı zeytinyağı",
         "1 tatlı kaşığı toz kırmızı biber",
         "1 tatlı kaşığı pul biber",
@@ -5024,7 +5024,7 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 çay kaşığı kimyon",
         "1 tatlı kaşığı kekik",
         "1 çay kaşığı nane",
-        "1 tatlı kaşığı sarımsak tozu yada 4 diş sarımsak",
+        "1 tatlı kaşığı sarımsak tozu ya da 4 diş sarımsak",
         "1 tatlı kaşığı tuz"
       ],
       "en": [
@@ -5118,13 +5118,13 @@ export const atistirmalikRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım paket burçak bisküvisi",
+        "yarım paket burçak bisküvisi",
         "100 120 gram peynir (ben süzme beyaz ve eski kaşar kullandım)",
         "2 yemek kaşığı un",
         "1 adet yumurta",
-        "Kekik",
-        "Pul biber",
-        "Karabiber",
+        "kekik",
+        "pul biber",
+        "karabiber",
         "3 yemek kaşığı zeytinyağı"
       ],
       "en": [
@@ -5189,8 +5189,8 @@ export const atistirmalikRecipes: Recipe[] = [
         "1 su bardağı sıvı yağ",
         "1 adet soğan",
         "3 adet patates",
-        "Küçük bir kase beyaz peynir",
-        "Yarım demet maydanoz",
+        "küçük bir kase beyaz peynir",
+        "yarım demet maydanoz",
         "2 tatlı kaşığı pul biber",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı tuz",
@@ -5215,7 +5215,7 @@ export const atistirmalikRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Öncelikle patatesleri yıkayıp küp şeklinde küçük küçük doğrayalım. Soğan ve maydanozları da küçük olarak doğrayıp hazır hale getirelim.",
-        "Yumurtaları mikserle iyice çırpıp üzerine yoğurt, sıvı yağ, peynir,  karabiber, pul biber ve tuzu ekleyip karıştıralım. Doğradığımız  patates, soğan ve maydanozu ekleyip tekrar karıştıralım.",
+        "Yumurtaları mikserle iyice çırpıp üzerine yoğurt, sıvı yağ, peynir, karabiber, pul biber ve tuzu ekleyip karıştıralım. Doğradığımız patates, soğan ve maydanozu ekleyip tekrar karıştıralım.",
         "En son kabartma tozu ve unu ekleyerek karıştıralım. Borcamı yağlayıp borcama malzemeyi dökelim tepsi kağıdı varsa eğer onu kullanabiliriz.",
         "Üzerine susam dökelim ve 180°fırında üzeri iyice kızarana kadar pişirelim. Soğumaya bırakalım. Yani yaklaşık yarım saat sonra servis edelim. Afiyet olsun."
       ],
@@ -5247,12 +5247,12 @@ export const atistirmalikRecipes: Recipe[] = [
         "2 su bardağı ince bulgur",
         "2 su bardağı sıcak su",
         "1 çay bardağı zeytinyağı",
-        "Yarım çay bardağı nar ekşisi+1 yemek kaşığı nar ekşisi",
+        "yarım çay bardağı nar ekşisi+1 yemek kaşığı nar ekşisi",
         "1 adet soğan",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "4 yemek kaşığı isot",
-        "Yarım yemek kaşığı pulbiber",
+        "yarım yemek kaşığı pulbiber",
         "2 buçuk yemek kaşığı sumak",
         "1 tatlı kaşığı tuz"
       ],

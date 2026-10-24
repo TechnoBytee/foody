@@ -74,7 +74,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket fırın makarna",
         "1 tatlı kaşığı tuz",
-        "Su"
+        "su"
       ],
       "en": [
         "1 pack oven-bake pasta",
@@ -91,7 +91,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "Kuru bir yer kalmamalı. Sonra üzerine rendelenmiş kaşar peynirimizi serpiyoruz.",
         "En son tereyağından bıçak ucuyla kesip küçük parçalar halinde aralıklarla kenarlarına koyuyoruz.",
         "Sonunda ortalarına da bir kaç parça koyuyoruz ve 180 derece ısıtılmış fırına sürüyoruz.",
-        "Yarım saat kadar pişiriyoruz. Size tavsiyem fırında piştikten sonra 15 dakika kadar içini çekmesi için bekletmeniz. Afiyet olsun."
+        "Yarım saat kadar pişiriyoruz. Size tavsiyem fırında piştikten sonra 15 dakika kadar içini çekmesi için bekletmeniz. Afiyet olsun."
       ],
       "en": [
         "First, cook the pasta in salted water.",
@@ -124,11 +124,11 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "2 adet tavuk göğsü",
         "1 kutudan yarım çay bardağı eksik sıvı krema",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 chicken breasts",
-        "Liquid cream, a bit short of half a cup (from one carton)",
+        "Liquid cream, a bit short of half a teacup (from one carton)",
         "Salt"
       ]
     },
@@ -192,7 +192,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket fırın makarna",
         "1 tatlı kaşığı tuz",
-        "Su"
+        "su"
       ],
       "en": [
         "1 pack oven-bake pasta",
@@ -202,10 +202,10 @@ export const nefis_makarnaRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Öncelikle kaynayan suya tuz ve  makarnayı ekleyerek makarnaları haşlanmaya bırakalım.",
+        "Öncelikle kaynayan suya tuz ve makarnayı ekleyerek makarnaları haşlanmaya bırakalım.",
         "Makarnalarımız haşlanırken beşamel sos için uygun bir tencerede tereyağını eritelim.",
         "Eriyen tereyağının üzerine unu ilave ederek unun kokusu çıkıncaya kadar kavuralım.",
-        "Ardından  sütü yavaş ve kontrollü bir şekilde ilave edelim. Sütü eklerken bir yandan da topaklanmaması için çırpmaya devam edelim.",
+        "Ardından sütü yavaş ve kontrollü bir şekilde ilave edelim. Sütü eklerken bir yandan da topaklanmaması için çırpmaya devam edelim.",
         "Son olarak tuz ilave ettiğimiz beşamel sosu kaynayıp koyulaşıncaya kadar pişirelim.",
         "Koyulaşan ve kıvam alan beşamel sosu ocaktan alalım.",
         "Makarnaları da ocaktan alarak suyunu süzelim. Makarnayı arkasındaki süreye göre haşlayabilirsiniz. Benim kullandığım makarna için 7 dakika yeterli geldi.",
@@ -252,7 +252,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "250 gram makarna",
         "2 domates",
-        "Yarım yemek kaşığı domates salçası",
+        "yarım yemek kaşığı domates salçası",
         "1 yemek kaşığı tatlı biber salçası",
         "1 yemek kaşığı zeytinyağı",
         "100 ml sıvı krema",
@@ -261,7 +261,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 çay kaşığı karabiber ve pul biber",
         "1 diş sarımsak",
         "2, 5 su bardağı su (200 ml bardak ölçüsü ile)",
-        "İsteğe göre kurumuş maydanoz"
+        "isteğe göre kurumuş maydanoz"
       ],
       "en": [
         "250 g pasta",
@@ -315,15 +315,15 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket boncuk makarna",
-        "Yarım kg kemiksiz tavuk göğüsü",
+        "yarım kg kemiksiz tavuk göğüsü",
         "1,5 su bardağı mısır",
-        "1,5 su bardağı garnitür",
+        "1,5 su bardağı garnitür",
         "10-15 adet kornişon turşu",
         "6-7 yemek kaşığı mayonez",
         "6-7 yemek kaşığı yoğurt",
-        "Tuz",
-        "Su",
-        "Sıvı yağ"
+        "tuz",
+        "su",
+        "sıvı yağ"
       ],
       "en": [
         "1 pack small pasta (elbow macaroni)",
@@ -370,8 +370,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "500g Piyale İnce Uzun Makarna",
-        "Tuz"
+        "500g Piyale ince uzun makarna",
+        "tuz"
       ],
       "en": [
         "500g Piyale thin long pasta",
@@ -389,7 +389,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "Haşlanan makarnaları süzdükten sonra derince bir kaba alalım.",
         "Üzerine beşamel sos ve kaşar peyniri rendesini dökerek güzelce karıştıralım.",
         "Son olarak fırın kabımıza makarnaları dökerek üzerini düzeltelim ve kaşar peyniri rendesi serpelim.",
-        "200 ͒C’ye ısıtılmış fırında üzeri kızarana kadar pişirelim.",
+        "200 °C’ye ısıtılmış fırında üzeri kızarana kadar pişirelim.",
         "Pişen makarnamızın ilk sıcağı çıktıktan sonra servis edebiliriz. Afiyet olsun.Şok ürünleri ile hazırladığım çok lezzetli bir fırında makarna tarifi, kesinlikle tavsiye ederim. Kampanyalarını kaçırmamak için Şok Marketler instagram hesabını takibe alabilirsiniz."
       ],
       "en": [
@@ -426,7 +426,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "4 adet orta boy kabak",
         "4 yemek kaşığı zeytinyağı",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "4 medium zucchini",
@@ -470,17 +470,17 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "500 gr makarna (istediğiniz bir çeşit)",
+        "500 gr makarna (istediğiniz bir çeşit)",
         "10 adet mantar",
-        "2 adet yeşil sivri biber",
+        "2 adet yeşil sivri biber",
         "1 adet kapya",
-        "1 adet kuru soğan",
-        "1 adet havuç",
-        "2 diş sarımsak",
-        "1 yemek kaşığı domates salçası",
-        "4 yemek kaşığı zeytinyağ",
-        "1 yemek kaşığı tereyağ̆",
-        "Tuz, karabiber, kekik hepsinden birer çay kaşığı koydum"
+        "1 adet kuru soğan",
+        "1 adet havuç",
+        "2 diş sarımsak",
+        "1 yemek kaşığı domates salçası",
+        "4 yemek kaşığı zeytinyağ",
+        "1 yemek kaşığı tereyağı",
+        "tuz, karabiber, kekik hepsinden birer çay kaşığı koydum"
       ],
       "en": [
         "500 g pasta (any kind you like)",
@@ -498,20 +498,20 @@ export const nefis_makarnaRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Makarna tuzlu suda haşlanır. Piştiğinde suyu süzülür ve kenera alınır.",
-        "Mantar iri doğranır. Soğan, sarımsak, biberler ve havuç küçük küçük doğranır.",
-        "Uygun bir tava ocağa alınır. Zeytinyağ dökülür ve ılk havuç eklenir 1 dk. Sotelenir.",
-        "Daha sonra mantar ilave edilir ve yükse ateşte suyunu salmadan sotelenir.",
-        "Bu şekilde yaparsak mantar diri ve lezzetli kalır.",
-        "Mantarlarda renk değiştirdiğinde soğan ve sarımsak eklenir.",
+        "Makarna tuzlu suda haşlanır. Piştiğinde suyu süzülür ve kenera alınır.",
+        "Mantar iri doğranır. Soğan, sarımsak, biberler ve havuç küçük küçük doğranır.",
+        "Uygun bir tava ocağa alınır. Zeytinyağ dökülür ve ılk havuç eklenir 1 dk. Sotelenir.",
+        "Daha sonra mantar ilave edilir ve yükse ateşte suyunu salmadan sotelenir.",
+        "Bu şekilde yaparsak mantar diri ve lezzetli kalır.",
+        "Mantarlarda renk değiştirdiğinde soğan ve sarımsak eklenir.",
         "1 dakika sonra biber eklenir ve 2 dakika daha sotelenir.",
-        "Bir yemek kaşığı tereyağ ilave edilir.",
-        "Tereyağ eridiğinde salça eklenir ve 1 dakika kadar kavrulur.",
-        "Uygun bir kaseye süt alınır ve nişasta eklenir güzelce çırpılır.",
-        "Daha sonra süt sebzelerin üzerine dökülür.",
-        "Ocağın altı kısık ateşe alınır ve sosun hafif koyulaşması beklenir.",
-        "Daha makarna ilave edilir 1 dakika daha ocakta pişirip servise hazır edilir.",
-        "Dilerseniz üzerine maydanoz serpe bilirsiniz. Afiyet olsun 😋."
+        "Bir yemek kaşığı tereyağ ilave edilir.",
+        "Tereyağ eridiğinde salça eklenir ve 1 dakika kadar kavrulur.",
+        "Uygun bir kaseye süt alınır ve nişasta eklenir güzelce çırpılır.",
+        "Daha sonra süt sebzelerin üzerine dökülür.",
+        "Ocağın altı kısık ateşe alınır ve sosun hafif koyulaşması beklenir.",
+        "Daha makarna ilave edilir 1 dakika daha ocakta pişirip servise hazır edilir.",
+        "Dilerseniz üzerine maydanoz serpe bilirsiniz. Afiyet olsun 😋."
       ],
       "en": [
         "The pasta is boiled in salted water. When it is cooked, drain it and set it aside.",
@@ -548,7 +548,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket fırın makarna (miktarı fırın kabınıza göre ayarlayabilirsiniz)"
+        "yarım paket fırın makarna (miktarı fırın kabınıza göre ayarlayabilirsiniz)"
       ],
       "en": [
         "Half a pack oven-bake pasta (you can adjust the amount to your baking dish)"
@@ -599,7 +599,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "200 gr makarna (ben fettucine kullandım, farklı çeşit de olur)",
         "200 ml sıvı krema",
         "1 yemek kaşığı toz parmesan peyniri (tercihe bağlı)",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 tatlı kaşığı kekik",
         "1 çay kaşığı tuz"
       ],
@@ -669,7 +669,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "2 yemek kaşığı rendelenmiş parmesan peyniri (alternatif olarak eski kaşar da olur)",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
-        "Erişteyi haşlamak için sıcak su"
+        "erişteyi haşlamak için sıcak su"
       ],
       "en": [
         "250 g erişte",
@@ -937,11 +937,11 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 tane kapya biber",
         "1-2 tane yeşil biber",
         "2 diş sarımsak",
-        "Yarım çay bardağı zeytinyağı",
-        "Yarım su bardağı soya sosu",
-        "Karabiber",
-        "Toz kırmızı biber",
-        "Pul biber"
+        "yarım çay bardağı zeytinyağı",
+        "yarım su bardağı soya sosu",
+        "karabiber",
+        "toz kırmızı biber",
+        "pul biber"
       ],
       "en": [
         "5 nest portions of noodles",
@@ -949,7 +949,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 bell pepper",
         "1-2 green peppers",
         "2 garlic cloves",
-        "Half a cup olive oil",
+        "Half a teacup olive oil",
         "Half a cup soy sauce",
         "Black pepper",
         "Ground red pepper",
@@ -997,8 +997,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 kutu sosis",
         "500 gram kaşar",
         "3 yemek kaşığı salça",
-        "Dilediğin baharat",
-        "Tuz",
+        "dilediğin baharat",
+        "tuz",
         "3 yemek kaşığı zeytinyağı",
         "1 paket uzun makarna"
       ],
@@ -1100,7 +1100,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Zeytinyağı",
+        "zeytinyağı",
         "1 adet kuru soğan",
         "250 gram tavuk göğsü (küp doğranmış)",
         "2 diş sarımsak",
@@ -1109,9 +1109,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı kırmızı toz biber",
-        "Tuz",
+        "tuz",
         "200 ml krema",
-        "Üzerini geçecek kadar sıcak su"
+        "üzerini geçecek kadar sıcak su"
       ],
       "en": [
         "Olive oil",
@@ -1164,15 +1164,15 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 pk makarna",
         "200-300 gr kıyma",
-        "Yoğurt( makarnanın miktarına göre değişir)",
+        "yoğurt( makarnanın miktarına göre değişir)",
         "1 -2 diş sarımsak",
         "1 adet soğan",
-        "Yarım yemek kaşığı domates salçası(sos için kullanılacak)",
-        "Yarım fincan sıvı yağ",
+        "yarım yemek kaşığı domates salçası(sos için kullanılacak)",
+        "yarım fincan sıvı yağ",
         "1 tatlı kaşığı pul biber(isteğe bağlı)",
         "1 tatlı kaşığı kuru nane",
         "1 yemek kaşığı salça",
-        "Makarnaya bir tatlı kaşığı sosa bir çay kaşığı"
+        "makarnaya bir tatlı kaşığı sosa bir çay kaşığı"
       ],
       "en": [
         "1 pk pasta",
@@ -1185,7 +1185,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 tsp chili flakes (optional)",
         "1 tsp dried mint",
         "1 tbsp tomato paste",
-        "1 tsp tomato paste per cup of pasta water"
+        "1 tsp tomato paste per teaspoon of pasta water"
       ]
     },
     "steps": {
@@ -1235,7 +1235,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "1 paket krema",
         "1 tatlı kaşığı makarna baharatı (yoksa karabiber,köri,pulbiber,kuru nane)",
-        "Yarım çay bardağı sıvı yağ"
+        "yarım çay bardağı sıvı yağ"
       ],
       "en": [
         "1 pack pasta",
@@ -1245,7 +1245,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 tbsp tomato paste",
         "1 pack cream",
         "1 tsp pasta spice (if you do not have it, black pepper, curry, chili flakes, dried mint)",
-        "Half a cup vegetable oil"
+        "Half a teacup vegetable oil"
       ]
     },
     "steps": {
@@ -1291,14 +1291,14 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket hazır noodle (tavuk)",
-        "Noodle paketinden çıkan aromalar",
+        "noodle paketinden çıkan aromalar",
         "1 tatlı kaşığı pul biber",
-        "Toz biber",
-        "Tuz",
+        "toz biber",
+        "tuz",
         "1 çay kaşığı sarımsak tozu",
         "5 yemek kaşığı noodle suyu (haşlandıktan sonraki suyu)",
         "1,5 yemek kaşığı sıvı yağ",
-        "Limon suyu"
+        "limon suyu"
       ],
       "en": [
         "1 pack instant noodles (chicken)",
@@ -1344,19 +1344,19 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "2 adet domates (isteğe göre arttırabilirsiniz)",
         "1 paket krema",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "10 gram tereyağı",
         "1 yemek kaşığı tatlı biber salçası",
         "2 3 yemek kaşığı domates salçası",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Kimyon"
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "kimyon"
       ],
       "en": [
         "2 tomatoes (you can increase them if you like)",
         "1 pack cream",
-        "Half a cup vegetable oil",
+        "Half a teacup vegetable oil",
         "10 g butter",
         "1 tbsp sweet pepper paste",
         "2-3 tbsp tomato paste",
@@ -1408,7 +1408,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "95 gram pastet (ben argeta markası kullandım dileğiniz marka kullanabilirsiniz.)",
         "200 gram smetana ( normal kaymak kullanılabilir)",
         "2 yemek kaşığı sıvı krema",
-        "Göz kararı tereyağ"
+        "göz kararı tereyağ"
       ],
       "en": [
         "500 g pasta",
@@ -1511,13 +1511,13 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı kimyon",
         "1 tatlı kaşığı kırmızı toz biber",
-        "Sıvı yağ",
-        "Tuz",
+        "sıvı yağ",
+        "tuz",
         "1 su bardağı krema",
-        "Su",
+        "su",
         "1 yemek kaşığı kekik",
         "1 tatlı kaşığı kuru nane",
-        "Makarna içine haşlanan makarna suyundan 1 çay bardağı ayıralım",
+        "makarna içine haşlanan makarna suyundan 1 çay bardağı ayıralım",
         "3 adet domates",
         "3 diş sarımsak"
       ],
@@ -1533,7 +1533,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "Water",
         "1 tbsp thyme",
         "1 tsp dried mint",
-        "Set aside 1 cup of the water the pasta is boiled in",
+        "Set aside 1 teacup of the water the pasta is boiled in",
         "3 tomatoes",
         "3 garlic cloves"
       ]
@@ -1576,17 +1576,17 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket makarna",
+        "yarım paket makarna",
         "2 adet domates",
         "2 adet biber",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "1 tatlı kaşığı kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Yağ",
-        "Tuz",
-        "Karabiber",
-        "Pulbiber",
-        "Nane"
+        "yağ",
+        "tuz",
+        "karabiber",
+        "pulbiber",
+        "nane"
       ],
       "en": [
         "Half a pack pasta",
@@ -1640,8 +1640,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "3-4 yemek kaşığı sızma zeytinyağı",
         "1 yemek kaşığı tereyağı",
         "1 su bardağı makarna suyu",
-        "Tuz",
-        "Karabiber"
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "150-200 g spaghetti",
@@ -1692,7 +1692,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Lazanya yaprakları"
+        "lazanya yaprakları"
       ],
       "en": [
         "Lasagna sheets"
@@ -1743,8 +1743,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket makarna",
-        "Kaşar peyniri",
-        "Maydanoz"
+        "kaşar peyniri",
+        "maydanoz"
       ],
       "en": [
         "1 pack pasta",
@@ -1861,8 +1861,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "400 gr karides",
         "100 gr tereyağı",
         "1 çay bardağı zeytinyağı",
-        "Dondurulmuş karışık sebze",
-        "Yarım paket yassı makarna",
+        "dondurulmuş karışık sebze",
+        "yarım paket yassı makarna",
         "3 diş sarımsak",
         "6 yemek kaşığı soya sosu",
         "2 yemek kaşığı susam",
@@ -1871,7 +1871,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": [
         "400 g shrimp",
         "100 g butter",
-        "1 cup olive oil",
+        "1 teacup olive oil",
         "Frozen mixed vegetables",
         "Half a pack flat pasta",
         "3 garlic cloves",
@@ -1912,13 +1912,13 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket dilediğiniz tip makarna",
+        "yarım paket dilediğiniz tip makarna",
         "2 dolu yemek kaşığı tereyağ",
         "2 yemek kaşığı un",
         "2 su bardağı süt",
-        "Dilediğiniz kadar kaşar",
-        "Tuz",
-        "Karabiber"
+        "dilediğiniz kadar kaşar",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "Half a pack of the pasta type you like",
@@ -1966,11 +1966,11 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket makarna",
         "1 tabak rendelenmiş beyaz peynir",
-        "Kaşar peynir",
+        "kaşar peynir",
         "3 yemek kaşığı yoğurt",
-        "Nane",
-        "Tuz",
-        "Sıvı yağ"
+        "nane",
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "1 pack pasta",
@@ -2056,7 +2056,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket küçük makarna",
+        "yarım paket küçük makarna",
         "1 diş sarımsak",
         "1 su bardağı mayonez",
         "2,5 su bardağı süzme yoğurt",
@@ -2064,7 +2064,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 kavanoz garnitür",
         "1 adet konserve mısır",
         "1 yemek kaşığı zeytinyağı",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1,5 tatlı kaşığı tuz",
         "1 tatlı kaşığı karabiber"
       ],
@@ -2115,7 +2115,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket fırın makarna",
-        "Kaşar peyniri"
+        "kaşar peyniri"
       ],
       "en": [
         "1 pack oven-bake pasta",
@@ -2200,18 +2200,18 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket lazanya",
+        "yarım paket lazanya",
         "200 gram kadar kıyma",
-        "Yarım kapya biber",
+        "yarım kapya biber",
         "1 soğan",
         "1 domates",
         "2 yeşil biber",
         "1 yemek kaşığı salça",
-        "Beşamel sos için 2 yemek kaşığı sıvı yağ",
+        "beşamel sos için 2 yemek kaşığı sıvı yağ",
         "2 yemek kaşığı tereyağı",
         "2 yemek kaşığı un",
         "500 ml süt",
-        "Kaşar peyniri"
+        "kaşar peyniri"
       ],
       "en": [
         "Half a pack lasagna",
@@ -2262,7 +2262,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket tagliatelle makarna (15-16 adet)",
         "4 su bardağı sıcak su",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 tatlı kaşığı toz biber",
         "1 tatlı kaşığı kırmızı toz biber",
         "1 tatlı kaşığı pul biber",
@@ -2271,12 +2271,12 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı zerdeçal",
         "1 yemek kaşığı tepeleme biber salçası (yarım su bardağı su, salçayı açmak için)",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 pack tagliatelle pasta (15-16 pieces)",
         "4 cups hot water",
-        "Half a cup vegetable oil",
+        "Half a teacup vegetable oil",
         "1 tsp ground pepper",
         "1 tsp ground red pepper",
         "1 tsp chili flakes",
@@ -2324,9 +2324,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "3 yemek kaşığı pesto sosu",
         "3 yemek kaşığı zeytinyağı",
         "2 adet domates",
-        "Tuz",
-        "Karabiber",
-        "Reyhan kurusu",
+        "tuz",
+        "karabiber",
+        "reyhan kurusu",
         "3 adet hellim peyniri"
       ],
       "en": [
@@ -2380,10 +2380,10 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "2 diş sarımsak",
         "3 adet olgun domates",
         "1 çay kaşığı kekik",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Rendelenmiş kaşar peyniri"
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "rendelenmiş kaşar peyniri"
       ],
       "en": [
         "9 sheets of pasta-villa lasagna sheets",
@@ -2442,15 +2442,15 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Makarna",
+        "makarna",
         "4-5 yemek kaşığı yoğurt",
         "1-3 tatlı kaşığı köri (damak tadınıza göre ayarlayın)",
-        "Biraz sıvı yağ veya tereyağı",
-        "Tuz",
-        "İsteğe bağlı olarak karabiber",
-        "Toz biber",
-        "Pul biber",
-        "Yarım çay bardağı makarna suyu"
+        "biraz sıvı yağ veya tereyağı",
+        "tuz",
+        "isteğe bağlı olarak karabiber",
+        "toz biber",
+        "pul biber",
+        "yarım çay bardağı makarna suyu"
       ],
       "en": [
         "Pasta",
@@ -2461,7 +2461,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "Black pepper, optional",
         "Ground pepper",
         "Chili flakes",
-        "Half a cup pasta water"
+        "Half a teacup pasta water"
       ]
     },
     "steps": {
@@ -2505,11 +2505,11 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "3 diş sarımsak",
         "3 yemek kaşığı sıvı yağ",
         "1 tatlı kaşığı kajun baharatı",
-        "Yarım tatlı kaşığı köri",
-        "Yarım tatlı kaşığı toz kırmızıbiber",
-        "Yarım tatlı kaşığı tuz",
-        "Yarım tatlı kaşığı kekik",
-        "Yarım paket krema"
+        "yarım tatlı kaşığı köri",
+        "yarım tatlı kaşığı toz kırmızıbiber",
+        "yarım tatlı kaşığı tuz",
+        "yarım tatlı kaşığı kekik",
+        "yarım paket krema"
       ],
       "en": [
         "1 carrot",
@@ -2560,7 +2560,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket fırın makarna",
         "1 tatlı kaşığı tuz",
-        "Haşlamak için su"
+        "haşlamak için su"
       ],
       "en": [
         "1 pack oven-bake pasta",
@@ -2743,7 +2743,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "3 yumurta",
         "1 tatlı kaşığı tuz",
         "1 su bardağı kaşar peyniri rendesi",
-        "Yufkanın üzerine"
+        "yufkanın üzerine"
       ],
       "en": [
         "1 pack pasta",
@@ -2792,9 +2792,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım paket penne makarna",
-        "Üzerini geçecek kadar su",
-        "Göz kararı tuz"
+        "yarım paket penne makarna",
+        "üzerini geçecek kadar su",
+        "göz kararı tuz"
       ],
       "en": [
         "Half a pack penne pasta",
@@ -2848,7 +2848,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 su bardağı makarna suyu",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı tuz",
-        "Yarım çay bardağı sıvı yağ"
+        "yarım çay bardağı sıvı yağ"
       ],
       "en": [
         "1 pack penne pasta",
@@ -2857,7 +2857,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 cup pasta water",
         "1 tsp black pepper",
         "1 tsp salt",
-        "Half a cup vegetable oil"
+        "Half a teacup vegetable oil"
       ]
     },
     "steps": {
@@ -2899,8 +2899,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı toz kırmızı biber",
-        "Yarım çay kaşığı karabiber",
-        "İsteğe göre biraz kekik veya karbonat"
+        "yarım çay kaşığı karabiber",
+        "isteğe göre biraz kekik veya karbonat"
       ],
       "en": [
         "1 small onion (grated)",
@@ -2969,9 +2969,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "2 adet orta boy soğan",
         "2 adet orta boy domates",
         "2 yemek kaşığı karışık salça",
-        "Sıvıyağ",
-        "Tuz",
-        "Karabiber"
+        "sıvıyağ",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "1 pack pasta",
@@ -3026,7 +3026,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket fırın makarna ( şart değil ben olacağını göstermek için normal spagetti ile yaptım kullanabilirsiniz)",
         "1 kase rendelenmiş kaşar peyniri",
-        "Garnitür (istenirse konulabilir ben koymadım)"
+        "garnitür (istenirse konulabilir ben koymadım)"
       ],
       "en": [
         "1 pack oven-bake pasta (not a must; I am showing what it looks like and I made it with regular spaghetti, you can use this)",
@@ -3111,8 +3111,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 paket erişte",
         "1 kase yoğurt",
         "2 diş sarımsak",
-        "Tuz",
-        "Kekik"
+        "tuz",
+        "kekik"
       ],
       "en": [
         "1 pack erişte",
@@ -3156,7 +3156,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket makarna",
         "2 adet tavuk bulyon",
-        "Kavurmak için sıvı yağ",
+        "kavurmak için sıvı yağ",
         "1 litre kaynar su ( makarnanın azlığına çokluğuna göre ayarlanmalıdır)"
       ],
       "en": [
@@ -3203,19 +3203,19 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket makarna",
-        "Kaşar peynir",
-        "Tuz",
+        "kaşar peynir",
+        "tuz",
         "1 tatlı kaşığı kimyon",
         "1 tatlı kaşığı kırmızı toz biber",
         "1 tatlı kaşığı kekik",
         "1 tatlı kaşığı kuru nane",
         "1 tatlı kaşığı karabiber",
-        "Salça",
+        "salça",
         "2 diş sarımsak",
         "1 adet küçük boy soğan",
         "1 adet domates",
-        "Sıvı yağ",
-        "Yarım çay bardağı su (haşlanan makarna suyundan)"
+        "sıvı yağ",
+        "yarım çay bardağı su (haşlanan makarna suyundan)"
       ],
       "en": [
         "1 pack pasta",
@@ -3231,7 +3231,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 small onion",
         "1 tomato",
         "Vegetable oil",
-        "Half a cup water (from the water the pasta was boiled in)"
+        "Half a teacup water (from the water the pasta was boiled in)"
       ]
     },
     "steps": {
@@ -3266,22 +3266,22 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım paket makarna",
+        "yarım paket makarna",
         "1 paket krema",
         "1 orta boy soğan",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı pulbiber",
         "1 tatlı kaşığı kekik",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 kase rendelenmiş kaşar peyniri",
-        "Eritilmiş tereyağı"
+        "eritilmiş tereyağı"
       ],
       "en": [
         "Half a pack pasta",
         "1 pack cream",
         "1 medium onion",
-        "Half a cup vegetable oil",
+        "Half a teacup vegetable oil",
         "1 tsp black pepper",
         "1 tsp chili flakes",
         "1 tsp thyme",
@@ -3336,7 +3336,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket iki parmak fazla makarna"
+        "yarım paket iki parmak fazla makarna"
       ],
       "en": [
         "Half a pack pasta, 2 fingers more"
@@ -3421,9 +3421,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 paket boncuk makarna",
         "10 tane uzun kornişon turşu",
         "1 kavanoz garnitür",
-        "İstenilen miktarda mayonez",
-        "İstenilen miktarda yoğurt",
-        "Dereotu"
+        "istenilen miktarda mayonez",
+        "istenilen miktarda yoğurt",
+        "dereotu"
       ],
       "en": [
         "1 pack small pasta",
@@ -3469,12 +3469,12 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "150 gram burgu makarna",
-        "Yarım girit kabağı (150 gram)",
+        "yarım girit kabağı (150 gram)",
         "6 yemek kaşığı zeytinyağı",
         "1 diş sarımsak",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı tozbiber"
+        "tuz",
+        "karabiber",
+        "kırmızı tozbiber"
       ],
       "en": [
         "150 g fusilli pasta",
@@ -3564,7 +3564,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket makarna",
+        "yarım paket makarna",
         "1 paket krema",
         "3 yemek kaşığı zeytinyağı",
         "1 orta boy soğan",
@@ -3626,11 +3626,11 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 adet büyük kapya biber",
         "2 adet orta boy domates",
         "1 paket sıvı krema (200 mililitre)",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 yemek kaşığı tereyağı",
         "1 çay kaşığı kekik",
-        "Yarım çay kaşığı karabiber",
-        "Damak tadına göre tuz"
+        "yarım çay kaşığı karabiber",
+        "damak tadına göre tuz"
       ],
       "en": [
         "1 pack pasta (about 500 g)",
@@ -3704,7 +3704,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "2 onions",
         "3 garlic cloves",
         "750 g beef mince",
-        "1/2 (half) cup olive oil",
+        "1/2 (half) teacup olive oil",
         "1 bay leaf",
         "1 cinnamon stick",
         "1 clove",
@@ -3757,9 +3757,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "250 gram spagetti",
         "3 yemek kaşığı bolognese sos",
         "100 gram mantar",
-        "Chery domates",
+        "chery domates",
         "2 diş sarımsak",
-        "Roka",
+        "roka",
         "1 tatlı kaşığı pul biber",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı kaya tuzu"
@@ -3817,12 +3817,12 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "3-4 parça tavuk göğsü",
         "8-9 tane mantar( bol sevenler için )",
         "3 diş sarımsak",
-        "Zeytinyağı",
-        "Karabiber",
-        "Toz biber",
-        "Tuz",
-        "Kekik",
-        "Köri sosu"
+        "zeytinyağı",
+        "karabiber",
+        "toz biber",
+        "tuz",
+        "kekik",
+        "köri sosu"
       ],
       "en": [
         "3-4 pieces chicken breast",
@@ -3839,7 +3839,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Tavukları doğrayıp üç diş sarımsağı ( zevke göre ) ezip bir kaba alıyoruz. İki yemek kaşığı zeytinyağı döküyoruz. Üstüne birer çay kaşığı karabiber, toz biber, tuz ekliyoruz. Göz kararı üstüne hafif kekik atıyoruz.",
-        "Tavukları sosun içinde bekletirken makarnayı haşlanmış suya alıyoruz. Hafif tuz atıp zerdeçal atıyoruz bir tatlı kaşığı.",
+        "Tavukları sosun içinde bekletirken makarnayı haşlanmış suya alıyoruz. Hafif tuz atıp zerdeçal atıyoruz bir tatlı kaşığı.",
         "Makarnalar haşlanınca suyunu süzüyoruz. Ancak bir su bardağı suyundan ayırıyoruz.",
         "Geniş bir tavaya üç çorba kaşığı zeytinyağı alıyoruz. Yağ ısınınca yavaş yavaş tavukları ekliyoruz.",
         "Tavuklar kızarana kadar pişirip üstüne mantarları ekliyoruz.",
@@ -3885,7 +3885,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 çay kaşığı kekik",
         "1 tatlı kaşığı karabiber",
         "1 çay kaşığı tuz ( isteye göre artabilir)",
-        "Sıvı yağ"
+        "sıvı yağ"
       ],
       "en": [
         "1 pack pasta",
@@ -4136,13 +4136,13 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "1 paket spagetti makarna",
         "1 yemek kaşığı domates salçası",
-        "Yarım yemek kaşığı biber salçası",
-        "Yarım tatlı kaşığı kırmızı toz biber",
-        "Yarım tatlı kaşığı karabiber",
+        "yarım yemek kaşığı biber salçası",
+        "yarım tatlı kaşığı kırmızı toz biber",
+        "yarım tatlı kaşığı karabiber",
         "1 çay kaşığı acı pul biber (tercihe bağlı)",
-        "Tuz",
-        "Su",
-        "Sıvıyağ"
+        "tuz",
+        "su",
+        "sıvıyağ"
       ],
       "en": [
         "1 pack spaghetti",
@@ -4303,12 +4303,12 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "14 yaprak lasagne n.189",
         "500 gram kıyma (dana)",
         "1 orta boy soğan",
-        "Çeyrek kapya biber",
-        "Yemeklik krema (crème fraîche)",
+        "çeyrek kapya biber",
+        "yemeklik krema (crème fraîche)",
         "2 yemek kaşığı salça",
         "1 tatlı kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon",
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı kimyon",
         "2 yemek kaşığı zeytinyağı"
       ],
       "en": [
@@ -4330,7 +4330,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "Suyunu çektiğinde soğan ve biberi ekleyin. Pişip rengi değişince salçayı ve baharatları ekleyip 1 dk daha pişirin.",
         "Kremayı kıymalı sosun içine ekleyin karıştırıp tuzu da ekleyip 2-3 dk daha pişirin ve ocaktan alın.",
         "Beşamel sosu için; tereyağında unu tel çarpıcı ile çırparak kavurun. Üzerine sütü azar azar ekleyin, blender ile pürüzsüz hale getirin.",
-        "Kaynamaya başlayınca muskat yada karabiberi ekleyip son olarak tuzunu ekleyip muhallebi kıvamından biraz daha sıvı olacak şekilde ocaktan alabilirsiniz.",
+        "Kaynamaya başlayınca muskat ya da karabiberi ekleyip son olarak tuzunu ekleyip muhallebi kıvamından biraz daha sıvı olacak şekilde ocaktan alabilirsiniz.",
         "Küçük ölçüdeki borcam tabanına önce beşamel sosundan kepçeyle az alıp biraz yayın ve 2 yaprak lazanyayı yan yana koyun.",
         "Lazanyanın üstüne önce kıymalı sosunu koyun sonra beşamel sosunu dökün. Bu adımı her lazanya için uygulayın.",
         "Lazanyaların aralarını bu şekilde soslayarak bir düz bir yan olacak şekilde üst üste dizin.",
@@ -4439,11 +4439,11 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 su bardağı domates rendesi",
         "1’er çay kaşığı pul biber",
-        "Toz biber",
-        "Kekik",
-        "Yarım çay kaşığı karabiber",
-        "Tuz",
-        "Yarım paket mantı makarna",
+        "toz biber",
+        "kekik",
+        "yarım çay kaşığı karabiber",
+        "tuz",
+        "yarım paket mantı makarna",
         "4 su bardağı sıcak su"
       ],
       "en": [
@@ -4631,7 +4631,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 tatlı kaşığı susam yağı",
         "1 çay kaşığı köri",
         "1 tutam karabiber",
-        "Sıvı yağ",
+        "sıvı yağ",
         "2 tatlı kaşığı pul biber veya acı baharat (baharatları damak tadınıza göre ayarlayabilirsiniz)"
       ],
       "en": [
@@ -4694,13 +4694,13 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket makarna",
-        "Yaklaşık 200 gram kıyma",
+        "yarım paket makarna",
+        "yaklaşık 200 gram kıyma",
         "1 adet soğan",
         "2 adet yeşil biber (isteğe bağlı)",
-        "Sıcak su 3 su bardağı kadar",
+        "sıcak su 3 su bardağı kadar",
         "1 tatlı kaşığı salça",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "Half a pack pasta",
@@ -4745,9 +4745,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket haşlanmış makarna",
-        "İstediğiniz ölçüde ince kıyılmış sucuk",
+        "istediğiniz ölçüde ince kıyılmış sucuk",
         "1 orta boy ince doğranmış domates",
-        "Yarım demet ince kıyılmış maydanoz"
+        "yarım demet ince kıyılmış maydanoz"
       ],
       "en": [
         "1 pack boiled pasta",
@@ -4788,7 +4788,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım kalın iki ayrı çeşit makarna"
+        "yarım kalın iki ayrı çeşit makarna"
       ],
       "en": [
         "Half a thick pack of two different kinds of pasta"
@@ -4876,7 +4876,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
   {
     "id": "nefis-nefis-makarna-1488",
     "name": {
-      "tr": "​Gigi Hadid Makarnası",
+      "tr": "Gigi Hadid Makarnası",
       "en": "Gigi Hadid Pasta"
     },
     "cuisine": "nefis-makarna",
@@ -4884,16 +4884,16 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Penne veya rigatoni makarna",
-        "​Yarım soğan (incecik kıyılmış)",
-        "​1-2 diş sarımsak",
-        "​2 yemek kaşığı domates salçası",
-        "​Yarım su bardağı krema",
-        "​Zeytinyağı",
-        "​Kırmızı toz biber (veya pul biber) ️",
-        "​Parmesan peyniri",
-        "​Tuz",
-        "Karabiber"
+        "penne veya rigatoni makarna",
+        "yarım soğan (incecik kıyılmış)",
+        "1-2 diş sarımsak",
+        "2 yemek kaşığı domates salçası",
+        "yarım su bardağı krema",
+        "zeytinyağı",
+        "kırmızı toz biber (veya pul biber) ️",
+        "Parmesan peyniri",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "Penne or rigatoni pasta",
@@ -4910,12 +4910,12 @@ export const nefis_makarnaRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "​Makarnaları haşlayın ve o güzel haşlama suyundan bir fincan kenara ayırın!",
+        "Makarnaları haşlayın ve o güzel haşlama suyundan bir fincan kenara ayırın!",
         "Soğan ve sarımsağı tavada zeytinyağı ile kavurun.",
         "Salçayı ekle ve iyice karamelize olana kadar soteleyin.",
         "Kremayı ve baharatları dökün, o harika rengi alana kadar karıştırın.",
         "Ayırdığınız makarna suyunu ekleyip sosu biraz açın .",
-        "Makarnaları sosla buluşturun ve üzerine bolca peynir rendeleyin! 🧀🧀 ​Servis edin ve afiyetle ye! 👩‍🍳💖."
+        "Makarnaları sosla buluşturun ve üzerine bolca peynir rendeleyin! 🧀🧀 Servis edin ve afiyetle ye! 👩🍳💖."
       ],
       "en": [
         "Boil the pasta and set aside a cup of that wonderful boiling water!",
@@ -4946,11 +4946,11 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "tr": [
         "250 gram makarna (yarım paket)",
         "1 yemek kaşığı domates-biber karışık salça",
-        "Yarım su bardağı domates püresi",
+        "yarım su bardağı domates püresi",
         "1 tatlı kaşığı nane",
         "1 tatlı kaşığı pul biber",
         "1 tatlı kaşığı tuz",
-        "Makarnanın üzerini geçecek kadar sıcak su (500 ml)"
+        "makarnanın üzerini geçecek kadar sıcak su (500 ml)"
       ],
       "en": [
         "250 g pasta (half a pack)",
@@ -5000,7 +5000,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "2 yemek kaşığı tere yağı",
         "1 yemek kaşığı sıvı yağ",
         "2 yemek kaşığı domates salçası",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 pack pasta",
@@ -5048,7 +5048,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "20 gram taze fesleğen (1 dolu avuç)",
         "1 çay kaşığı zeytinyağı",
         "1 tutam tuz",
-        "En son sotelemek için 1 yemek kaşığı tereyağ",
+        "en son sotelemek için 1 yemek kaşığı tereyağ",
         "2 yemek kaşığı zeytinyağ",
         "1 adet sarımsak"
       ],
@@ -5114,7 +5114,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "1 paket mantar aromalı krema",
         "2 çay kaşığı karabiber",
         "4 diş sarımsak",
-        "Sıvı yağ"
+        "sıvı yağ"
       ],
       "en": [
         "1 pack pasta",
@@ -5163,9 +5163,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "2 diş sarımsak",
         "1 tutam maydanoz",
         "1 yemek kaşığı domates salça",
-        "Az sıvı yağ",
-        "Kaynar su",
-        "Tuz",
+        "az sıvı yağ",
+        "kaynar su",
+        "tuz",
         "1 çay kaşığı köri",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kekik",
@@ -5230,16 +5230,16 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım paket makarna",
+        "yarım paket makarna",
         "2 orta boy domates",
         "2 diş sarımsak",
         "2 yemek kaşığı zeytinyağı",
         "1 yemek kaşığı domates salçası (isteğe bağlı)",
-        "Tuz",
-        "Karabiber",
-        "Kekik",
-        "Pul biber (isteğe bağlı)",
-        "Rendelenmiş parmesan veya kaşar peyniri (isteğe bağlı)"
+        "tuz",
+        "karabiber",
+        "kekik",
+        "pul biber (isteğe bağlı)",
+        "rendelenmiş parmesan veya kaşar peyniri (isteğe bağlı)"
       ],
       "en": [
         "Half a pack pasta",
@@ -5297,10 +5297,10 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket krema",
-        "Yarım paketten fazla makarna",
-        "Su",
-        "Tuz",
-        "Yarım çay kaşığı zerdeçal",
+        "yarım paketten fazla makarna",
+        "su",
+        "tuz",
+        "yarım çay kaşığı zerdeçal",
         "1 yemek kaşığı sebze çeşnisi",
         "1 yemek kaşığı tereyağı",
         "1 yemek kaşığı sıvıyağ"
@@ -5409,7 +5409,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "5 yemek kaşığı salça",
         "1 çay kaşığı tuz",
         "1 tatlı kaşığı kekik",
-        "Sıvıyağ"
+        "sıvıyağ"
       ],
       "en": [
         "1 pack pasta (whichever you like)",
@@ -5511,9 +5511,9 @@ export const nefis_makarnaRecipes: Recipe[] = [
         "2 yemek kaşığı zeytinyağı",
         "1 paket krema",
         "1 tepeleme tatlı kaşığı köri",
-        "Karabiber",
-        "Tuz",
-        "Bir tutam taze fesleğen"
+        "karabiber",
+        "tuz",
+        "bir tutam taze fesleğen"
       ],
       "en": [
         "3 cups erişte",
@@ -5560,7 +5560,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım paket lazanya"
+        "yarım paket lazanya"
       ],
       "en": [
         "Half a pack lasagna"

@@ -21,7 +21,7 @@ export const cocukRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "6 yemek kaşığı tarhana",
         "8 su bardağı su",
-        "Yarım çay bardağı tel şehriye"
+        "yarım çay bardağı tel şehriye"
       ],
       "en": [
         "5 tbsp vegetable oil",
@@ -77,9 +77,9 @@ export const cocukRecipes: Recipe[] = [
         "2 adet yumurta",
         "1,5 su bardağı un",
         "1 su bardağı su",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 çay kaşığı tuz",
-        "Sıvı yağ"
+        "sıvı yağ"
       ],
       "en": [
         "2 eggs",
@@ -130,7 +130,7 @@ export const cocukRecipes: Recipe[] = [
       "tr": [
         "1 lt hazır süt",
         "1 su bardağı toz şeker",
-        "Bir çay kaşığı (silme) kabartma tozu"
+        "bir çay kaşığı (silme) kabartma tozu"
       ],
       "en": [
         "1 liter ready milk",
@@ -177,9 +177,9 @@ export const cocukRecipes: Recipe[] = [
         "1 paket hindistan cevizi ( 200 gr )",
         "1 su bardağı krem şanti tozu ( iki paket )",
         "1 paket vanilya şekeri",
-        "Yarım çay bardağı krema ( Schlagsahne )",
-        "2 yemek kaşığı pudra şeker",
-        "Yaklaşık 30-40 tane fındık içi"
+        "yarım çay bardağı krema ( Schlagsahne )",
+        "2 yemek kaşığı pudra şekeri",
+        "yaklaşık 30-40 tane fındık içi"
       ],
       "en": [
         "1 pack desiccated coconut (200g)",
@@ -230,8 +230,8 @@ export const cocukRecipes: Recipe[] = [
         "160 g bitter çikolata",
         "1 tatlı kaşığı tereyağı",
         "1,5 paket petibör bisküvi (150g’lık paketlerden)",
-        "Hindistan Cevizi",
-        "Ceviz (dövülmüş)"
+        "hindistan cevizi",
+        "ceviz (dövülmüş)"
       ],
       "en": [
         "1 box liquid cream (200ml)",
@@ -250,9 +250,9 @@ export const cocukRecipes: Recipe[] = [
         "Çikolata sosu oda sıcaklığına gelene kadar bisküvileri robotta çekin.",
         "Soğuyan çikolata sosunu bisküvilerin üzerine ilave edin.",
         "Ben bisküvilerin bir kısmını ayırarak karışıma sonradan ihtiyacım olduğu kadar ekledim. Size verdiğim ölçü benim için tam geldi ama yine de tedbir amaçlı sizin de bu şekilde yapmanızda fayda var. Eğer karışım çok sıvı olursa da biraz daha bisküvi ekleyerek şekil verebilecek kıvama getiriyoruz.",
-        "Çok fazla karıştırmadan üzerini streç film ile örtüp buz dolabında 10-15 dakika kadar dinlendirin.",
+        "Çok fazla karıştırmadan üzerini streç film ile örtüp buzdolabında 10-15 dakika kadar dinlendirin.",
         "Ardından karışımdan parçalar alarak dilediğiniz boyutta toplar oluşturun.",
-        "Hindistan cevizine yada kırık cevize bulayarak servis tabağına alın.",
+        "Hindistan cevizine ya da kırık cevize bulayarak servis tabağına alın.",
         "Çikolata toplarını buzdolabında 3-4 saat dinlendirdikten sonra servis edebilirsiniz. Afiyet olsun.."
       ],
       "en": [
@@ -286,11 +286,11 @@ export const cocukRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yumurta",
-        "Maydanoz",
-        "Pul biber, karabiber",
-        "Tuz",
-        "Zeytinyağı"
+        "yumurta",
+        "maydanoz",
+        "pul biber, karabiber",
+        "tuz",
+        "zeytinyağı"
       ],
       "en": [
         "eggs",
@@ -352,8 +352,8 @@ export const cocukRecipes: Recipe[] = [
       "tr": [
         "Öncelikle parçalara ayırdığınız çikolataları benmari usulü eritin. İçine tereyağı ve sütü ilave ederek iyice karıştırın.",
         "En son cocopopsları ilave edip çikolatalı karışımı her tarafına iyice yedirin.",
-        "Şekil vermek için fincanınızı ıslatıp çikolatalı cocopopsları kaşık yardımıyla içine doldurup tepsiye ters çevirin.  Fincanı tepsiye vurduğunuzda kolaylıkla çıkacaktır.",
-        "Tüm çikolatalı cocopopslar bitene kadar aynı işlemi yapın.  Her defasında fincanı ıslatmayı unutmayın. Pasta görünümlü lezzetli cocopopslar hazır."
+        "Şekil vermek için fincanınızı ıslatıp çikolatalı cocopopsları kaşık yardımıyla içine doldurup tepsiye ters çevirin. Fincanı tepsiye vurduğunuzda kolaylıkla çıkacaktır.",
+        "Tüm çikolatalı cocopopslar bitene kadar aynı işlemi yapın. Her defasında fincanı ıslatmayı unutmayın. Pasta görünümlü lezzetli cocopopslar hazır."
       ],
       "en": [
         "First melt chopped chocolates in bain-marie. Add butter and milk and mix well.",
@@ -384,7 +384,7 @@ export const cocukRecipes: Recipe[] = [
         "1 yumurta",
         "2 yemek kaşığı un",
         "4 su bardağı su",
-        "Yarım çay bardağı tel şehriye",
+        "yarım çay bardağı tel şehriye",
         "1 yemek kaşığı tereyağı",
         "1 tatlı kaşığı kuru nane",
         "tuz"
@@ -504,7 +504,7 @@ export const cocukRecipes: Recipe[] = [
       ],
       "en": [
         "2 eggs",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "2 teacups milk",
         "2 tablespoons vegetable oil",
         "2.5 cups flour",
@@ -616,8 +616,8 @@ export const cocukRecipes: Recipe[] = [
       "tr": [
         "4 yumurta (oda sıcaklığında)",
         "1 su bardağı şeker",
-        "Yarım su bardağı süt",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı süt",
+        "yarım su bardağı sıvı yağ",
         "2 su bardağı un",
         "1 paket kabartma tozu",
         "1 paket vanilin",
@@ -671,11 +671,11 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "125 gram oda sıcaklığında margarin",
-        "Yarım çay bardağı sıvı yağ",
-        "Yarım su bardağı pudra şekeri",
+        "yarım çay bardağı sıvı yağ",
+        "yarım su bardağı pudra şekeri",
         "1 adet yumurta",
         "1 paket vanilya",
-        "Çeyrek paket kabartma tozu",
+        "çeyrek paket kabartma tozu",
         "1 dilim pancar rendesi (suyunu kullanacağız)",
         "1 kaşık dolusu ıspanak püresi",
         "2–3 su bardağı un (kontrollü ekleyin)"
@@ -788,7 +788,7 @@ export const cocukRecipes: Recipe[] = [
         "1 çay bardağı nişasta",
         "1 paket kabartma tozu",
         "2 yemek kaşığı kakao",
-        "Aldığı kadar un (yaklaşık 2 su bardağı)"
+        "aldığı kadar un (yaklaşık 2 su bardağı)"
       ],
       "en": [
         "1 egg",
@@ -881,13 +881,13 @@ export const cocukRecipes: Recipe[] = [
         "100 gram (fransız usulü) otlu krem peynir",
         "100 gram rendelenmiş kaşar peyniri – isteğe bağlı, hiç kullanmayabiliriz",
         "20 gram tereyağı – küçük parçalar halinde",
-        "Fırın kabını yağlamak için 1 tatlı kaşığı tereyağı",
+        "fırın kabını yağlamak için 1 tatlı kaşığı tereyağı",
         "1 tatlı kaşığı tuz",
         "½ tatlı kaşığı taze rendelenmiş muskat",
         "½ tatlı kaşığı karabiber",
-        "Gerekirse bir miktar süt",
-        "İsteğe bağlı: birkaç küçük dondurulmuş brokoli çiçeği",
-        "İsteğe bağlı: birkaç adet ikiye bölünmüş cherry domates"
+        "gerekirse bir miktar süt",
+        "isteğe bağlı: birkaç küçük dondurulmuş brokoli çiçeği",
+        "isteğe bağlı: birkaç adet ikiye bölünmüş cherry domates"
       ],
       "en": [
         "800g medium potatoes - important: use potato type that does not fall apart while cooking",
@@ -959,9 +959,9 @@ export const cocukRecipes: Recipe[] = [
         "1 diş sarımsak",
         "1 orta boy soğan",
         "1 çay kaşığı ucuyla zerdeçal",
-        "Tuz",
-        "Nane",
-        "Zeytinyağ"
+        "tuz",
+        "nane",
+        "zeytinyağ"
       ],
       "en": [
         "1 bowl finely diced chicken breast",
@@ -1015,17 +1015,17 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 yumurta",
-        "Yarım çay bardağı şeker",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı şeker",
+        "yarım çay bardağı zeytinyağı",
         "1 çay bardağı süt",
         "1 çay bardağı keçiboynuzu unu",
         "1 çay bardağı buğday unu/tam buğday unu",
         "1 limon kabuğu rendesi",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 yemek kaşığı ruşeym",
         "1 yemek kaşığı badem unu",
         "1 pk kabartma tozu",
-        "1 pk  vanilya"
+        "1 pk vanilya"
       ],
       "en": [
         "2 eggs",
@@ -1086,8 +1086,8 @@ export const cocukRecipes: Recipe[] = [
         "1 çay kaşığı çörek otu",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı susam",
-        "Sıvı yağ (isteğe bağlı)",
-        "Tuz"
+        "sıvı yağ (isteğe bağlı)",
+        "tuz"
       ],
       "en": [
         "1 handful spinach (boiled, squeezed)",
@@ -1142,7 +1142,7 @@ export const cocukRecipes: Recipe[] = [
         "2 çorba kaşığı un",
         "3 çorba kaşığı krema veya süt",
         "1 çorba kaşığı pudra şekeri",
-        "Yeteri kadar meyve"
+        "yeteri kadar meyve"
       ],
       "en": [
         "2 eggs",
@@ -1188,7 +1188,7 @@ export const cocukRecipes: Recipe[] = [
         "1 su bardağı süt",
         "1 su bardağı un",
         "1/2 (yarım) paket kabartma tozu",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 eggs",
@@ -1289,7 +1289,7 @@ export const cocukRecipes: Recipe[] = [
         "1 tsp nigella seeds or 2 tsp nigella oil",
         "2 tsp carob powder",
         "about 1 tea glass cold-pressed coconut oil",
-        "2 tbsp plus a little strained honey"
+        "2 teacup plus a little strained honey"
       ]
     },
     "steps": {
@@ -1330,7 +1330,7 @@ export const cocukRecipes: Recipe[] = [
         "1 kg kapya biber",
         "1/2 (yarım) kg yeşil biber",
         "1 kg süzme yoğurt",
-        "Çiçekli dereotu dalı (bulabilirseniz bir avuç kadar. köylü pazarlarında yeşillik satan yaşlı teyzelere sorarsanız bulma ihtimaliniz olabilir, hatta tarhana mı yapacaksınız diye hoşlarına gidiyor)",
+        "çiçekli dereotu dalı (bulabilirseniz bir avuç kadar. köylü pazarlarında yeşillik satan yaşlı teyzelere sorarsanız bulma ihtimaliniz olabilir, hatta tarhana mı yapacaksınız diye hoşlarına gidiyor)",
         "2-3 tatlı kaşığı tuz"
       ],
       "en": [
@@ -1449,7 +1449,7 @@ export const cocukRecipes: Recipe[] = [
         "1 tatlı kaşığı tam buğday unu",
         "1 su bardağı kemik veya et suyu",
         "1 çay kaşığı nane",
-        "Zeytinyağı"
+        "zeytinyağı"
       ],
       "en": [
         "1 tsp baby semolina",
@@ -1550,7 +1550,7 @@ export const cocukRecipes: Recipe[] = [
         "5 yemek kaşığı tam buğday unu",
         "1 çay kaşığı kabartma tozu",
         "1 çay kaşığı tarçın",
-        "Bir miktar ceviz (isteğe bağlı ama çok yakışıyor – ben göz kararı, elimle ufalayarak kullandım)"
+        "bir miktar ceviz (isteğe bağlı ama çok yakışıyor – ben göz kararı, elimle ufalayarak kullandım)"
       ],
       "en": [
         "1 ripe banana",
@@ -1619,7 +1619,7 @@ export const cocukRecipes: Recipe[] = [
         "Kaynamaya başladığında ocağın altını hemen kısın. Kapağını kapatarak çok düşük ateşte yaklaşık 20–25 dakika hafifçe pişirin.",
         "Bu sırada ara sıra karıştırın. Patateslerin pişip pişmediğini bir bıçak veya çatalla kontrol edin. Bıçak patateslerin içine kolayca giriyorsa ve patatesler iyice yumuşamışsa hazırdır. Not: patatesin nişastası nedeniyle süt pişerken hafif pütürlü veya kesilmiş gibi görünebilir. Endişelenmeyin; bu tamamen normaldir ve ezildikten sonra görüntü kaybolacaktır.",
         "Patatesler iyice yumuşadığında 80 gram tereyağını ve isteğe bağlı olarak bir bıçak ucu taze rendelenmiş muskatı tencereye ekleyin. Bir patates ezici yardımıyla istediğiniz kıvama gelene kadar ezin. Ben şahsen pürenin içinde hafif patates parçacıkları kalmasını seviyorum. 🥔",
-        "püre ilk anda biraz fazla yumuşak veya akışkan görünürse endişelenmeyin. Birkaç dakika bekledikçe kıvamı koyulaşacaktır. Son olarak tadına bakıp gerekirse biraz daha tuz, muskat veya tereyağı ekleyebilirsiniz."
+        "Püre ilk anda biraz fazla yumuşak veya akışkan görünürse endişelenmeyin. Birkaç dakika bekledikçe kıvamı koyulaşacaktır. Son olarak tadına bakıp gerekirse biraz daha tuz, muskat veya tereyağı ekleyebilirsiniz."
       ],
       "en": [
         "Peel potatoes and dice about 1.5-2 cm. Wash well in sieve. Rinse deep pot with cold water first.",
@@ -1752,9 +1752,9 @@ export const cocukRecipes: Recipe[] = [
         "½ kırmızı sivri biber",
         "½ yeşil sivri biber",
         "¼ kırmızı soğan",
-        "Biraz maydanoz",
-        "Tuz ve karabiber",
-        "İsteğe bağlı rendelenmiş light mozzarella peyniri"
+        "biraz maydanoz",
+        "tuz ve karabiber",
+        "isteğe bağlı rendelenmiş light mozzarella peyniri"
       ],
       "en": [
         "3-4 eggs",
@@ -1885,7 +1885,7 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı beyaz dut kurusu",
-        "İsteğe bağlı miktarda ceviz",
+        "isteğe bağlı miktarda ceviz",
         "2 yemek kaşığı kakao",
         "3 adet yumurta",
         "1 çay bardağı tahin",
@@ -1956,7 +1956,7 @@ export const cocukRecipes: Recipe[] = [
       "tr": [
         "Yumurtalar haşlanır ve soyulur.",
         "Yumurtaların üzerine kakao, süt ve bal eklenerek blenderdan geçirilir.",
-        "Pürüzsüz bir kıvam alan karışım kaseye dökülür ve buz dolabında en az 15 dk soğutulur.",
+        "Pürüzsüz bir kıvam alan karışım kaseye dökülür ve buzdolabında en az 15 dk soğutulur.",
         "Üzeri istenilen şekilde süslenebilir."
       ],
       "en": [
@@ -2034,7 +2034,7 @@ export const cocukRecipes: Recipe[] = [
         "2 adet yumurta",
         "1/2 (yarım) su bardağı tahin",
         "2 yemek kaşığı silme kakao",
-        "Bir tutam kabartma tozu"
+        "bir tutam kabartma tozu"
       ],
       "en": [
         "1 large ripe banana",
@@ -2080,14 +2080,14 @@ export const cocukRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım taze bal kabağı (yani doğranmış 1 tabağa denk geliyor bende bal kabağı vardı o yüzden bal kabağı ile yaptım)",
+        "yarım taze bal kabağı (yani doğranmış 1 tabağa denk geliyor bende bal kabağı vardı o yüzden bal kabağı ile yaptım)",
         "1 çay bardağı havuç (mevsiminde yapan için 1 tane büyük havuç)",
         "2 yemek kaşığı tereyağı",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "2 yemek kaşığı un",
         "1 tatlı kaşığı tuz (birazda göz kararı gidin)",
         "4 su bardağı su (yoğunluğuna göre değiştirebilirsiniz)",
-        "Karabiber"
+        "karabiber"
       ],
       "en": [
         "half a sweet pumpkin (baked pumpkin; one plate equals half)",
@@ -2134,12 +2134,12 @@ export const cocukRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "​ ​2 adet yumurta",
-        "​3 yemek kaşığı haşlanmış yeşil mercimek",
-        "​3 yemek kaşığı ekmek kırıntısı (veya galeta unu)",
-        "​1 yemek kaşığı zeytinyağı",
-        "​Çay kaşığının ucuyla tuz",
-        "​İsteğe bağlı: dilediğiniz çeşit peynir (lor, beyaz peynir veya kaşar)"
+        " 2 adet yumurta",
+        "3 yemek kaşığı haşlanmış yeşil mercimek",
+        "3 yemek kaşığı ekmek kırıntısı (veya galeta unu)",
+        "1 yemek kaşığı zeytinyağı",
+        "çay kaşığının ucuyla tuz",
+        "isteğe bağlı: dilediğiniz çeşit peynir (lor, beyaz peynir veya kaşar)"
       ],
       "en": [
         "2 eggs",
@@ -2153,7 +2153,7 @@ export const cocukRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Derin bir kaba haşlanmış yeşil mercimekleri alın.",
-        "Üzerine yumurtaları kırıp iyice çırpın. ​",
+        "Üzerine yumurtaları kırıp iyice çırpın. ",
         "Ekmek kırıntısını ve tuzu da ekleyerek homojen bir kıvam alana kadar güzelce karıştırın.",
         "Tavaya zeytinyağını alıp kızdırın.",
         "Hazırladığınız omlet harcını tavaya dökün (peynir kullanacaksanız bu aşamada üzerine ekleyebilirsiniz)",
@@ -2161,7 +2161,7 @@ export const cocukRecipes: Recipe[] = [
       ],
       "en": [
         "Put boiled green lentils in deep bowl.",
-        "Crack eggs and whisk well. ​",
+        "Crack eggs and whisk well. ",
         "Add breadcrumbs and salt and mix well until homogeneous.",
         "Heat olive oil in pan.",
         "Pour prepared omelet batter into pan (add cheese at this stage if using).",
@@ -2190,7 +2190,7 @@ export const cocukRecipes: Recipe[] = [
         "1 adet olgun muz (ezilmiş)",
         "8 yemek kaşığı yoğurt",
         "9-10 yemek kaşığı un (silme)",
-        "Göz kararı kabartma tozu",
+        "göz kararı kabartma tozu",
         "2-3 yemek kaşığı damla çikolata (isteğe bağlı ama çok yakışıyor, bebeğinizin ayına göre ekleyebilirsiniz)"
       ],
       "en": [
@@ -2257,7 +2257,7 @@ export const cocukRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Barbunyaları soğuk su altında iyice yıkayın ve süzün.",
-        "Ardından kâğıt havluyla güzelce kurulayın.  Ne kadar kuru olurlarsa, o kadar çıtır olurlar.",
+        "Ardından kâğıt havluyla güzelce kurulayın. Ne kadar kuru olurlarsa, o kadar çıtır olurlar.",
         "Fasulyeleri bir kaseye alın.",
         "Zeytinyağı ve seçtiğiniz baharatları ekleyip tüm fasulyeler eşit şekilde kaplanana kadar karıştırın.",
         "Airfryer’ı önceden ısıtın: airfryer’ı 200 °c’ye ayarlayın ve 2–3 dakika önceden ısıtın.",
@@ -2340,7 +2340,7 @@ export const cocukRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım kalın iki ayrı çeşit makarna"
+        "yarım kalın iki ayrı çeşit makarna"
       ],
       "en": [
         "half a pack of two different thick pastas"
@@ -2382,9 +2382,9 @@ export const cocukRecipes: Recipe[] = [
         "2 adet domates (kabuğu soyulmuş)",
         "2 diş sarımsak",
         "1 yemek kaşığı salça (dikkat: 1 yaş öncesi tuzsuz salça)",
-        "Kaşar veya mozzarella peyniri (rendelenmiş)",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
-        "Karabiber"
+        "kaşar veya mozzarella peyniri (rendelenmiş)",
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
+        "karabiber"
       ],
       "en": [
         "2 large sweet potatoes",
@@ -2445,9 +2445,9 @@ export const cocukRecipes: Recipe[] = [
         "1 adet büyük tatlı patates (haşlanmış)",
         "1 adet yumurta",
         "2-3 yemek kaşığı mozzarella peyniri",
-        "Göz kararı taze soğan",
+        "göz kararı taze soğan",
         "4-5 yemek kaşığı un (kontrollü ekleyin – mücver kıvamı elde edin)",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
       ],
       "en": [
         "1 large sweet potato (boiled)",
@@ -2495,8 +2495,8 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet orta boy tatlı patates",
-        "Un (yaklaşık 5-6 yemek kaşığı; kontrollü ekleyin. tatlı patatesin boyutuna göre miktar değişebilir, daha az ya da daha fazla un gerekebilir.)",
-        "Tuz (dilkat: tuz 1 yaşından büyük bebekler için!)"
+        "un (yaklaşık 5-6 yemek kaşığı; kontrollü ekleyin. tatlı patatesin boyutuna göre miktar değişebilir, daha az ya da daha fazla un gerekebilir.)",
+        "tuz (dilkat: tuz 1 yaşından büyük bebekler için!)"
       ],
       "en": [
         "1 medium sweet potato",
@@ -2547,7 +2547,7 @@ export const cocukRecipes: Recipe[] = [
         "3 yemek kaşığı haşlanmış tatlı patates püresi",
         "2–3 adet tam ceviz (rendelenmiş)",
         "2 yemek kaşığı un",
-        "Biraz kabartma tozu ve tarçın (isteğe bağlı)"
+        "biraz kabartma tozu ve tarçın (isteğe bağlı)"
       ],
       "en": [
         "1 egg",
@@ -2643,10 +2643,10 @@ export const cocukRecipes: Recipe[] = [
         "1 demet yeşil kuşkonmaz",
         "1-2 avuç çeri domates",
         "2 diş sarımsak",
-        "İstediğiniz kadar parmesan peyniri (ince dilimlenmiş veya rendelenmiş)",
+        "istediğiniz kadar parmesan peyniri (ince dilimlenmiş veya rendelenmiş)",
         "3-4 yemek kaşığı zeytinyağı",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
-        "Baharat (ben sebze baharatı kullandım)"
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
+        "baharat (ben sebze baharatı kullandım)"
       ],
       "en": [
         "1 bunch green asparagus",
@@ -2699,12 +2699,12 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "Göz kararı beyaz un",
+        "göz kararı beyaz un",
         "1 çay bardağı hindistan cevizi unu",
         "100 gram tereyağı",
-        "Yarım çay bardağı ayçiçek yağı",
-        "Kakao",
-        "Damla çikolata",
+        "yarım çay bardağı ayçiçek yağı",
+        "kakao",
+        "damla çikolata",
         "1 su bardağı beyaz şeker"
       ],
       "en": [
@@ -2810,7 +2810,7 @@ export const cocukRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Portakal ve limonları dilimleyip buz dolabında 1 gece bekletin.",
+        "Portakal ve limonları dilimleyip buzdolabında 1 gece bekletin.",
         "Dondurulmuş ürünleri 15 dakika çözülmesini bekleyin.",
         "Çözülmüş ürünleri rondoya koyup üzerine toz şeker ekleyip hazırlayın rondo şeklinize göre azar azae koyupta bu işlemi gerçekleştirebilirsiniz.",
         "Hazırladığımız posayı derince bir kaba alalım. Üzerine suyu ekleyelim. Dilerseniz su miktarını ek ilave de yapabilirsiniz. Ben 1 buçuk litre kullandım tadı kıvamında oldu.",
@@ -2895,7 +2895,7 @@ export const cocukRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 yemek kaşığı yoğurt",
         "2 dolu yemek kaşığı un (ben yulaf unu kullandım)",
-        "Bir miktar kabartma tozu",
+        "bir miktar kabartma tozu",
         "2 tatlı kaşığı badem kreması (isteğe bağlı, ben kabuksuz badem kreması ekledim)"
       ],
       "en": [
@@ -3057,7 +3057,7 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet muz",
-        "Göz kararı çilek (taze veya donmuş)",
+        "göz kararı çilek (taze veya donmuş)",
         "3 yemek kaşığı yoğurt",
         "1 yemek kaşığı süt (inek veya bitkisel)",
         "1 tatlı kaşığı chia tohumu (dikkat: 1 yaş öncesi ½ çay kaşığı)",
@@ -3105,7 +3105,7 @@ export const cocukRecipes: Recipe[] = [
         "1,5 su bardağı soğuk süt",
         "2 top vanilyalı dondurma (isteğe bağlı ama çok lezzet katıyor)",
         "1-2 tatlı kaşığı bal veya şeker (isteğe bağlı)",
-        "Birkaç buz küpü"
+        "birkaç buz küpü"
       ],
       "en": [
         "1 ripe banana",
@@ -3154,7 +3154,7 @@ export const cocukRecipes: Recipe[] = [
         "1 küçük elma (rendelenmiş)",
         "1 yumurta",
         "3 yemek kaşığı ince yulaf",
-        "İsteğe bağlı çok az tarçın (güzel oluyor)",
+        "isteğe bağlı çok az tarçın (güzel oluyor)",
         "2-3 yemek kaşığı un (tavada dağılmasın diye ekledim)"
       ],
       "en": [
@@ -3174,7 +3174,7 @@ export const cocukRecipes: Recipe[] = [
         "Sonra bu güzel karışımdan küçük küçük, yuvarlak ve hafif yassı köfteler yapıyoruz.",
         "Fırınımızı 180°c alt üst’e ayarlayalım be 20–25 dakika mücverlerimizi pişirelim, ortasında bir kere çevirelimki iki tarafını güzelce kızarana kadar pişirelim.",
         "Elmalı darı mücverini kaşık yardımıyla tavaya ekleyip iki yönünüde kızarana kadar kısık ateşte 4–5 dakika güzelce pişirelim.",
-        "Tavada mücverler dağılıyorsa 1–2 yemek kaşığı yulaf ekleyebilirsiniz, normal un,  yumurta. O an evinizde ne bulunuyorsa, ben un ekledim tavada dağılmasın diye daha iyi tuttu ama öbür sefere fırındada deneyeceğim. Afiyet olsun ♥️."
+        "Tavada mücverler dağılıyorsa 1–2 yemek kaşığı yulaf ekleyebilirsiniz, normal un, yumurta. O an evinizde ne bulunuyorsa, ben un ekledim tavada dağılmasın diye daha iyi tuttu ama öbür sefere fırındada deneyeceğim. Afiyet olsun ♥️."
       ],
       "en": [
         "Put the millet in a bowl and wash it well, then transfer it to a pot, add enough water to cover it and cook over low heat for 10-15 minutes until it softens. Once it is cooked, transfer it to a bowl.",
@@ -3205,9 +3205,9 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 patates",
-        "4 yemek kaşığı zeytinyağı yada sıvı yağ",
+        "4 yemek kaşığı zeytinyağı ya da sıvı yağ",
         "1 silme tatlı kaşığı tuz",
-        "1-2 silme kaşığı pul biber yada başka arzu ettiğiniz baharat"
+        "1-2 silme kaşığı pul biber ya da başka arzu ettiğiniz baharat"
       ],
       "en": [
         "4 potatoes",
@@ -3319,7 +3319,7 @@ export const cocukRecipes: Recipe[] = [
         "1–2 yemek kaşığı doğal ve katkısız elma püresi",
         "2 yemek kaşığı un",
         "1 çay kaşığı kabartma tozu",
-        "İstediğiniz kadar meyve (çilek, yaban mersini, ahududu veya mevsim meyveleri kullanılabilir)"
+        "istediğiniz kadar meyve (çilek, yaban mersini, ahududu veya mevsim meyveleri kullanılabilir)"
       ],
       "en": [
         "2 bananas",
@@ -3454,11 +3454,11 @@ export const cocukRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı oda ısısında süt",
+        "yarım su bardağı oda ısısında süt",
         "1 su bardağı sıvı yağ",
         "3 yemek kaşığı toz şeker (ama bana fazla gelir diye 2 çay kaşığı attım tam yerinde oldu ama size bağlı)",
         "1 çay kaşığı vanilya (isteğe bağlı)",
-        "Ezilmiş ceviz veya fındık (isteğe bağlı)"
+        "ezilmiş ceviz veya fındık (isteğe bağlı)"
       ],
       "en": [
         "half a cup milk at room temp",
@@ -3501,9 +3501,9 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4-5 adet donmuş çilek (mevsiminde taze de kullanılabilir)",
-        "Yarım muz",
-        "Çok az pişmiş pancar",
-        "Yarım su bardağı kefir"
+        "yarım muz",
+        "çok az pişmiş pancar",
+        "yarım su bardağı kefir"
       ],
       "en": [
         "4-5 frozen strawberries (fresh can be used in season)",
@@ -3539,15 +3539,15 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "250 gram tereyağı (margarinde olabilir)",
-        "Yarım çay bardağı sıvı yağı",
+        "yarım çay bardağı sıvı yağı",
         "1 tane yumurta",
         "1 su bardağı pudra şekeri",
         "1 paket vanilya",
-        "Yarım paket hamur kabartma tozu",
+        "yarım paket hamur kabartma tozu",
         "3,5-4 su bardağı un (unu azar azar ekleyin markasına göre değişebiliyor.)",
-        "Çikolata sosu-damla çikolata vs.",
-        "Gagası için yapacağımız hamura gıda boyası ya da doğal renklendirici",
-        "Sarı-turuncu gıda boyası, zerdeçal, havuç şurubu renklendirmek için"
+        "çikolata sosu-damla çikolata vs.",
+        "gagası için yapacağımız hamura gıda boyası ya da doğal renklendirici",
+        "sarı-turuncu gıda boyası, zerdeçal, havuç şurubu renklendirmek için"
       ],
       "en": [
         "250 g butter (margarine can be used)",
@@ -3609,10 +3609,10 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1.5 su bardağı şeker",
-        "Fındık fıstık badem vs (toplam 2 su bardağı olsun)",
+        "fındık fıstık badem vs (toplam 2 su bardağı olsun)",
         "1 yemek kaşığı tereyağı",
         "2 yemek kaşığı su",
-        "Birkaç damla limon suyu",
+        "birkaç damla limon suyu",
         "1 yemek kaşığı dolu kavrulmuş susam"
       ],
       "en": [
@@ -3656,7 +3656,7 @@ export const cocukRecipes: Recipe[] = [
         "400 ml süt (inek veya bitkisel)",
         "3 yemek kaşığı sıvı yağı",
         "200 gram un",
-        "Tuz (isteğe bağlı, dikkat: tuz 1 yaşından büyük bebekler için!)"
+        "tuz (isteğe bağlı, dikkat: tuz 1 yaşından büyük bebekler için!)"
       ],
       "en": [
         "2 eggs",
@@ -3703,7 +3703,7 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "100 gram yüksek oranda kakaolu çikolata",
-        "Arzuya göre hurma şurubu",
+        "arzuya göre hurma şurubu",
         "2 kase arzu ettiğiniz fıstık çeşitleri (ben yer fıstığı tercih ettim)"
       ],
       "en": [
@@ -3784,14 +3784,14 @@ export const cocukRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım paket margarin",
-        "Yarım çay bardağı sıvı yağ",
-        "Yarım su bardağı pudra şekeri",
-        "Yarım su bardağı nişasta",
+        "yarım paket margarin",
+        "yarım çay bardağı sıvı yağ",
+        "yarım su bardağı pudra şekeri",
+        "yarım su bardağı nişasta",
         "1 paket vanilya",
         "2 buçuk su bardağı un",
-        "Damla çikolata",
-        "Pembe gıda boyası (ben pancar kabuğu tozu kullandım)"
+        "damla çikolata",
+        "pembe gıda boyası (ben pancar kabuğu tozu kullandım)"
       ],
       "en": [
         "half a pack margarine",
@@ -4087,8 +4087,8 @@ export const cocukRecipes: Recipe[] = [
         "1 yemek kaşığı keçiboynuzu özü",
         "1 yemek kaşığı elma suyu konsantresi",
         "1 silme tatlı kaşığı kakao",
-        "Yarım çay kaşığı karbonat (kabarması için)",
-        "Alabildiği kadar yulaf unu (çok katı yapmayın akışkan bir kek hamuru olacak)"
+        "yarım çay kaşığı karbonat (kabarması için)",
+        "alabildiği kadar yulaf unu (çok katı yapmayın akışkan bir kek hamuru olacak)"
       ],
       "en": [
         "2 eggs",
@@ -4253,7 +4253,7 @@ export const cocukRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Şeker ve yumurtayı çırpın daha sonra sütü ekleyip karıştırıyoruz son olarak diğer malzemeleri ekleyip çırpıyoruz.",
-        "Pankek tavası yada yapışmaz bir tavada 1’er yemek kaşığı pay ediyoruz ve üzeri kabarcık olunca ters çevirip birazda öyle pişiriyoruz ve alıyoruz. (tavaya yapışma riski varsa çok az yağ sürebilirsiniz).",
+        "Pankek tavası ya da yapışmaz bir tavada 1’er yemek kaşığı pay ediyoruz ve üzeri kabarcık olunca ters çevirip birazda öyle pişiriyoruz ve alıyoruz. (tavaya yapışma riski varsa çok az yağ sürebilirsiniz).",
         "Pankekler soğurken 1 poşet krem şantiyi üzerinde yazan şekilde soğuk süt ile çırpıyoruz.",
         "Son olarak bir pankeke krem şanti koyup üzerine ikinci pankeki kapatarak süt burgerlerimizi hazır hale getiriyoruz."
       ],
@@ -4286,8 +4286,8 @@ export const cocukRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 tatlı kaşığı yoğurt",
         "1 yemek kaşığı zeytinyağı",
-        "Çay kaşığının ucunda karbonat",
-        "Alabildiği kadar un (pankek kıvamı ben yulaf unu kullandım. tam buğday, karabuğday beyaz un farketmez)"
+        "çay kaşığının ucunda karbonat",
+        "alabildiği kadar un (pankek kıvamı ben yulaf unu kullandım. tam buğday, karabuğday beyaz un farketmez)"
       ],
       "en": [
         "1 small red beetroot",
@@ -4337,7 +4337,7 @@ export const cocukRecipes: Recipe[] = [
         "170 gram un",
         "2 yemek kaşığı kakao",
         "1-2 çay kaşığı kabartma tozu",
-        "Göz kararı ufalanmış ceviz"
+        "göz kararı ufalanmış ceviz"
       ],
       "en": [
         "3 very ripe bananas",
@@ -4386,12 +4386,12 @@ export const cocukRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Çeyrek dilim kabak",
-        "Yarım havuç",
-        "Yarım patates",
+        "çeyrek dilim kabak",
+        "yarım havuç",
+        "yarım patates",
         "1 adet kırmızı pancar",
-        "Zeytinyağı",
-        "Et suyu"
+        "zeytinyağı",
+        "et suyu"
       ],
       "en": [
         "quarter slice pumpkin",
@@ -4639,9 +4639,9 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "Yarım su bardağı süt",
+        "yarım su bardağı süt",
         "1 su bardağı un",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "1 paket vanilya",
         "1 buçuk yemek kaşığı şeker"
       ],
@@ -4740,7 +4740,7 @@ export const cocukRecipes: Recipe[] = [
         "1-2 adet havuç",
         "1 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
       ],
       "en": [
         "1 small celeriac",
@@ -4793,9 +4793,9 @@ export const cocukRecipes: Recipe[] = [
         "3 yemek kaşığı un (lütfen kontrollü ekleyin)",
         "2-3 yemek kaşığı lor peyniri",
         "1 dal taze soğan veya 1–2 yemek kaşığı dereotu",
-        "Tuz (isteğe bağlı, dikkat: tuz 1 yaşından büyük bebekler için!)",
-        "Karabiber",
-        "Kimyon (isteğe bağlı)"
+        "tuz (isteğe bağlı, dikkat: tuz 1 yaşından büyük bebekler için!)",
+        "karabiber",
+        "kimyon (isteğe bağlı)"
       ],
       "en": [
         "250g pumpkin (peeled, grated)",
@@ -4847,9 +4847,9 @@ export const cocukRecipes: Recipe[] = [
         "1 adet patates",
         "2 adet yumurta",
         "4 yemek kaşığı un",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
-        "Karabiber",
-        "Zeytinyağı"
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
+        "karabiber",
+        "zeytinyağı"
       ],
       "en": [
         "2 leeks (white part)",
@@ -4905,9 +4905,9 @@ export const cocukRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet yumurta (oda sıcaklığı)",
-        "Yarım çay bardağı şeker",
+        "yarım çay bardağı şeker",
         "1 çay bardağı süt",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "2 yemek kaşığı kakao",
         "1,5 çay bardağı un",
         "1 paket kabartma tozu",
@@ -4959,8 +4959,8 @@ export const cocukRecipes: Recipe[] = [
         "2 orta boy patlıcan (közlenmiş)",
         "2 yemek kaşığı tahin",
         "1-2 diş sarımsak",
-        "Yarım limon suyu",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
+        "yarım limonun suyu",
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
       ],
       "en": [
         "2 medium eggplants (roasted)",
@@ -5006,9 +5006,9 @@ export const cocukRecipes: Recipe[] = [
         "200 gram ıspanak (ince doğranmış, suyu sıkılmış)",
         "150 gram beyaz peynir veya lor peyniri",
         "1 adet küçük soğan (rendelenmiş, suyu sıkılmış)",
-        "Bir çimdik kabartma tozu",
+        "bir çimdik kabartma tozu",
         "15 yemek kaşığı un (lütfen kontrollü ekleyin)",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)",
         "1-2 çay kaşığı karabiber (isteğe bağlı)",
         "1-2 çay kaşığı kırmızı toz biber (isteğe bağlı)"
       ],
@@ -5060,7 +5060,7 @@ export const cocukRecipes: Recipe[] = [
       "tr": [
         "1 adet orta boy tatlı patates",
         "5-6 yemek kaşığı un (lütfen kontrollü ekleyin, tatlı patatesin boyutuna göre miktar değişebilir, daha az ya da daha fazla un gerekebilir)",
-        "Tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
+        "tuz (dikkat: tuz 1 yaşından büyük bebekler için!)"
       ],
       "en": [
         "1 medium sweet potato",

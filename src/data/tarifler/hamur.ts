@@ -64,9 +64,9 @@ export const hamurRecipes: Recipe[] = [
         "1 çay bardağı yoğurt",
         "1 paket kabartma tozu",
         "1 çay kaşığı tuz",
-        "Yarım demet ince kıyılmış dereotu",
+        "yarım demet ince kıyılmış dereotu",
         "1 adet yumurta",
-        "Aldığı kadar un (yaklaşık 2.5-3 su bardağı)"
+        "aldığı kadar un (yaklaşık 2.5-3 su bardağı)"
       ],
       "en": [
         "1 teacup vegetable oil",
@@ -83,7 +83,7 @@ export const hamurRecipes: Recipe[] = [
         "İlk olarak poğaçamızın hamurunuz hazırlayalım. Bir kabın içine malzemelerin tamamını koyup yoğurarak yumuşak bir hamur elde edelim.",
         "Unu yavaş yavaş ekleyerek hamurun sertliğini ayarlayalım. Unu kontrollü ilave etmenizi tavsiye ederiz. Hamurunuzun kıvamı sert olursa poğaçalarınız da sert olabilir.",
         "Poğaçalarımızı şekillendirelim. Fotoğrafta görüldüğü gibi hamuru iyice yoğurduktan sonra minik bezeler yapıp yağlı kağıt serdiğimiz fırın tepsisine yerleştirelim.",
-        "Verilen ölçülere göre yaklaşık 11 tane poğaça elde edebilirsiniz. Eğer poğaçalarınızı daha küçük yaparsanız 15-16 adet poğaça elde edebilirsiniz. Fırına sürmeden önce bir süre hamuru dinlendirmenizi öneririm.",
+        "Verilen ölçülere göre yaklaşık 11 tane poğaça elde edebilirsiniz. Eğer poğaçalarınızı daha küçük yaparsanız 15-16 adet poğaça elde edebilirsiniz. Fırına sürmeden önce bir süre hamuru dinlendirmenizi öneririm.",
         "Poğaçalarımızı fırına sürelim. Üzerlerine yumurta sarısı sürüp, 180 derece ısıtılmış fırında üzeri kızarıncaya kadar pişirin."
       ],
       "en": [
@@ -198,7 +198,7 @@ export const hamurRecipes: Recipe[] = [
         "1 büyük kaşık hamur dökülerek hamurun kendi kendine yayılmasını bekleyelim.",
         "Üzeri göz göz olmaya başlayan pankeklerimizi spatula yardımı ile ters çevirelim. Diğer taraflarını da pişirelim.",
         "Her iki tarafı da pişen pankeklerimizi servis tabağına alalım.",
-        "Üzerine  pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
+        "Üzerine pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
       ],
       "en": [
         "To make pancakes, first put the eggs and sugar in a suitable mixing bowl and beat them well.",
@@ -230,12 +230,12 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı süt (200 ml)",
         "1 su bardağı su (200 ml)",
-        "Yarım su bardağı sıvı yağ (100 ml)",
+        "yarım su bardağı sıvı yağ (100 ml)",
         "1 yemek kaşığı toz şeker",
         "1 tatlı kaşığı tuz",
         "1 paket instant maya",
         "4,5 su bardağı un",
-        "Tereyağı"
+        "tereyağı"
       ],
       "en": [
         "1 cup milk (200 ml)",
@@ -370,8 +370,8 @@ export const hamurRecipes: Recipe[] = [
         "2 yumurta (1 tanesinin sarısını üzeri için ayırın)",
         "1 çay bardağı sıvı yağ",
         "1 tatlı kaşığı tuz",
-        "1 adet kabartma tozu",
-        "Alabildiğince un (yaklaşık 4 su bardağı)"
+        "1 paket kabartma tozu",
+        "alabildiğince un (yaklaşık 4 su bardağı)"
       ],
       "en": [
         "1 cup yogurt",
@@ -442,7 +442,7 @@ export const hamurRecipes: Recipe[] = [
       "en": [
         "2 cups warm water (400 ml)",
         "3 tablespoons vegetable oil",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "1 teaspoon salt",
         "1 packet instant yeast",
         "4 cups flour"
@@ -514,7 +514,7 @@ export const hamurRecipes: Recipe[] = [
         "1 teacup vegetable oil",
         "1 packet instant yeast",
         "1 tablespoon salt",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "5 cups flour (add it in a controlled way)"
       ]
     },
@@ -565,7 +565,7 @@ export const hamurRecipes: Recipe[] = [
         "125 gr tereyağı veya margarin (oda ısısında yumuşamış)",
         "2 adet yumurta (birinin sarısı üzerine )",
         "1 çay bardağı sıvı yağ",
-        "Yarım çay bardağı yoğurt",
+        "yarım çay bardağı yoğurt",
         "2 yemek kaşığı sirke",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı şeker",
@@ -617,8 +617,8 @@ export const hamurRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet milföy hamuru",
-        "Sosis",
-        "Kaşar peyniri rendesi",
+        "sosis",
+        "kaşar peyniri rendesi",
         "1 yumurta sarısı"
       ],
       "en": [
@@ -710,9 +710,9 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta",
         "1 su bardağı ılık süt (250 ml)",
-        "Çeyrek su bardağı şeker",
+        "çeyrek su bardağı şeker",
         "75 gram oda sıcaklığında yumuşamış tereyağı",
-        "Yarım paket yaş maya",
+        "yarım paket yaş maya",
         "1 fiske tuz",
         "3,5 su bardağı un (kontrollü ekleyelim)"
       ],
@@ -828,7 +828,7 @@ export const hamurRecipes: Recipe[] = [
         "1 cup warm milk",
         "1 packet fresh yeast",
         "1 teacup vegetable oil",
-        "1 teacup powdered sugar",
+        "1 teacup granulated sugar",
         "1 teaspoon salt",
         "2 egg whites",
         "5.5 cups flour (the dough will be soft and stick to the hands)"
@@ -877,11 +877,11 @@ export const hamurRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
-        "Yarım su bardağı ılık su",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı ılık su",
+        "yarım su bardağı sıvı yağ",
         "1,5 yemek kaşığı şeker",
         "1 silme tatlı kaşığı tuz",
-        "Yarım paket yaş maya",
+        "yarım paket yaş maya",
         "4-5 su bardağı kadar un",
         "1 tepeli yemek kaşığı kakao"
       ],
@@ -1039,7 +1039,7 @@ export const hamurRecipes: Recipe[] = [
         "2 yemek kaşığı şeker",
         "1 yumurta akı",
         "6 bardak un",
-        "Damla bitter çikolata",
+        "damla bitter çikolata",
         "1 bardak sıvı yağ"
       ],
       "en": [
@@ -1059,7 +1059,7 @@ export const hamurRecipes: Recipe[] = [
         "Su ve sütü ılıtalım şekeri koyup 15 dakika mayalayalım.",
         "Sonra yumurta akını, yağı ,tuzu ekleyelim ,unu azar azar ekliyoruz ve karıştırıyoruz.",
         "10 dakka yoğurun ve mayalanmasını bekliyoruz .",
-        "Ufak bezeye ayırıp açıyoruz üçgen  şeklinde kesiyoruz ,damla çikolatayı koyuyoruz ve kalın yerden sarıyoruz.",
+        "Ufak bezeye ayırıp açıyoruz üçgen şeklinde kesiyoruz ,damla çikolatayı koyuyoruz ve kalın yerden sarıyoruz.",
         "Üzerine yumurta sarısı sürüyoruz 180 derece pişiriyoruz afiyet olsun."
       ],
       "en": [
@@ -1152,7 +1152,7 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı ılık su",
         "1 su bardağı ılık süt",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yumurta (sarısı üzeri için ayrılacak)",
         "1 paket instant maya",
         "1 yemek kaşığı şeker",
@@ -1332,12 +1332,12 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı karabuğday un",
         "1 paket maya",
-        "Yarım su bardağı ılık su",
+        "yarım su bardağı ılık su",
         "2 yemek kaşığı yoğurt",
         "1 tatlı kaşığı tuz",
-        "1 adet kesme şeker yada toz şeker",
-        "Yarım su bardağı zeytinyağı",
-        "Ay çekirdeği"
+        "1 adet kesme şeker ya da toz şeker",
+        "yarım su bardağı zeytinyağı",
+        "ay çekirdeği"
       ],
       "en": [
         "1 cup buckwheat flour",
@@ -1403,7 +1403,7 @@ export const hamurRecipes: Recipe[] = [
         "1 cup warm water",
         "1 teacup vegetable oil",
         "2 eggs (the whites in the dough, the yolks on top at the end)",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "1 teaspoon salt",
         "1 packet instant yeast",
         "5.5 cups flour",
@@ -1457,9 +1457,9 @@ export const hamurRecipes: Recipe[] = [
         "1 çay kaşığı kırmızı biber",
         "1 çay kaşığı nane",
         "2 diş sarımsak",
-        "Tuz",
-        "Zeytinyağı",
-        "Ilık su"
+        "tuz",
+        "zeytinyağı",
+        "ılık su"
       ],
       "en": [
         "1 packet manti",
@@ -1511,13 +1511,13 @@ export const hamurRecipes: Recipe[] = [
         "1 paket pirinç yufkası",
         "2 adet patates",
         "2 adet yeşil biber",
-        "Yarım kapya biber",
+        "yarım kapya biber",
         "1 adet soğan",
         "1 adet domates",
         "1 çay kaşığı tuz",
         "1 çay kaşığı karabiber",
         "4 kaşık sıvı yağı",
-        "Yarım çay bardağı su"
+        "yarım çay bardağı su"
       ],
       "en": [
         "1 packet of rice yufka",
@@ -1592,7 +1592,7 @@ export const hamurRecipes: Recipe[] = [
         "1 packet instant dry yeast",
         "3 egg whites (yolks for the top)",
         "1.5 teaspoons salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "5 cups flour (it can vary from brand to brand)"
       ]
     },
@@ -1649,16 +1649,16 @@ export const hamurRecipes: Recipe[] = [
         "1 su bardağı+1 çeyrek su bardağı ılık süt",
         "2,5 çay kaşığı instant maya",
         "100 gram tereyağı (oda sıcaklığında)",
-        "Çeyrek su bardağı toz şeker",
+        "çeyrek su bardağı toz şeker",
         "1 tatlı kaşığı kakule (eğer kakule yoksa yarım çay kaşığı toz zencefil ve yarım çay kaşığı yenibahar)",
-        "Yarım çay kaşığı tuz",
-        "Yaklaşık 3,5-4 su bardağı un"
+        "yarım çay kaşığı tuz",
+        "yaklaşık 3,5-4 su bardağı un"
       ],
       "en": [
         "1 cup + 1 quarter cup warm milk",
         "2.5 teaspoons instant yeast",
         "100 grams of butter (at room temperature)",
-        "A quarter cup of powdered sugar",
+        "A quarter cup of granulated sugar",
         "1 teaspoon of cinnamon (if you do not have cinnamon, use half a teaspoon of ground ginger and half a teaspoon of mace)",
         "Half a teaspoon salt",
         "About 3.5-4 cups flour"
@@ -1834,7 +1834,7 @@ export const hamurRecipes: Recipe[] = [
         "1 paket maya",
         "1 yemek kaşığı şeker",
         "1 tatlı kaşığı tuz",
-        "Yarım çay bardağı zeytinyağı"
+        "yarım çay bardağı zeytinyağı"
       ],
       "en": [
         "4 cups flour",
@@ -1884,7 +1884,7 @@ export const hamurRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "1 su bardağı ılık su",
         "1 su bardağı ılık süt",
-        "Zeytinyağı"
+        "zeytinyağı"
       ],
       "en": [
         "1 kg flour",
@@ -1939,13 +1939,13 @@ export const hamurRecipes: Recipe[] = [
         "1,5 yemek kaşığı toz şeker",
         "1 tatlı kaşığı tuz",
         "1 paket toz maya",
-        "Yarım su bardağı sıvı yağ",
-        "Aldığı kadar un"
+        "yarım su bardağı sıvı yağ",
+        "aldığı kadar un"
       ],
       "en": [
         "1.5 cups warm water",
         "1 cup warm milk",
-        "1.5 tablespoons powdered sugar",
+        "1.5 tablespoons granulated sugar",
         "1 teaspoon salt",
         "1 packet dry yeast",
         "Half a cup vegetable oil",
@@ -2053,13 +2053,13 @@ export const hamurRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "125 gr eritilmiş tereyağ",
         "1 adet yumurta",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı şeker",
         "1 paket kabartma tozu",
-        "Yaklaşım 3,5 su bardağı un"
+        "yaklaşım 3,5 su bardağı un"
       ],
       "en": [
         "1 cup yogurt",
@@ -2210,7 +2210,7 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "125 gram tereyağı",
         "1 su bardağı yoğurt",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "1 adet yumurta",
         "1 tatlı kaşığı şeker",
         "1 tatlı kaşığı tuz",
@@ -2372,7 +2372,7 @@ export const hamurRecipes: Recipe[] = [
         "1 paket kuru maya",
         "1 yemek kaşığı toz şeker",
         "2 adet yumurta (1 sarısı üzeri için)",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "250 gram yumuşak tereyağ",
         "6 su bardağı un",
         "1 tatlı kaşığı mahlep",
@@ -2381,7 +2381,7 @@ export const hamurRecipes: Recipe[] = [
       "en": [
         "1 cup warm milk",
         "1 packet dry yeast",
-        "1 tablespoon powdered sugar",
+        "1 tablespoon granulated sugar",
         "2 eggs (one yolk for the top)",
         "Half a teacup vegetable oil",
         "250 grams of soft butter",
@@ -2414,7 +2414,7 @@ export const hamurRecipes: Recipe[] = [
   {
     "id": "nefis-hamur-943",
     "name": {
-      "tr": "Cinnamon Rolls",
+      "tr": "Tarçınlı Çörek",
       "en": "Cinnamon Rolls"
     },
     "cuisine": "hamur",
@@ -2490,7 +2490,7 @@ export const hamurRecipes: Recipe[] = [
         "1 egg",
         "1 teacup vegetable oil",
         "2 tablespoons of margarine at room temperature",
-        "1 teacup powdered sugar",
+        "1 teacup granulated sugar",
         "1 packet dry yeast",
         "6 cups flour (add it in a controlled way)",
         "1 cup chocolate chips"
@@ -2686,7 +2686,7 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "2 su bardağı ahududu",
         "1 su bardağı su",
-        "Yarım su bardağı şeker",
+        "yarım su bardağı şeker",
         "1 yemek kaşığı nişasta"
       ],
       "en": [
@@ -2741,17 +2741,17 @@ export const hamurRecipes: Recipe[] = [
         "3 yemek kaşığı toz şeker",
         "1 paket instant maya",
         "2 yumurta beyazı",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım su bardağı zeytinyağı",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı zeytinyağı",
         "2 yemek kaşığı çekirdek içi",
-        "Çay kaşığının ucuyla mahlep",
+        "çay kaşığının ucuyla mahlep",
         "1 tatlı kaşığı tuz",
         "5,5 su bardağı un"
       ],
       "en": [
         "1 cup warm water",
         "1 cup warm milk",
-        "3 tablespoons powdered sugar",
+        "3 tablespoons granulated sugar",
         "1 packet instant yeast",
         "2 egg whites",
         "Half a cup vegetable oil",
@@ -2849,8 +2849,8 @@ export const hamurRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket milföy (isteğe göre kaç adet isterseniz)",
-        "1 kase kaşar yada beyaz peynir",
-        "Domates"
+        "1 kase kaşar ya da beyaz peynir",
+        "domates"
       ],
       "en": [
         "1 packet puff pastry (as many sheets as you want)",
@@ -2891,7 +2891,7 @@ export const hamurRecipes: Recipe[] = [
         "2 adet büyük boy yumurta",
         "1 çay bardağı sıvı yağ",
         "3 çorba kaşığı sirke",
-        "Yarım çay bardağı su",
+        "yarım çay bardağı su",
         "1 çay bardağı süt",
         "1 fiske tuz",
         "1 paket kabartma tozu",
@@ -2915,7 +2915,7 @@ export const hamurRecipes: Recipe[] = [
         "Öncelikle hamur için; un hariç tüm malzemeleri bir kaba alıp, karıştıralım. Elenmiş unu azar azar ekleyerek önce çırpıcıyla daha sonra elimizle yoğurmaya başlayalım. Kulak memesi kıvamında bir hamur elde edelim.",
         "Hamurun üzerine nemli bir bez ya da streç koyup, hava almasını engelleyen ve 1 buçuk- 2 saat dinlendirelim.",
         "Dinlenen hamuru 3 eşit parçaya bölelim ve her parçayı 10 eşit bezeye bölelim. 6. 6. 6. Toplamda 30 beze yapalım ve üzerini örtüp 30 dakika daha bu şekilde dinlendirelim.",
-        "Bu aşamada şerbetimiz için bir tencereye şeker ve soğuk suyu alalım ve şeker eriyene kadar karıştıralım ve içine limon suyunuda ekleyelim. Mutlaka eriyene kadar karıştırın bu şerbetin şekerlenmemesi için önemli bir nokta.  Kaynayan şerbetin altını kısıp 30 dakika kadar kaynatalım.",
+        "Bu aşamada şerbetimiz için bir tencereye şeker ve soğuk suyu alalım ve şeker eriyene kadar karıştıralım ve içine limon suyunuda ekleyelim. Mutlaka eriyene kadar karıştırın bu şerbetin şekerlenmemesi için önemli bir nokta. Kaynayan şerbetin altını kısıp 30 dakika kadar kaynatalım.",
         "Bu arada iç malzemesini hazırlayalım, açacağımız nişastayı bir kaba boşaltalım ve baklavayı yapacağımız ortamı hazırlayalım. 1 paket yağı yakmayacak şekilde tavada eritelim.",
         "Baklavamızı yapmaya geçebiliriz. Bunun için bezemizin birini alalım ve altına ve üstüne bolca nişasta döküp merdaneyle pasta tabağı büyüklüğünde açalım ve bir kenara alalım. Üzerine 1 tatlı kaşığı kadar daha nişasta koyup her tarafına yayalım.",
         "Diğer 4 bezeyi de bu şekilde aralarına nişasta koyarak üst üste koyalım. Yani 5 kat beze kullanacağınız.",
@@ -2969,8 +2969,8 @@ export const hamurRecipes: Recipe[] = [
         "2 yemek kaşığı şeker",
         "1 paket vanilya",
         "1 su bardağı+1 yemek kaşığı un",
-        "Yarım su bardağı süt",
-        "Kabartma tozu",
+        "yarım su bardağı süt",
+        "kabartma tozu",
         "3 yemek kaşığı sıvı yağ"
       ],
       "en": [
@@ -3167,7 +3167,7 @@ export const hamurRecipes: Recipe[] = [
         "1.5 su bardağı su",
         "3.5-4 su bardağı un",
         "1 adet yumurta",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1.5 cups water",
@@ -3284,8 +3284,8 @@ export const hamurRecipes: Recipe[] = [
         "2 çay kaşığı şeker",
         "1 paket kabartma tozu",
         "4-5 su bardağı un mutlaka kontrollü ekleyin",
-        "Dereotu",
-        "Maydanoz",
+        "dereotu",
+        "maydanoz",
         "2 adet orta boy kapya biber",
         "2 orta boy havuç"
       ],
@@ -3345,7 +3345,7 @@ export const hamurRecipes: Recipe[] = [
       "en": [
         "5 sheets of puff pastry",
         "5 tablespoons of chocolate or peanut butter",
-        "1 teaspoon powdered sugar"
+        "1 teaspoon granulated sugar"
       ]
     },
     "steps": {
@@ -3439,13 +3439,13 @@ export const hamurRecipes: Recipe[] = [
         "200 gram tereyağ veya margarin ( oda sıcaklığında)",
         "1 tatlı kaşığı şeker",
         "1 çay kaşığı tuz",
-        "Yarım paket instant maya",
+        "yarım paket instant maya",
         "1 paket kabartma tozu",
         "1 adet yumurta",
         "2 yemek kaşığı yoğurt",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "4 su bardağı un ( yavaş ekleyin)",
-        "Yarım çay bardağı ılık su ( maya için )"
+        "yarım çay bardağı ılık su ( maya için )"
       ],
       "en": [
         "200 grams of butter or margarine (at room temperature)",
@@ -3540,14 +3540,14 @@ export const hamurRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "125 gram oda sıcaklığında tereyağ yada margarin",
+        "125 gram oda sıcaklığında tereyağ ya da margarin",
         "1 çay bardağı sıvı yağ",
         "1 su bardağı yoğurt",
         "2 yumurta",
-        "2 yemek kaşığı üzüm yada elma sirkesi",
+        "2 yemek kaşığı üzüm ya da elma sirkesi",
         "1 tatlı kaşığı tuz",
         "1 paket kabartma tozu",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "125 grams of butter or margarine at room temperature",
@@ -3562,7 +3562,7 @@ export const hamurRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Uygun bir kaba oda sıcaklığındaki tereyağı yada margarini,sıvı yağı,1 yumurtanın tamamını ve diğer yumurtanın akını,yoğurdu ve sirkeyi koyup karıştırıyoruz.",
+        "Uygun bir kaba oda sıcaklığındaki tereyağı ya da margarini,sıvı yağı,1 yumurtanın tamamını ve diğer yumurtanın akını,yoğurdu ve sirkeyi koyup karıştırıyoruz.",
         "Ardından kabartma tozunu, ununu ve tuzunu ekleyip kontrollü bir şekilde yumuşak ele yapışmayan kulak memesi kıvamında bir hamur elde edene kadar yoğuruyoruz.",
         "Hamurdan mandalına büyüklüğünde bezeler oluşturup yağlı kağıt serili fırın tepsisine diziyoruz.",
         "Üzerlerine yumurta sarısı sürüp ,susam ve çörekotu serpiyoruz.",
@@ -3596,7 +3596,7 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "3 su bardağı un",
         "1 su bardağı ılık su",
-        "Yarım paket maya (12 g)",
+        "yarım paket maya (12 g)",
         "2 adet tüp şeker",
         "1 çay kaşığı tuz",
         "2 yemek kaşığı sıvı yağ"
@@ -3649,7 +3649,7 @@ export const hamurRecipes: Recipe[] = [
         "550 gram un",
         "1 tatlı kaşığı şeker",
         "1 buçuk tatlı kaşığı tuz",
-        "Yarım paket yaş maya",
+        "yarım paket yaş maya",
         "35 gram zeytinyağı",
         "350 gram ılık su"
       ],
@@ -3819,11 +3819,11 @@ export const hamurRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet büyük boy şeftali",
-        "​Yarım çay bardağı toz şeker"
+        "yarım çay bardağı toz şeker"
       ],
       "en": [
         "1 large size peach",
-        "Half a teacup of powdered sugar"
+        "Half a teacup of granulated sugar"
       ]
     },
     "steps": {
@@ -3835,7 +3835,7 @@ export const hamurRecipes: Recipe[] = [
         "Vanilya, kabartma tozu ve unu kademeli olarak ekleyip yumuşak, ele yapışmayan bir hamur elde edene kadar yoğurun.",
         "Hamurdan parçalar koparıp yuvarlayalım yağlı kağıt serilmiş fırın tepsisine dizelim ( ben 12 beze yaptım).",
         "Hamurların üzerine bir bardağın arkasıyla oyuk yapın şeftalili harcı üzerlerine paylaştırın.",
-        "Önceden ısıtılmış 180°c fırında 15 – 18 dakika kontrol şekilde pişirin. ( kenarları hafif pembeleşinceye kadar) ​",
+        "Önceden ısıtılmış 180°c fırında 15 – 18 dakika kontrol şekilde pişirin. ( kenarları hafif pembeleşinceye kadar) ",
         "Servis: fırından çıkıp ılındıktan sonra üzerine pudra şekeri serperek servis yapın. Afiyet olsun."
       ],
       "en": [
@@ -3965,11 +3965,11 @@ export const hamurRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "7 adet yufka",
-        "Yarım su bardağı kadar artan soğanlı pazı kavurması"
+        "yarım su bardağı kadar artan soğanlı pazı kavurması"
       ],
       "en": [
         "7 sheets of yufka",
-        "Half a teacup of leftover onion and cabbage stir fry"
+        "Half a cup of leftover onion and cabbage stir fry"
       ]
     },
     "steps": {
@@ -4114,7 +4114,7 @@ export const hamurRecipes: Recipe[] = [
         "2 cups warm milk",
         "1 cup vegetable oil",
         "2 eggs (separate the yolks)",
-        "3 tablespoons powdered sugar",
+        "3 tablespoons granulated sugar",
         "1 teaspoon salt",
         "1 packet instant yeast",
         "5-6 cups flour"
@@ -4175,7 +4175,7 @@ export const hamurRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "150 ml sıvı yağ",
         "1 yumurta akı sarısı üzerine",
-        "Yaklaşık 6,5 su bardağı un"
+        "yaklaşık 6,5 su bardağı un"
       ],
       "en": [
         "1 cup warm milk",
@@ -4247,11 +4247,11 @@ export const hamurRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 su bardağı nohut (akşamdan ıslatılmış çiğ veya 2 su bardağı nohut unu)",
-        "​3 adet yumurta",
-        "​3 yemek kaşığı zeytinyağı",
-        "​3 yemek kaşığı yoğurt (tercihen süzme yoğurt)",
-        "​1 paket kabartma tozu (veya 1 çay kaşığı karbonat + birkaç damla limon)",
-        "​1 çay kaşığı tuz"
+        "3 adet yumurta",
+        "3 yemek kaşığı zeytinyağı",
+        "3 yemek kaşığı yoğurt (tercihen süzme yoğurt)",
+        "1 paket kabartma tozu (veya 1 çay kaşığı karbonat + birkaç damla limon)",
+        "1 çay kaşığı tuz"
       ],
       "en": [
         "2 cups chickpeas (raw soaked from the night before or 2 cups of chickpea flour)",
@@ -4265,11 +4265,11 @@ export const hamurRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Akşamdan ıslattığın çiğ nohutların suyunu süzüp ve yıkayalım. (nohutları kesinlikle haşlamıyoruz, çiğ olarak kullanacağız).",
-        "Süzülmüş çiğ nohutları, yumurtaları, zeytinyağını ve yoğurdu güçlü bir mutfak robotuna (veya blender’a) alın. ​",
-        "Pürüzsüz, kremamsı bir kıvam alana kadar birkaç dakika robotu çalıştırın. ​",
+        "Süzülmüş çiğ nohutları, yumurtaları, zeytinyağını ve yoğurdu güçlü bir mutfak robotuna (veya blender’a) alın. ",
+        "Pürüzsüz, kremamsı bir kıvam alana kadar birkaç dakika robotu çalıştırın. ",
         "Homojen bir kıvam elde edince tuz ve kabartma tozunu ekleyip spatulayla son kez karıştırın.",
-        "Pişirme kağıdı serdiğiniz küçük boy bir baton kek kalıbına karışımı dökün. ​",
-        "Üzerine isteğe göre çörek otu veya susam serpiştirin. ​",
+        "Pişirme kağıdı serdiğiniz küçük boy bir baton kek kalıbına karışımı dökün. ",
+        "Üzerine isteğe göre çörek otu veya susam serpiştirin. ",
         "Önceden ısıtılmış 180°c fırında yaklaşık 35-40 dakika, üzeri altın sarısı olana ve içi çekene kadar pişirin. (kürdan testi yaparak içinin piştiğinden emin olabilirsiniz)."
       ],
       "en": [
@@ -4302,8 +4302,8 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "1 adet yufka",
         "1 adet yumurta",
-        "Kaşar peyniri",
-        "Pişirmek için sıvıyağ"
+        "kaşar peyniri",
+        "pişirmek için sıvıyağ"
       ],
       "en": [
         "1 sheet of yufka",
@@ -4464,14 +4464,14 @@ export const hamurRecipes: Recipe[] = [
         "6 adet yumurta (4 adet sarısı ayrılır)",
         "2.5 su bardağı toz şeker",
         "2 paket kuru maya",
-        "Yaklaşık 2 kg un (ben 8-9 bardak un kullandım)"
+        "yaklaşık 2 kg un (ben 8-9 bardak un kullandım)"
       ],
       "en": [
         "1.5 packets margarine or butter",
         "3 cups milk",
         "1 cup vegetable oil",
         "6 eggs (the yolks of 4 are set aside)",
-        "2.5 cups powdered sugar",
+        "2.5 cups granulated sugar",
         "2 packets dry yeast",
         "About 2 kg flour (I used 8-9 cups of flour)"
       ]
@@ -4518,12 +4518,12 @@ export const hamurRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım yemek kaşığı instant maya",
-        "Yarım çay kaşığı bal",
+        "yarım yemek kaşığı instant maya",
+        "yarım çay kaşığı bal",
         "1 bardaktan biraz az ılık süt",
-        "250 gram çok amaçlı un (2 cup)",
+        "250 gram sade un (2 su bardağı)",
         "30 gram yumuşamış tereyağı",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "Half a tablespoon instant yeast",
@@ -4636,7 +4636,7 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "4 adet yufka",
         "1 su bardağı yoğurt",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "1 adet yumurta"
       ],
       "en": [
@@ -4749,7 +4749,7 @@ export const hamurRecipes: Recipe[] = [
         "1 su bardağı ılık süt",
         "1 su bardağı ılık su",
         "1 adet yumurta akı",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "6 su bardağı un",
         "1 tatlı kaşığı tuz"
       ],
@@ -4769,7 +4769,7 @@ export const hamurRecipes: Recipe[] = [
         "Şeker ,maya,süt ,su, yumurta akı ,sıvı yağ, ben birazcıkta katı yağda koydum isteğe bağlı bir kabın içine alınır.",
         "Un ,tuz birazcık ele yapışan hamur olsun mayalandırın.",
         "Beze yaptıktan sonra 15 dk tepside mayalandırın.",
-        "Yumurta sarısını sürün,  180 derecede fansız ayarda 20- 25 dakika pişirin."
+        "Yumurta sarısını sürün, 180 derecede fansız ayarda 20- 25 dakika pişirin."
       ],
       "en": [
         "Sugar, yeast, milk, water, egg white, vegetable oil, I also put a little solid fat in it, are put into a bowl, optionally.",
@@ -4800,13 +4800,13 @@ export const hamurRecipes: Recipe[] = [
         "2 su bardağı toz şeker",
         "1 su bardağı yağ",
         "3 yemek kaşığı kakao",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "2 su bardağı un",
         "1.5 su bardağı süt"
       ],
       "en": [
         "3 eggs",
-        "2 cups powdered sugar",
+        "2 cups granulated sugar",
         "1 cup oil",
         "3 tablespoons cocoa",
         "Half a packet baking powder",
@@ -4909,8 +4909,8 @@ export const hamurRecipes: Recipe[] = [
         "4 su bardağı un",
         "1 su bardağı ılık su",
         "1 yemek kaşığı instant maya",
-        "Yarım su bardağı ılık süt",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım su bardağı ılık süt",
+        "yarım çay bardağı sıvı yağ",
         "1 tatlı kaşığı tuz"
       ],
       "en": [
@@ -5006,8 +5006,8 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "2 yumurta",
         "2 su bardağı süt",
-        "Yarım çay bardağı sıvı yağ",
-        "Yarım paket kabartma tozu",
+        "yarım çay bardağı sıvı yağ",
+        "yarım paket kabartma tozu",
         "1 tatlı kaşığı tuz",
         "2 su bardağı un ( yoğunluğa göre 2 buçuk olabilir)"
       ],
@@ -5062,9 +5062,9 @@ export const hamurRecipes: Recipe[] = [
         "1 çay bardağı yoğurt",
         "1 paket kabartma tozu",
         "1 çay kaşığı tuz",
-        "Yarım demet ince kıyılmış dereotu",
+        "yarım demet ince kıyılmış dereotu",
         "1 adet yumurta",
-        "Aldığı kadar un (yaklaşık 2.5-3 su bardağı)"
+        "aldığı kadar un (yaklaşık 2.5-3 su bardağı)"
       ],
       "en": [
         "1 teacup vegetable oil",
@@ -5160,7 +5160,7 @@ export const hamurRecipes: Recipe[] = [
         "2 adet yumurta",
         "1 su bardağı süt",
         "1 çay bardağı sıvı yağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "4-5 sheets of yufka",
@@ -5204,17 +5204,17 @@ export const hamurRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​4 yemek kaşığı toz şeker",
-        "​1 paket kuru maya",
-        "​1,5 su bardağı ılık süt",
-        "​1 yumurta",
-        "​1 çay bardağı sıvı yağ",
-        "​4,5 su bardağı un",
-        "​2 tatlı kaşığı tuz",
+        "4 yemek kaşığı toz şeker",
+        "1 paket kuru maya",
+        "1,5 su bardağı ılık süt",
+        "1 yumurta",
+        "1 çay bardağı sıvı yağ",
+        "4,5 su bardağı un",
+        "2 tatlı kaşığı tuz",
         "1 su bardağı damla çikolata"
       ],
       "en": [
-        "4 tablespoons powdered sugar",
+        "4 tablespoons granulated sugar",
         "1 packet dry yeast",
         "1.5 cups warm milk",
         "1 egg",
@@ -5226,23 +5226,23 @@ export const hamurRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Toz şeker, kuru maya ve ılık sütü bir kaba alıp iyice karıştırın. ​",
+        "Toz şeker, kuru maya ve ılık sütü bir kaba alıp iyice karıştırın. ",
         "Üzerine yumurta ve sıvı yağı ekleyip tekrar iyice karıştırın.",
-        "​Un ve tuzu ilave edin. ​",
+        "Un ve tuzu ilave edin. ",
         "Oldukça yumuşak ve ele yapışan bir hamur elde edene kadar yoğurun.",
-        "Hamur elinize yapışırsa ara sıra sıvı yağdan destek alabilirsiniz. ​",
-        "Hamuru pürüzsüz bir kıvama gelene kadar yoğurmaya devam edin. ​",
+        "Hamur elinize yapışırsa ara sıra sıvı yağdan destek alabilirsiniz. ",
+        "Hamuru pürüzsüz bir kıvama gelene kadar yoğurmaya devam edin. ",
         "Üzerini kapatıp hamur iki katı büyüklüğüne ulaşana kadar mayalandırın.",
-        "​Üzerini kapatıp hamur iki katı büyüklüğüne ulaşana kadar mayalandırın.",
-        "Şekillendirme ve pişirme: hamur mayalanınca içine 1 su bardağı damla çikolatayı ekleyip iyice yedirin. ​",
+        "Üzerini kapatıp hamur iki katı büyüklüğüne ulaşana kadar mayalandırın.",
+        "Şekillendirme ve pişirme: hamur mayalanınca içine 1 su bardağı damla çikolatayı ekleyip iyice yedirin. ",
         "Muffin kalıbına yağlı kağıtlar hazırlayın.",
-        "Hamurdan parçalar alıp yuvarlayarak kalıplara koyun. ​",
-        "Üzerini streç filmle kapatıp 15 dakika tepsi mayası yapın. ​",
-        "Üzerlerine sadece sıvı yağ sürün. ​",
+        "Hamurdan parçalar alıp yuvarlayarak kalıplara koyun. ",
+        "Üzerini streç filmle kapatıp 15 dakika tepsi mayası yapın. ",
+        "Üzerlerine sadece sıvı yağ sürün. ",
         "Önceden ısıtılmış 180 derece fırında pişirin.",
         "Fırından çıkardıktan sonra soğumasını bekleyin.",
-        "​dolgu ve servis: iç dolgusu için damla çikolatayı krema ile eritin ya da kahvaltılık çikolatayı eriterek hazırlayın. ​",
-        "Hazırladığınız çikolatayı poğaçaların içine sıkın. ​üzerlerine pudra şekeri serperek servis yapın."
+        "Dolgu ve servis: iç dolgusu için damla çikolatayı krema ile eritin ya da kahvaltılık çikolatayı eriterek hazırlayın.",
+        "Hazırladığınız çikolatayı poğaçaların içine sıkın. Üzerlerine pudra şekeri serperek servis yapın."
       ],
       "en": [
         "Put the powdered sugar, the dry yeast and the warm milk in a bowl and mix them well.",
@@ -5299,7 +5299,7 @@ export const hamurRecipes: Recipe[] = [
         "1 yufkayı tezgaha serip sosdan sürüyoruz.",
         "Üzerine diğer yufkayı serip sigara böreği gibi kesiyoruz.",
         "Üzerine iç harcını ekleyip sarıyoruz.",
-        "Sardığımız börekleri sosa batırıp galeta ununa yada kurumuş ve robotta çekilmiş ekmeğe buluyoruz.",
+        "Sardığımız börekleri sosa batırıp galeta ununa ya da kurumuş ve robotta çekilmiş ekmeğe buluyoruz.",
         "Tepsiye dizip karnına bir bıçak yardımıyla çizik atıyoruz ve 200° fırında altüst pişmeye bırakıyoruz. Afiyet olsun."
       ],
       "en": [
@@ -5419,9 +5419,9 @@ export const hamurRecipes: Recipe[] = [
         "100 gram tereyağ",
         "1 yumurta akı içine (sarısını üstüne)",
         "3 yemek kaşığı yoğurt",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "2 tane yumurta",
-        "İnce kesilmiş dereotu",
+        "ince kesilmiş dereotu",
         "1 yemek kaşığı şeker",
         "2 tatlı kaşığı tuz",
         "2 tane kabartma tozu",
@@ -5444,7 +5444,7 @@ export const hamurRecipes: Recipe[] = [
       "tr": [
         "İlk olarak erimiş tereyağ ,yoğurt ve yumurta akını bi kaba koyalım karıştıralım.",
         "Daha sonra diğer malzemeleri de ekleyelim ele yapışmayan yumuşak bi hamur elde edelim.",
-        "Yuvarlayalım, içine ezilmiş beyaz peynir koyalım kapatalım❤‍🔥",
+        "Yuvarlayalım, içine ezilmiş beyaz peynir koyalım kapatalım❤🔥",
         "Üzerlerine yumurta sarısı sürelim ve susam serpelim.",
         "190° fırında alt üst ayarda pişirelim."
       ],
@@ -5477,12 +5477,12 @@ export const hamurRecipes: Recipe[] = [
         "6 adet yufka",
         "3 adet patates",
         "1 büyük soğan",
-        "Reyhan",
-        "Karabiber",
-        "Pulbiber",
-        "Toz kırmızı biber",
-        "Tuz",
-        "Yağ"
+        "reyhan",
+        "karabiber",
+        "pulbiber",
+        "toz kırmızı biber",
+        "tuz",
+        "yağ"
       ],
       "en": [
         "6 sheets of yufka",

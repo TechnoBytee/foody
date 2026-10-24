@@ -13,11 +13,11 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet yumurta",
-        "Yarım su bardağı şeker",
-        "Yarım su bardağı sıvı yağ (100 ml)",
+        "yarım su bardağı şeker",
+        "yarım su bardağı sıvı yağ (100 ml)",
         "1 su bardağı galeta unu",
         "1 su bardağı kırılmış ceviz",
-        "1 su bardağı Hindistan cevizi",
+        "1 su bardağı hindistan cevizi",
         "1 paket kabartma tozu"
       ],
       "en": [
@@ -106,7 +106,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 büyük kaşık hamur dökülerek hamurun kendi kendine yayılmasını bekleyelim.",
         "Üzeri göz göz olmaya başlayan pankeklerimizi spatula yardımı ile ters çevirelim. Diğer taraflarını da pişirelim.",
         "Her iki tarafı da pişen pankeklerimizi servis tabağına alalım.",
-        "Üzerine  pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
+        "Üzerine pudra şekeri serpilerek zevkinize göre muz, kivi, çilek, çikolata, bal, sürülebilir çikolata, reçel ile servis edebilirsiniz."
       ],
       "en": [
         "To make pancakes, first take the eggs and sugar into a suitable mixing bowl and beat them well.",
@@ -144,7 +144,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "4 eggs",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "1 cup flour",
         "1 packet vanilla",
         "1 packet baking powder"
@@ -153,7 +153,7 @@ export const nefis_tatliRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Öncelikle kekimizi hazırlayalım. Bunun için öncelikle yumurta ve şekeri uygun bir kapta beyazlaşıp köpük köpük oluncaya kadar çırpalım.",
-        "Ardından üzerine un, kabartma tozu ve  vanilyayı ekleyerek çırpmaya devam edelim.",
+        "Ardından üzerine un, kabartma tozu ve vanilyayı ekleyerek çırpmaya devam edelim.",
         "27×40 cm çapındaki dikdörtgen borcamı alalım ve sıvı yağ ile yağlayalım.",
         "Ardından hazırladığımız kek harcını borcama boşaltalım ve eşit olacak şekilde düzeltelim. Ben bu tarifte 27×40 cm boyutlarında borcam kullandım.",
         "Kekimizi önceden ısıttığımız 180 derece alt üst fansız ayardaki fırında 15 dakika pişirelim.",
@@ -161,9 +161,9 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Bu sırada muhallebisi için süt, toz şeker, un, nişasta ve vanilyayı tencereye alalım. Karıştırarak pişirmeye başlayalım.",
         "Kıvamı koyulaşıp göz göz olduğunda muhallebimiz hazır demektir. Soğuması için muhallebimizi bir kaba aktaralım.",
         "Muhallebi ılıdıktan sonra içerisine krem şanti ilave edelim, pürüzsüz bir kıvam alıncaya kadar çırpalım.",
-        "Keki ıslatmak için uygun bir kapta soğuk süt ve şekeri  karıştıralım.",
+        "Keki ıslatmak için uygun bir kapta soğuk süt ve şekeri karıştıralım.",
         "Ardından soğuyan kekin üzerine kürdanla birkaç delik açalım. Hazırladığımız şekerli karışımı kekin üzerine gezdirelim.",
-        "Kekimiz sütü çektikten sonra muhallebimizi kekin üzerine boşaltalım ve her yeri eşit olacak  şekilde düzeltelim.",
+        "Kekimiz sütü çektikten sonra muhallebimizi kekin üzerine boşaltalım ve her yeri eşit olacak şekilde düzeltelim.",
         "Son olarak hindistancevizi ile pastanın üzerini kaplayalım ve servis etmeden önce 2-3 saat kadar buzdolabında dinlenmeye bırakalım.",
         "Yeterince dinlenen gelin pastasını dilediğimiz gibi süsleyerek servis edelim. Ben toz antep fıstığı ve greyfurt dilimleri ile süsledim siz hayal gücünüze göre süsleyebilirsiniz. Afiyet olsun!"
       ],
@@ -210,7 +210,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 paket bebe bisküvisi (yulaflı diğer bisküviler de tercih edilebilir)",
         "1 su bardağı fındık",
-        "Çilek"
+        "çilek"
       ],
       "en": [
         "5 cups milk (1 liter)",
@@ -226,12 +226,12 @@ export const nefis_tatliRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Magnolianın muhallebisi için uygun bir tencereye süt,  toz şeker, un, yumurta ve  sıvı kremayı alalım.",
+        "Magnolianın muhallebisi için uygun bir tencereye süt, toz şeker, un, yumurta ve sıvı kremayı alalım.",
         "Malzemelerimizi tel çırpıcıyla karıştırarak pişirmeye başlayalım.",
         "Muhallebi koyulaşıp göz göz oluncaya kadar karıştırarak pişirelim ve ardından ocağı kapatalım.",
         "İçerisine vanilya ilave ederek şöyle bir karıştırdıktan sonra muhallebiyi uygun bir karıştırma kabının içerisine alalım.",
         "Muhallebimiz beklerken üzerini streç filmle kapatalım. Böylelikle üzerinin kabuklanmasını engellemiş oluruz.",
-        "Diğer taraftan bebe bisküvisi ve  kavrulmuş fındığı rondoya alalım ve hızlıca rondodan geçirelim.",
+        "Diğer taraftan bebe bisküvisi ve kavrulmuş fındığı rondoya alalım ve hızlıca rondodan geçirelim.",
         "Soğuyan muhallebiyi mikserle iki dakika kadar çırpalım. Artık tatlıyı sunum yapacağımız kuplara doldurmaya başlayabiliriz. Şimdi kupların tabanına ilk olarak fındıklı bisküvi karışımını yerleştirelim. Sizlerde kaşığın arkasıyla düzeltirseniz çok daha güzel bir görünüm elde edebilirsiniz.",
         "Ardından kuplarımızın kenarlarına dilimlenmiş çilekleri yerleştirelim.",
         "Çilekleri sıraladıktan sonra muhallebiyi kuplara paylaştıralım. Muhallebinin üzerini de yine kaşığın arka tarafı ile düzeltelim.",
@@ -280,8 +280,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "3 eggs",
-        "1 cup powdered sugar",
-        "1 cup vegetable oil",
+        "1 teacup granulated sugar",
+        "1 teacup vegetable oil",
         "Milk a little less than 1 cup",
         "1.5 cups semolina",
         "1 cup flour",
@@ -333,19 +333,19 @@ export const nefis_tatliRecipes: Recipe[] = [
         "250 gram tereyağı",
         "2 çay bardağı irmik",
         "2 adet yumurta (birinin sarısı üzerine sürülecek)",
-        "Yarım çay kaşığı kabartma tozu",
-        "Yarım çay kaşığı karbonat",
+        "yarım çay kaşığı kabartma tozu",
+        "yarım çay kaşığı karbonat",
         "1,5 çay bardağı pudra şekeri",
         "1 paket vanilya",
         "3,5 su bardağı un"
       ],
       "en": [
         "250 g butter",
-        "2 cups semolina",
+        "2 teacups semolina",
         "2 eggs (the yolk of one will be brushed on top)",
         "Half teaspoon baking powder",
         "Half teaspoon baking soda",
-        "1.5 cups powdered sugar",
+        "1.5 teacups powdered sugar",
         "1 packet vanilla",
         "3.5 cups flour"
       ]
@@ -405,7 +405,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "300-350 g kadar tel kadayıf",
         "3 yemek kaşığı tereyağı",
         "5 yemek kaşığı toz şeker",
-        "1,5 su bardağı  dövülmüş ceviz"
+        "1,5 su bardağı dövülmüş ceviz"
       ],
       "en": [
         "300-350 g shredded kadayif",
@@ -481,7 +481,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Daha önceden 180 derecede ısıttığımız fırına hamuru sürün. üzeri kızarana kadar yaklaşık 40 dakika pişiriyorsunuz.",
         "Profiterol Kremasını hazırlayalım. Hamurlar piştikten sonra kremasını hazırlayın. Vanilya hariç diğer malzemeleri bir tencereye koyarak kremayı pişirin.",
         "Kremayı ocaktan aldıktan sonra vanilyasını ekleyerek karıştırın.",
-        "Kremayı profiterol hamurlarına dolduralım. Profiterolün  pişen hamurlarını ikiye bölerek ya da varsa krema sıkma torbası ile içlerini krema ile doldurun ve tepsiye dizin.",
+        "Kremayı profiterol hamurlarına dolduralım. Profiterolün pişen hamurlarını ikiye bölerek ya da varsa krema sıkma torbası ile içlerini krema ile doldurun ve tepsiye dizin.",
         "Tatlımızın üzerine çikolata sosu gezdirelim. Tüm profiterolleri doldurduktan sonra üzerine çikolata sosunu ya da benmari usulü erittiğiniz çikolatayı gezdirin."
       ],
       "en": [
@@ -515,18 +515,18 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı süt (200 ml)",
-        "Yarım çay bardağı şeker",
-        "Yarım çay bardağı sıvı yağ (60 ml)",
+        "yarım çay bardağı şeker",
+        "yarım çay bardağı sıvı yağ (60 ml)",
         "1 adet yumurta",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "1 paket vanilya",
         "1,5 su bardağı un",
-        "Yarım çay kaşığı tarçın (isteğe bağlı)"
+        "yarım çay kaşığı tarçın (isteğe bağlı)"
       ],
       "en": [
         "1 cup milk (200 ml)",
-        "Half cup sugar",
-        "Half cup vegetable oil (60 ml)",
+        "Half teacup sugar",
+        "Half teacup vegetable oil (60 ml)",
         "1 egg",
         "Half packet baking powder",
         "1 packet vanilla",
@@ -540,7 +540,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Ardından süt ve sıvı yağ ekleyip kısa bir süre daha çırpalım.",
         "Sonrasında un, kabartma tozu ve vanilyayı ilave ederek tekrar çırpalım. Dilerseniz bu aşamada damak zevkinize göre tarçında ekleyebilirsiniz.",
         "Pişirmek için her iki tarafını da yağlayıp ısıttığımız tost makinesine hamurumuzu dökelim.",
-        "Kapağını kapatıp en yüksek ayarda pişirelim. Bu aşamada hamuru gereğinden fazla pişirerek sertleştirmemeye dikkat edelim.  Hamurun üzerinde kare şeklinde izler çıkmasını isterseniz, belli bir süre pişirdikten sonra yönünü değiştirebilirsiniz.",
+        "Kapağını kapatıp en yüksek ayarda pişirelim. Bu aşamada hamuru gereğinden fazla pişirerek sertleştirmemeye dikkat edelim. Hamurun üzerinde kare şeklinde izler çıkmasını isterseniz, belli bir süre pişirdikten sonra yönünü değiştirebilirsiniz.",
         "Makineden aldığımız hamura sıcağıyla çikolata sürelim.",
         "Üzerine dilediğimiz meyveleri yerleştirip süsledikten sonra servise hazır. Evde waffle yapmak isteyenlerin rahatlıkla yapabileceği bu tarifi deneyecek herkese afiyet olsun!"
       ],
@@ -591,7 +591,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Muhallebi 5 dakika kadar dinlendikten sonra etimeklerin üzerine dökerek yüzeyini düzelttim.",
         "Krem şantiyi tatlının üzerine dökmeden önce iyice soğuması için tatlıyı beklemeye aldım. Eğer muhallebinin soğumasını beklemezseniz krem şanti eriyerek kötü bir görüntü oluşturur bu nedenle soğuduğundan emin olmadan krem şantiyi eklemeyin.",
         "Soğuyan tatlının üzerine 1 su bardağı süt ile hazırladığım krem şantiyi hazırlayarak sürdüm.",
-        "Üzerini streç film ile kapatarak buz dolabına kaldırdım."
+        "Üzerini streç film ile kapatarak buzdolabına kaldırdım."
       ],
       "en": [
         "I put 1.5 cups of sugar and 2 cups of hot water into a small saucepan and boiled them.",
@@ -888,7 +888,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "1 paket sütlü çikolata",
         "1 paket bitter çikolata",
-        "İstediğiniz kuru yemiş"
+        "istediğiniz kuru yemiş"
       ],
       "en": [
         "1 package milk chocolate",
@@ -957,7 +957,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Ardından ununu ilave edip çırpıcı ile karıştırın yağlanmış kalıba boşaltın.",
         "170 derecede pişirin fırından ilk sıcaklığı çıkınca, portakal ve şekeri pişirip üzerine dökün.",
         "Çekmesi için 10 dakika kadar bekletin.",
-        "Kalıptan çıkarıp üzerine beyaz çikolata yada pudra şekeri serpin.",
+        "Kalıptan çıkarıp üzerine beyaz çikolata ya da pudra şekeri serpin.",
         "Dilimleyip servis edin. Afiyet olsun…."
       ],
       "en": [
@@ -1061,14 +1061,14 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 çay bardağı un",
         "1 paket kabartma tozu",
         "1 paket vanilin",
-        "İsteğe bağlı 1 limon veya portakal kabuğu rendesi (ferah bir aroma katar)"
+        "isteğe bağlı 1 limon veya portakal kabuğu rendesi (ferah bir aroma katar)"
       ],
       "en": [
         "2 eggs (at room temperature)",
-        "1 cup granulated sugar",
-        "1 cup milk",
-        "1 cup vegetable oil",
-        "2 cups flour",
+        "1 teacup granulated sugar",
+        "1 teacup milk",
+        "1 teacup vegetable oil",
+        "2 teacups flour",
         "1 packet baking powder",
         "1 packet vanilla",
         "Optionally 1 lemon or orange zest (adds a light aroma)"
@@ -1136,7 +1136,7 @@ export const nefis_tatliRecipes: Recipe[] = [
   {
     "id": "nefis-nefis-tatli-1920",
     "name": {
-      "tr": "Meyveli Oatmeal Keki",
+      "tr": "Meyveli Yulaf Ezmesi Keki",
       "en": "Fruit Oatmeal Cake"
     },
     "cuisine": "nefis-tatli",
@@ -1144,14 +1144,14 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "200 gram Oatmeal",
+        "200 gram yulaf ezmesi",
         "1 yumurta m boy (50 gr)",
         "1 adet siyah erik (100 gr)",
         "½ çay kaşığı tarçın",
         "½ çay kaşığı kabartma tozu"
       ],
       "en": [
-        "200 g oatmeal",
+        "200 g rolled oats",
         "1 medium egg (50 g)",
         "1 black plum (100 g)",
         "½ teaspoon cinnamon",
@@ -1256,7 +1256,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 su bardağı un",
         "1 paket vanilya",
         "1 paket kabartma tozu",
-        "Damla çikolata"
+        "damla çikolata"
       ],
       "en": [
         "3 eggs",
@@ -1432,10 +1432,10 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım paket margarin veya tereyağ (125 gram )",
+        "yarım paket margarin veya tereyağ (125 gram )",
         "1 yumurta",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım su bardağı şeker",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı şeker",
         "1 paket vanilya",
         "1 paket kabartma tozu",
         "3 su bardağı un ( hamurun kıvamına göre değişebilir ben 3 bardak kullandım )"
@@ -1496,14 +1496,14 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 dolu kaşık şeker",
         "1 çay bardağı dövülmüş ceviz",
         "1 tatlı kaşığı tarçın",
-        "Yarım çay bardağı kuru üzüm (olmasa da olur)"
+        "yarım çay bardağı kuru üzüm (olmasa da olur)"
       ],
       "en": [
         "3 large apples",
         "2 heaped spoons sugar",
-        "1 cup crushed walnuts",
+        "1 teacup crushed walnuts",
         "1 teaspoon cinnamon",
-        "Half cup raisins (it is fine without them)"
+        "Half teacup raisins (it is fine without them)"
       ]
     },
     "steps": {
@@ -1594,7 +1594,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 dolu yemek kaşığı kakao",
         "1 paket kabartma tozu",
         "1 paket vanilya",
-        "Bolca damla çikolata (yarısı hamurun içine, yarısı üzerine)"
+        "bolca damla çikolata (yarısı hamurun içine, yarısı üzerine)"
       ],
       "en": [
         "4 eggs",
@@ -1653,7 +1653,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "500 g shredded kadayif",
         "200 g butter",
         "250 g kunyef cheese",
-        "1 cup tahini"
+        "1 teacup tahini"
       ]
     },
     "steps": {
@@ -1706,7 +1706,7 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Ölçü her 1 litre süt içindir (fotoğraflarda 3 litre kullanılmıştır)",
+        "ölçü her 1 litre süt içindir (fotoğraflarda 3 litre kullanılmıştır)",
         "1 litre süt",
         "250 gram şeker",
         "80 gram nişasta (buğday)",
@@ -1764,10 +1764,10 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "İsteğe göre bitter, sütlü veya beyaz tablet çikolatalar",
-        "Ceviz",
-        "Badem",
-        "Fındık"
+        "isteğe göre bitter, sütlü veya beyaz tablet çikolatalar",
+        "ceviz",
+        "badem",
+        "fındık"
       ],
       "en": [
         "Dark, milk or white chocolate bars as desired",
@@ -1782,7 +1782,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Önceden ısıtılmış 100 °c fırında, çikolatalar yumuşayıp eriyene kadar yaklaşık 5 dakika bekletin.",
         "Tepsiyi fırından çıkardıktan sonra üzerlerine ceviz, badem ve fındıkları yerleştirip çikolatanın üzerine hafifçe bastırın.",
         "Çikolataları sertleşmeleri için dondurucuya koyun.",
-        "İyice donduktan sonra çıkarıp servis edin.  Afiyet olsun."
+        "İyice donduktan sonra çıkarıp servis edin. Afiyet olsun."
       ],
       "en": [
         "Break the chocolates into small pieces and arrange them at intervals on a baking tray lined with baking paper.",
@@ -1935,7 +1935,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "4-5 y.kaşığı kadar fıstık kreması",
         "1 paket sütlü çikolata",
         "1 paket beyaz çikolata",
-        "Arzuya göre fıstıklı sos"
+        "arzuya göre fıstıklı sos"
       ],
       "en": [
         "1 cup roasted kadayif",
@@ -1983,12 +1983,12 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 adet yumurta (oda sıcaklığında)",
         "1 su bardağı toz şeker",
         "1 su bardağı süt (veya yoğurt)",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "2,5 su bardağı un",
         "1 paket kabartma tozu",
         "1 paket vanilin",
         "2 yemek kaşığı kakao",
-        "İsteği üzeri damla çikolata"
+        "isteği üzeri damla çikolata"
       ],
       "en": [
         "2 eggs (at room temperature)",
@@ -2009,7 +2009,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Süt ve sıvı yağı ekleyip mikserin düşük devrinde çok kısa çırpın.",
         "Un, kabartma tozu ve vanilini eleyerek karışıma ekleyin. Ve güzelce mikserle çırpın.",
         "Bir kaba biraz beyaz dan dökelim içerisine 2 yemek kaşığı kakao dökelim ve güzelce çırpalım.",
-        "Be son olarak tepsiye yada borcama bardağı ortaya koyalım ve harcımızı dökelim dilerseniz üzerine damla çikolata yada limon kabuğu rendeleyelim damak tadınıza göre istediğinizi yapabilirsiniz.",
+        "Be son olarak tepsiye ya da borcama bardağı ortaya koyalım ve harcımızı dökelim dilerseniz üzerine damla çikolata ya da limon kabuğu rendeleyelim damak tadınıza göre istediğinizi yapabilirsiniz.",
         "Püf noktası: fırının kapağını ilk 20-25 dakika hiç açmayın. Süre sonunda orta kısmına bir kürdan batırın; kürdan temiz çıkıyorsa kekiniz pişmiş demektir!."
       ],
       "en": [
@@ -2111,7 +2111,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 cup granulated sugar",
         "1 cup milk",
         "1 cup vegetable oil",
-        "1 cup walnuts",
+        "1 teacup walnuts",
         "1 teaspoon cinnamon",
         "2 packets baking powder",
         "1 packet vanilla",
@@ -2160,8 +2160,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "2 eggs",
-        "1 cup sugar",
-        "1 cup milk",
+        "1 teacup sugar",
+        "1 teacup milk",
         "1 cup flour",
         "1 packet vanilla",
         "1 packet baking powder",
@@ -2209,10 +2209,10 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 tane sarı yemeklik kabak (en fazla 2 kg kadarı kullanılmalı tek tencere için, kabak fazla gelirse 2 ayrı tencerede pişirmenizi öneririm)",
-        "3-4 su bardağı kireç",
+        "3-4 su bardağı kireç",
         "2 kg şeker",
-        "Limon tuzu (çay kaşığı ucuyla dikkatli konulmalı)",
-        "Su (1.5 litre tatlının şerbeti için 6 litre kadar da kirecin duru suyu için)"
+        "limon tuzu (çay kaşığı ucuyla dikkatli konulmalı)",
+        "su (1.5 litre tatlının şerbeti için 6 litre kadar da kirecin duru suyu için)"
       ],
       "en": [
         "1 yellow cooking pumpkin (at most 2 kg should be used for a single pan; if there is too much pumpkin, I recommend cooking it in 2 separate pans)",
@@ -2268,8 +2268,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "2.5 su bardağı süt",
         "2 yemek kaşığı kakao",
-        "Yarım su bardağı irmik",
-        "Yarım su bardağı toz şeker",
+        "yarım su bardağı irmik",
+        "yarım su bardağı toz şeker",
         "1 çay kaşığı tereyağı",
         "1 paket vanilin"
       ],
@@ -2425,7 +2425,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "2 eggs",
-        "1 cup sugar",
+        "1 teacup sugar",
         "3 tablespoons vegetable oil",
         "1 packet baking powder",
         "1 packet vanilla",
@@ -2484,10 +2484,10 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 su bardağı şeker",
         "1 su bardağı un",
         "1 çay bardağı sıvı yağ",
-        "Yarım çay bardağı süt",
+        "yarım çay bardağı süt",
         "1 su bardağı havuç rendesi",
         "1 tatlı kaşığı tarçın",
-        "Yarım su bardağı ceviz",
+        "yarım su bardağı ceviz",
         "1 tane kabartma tozu",
         "1 pk vanilya"
       ],
@@ -2495,8 +2495,8 @@ export const nefis_tatliRecipes: Recipe[] = [
         "3 eggs",
         "1 cup sugar",
         "1 cup flour",
-        "1 cup vegetable oil",
-        "Half cup milk",
+        "1 teacup vegetable oil",
+        "Half teacup milk",
         "1 cup grated carrot",
         "1 teaspoon cinnamon",
         "Half cup walnuts",
@@ -2570,7 +2570,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Bir su bardağı +bir yemek kaşığı unumuzu eleyerek ilave ediyoruz .",
         "Hamurumuzu yine spatula ile karıştırıyoruz elimizi hamura sokmuyoruz spatulayla karıştırıyoruz ki hamurumumuz elimize yapışmasın.",
         "Hazırladığımız ele yapışan yani spatulaya yapışan hamurumuzu şekillendirmeye geçiyoruz ama önce fırınıımızı fanlı bölüm ayarlıyoruz .",
-        "180 190°’de ısınması için fırınımızı açıyoruz tepsimizi hafifçe yağlıyoruz bir kaseye bir yemek kaşığı sıvı yağ koyuyoruz parmaklarımızı elimizi bu yağla yalayıp hamurumuzdan fındıktan büyük parçalar kopararak yuvarlayıp yağladığımız tepsiye diziyoruz tüm hamuru bitene kadar bu şekilde devam ediyoruz. Not: ben bunu yapmayı unuttum ama siz unutmayın kasede kalan sıvı yağımıza çay kaşığının arka tarafını batırarak hamurlarımızın üzerlerini hafiften hafiften basıp düzelteceğiz çünkü kabarırken yukarı doğru çıkıp şekil bozukluğu yaşamamak ve şerbetimize daha kolay çekmek için.",
+        "180 190°’de ısınması için fırınımızı açıyoruz tepsimizi hafifçe yağlıyoruz bir kaseye bir yemek kaşığı sıvı yağ koyuyoruz parmaklarımızı elimizi bu yağla yalayıp hamurumuzdan fındıktan büyük parçalar kopararak yuvarlayıp yağladığımız tepsiye diziyoruz tüm hamuru bitene kadar bu şekilde devam ediyoruz. Not: ben bunu yapmayı unuttum ama siz unutmayın kasede kalan sıvı yağımıza çay kaşığının arka tarafını batırarak hamurlarımızın üzerlerini hafiften hafiften basıp düzelteceğiz çünkü kabarırken yukarı doğru çıkıp şekil bozukluğu yaşamamak ve şerbetimize daha kolay çekmek için.",
         "Isınan fırınımıza tatlımızı atıyoruz nar gibi kızarana kadar altı üstü pişiriyoruz.",
         "Fırından çıkarttığımız tatlılarımızın 2-3 dakika sıcaklığın çıkmasını bekliyoruz.",
         "Sonra soğuk şerbetimizi tatlımızın üzerine gezdiriyoruz .",
@@ -2615,7 +2615,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "4 adet yumurta",
         "1 su bardağı toz şeker",
         "1 su bardağı süt",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "2,5 su bardağı un",
         "2 adet orta boy havuç (rendelenmiş)",
         "1 su bardağı iri dövülmüş ceviz",
@@ -2671,8 +2671,8 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet yumurta",
-        "1 su bardağı tozşeker",
-        "Yarım su bardağı sıvı yağ",
+        "1 su bardağı toz şeker",
+        "yarım su bardağı sıvı yağ",
         "1 paket krema 200 ml",
         "2,5 su bardağı un",
         "1 paket kabartma tozu",
@@ -2737,7 +2737,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "1 liter milk",
-        "A little less than 1 cup powdered sugar",
+        "A little less than 1 cup granulated sugar",
         "3 tablespoons flour",
         "2 tablespoons starch",
         "1 packet vanilla",
@@ -2835,7 +2835,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "1 package savoiardi",
-        "1 cup milk"
+        "1 teacup milk"
       ]
     },
     "steps": {
@@ -2931,11 +2931,11 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "1 adet kabartma tozu",
+        "1 paket kabartma tozu",
         "2 çay kaşığı nişasta",
-        "Yarım su bardağı pudra şekeri",
+        "yarım su bardağı pudra şekeri",
         "150 gram margarin",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "3 bardak un yavaş yavaş ekleyerek",
         "2 yemek kaşığı süt"
       ],
@@ -3001,7 +3001,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 cup sugar",
         "3 eggs",
         "1 cup milk",
-        "1 cup yogurt",
+        "1 teacup yogurt",
         "1 lemon zest",
         "1 packet vanilla",
         "1 packet baking powder",
@@ -3051,8 +3051,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "3 eggs",
-        "1 cup milk",
-        "1 cup tahini",
+        "1 teacup milk",
+        "1 teacup tahini",
         "1 cup dried figs (blended)",
         "3 tablespoons cocoa",
         "1 packet baking powder"
@@ -3285,7 +3285,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 su bardağı un",
         "1 paket kabartma tozu",
         "1 paket vanilya",
-        "Çikolata parçacıkları"
+        "çikolata parçacıkları"
       ],
       "en": [
         "3 eggs",
@@ -3335,11 +3335,11 @@ export const nefis_tatliRecipes: Recipe[] = [
         "3 adet yumurta",
         "1 su bardağı şeker",
         "1 su bardağı süt",
-        "Yarım su bardağı sıvı yağ",
-        "Tepeleme 1 yemek kaşığı nişasta",
+        "yarım su bardağı sıvı yağ",
+        "tepeleme 1 yemek kaşığı nişasta",
         "1 paket kabartma tozu",
         "3 su bardağı un",
-        "Yarım kilo siyah incir"
+        "yarım kilo siyah incir"
       ],
       "en": [
         "3 eggs",
@@ -3357,7 +3357,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "İncirleri su tutup yıkadıktan sonra süzgece alın.",
         "200 ml bardak ölçüsü kullanın, yumurtaları ve şekeri uygun bi kapta çırpın ,daha sonra süt ve sıvı yağ ekleyin ,nişasta ilave edip karıştırın.",
         "2. Adım unu ve kabartma tozunu ekleyip karıştırın incirleri ikiye üçe bölerek karışımın içine ekleyin karıştırın.",
-        "Yağılı bir tepsiye yada borcama dökerek 170 derece fanlı olarak pişmeye bırakın."
+        "Yağılı bir tepsiye ya da borcama dökerek 170 derece fanlı olarak pişmeye bırakın."
       ],
       "en": [
         "Soak and wash the figs in water, then put them in a colander.",
@@ -3385,17 +3385,17 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "75 gram tereyağı",
-        "Yarım çay bardağı pudra şeker",
-        "Çeyrek çay bardağı sıvı yağ",
+        "yarım çay bardağı pudra şeker",
+        "çeyrek çay bardağı sıvı yağ",
         "1 tatlı kaşığı yoğurt",
         "1 yumurta akı (sarısı üzeri için)",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "2-2,5 su bardağı un (kontrollü ekleyin)"
       ],
       "en": [
         "75 g butter",
-        "Half cup powdered sugar",
-        "Quarter cup vegetable oil",
+        "Half teacup powdered sugar",
+        "Quarter teacup vegetable oil",
         "1 teaspoon yogurt",
         "1 egg white (for the top)",
         "Half packet baking powder",
@@ -3440,15 +3440,15 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Boyutuna göre 4-5 adet şeftali",
-        "Yarım çay bardağı şeker",
-        "Su (nişastayı açmak için)",
+        "boyutuna göre 4-5 adet şeftali",
+        "yarım çay bardağı şeker",
+        "su (nişastayı açmak için)",
         "1 yemek kaşığı nişasta",
-        "Limon kabuğu ama az"
+        "limon kabuğu ama az"
       ],
       "en": [
         "4-5 peaches depending on size",
-        "Half cup sugar",
+        "Half teacup sugar",
         "Water (to loosen the starch)",
         "1 tablespoon starch",
         "Lemon zest, but a little"
@@ -3561,12 +3561,12 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 su bardağı su",
         "1 çay bardağı sıvı yağ",
         "1 su bardağı un",
-        "Bir çimdik tuz",
+        "bir çimdik tuz",
         "4 adet yumurta"
       ],
       "en": [
         "1 cup water",
-        "1 cup vegetable oil",
+        "1 teacup vegetable oil",
         "1 cup flour",
         "A pinch of salt",
         "4 eggs"
@@ -3636,7 +3636,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "Karıştırma kabında yumurta ve şeker iyice çırpılır.",
         "Kalan malzemeler sırayla ilave edilerek kek hamuru hazırlanır.",
-        "Yaklaşık 22×15 yada 28×28 ölçülerinde dikdörtgen,kare ve yuvarlak borcam kullanabilirsiniz.",
+        "Yaklaşık 22×15 ya da 28×28 ölçülerinde dikdörtgen,kare ve yuvarlak borcam kullanabilirsiniz.",
         "Yağlanmış borcama kek hamuru dökülerek 170°c fırında yaklaşık 35-40 dakika pişirilir.",
         "İlk sıcağı çıkan kek kürdan ile delinir. 2 su bardağı süt üzerine gezdirilir.",
         "Kek tamamen soğuduktan sonra üzerine hazırlamış olduğunuz krem şanti sürülür. Ben 2 paketide kullanıyorum ama sütünü az koyduğum için daha yoğun bir kıvam oluyor (kıvamı siz ayarlayabilirsiniz).",
@@ -3737,8 +3737,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": [
         "3 eggs",
         "1 cup sugar",
-        "1 cup milk",
-        "1 cup vegetable oil",
+        "1 teacup milk",
+        "1 teacup vegetable oil",
         "1 packet baking powder",
         "1 packet vanilla",
         "2.5 cups flour"
@@ -3792,7 +3792,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ],
       "en": [
         "2 tablespoons butter",
-        "1 cup vegetable oil",
+        "1 teacup vegetable oil",
         "1.5 cups flour"
       ]
     },
@@ -3845,7 +3845,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "Süt ve şekeri tencereye alalım karıştırıp ocağa alalım, kaynatmadan ısıtıp bekletelim.",
         "Tereyağını eritip unu ilave edip en kısık ateşte 6- 7 dakika sürekli karıştırarak unu yakmadan iyice un yağ birbirinden ayrılana kadar kavuralım.",
         "Sütü 3 seferde ekleyip hızlıca karıştıralım 2 -3 dakika pişirip 30 cm lik yağlanmış fırın kabına alalım.",
-        "200 derecelik fırının üst rafında üzeri kızarana kadar bekletim, ister sıcak isterseniz soğuk dilimleyerek üzerine fındık yada cevizle servis edelim afiyetler olsun."
+        "200 derecelik fırının üst rafında üzeri kızarana kadar bekletim, ister sıcak isterseniz soğuk dilimleyerek üzerine fındık ya da cevizle servis edelim afiyetler olsun."
       ],
       "en": [
         "Put the milk and the sugar into a pan, mix them and put it on the heat; heat it without boiling and wait.",
@@ -3872,13 +3872,13 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Beyaz çikolata",
-        "Bitter çikolata",
-        "Sütlü çikolata",
-        "Badem",
-        "Ceviz",
-        "Pekan cevizi",
-        "İsteğe bağlı kuru meyve"
+        "beyaz çikolata",
+        "bitter çikolata",
+        "sütlü çikolata",
+        "badem",
+        "ceviz",
+        "pekan cevizi",
+        "isteğe bağlı kuru meyve"
       ],
       "en": [
         "White chocolate",
@@ -3978,7 +3978,7 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "220 gram sıvı krema (en az yağlı Sek krema)",
+        "220 gram sıvı krema (en az yağlı sek krema)",
         "220 gram tam yağlı süt ( 1 klasik su bardağı artı 1 yemek kaşığı)",
         "5 adet büyük boy yumurta sarısı (yumurtanız normal boy ise 6 adet kullanın)",
         "45 gram toz şeker (yarım çay bardağından 1 parmak fazla şeker)",
@@ -3990,7 +3990,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "220 g liquid cream (cream with at least 35% fat)",
         "220 g whole milk (1 classic cup plus 1 tablespoon)",
         "5 large egg yolks (use 6 if your eggs are of normal size)",
-        "45 g granulated sugar (a little more than half a cup)",
+        "45 g granulated sugar (a little more than half a teacup)",
         "190 g dark or milk chocolate (my suggestion is to use half of each)",
         "1 pinch of salt",
         "1 teaspoon vanilla extract or 1 packet sugar vanilla (optional)"
@@ -4048,20 +4048,20 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "1 paket bisküvi",
         "50 gram katı yağ",
-        "Yarım çay bardağı süt",
+        "yarım çay bardağı süt",
         "3 tatlı kaşığı kakao",
         "1 paket vanilya",
-        "Yarım çay bardağı toz şeker",
-        "Hindistan cevizi",
-        "Fındık içi"
+        "yarım çay bardağı toz şeker",
+        "hindistan cevizi",
+        "fındık içi"
       ],
       "en": [
         "1 package biscuits",
         "50 g solid fat",
-        "Half cup milk",
+        "Half teacup milk",
         "3 teaspoons cocoa",
         "1 packet vanilla",
-        "Half cup granulated sugar",
+        "Half teacup granulated sugar",
         "Coconut",
         "Hazelnut kernels"
       ]
@@ -4224,7 +4224,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "1 paket sütlü çikolata",
         "1 paket bitter çikolata",
-        "1 kase ceviziçi"
+        "1 kase ceviz içi"
       ],
       "en": [
         "1 package milk chocolate",
@@ -4330,7 +4330,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 su bardağı un",
         "1 pk vanilya",
         "1 pk kabartma tozu",
-        "Bir çimdik tarçın"
+        "bir çimdik tarçın"
       ],
       "en": [
         "2 eggs",
@@ -4385,11 +4385,11 @@ export const nefis_tatliRecipes: Recipe[] = [
         "200 gram sade tahin helvası",
         "1 çay bardağı süt",
         "1 tatlı kaşığı limon suyu",
-        "Çok az vanilin"
+        "çok az vanilin"
       ],
       "en": [
         "200 g plain sesame halva",
-        "1 cup milk",
+        "1 teacup milk",
         "1 teaspoon lemon juice",
         "A very little vanilla"
       ]
@@ -4432,7 +4432,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "4 adet hurma",
         "1 buçuk su bardağı yulaf unu",
         "1 su bardağı laktozsuz süt ( normalde olur)",
-        "Çeyrek su bardağı sıvı yağ",
+        "çeyrek su bardağı sıvı yağ",
         "1 dolu tatlı kaşığı kakao",
         "1 paket kabartma tozu",
         "4 adet ceviz"
@@ -4489,12 +4489,12 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 yumurta",
         "1 su bardağından biraz eksik şeker",
         "1 yemek kaşığı pekmez",
-        "Yarım su bardağından biraz fazla süt",
-        "Yarım su bardağından biraz fazla yağ",
+        "yarım su bardağından biraz fazla süt",
+        "yarım su bardağından biraz fazla yağ",
         "1 pk şekerli vanilin",
         "1 pk kabartma tozu",
         "2 su bardağı un",
-        "Yaklaşık 200 gram damla çikolata"
+        "yaklaşık 200 gram damla çikolata"
       ],
       "en": [
         "2 eggs",
@@ -4550,8 +4550,8 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 su bardağından 1 parmak eksik şeker",
         "1 paket vanilya",
         "1 tatlı kaşığı limon kabuk kendesi",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım su bardağı süt",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı süt",
         "1 buçuk su bardağı un",
         "1 paket backpulver",
         "2 dolu yemek kaşığı kakao"
@@ -4726,7 +4726,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "3 adet yumurta",
         "1 su bardağı yoğurt",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "2 su bardağı un",
         "1 paket kabartma tozu",
         "1 orta boy patates",
@@ -4735,8 +4735,8 @@ export const nefis_tatliRecipes: Recipe[] = [
         "10–12 yeşil zeytin",
         "1 yeşil biber ve kırmızı biber",
         "2 dal yeşil soğan(evde bulamadım pırasa ekledim)",
-        "Yarım çay kaşığı tuz",
-        "İsteğe göre karabiber ve pul biber"
+        "yarım çay kaşığı tuz",
+        "isteğe göre karabiber ve pul biber"
       ],
       "en": [
         "3 eggs",
@@ -4840,9 +4840,9 @@ export const nefis_tatliRecipes: Recipe[] = [
         "1 su bardağı çiğ badem",
         "1 su bardağı bal",
         "3 su bardağı süt",
-        "Yarım su bardağı un",
-        "Yarım su bardağı pirinç unu",
-        "Yarım su bardağı nişasta",
+        "yarım su bardağı un",
+        "yarım su bardağı pirinç unu",
+        "yarım su bardağı nişasta",
         "150 gram kaymak"
       ],
       "en": [
@@ -4894,7 +4894,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "3 yumurta",
         "1 su bardağı şeker",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "1 su bardağı süt",
         "2,5 su bardağı un",
         "1 paket vanilya",
@@ -4977,7 +4977,7 @@ export const nefis_tatliRecipes: Recipe[] = [
         "İlk olarak bir tencereye süt, irmik ve şekeri koyup katılaşıncaya kadar karıştıralım, daha sonra göz göz olunca altını kısıp içine tereyağ ve vanilyayı ekleyip altını kapatalım.",
         "Tatlı kaselerimize kepçe ile dolduralım.",
         "Ardından üzerine istediğiniz şekilde süsleyip ikram edebilirsiniz.",
-        "Ben hindistan cevizi ve ceviz ile süsledim ilk sıcağı gittikten sonra 3 saat buz dolabında bekletip servis edebilirsiniz şimdiden deneyenlere afiyet olsun."
+        "Ben hindistan cevizi ve ceviz ile süsledim ilk sıcağı gittikten sonra 3 saat buzdolabında bekletip servis edebilirsiniz şimdiden deneyenlere afiyet olsun."
       ],
       "en": [
         "First, put the milk, the semolina and the sugar into a pan and stir until it sets, then when it bubbles, lower the heat and add the butter and the vanilla into it and turn off the heat.",
@@ -5055,10 +5055,10 @@ export const nefis_tatliRecipes: Recipe[] = [
         "2 adet yumurta (l boy)",
         "4 yemek kaşığı toz şeker",
         "1 su bardağı süt (200ml)",
-        "Çeyrek su bardağı sıvı yağ(200ml)",
+        "çeyrek su bardağı sıvı yağ(200ml)",
         "1 paket kabartma tozu",
         "1 paket vanilya",
-        "Bir çimdik tuz",
+        "bir çimdik tuz",
         "2 su bardağı un(200ml)"
       ],
       "en": [
@@ -5112,18 +5112,18 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "2 tane yumurta",
         "1 çay bardağı irmik",
-        "Yarım çay bardağı pudra şekeri",
+        "yarım çay bardağı pudra şekeri",
         "1 çay bardağı çekilmiş badem unu",
         "125 gram tereyağı",
         "1 tane vanilya",
-        "Yarım kabartma tozu",
-        "Alabildiği kadar un"
+        "yarım kabartma tozu",
+        "alabildiği kadar un"
       ],
       "en": [
         "2 eggs",
-        "1 cup semolina",
-        "Half cup powdered sugar",
-        "1 cup ground almond flour",
+        "1 teacup semolina",
+        "Half teacup powdered sugar",
+        "1 teacup ground almond flour",
         "125 g butter",
         "1 packet vanilla",
         "Half packet baking powder",
@@ -5281,11 +5281,11 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 yumurta",
-        "Yarım su bardağı tozşeker",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım su bardağı süt",
+        "yarım su bardağı toz şeker",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı süt",
         "1 su bardağı un",
-        "Yarım su bardağı badem unu",
+        "yarım su bardağı badem unu",
         "1 pk vanilin",
         "1 pk kabartma tozu"
       ],
@@ -5350,8 +5350,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": [
         "3 eggs",
         "1.5 cups sugar",
-        "1 cup milk",
-        "1 cup yogurt",
+        "1 teacup milk",
+        "1 teacup yogurt",
         "Vegetable oil a little less than 1 cup",
         "1.5 tablespoons lemon juice",
         "2.5 cups flour",
@@ -5456,7 +5456,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "2 tane yumurta",
         "1 çimdik tuz",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "2 çay bardağı süt",
         "1 paket kabartma tozu",
         "1 paket vanilya",
@@ -5466,12 +5466,12 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": [
         "2 eggs",
         "1 pinch of salt",
-        "Half cup vegetable oil",
-        "2 cups milk",
+        "Half teacup vegetable oil",
+        "2 teacups milk",
         "1 packet baking powder",
         "1 packet vanilla",
         "2 cups flour",
-        "4 tablespoons powdered sugar (you can add 1 more spoon if you like it sweeter)"
+        "4 tablespoons granulated sugar (you can add 1 more spoon if you like it sweeter)"
       ]
     },
     "steps": {
@@ -5565,11 +5565,11 @@ export const nefis_tatliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 su bardağı süt",
-        "Yarım su bardağı toz şeker",
+        "yarım su bardağı toz şeker",
         "3 yemek kaşığı un",
         "3 yemek kaşığı tereyağı",
         "1 paket vanilin",
-        "Üzeri için isteğe bağlı fındık"
+        "üzeri için isteğe bağlı fındık"
       ],
       "en": [
         "3 cups milk",
@@ -5622,9 +5622,9 @@ export const nefis_tatliRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "2 paket burcak bisküvi",
+        "2 paket burçak bisküvi",
         "2 paket toz şanti",
-        "Üzerinde yazan tarife göre süt"
+        "üzerinde yazan tarife göre süt"
       ],
       "en": [
         "2 packages graham biscuits",
@@ -5636,7 +5636,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "tr": [
         "Öncelikle çikolata sosunu hazırlayalım. Süt, kakao ,nişasta, şeker ve tereyağı tencereye alıp kaynayıncaya kadar pişirelim ve kenera alalım.",
         "Krem şantiyi soğuk sütle çırpalım, bisküvin bir tanesini süte batıralım ve 1 tatlı kaşığı kremşanti sürelim, diğer bisküviyi kapatıp yanlarına çay kaşığıyla kremşanti sürüp hindistan cevizine bulayalım.",
-        "Üstüne çikolata sosu sürüp buz dolabında 1 saat dinlendirelim."
+        "Üstüne çikolata sosu sürüp buzdolabında 1 saat dinlendirelim."
       ],
       "en": [
         "First, let us prepare the chocolate sauce. Put the milk, cocoa, starch, sugar and butter into a pan, cook until it boils and set it aside.",

@@ -14,15 +14,15 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "4 adet orta boy kabak",
         "2 adet yumurta",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "20-25 adet maydanoz",
         "8-10 adet yeşil soğan",
         "200 gram beyaz peynir (diyet yapanlar için light olabilir, miktarı da azaltılabilir)",
         "1 çay bardağı un (kıvama göre azalıp eksilebilir, ben tam buğday unu kullandım)",
-        "1 adet kabartma tozu",
-        "Yarım kahve fincanı sıvı yağ (diyette olmayanlar, isteyenler tam doldurabilir)",
-        "Tuz, karabiber, pul biber",
-        "Diyette olmayanlar için üzerine serpmek için 250 gr kaşar peyniri"
+        "1 paket kabartma tozu",
+        "yarım kahve fincanı sıvı yağ (diyette olmayanlar, isteyenler tam doldurabilir)",
+        "tuz, karabiber, pul biber",
+        "diyette olmayanlar için üzerine serpmek için 250 gr kaşar peyniri"
       ],
       "en": [
         "4 medium zucchini",
@@ -46,7 +46,7 @@ export const diyetRecipes: Recipe[] = [
         "Yumurtaları ayrı bir kapta iyice çırpın, köpük köpük olsun.",
         "Bütün malzemeleri krep yapıyormuş gibi birleştirin.",
         "Burada önemli olan unun miktarını ayarlamanız. Çok cıvık olmasın ki içini çekerek pişsin.",
-        "Fırın kabınızı çok az yağla yağlayın yada pişirme kağıdı kullanabilirsiniz.",
+        "Fırın kabınızı çok az yağla yağlayın ya da pişirme kağıdı kullanabilirsiniz.",
         "Tüm malzemeyi kabınıza boşaltın ve önceden 200 derecede ısıtılmış fırınınıza sürün. Süre ve ısı veremeyeceğim, ben turbo fırınımda pişirdim biraz çabuk pişiriyor. Sonra ısıyı düşürüp içini çekmesini sağlıyorum mesela.",
         "Kızarmaya başlayınca çıkarıp kaşar peyniri serpin ve kaşarlar eriyip kızarıncaya kadar pişirin.",
         "Dileyen sarımsaklı yoğurtla servis edebilir ve dereotu ile süsleyebilir. Afiyet olsun."
@@ -85,7 +85,7 @@ export const diyetRecipes: Recipe[] = [
         "1 su bardağı yoğurt",
         "3 adet yumurta",
         "1 su bardağı kadar kaşar peyniri",
-        "Çok az tuz ve karabiber"
+        "çok az tuz ve karabiber"
       ],
       "en": [
         "1 cup yogurt",
@@ -140,12 +140,12 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "2 Adet Yeşil Elma",
-        "1 Adet Limon",
-        "2 Adet Çubuk Tarçın",
-        "4 Adet Tane Karanfil",
-        "1 Çay Kaşığı Karabiber",
-        "3 Litre Su"
+        "2 adet yeşil elma",
+        "1 adet limon",
+        "2 adet çubuk tarçın",
+        "4 adet karanfil",
+        "1 çay kaşığı karabiber",
+        "3 litre su"
       ],
       "en": [
         "2 green apples",
@@ -236,12 +236,12 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı kırmızı mercimek",
-        "Yarım su bardağı yeşil mercimek",
+        "yarım su bardağı kırmızı mercimek",
+        "yarım su bardağı yeşil mercimek",
         "3 su bardağı kaynar su",
         "2 tane yumurta",
         "1 çay bardağı yoğurt",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "5-6 dal taze nane",
         "5-6 dal dereotu (dilediğiniz yeşilliği kullanabilirsiniz)",
         "1 çay bardağı lor peyniri",
@@ -259,8 +259,8 @@ export const diyetRecipes: Recipe[] = [
         "5-6 sprigs fresh mint",
         "5-6 sprigs dill (you can use any herb you like)",
         "1 teacup lor cheese",
-        "1 tablespoon caraway seeds",
-        "1 tablespoon salt",
+        "1 teaspoon caraway seeds",
+        "1 teaspoon salt",
         "1 packet baking powder"
       ]
     },
@@ -271,7 +271,7 @@ export const diyetRecipes: Recipe[] = [
         "Daha sonra, rondodan incecik olana kadar geçiriyoruz.",
         "Dereotu ve naneyi ince ince doğruyoruz.",
         "Yumurtayı, bir karıştırma kabında mikserle köpük köpük olana kadar çırpıyoruz.",
-        "Mercimek de dahil tüm malzemeleri ilave edip, karıştırıyoruz ve yağladığımız borcama döküyoruz.  Bu tarifte 22×22 cm borcam kullanabilirsiniz.",
+        "Mercimek de dahil tüm malzemeleri ilave edip, karıştırıyoruz ve yağladığımız borcama döküyoruz. Bu tarifte 22×22 cm borcam kullanabilirsiniz.",
         "Üzerine de çörekotu ve susam serpiştirip, önceden ısıttığımız 170 derece fırında, alt üst fansız ayarda yaklaşık 40 dakika pişiriyoruz.",
         "Sürenin sonunda pişen mercimek ekmeğimiz servise hazır. Kürdan testi ile kontrol edebilirsiniz ve kahvaltılarda ekmek yerine tüketiyoruz ya da acıktığınız ara öğünlerde."
       ],
@@ -311,7 +311,7 @@ export const diyetRecipes: Recipe[] = [
         "1 çay kaşığı tuz"
       ],
       "en": [
-        "4 tablespoons oat flour",
+        "4 tablespoons rolled oats",
         "1 tablespoon yogurt",
         "1 egg",
         "30 g cheddar or Çeçil cheese",
@@ -321,10 +321,10 @@ export const diyetRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Uygun bir karıştırma kabında yulaf ezmesi, yoğurt ve yumurtayı tuzunu da ekleyip, güzelce karıştıralım.",
-        "Hazırladığımız karışımı  yağlı kağıt serili ısıtılmış tost makinesine dökelim ve düzeltelim.",
+        "Hazırladığımız karışımı yağlı kağıt serili ısıtılmış tost makinesine dökelim ve düzeltelim.",
         "Pişirme kağıdını karışımın üzerine kapattıktan sonra tost makinesinin kapağını kapatalım ve pişirelim.",
         "Bir miktar piştikten sonra içine peynirimizi ekleyelim ve yulaf tosunun yarısını peynirlerin üzerine katlayalım.",
-        "Yulaf ekmeğimiz kızardıktan ve peynirimiz de eridikten sonra tostumuz hazır.  İlk sıcağı çıktıktan sonra dilimleyerek servis edebilirsiniz. Deneyeceklere şimdiden afiyet olsun. :)"
+        "Yulaf ekmeğimiz kızardıktan ve peynirimiz de eridikten sonra tostumuz hazır. İlk sıcağı çıktıktan sonra dilimleyerek servis edebilirsiniz. Deneyeceklere şimdiden afiyet olsun. :)"
       ],
       "en": [
         "In a suitable mixing bowl, mix the oat flour, yogurt and egg well, adding the salt as well.",
@@ -358,8 +358,8 @@ export const diyetRecipes: Recipe[] = [
         "1 kutu küçük boy ton balığı",
         "2 yemek kaşığı konserve mısır",
         "1 yemek kaşığı zeytinyağı",
-        "Yarım limon suyu",
-        "Tuz"
+        "yarım limonun suyu",
+        "tuz"
       ],
       "en": [
         "5-6 leaves lettuce",
@@ -406,15 +406,15 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Brokoli",
+        "brokoli",
         "3-4 adet salatalık turşusu",
-        "Konserve mısır",
-        "Közlenmiş kırmızı biber",
-        "Yeşil soğan",
+        "konserve mısır",
+        "közlenmiş kırmızı biber",
+        "yeşil soğan",
         "2-3 diş sarımsak",
-        "Zeytinyağı",
-        "Tuz",
-        "Limon"
+        "zeytinyağı",
+        "tuz",
+        "limon"
       ],
       "en": [
         "broccoli",
@@ -467,9 +467,9 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 şişe maden suyu",
-        "Yarım su bardağı yağsız yoğurt",
+        "yarım su bardağı yağsız yoğurt",
         "2 yemek kaşığı limon suyu",
-        "Yarım çay kaşığı nane"
+        "yarım çay kaşığı nane"
       ],
       "en": [
         "1 bottle mineral water",
@@ -511,8 +511,8 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet elma",
-        "Yarım limon",
-        "Tarçın"
+        "yarım limon",
+        "tarçın"
       ],
       "en": [
         "2 apples",
@@ -554,7 +554,7 @@ export const diyetRecipes: Recipe[] = [
         "1 büyük elma",
         "2 yemek kaşığı bal",
         "1 çay kaşığı tarçın",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "4-5 adet ceviz"
       ],
       "en": [
@@ -569,7 +569,7 @@ export const diyetRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Yulafı kaba koyun, üzerine bal,kabartma tozu ve tarçını koyun.",
-        "Elmayı ister kabuklu ister soyabilirsiniz ben  soymadım küçük küçük doğrayın.",
+        "Elmayı ister kabuklu ister soyabilirsiniz ben soymadım küçük küçük doğrayın.",
         "Kabaca elimizle kırıp cevizi de ilave edin ve kaşıkla karıştırın.",
         "Üzerini bir tabakla kapatıp yulafların yumuşaması için 10 dakika bekletin.",
         "Sürenin sonunda elimizle mandalina boyutunda parçalar koparıp yuvarlayın ve yağlı kağıt serilmiş fırın tepsisine dizin.",
@@ -604,23 +604,23 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 çay bardağı yoğurt",
         "2 adet yumurta (1 tanesinin sarısı üzerine)",
-        "Çeyrek çay bardağı zeytinyağı",
+        "çeyrek çay bardağı zeytinyağı",
         "2.5 su bardağı yulaf ezmesi",
-        "Yarım demet dereotu",
-        "Domates kurusu",
+        "yarım demet dereotu",
+        "domates kurusu",
         "1 kase beyaz ve kaşar peynir karışık",
-        "Bir avuç zeytin",
+        "bir avuç zeytin",
         "1 adet küçük yeşil biber",
-        "Tuz",
+        "tuz",
         "1 çay kaşığı karbonat",
-        "Susam",
-        "Çörek otu"
+        "susam",
+        "çörek otu"
       ],
       "en": [
         "1 teacup yogurt",
         "2 eggs (keep one yolk aside)",
         "a quarter teacup olive oil",
-        "2.5 cups oat flour",
+        "2.5 cups rolled oats",
         "half a bunch of dill",
         "sun-dried tomatoes",
         "1 bowl of a mix of white and cheddar cheese",
@@ -664,10 +664,10 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 kutu ton balığı (süzülmüş)",
         "3 yemek kaşığı konserve mısır",
-        "Bir miktar marul",
+        "bir miktar marul",
         "1 adet salatalık",
         "3 yemek kaşığı yoğurt",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 can tuna (drained)",
@@ -725,7 +725,7 @@ export const diyetRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Kahvaltılar için kolay unsuz fit pankek tarifim için öncelikle yulafı bir kabin içine alıyoruz. Ardından sütü ilave edip tuzu ekliyoruz.",
-        "Bundan sonra blender ile kıvam alana kadar çekiyoruz. Süt veya yulafı kıvamına göre ekleyebilir ayarlayabilirsiniz.  Vaktiniz varsa 5-10 dakika bekletebilirsiniz yulaf şişip kıvam alacak.",
+        "Bundan sonra blender ile kıvam alana kadar çekiyoruz. Süt veya yulafı kıvamına göre ekleyebilir ayarlayabilirsiniz. Vaktiniz varsa 5-10 dakika bekletebilirsiniz yulaf şişip kıvam alacak.",
         "Ardından teflon bir tavda arkalı önlü pişiriyoruz. Afiyet olsun."
       ],
       "en": [
@@ -758,8 +758,8 @@ export const diyetRecipes: Recipe[] = [
         "3 yemek kaşığı yoğurt",
         "1 diş sarımsak",
         "1 yemek kaşığı zeytinyağı",
-        "Dilediğiniz baharatlar",
-        "Tuz"
+        "dilediğiniz baharatlar",
+        "tuz"
       ],
       "en": [
         "200 g chicken breast",
@@ -810,9 +810,9 @@ export const diyetRecipes: Recipe[] = [
         "2 yemek kaşığı yoğurt",
         "1 adet yumurta",
         "1 paket kabartma tozu",
-        "İstediğiniz kadar beyaz peynir (istediğiniz peynirle yapabilirsiniz)",
+        "istediğiniz kadar beyaz peynir (istediğiniz peynirle yapabilirsiniz)",
         "1-2 tutam dereotu",
-        "Tuz (isteğe bağlı peynir tuzluysa koymayın)"
+        "tuz (isteğe bağlı peynir tuzluysa koymayın)"
       ],
       "en": [
         "1.5-2 cups oat flour",
@@ -861,7 +861,7 @@ export const diyetRecipes: Recipe[] = [
         "2 adet olgun muz",
         "2 adet yumurta",
         "1 çay bardağı şekersiz elma suyu konsantresi",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 su bardağı un",
         "1 paket kabartma tozu",
         "1 çay kaşığı tarçın",
@@ -925,10 +925,10 @@ export const diyetRecipes: Recipe[] = [
         "2 adet kabak",
         "1 adet havuç",
         "2 adet yumurta",
-        "Çörek otu",
-        "Susam",
-        "Tuz",
-        "Karabiber"
+        "çörek otu",
+        "susam",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "2 zucchini",
@@ -977,7 +977,7 @@ export const diyetRecipes: Recipe[] = [
         "5 yumurta",
         "500 gram lor peyniri",
         "1 çay kaşığı kabartma tozu",
-        "Tuz ( lora göre ayarlayın)"
+        "tuz ( lora göre ayarlayın)"
       ],
       "en": [
         "5 eggs",
@@ -1026,7 +1026,7 @@ export const diyetRecipes: Recipe[] = [
         "4 yemek kaşığı mısır unu",
         "4 yemek kaşığı yoğurt",
         "2 çay kaşığı tuz",
-        "Biraz pulbiber",
+        "biraz pulbiber",
         "2 yemek kaşığı zeytinyağı",
         "1 çay kaşığı kabartma tozu"
       ],
@@ -1077,27 +1077,27 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "125 gram tereyağı",
-        "​1 adet yumurta",
-        "​1 çay bardağı sıvı yağ",
-        "​1 yemek kaşığı sirke",
-        "​2 yemek kaşığı toz şeker",
-        "​1 çay kaşığı tuz",
-        "​2 tatlı kaşığı tatlı biber salçası",
-        "​Yarım paket kabartma tozu",
-        "​1 yemek kaşığı haşhaş",
-        "​1 çay kaşığı kırmızı toz biber",
-        "​1 çay kaşığı mahlep",
-        "​1 çay kaşığı nane",
-        "​1 çay kaşığı karabiber",
-        "​1 çay kaşığı kekik",
-        "​Alabildiği kadar glutensiz un"
+        "1 adet yumurta",
+        "1 çay bardağı sıvı yağ",
+        "1 yemek kaşığı sirke",
+        "2 yemek kaşığı toz şeker",
+        "1 çay kaşığı tuz",
+        "2 tatlı kaşığı tatlı biber salçası",
+        "yarım paket kabartma tozu",
+        "1 yemek kaşığı haşhaş",
+        "1 çay kaşığı kırmızı toz biber",
+        "1 çay kaşığı mahlep",
+        "1 çay kaşığı nane",
+        "1 çay kaşığı karabiber",
+        "1 çay kaşığı kekik",
+        "alabildiği kadar glutensiz un"
       ],
       "en": [
         "125 g butter",
         "1 egg",
         "1 teacup vegetable oil",
         "1 tablespoon vinegar",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "1 teaspoon salt",
         "2 teaspoons sweet pepper paste",
         "half a packet baking powder",
@@ -1152,8 +1152,8 @@ export const diyetRecipes: Recipe[] = [
         "1 büyük boy havuç",
         "1 küçük patates",
         "1 adet yumurta (tercihen 2 de kullanılabilir )",
-        "Tuz",
-        "Dilediğiniz baharatlar"
+        "tuz",
+        "dilediğiniz baharatlar"
       ],
       "en": [
         "1 large zucchini",
@@ -1214,7 +1214,7 @@ export const diyetRecipes: Recipe[] = [
         "1 su bardağı sıcak su (bulguru ıslatmak için)"
       ],
       "en": [
-        "1 cup mash beans",
+        "1 cup mung beans",
         "1.5 cups fine bulgur",
         "2 onions",
         "1 potato",
@@ -1342,15 +1342,15 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "2 adet yumurta",
         "3 yemek kaşığı yulaf unu veya yulaf ezmesi",
-        "Karabiber",
-        "Kimyon",
-        "Kekik",
-        "Domates salçası",
-        "Kaşar peyniri"
+        "karabiber",
+        "kimyon",
+        "kekik",
+        "domates salçası",
+        "kaşar peyniri"
       ],
       "en": [
         "2 eggs",
-        "3 tablespoons oat flour or oat meal",
+        "3 tablespoons oat flour or rolled oats",
         "black pepper",
         "cumin",
         "thyme",
@@ -1499,7 +1499,7 @@ export const diyetRecipes: Recipe[] = [
         "1 su bardağı dut kurusu",
         "3 adet yumurta",
         "1 çay bardağı tahin",
-        "Yarım çay bardağı süt (bitkisel süt kullanabilirsiniz)",
+        "yarım çay bardağı süt (bitkisel süt kullanabilirsiniz)",
         "1 paket kabartma tozu",
         "2 yemek kaşığı kakao"
       ],
@@ -1518,7 +1518,7 @@ export const diyetRecipes: Recipe[] = [
         "Yumurta, tahin ve sütü karıştırın.",
         "Yumurtalı karışıma dutları ve kabartma tozunu ekleyin.",
         "Karışımı dilediğiniz kalıba dökebilirsiniz.",
-        "Üzerine ceviz yada fındık kırıntıları bitter çikolata serpip 160 derecede alt üst ayarda pişirin."
+        "Üzerine ceviz ya da fındık kırıntıları bitter çikolata serpip 160 derecede alt üst ayarda pişirin."
       ],
       "en": [
         "Blend the mulberries and the cocoa in the blender until they turn into flour.",
@@ -1655,7 +1655,7 @@ export const diyetRecipes: Recipe[] = [
         "1 cup of warm milk",
         "1 teacup vegetable oil",
         "3 tablespoons sugar",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "2 warm eggs (keep one yolk aside)",
         "1 packet gluten-free dry yeast (10 grams)",
         "1 packet purslane powder",
@@ -1704,7 +1704,7 @@ export const diyetRecipes: Recipe[] = [
         "1 yemek kaşığı chia tohumu",
         "3 tane kuru kayısı",
         "8 tane badem",
-        "Yarım yemek kaşığı tarçın"
+        "yarım yemek kaşığı tarçın"
       ],
       "en": [
         "4 tablespoons yogurt",
@@ -1754,14 +1754,14 @@ export const diyetRecipes: Recipe[] = [
       "en": [
         "75 g butter softened at room temperature",
         "75 g palm sugar",
-        "1 tablespoon vanilla sugar",
+        "1 teaspoon vanilla sugar",
         "a pinch of salt",
         "1 egg",
         "125 g gluten-free flour blend",
-        "1 tablespoon baking powder",
+        "1 teaspoon baking powder",
         "75 g yogurt",
         "100 g peeled and finely diced apple or any other fruit you prefer",
-        "1 tablespoon cinnamon"
+        "1 teaspoon cinnamon"
       ]
     },
     "steps": {
@@ -1848,15 +1848,15 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı nohut",
         "1 adet kapya biber",
-        "Yarım demet dereotu",
-        "Yarım demet maydanoz",
+        "yarım demet dereotu",
+        "yarım demet maydanoz",
         "1 adet küçük soğan (yeşil soğanda olabilir)",
         "1 tane havuç",
         "2 ufak kornişon turşusu",
         "3 yemek kaşığı zeytin yağı",
-        "1 çay kaşığı tuz",
+        "1 çay kaşığı tuz",
         "1 çay kaşığı sumak",
-        "Yarım limon"
+        "yarım limon"
       ],
       "en": [
         "1 cup chickpeas",
@@ -1906,13 +1906,13 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "2 kutu ton balığı",
         "6 yaprak marul",
-        "Roka",
+        "roka",
         "2 bardak haşlanmış nohut",
         "1 adet kapya biberi",
         "1 adet havuç",
-        "Zeytinyağı",
-        "Limon",
-        "Tuz"
+        "zeytinyağı",
+        "limon",
+        "tuz"
       ],
       "en": [
         "2 cans tuna",
@@ -2012,7 +2012,7 @@ export const diyetRecipes: Recipe[] = [
         "4 adet hurma",
         "1 buçuk su bardağı yulaf unu",
         "1 su bardağı laktozsuz süt ( normalde olur)",
-        "Çeyrek su bardağı sıvı yağ",
+        "çeyrek su bardağı sıvı yağ",
         "1 dolu tatlı kaşığı kakao",
         "1 paket kabartma tozu",
         "4 adet ceviz"
@@ -2023,7 +2023,7 @@ export const diyetRecipes: Recipe[] = [
         "1.5 cups oat flour",
         "1 cup lactose-free milk (normal milk works too)",
         "a quarter cup of vegetable oil",
-        "1 heaped tablespoon cocoa",
+        "1 heaped teaspoon cocoa",
         "1 packet baking powder",
         "4 walnuts"
       ]
@@ -2068,8 +2068,8 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta (oda sıcaklığında)",
         "1 su bardağı laktozsuz süt",
-        "Yarım çay bardağı sıvı yağ & eritilmiş hindistan cevizi yağı karışımı",
-        "Yarım çay bardağı toz şeker",
+        "yarım çay bardağı sıvı yağ & eritilmiş hindistan cevizi yağı karışımı",
+        "yarım çay bardağı toz şeker",
         "1 paket kabartma tozu",
         "1 paket vanilya",
         "1,5 – 2 su bardağı glutensiz un (kıvamına göre kontrollü ekleyin, akışkan ama koyu bir kek hamuru kıvamında olmalı)"
@@ -2078,7 +2078,7 @@ export const diyetRecipes: Recipe[] = [
         "1 egg (at room temperature)",
         "1 cup lactose-free milk",
         "half a teacup of a mixture of vegetable oil and melted coconut oil",
-        "half a teacup powdered sugar",
+        "half a teacup granulated sugar",
         "1 packet baking powder",
         "1 packet vanilla",
         "1.5-2 cups gluten-free flour (add it in a controlled way depending on the consistency, it should be a runny but thick cake batter)"
@@ -2181,7 +2181,7 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "100 gram ilave şeker içermeyen çikolata",
-        "Yaklaşık 200 gram soya gevreği"
+        "yaklaşık 200 gram soya gevreği"
       ],
       "en": [
         "100 g chocolate with no added sugar",
@@ -2224,7 +2224,7 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "1/2 (yarım) su bardağı maş fasülyesi",
+        "1/2 (yarım) su bardağı maş fasulyesi",
         "7 çeri domates",
         "1 avuç maydanoz",
         "1 dal nane",
@@ -2233,7 +2233,7 @@ export const diyetRecipes: Recipe[] = [
         "1 yemek kaşığı zeytinyağı",
         "2 yemek kaşığı nar ekşisi",
         "2 diş sarımsak",
-        "Yarım paket hellim peyniri"
+        "yarım paket hellim peyniri"
       ],
       "en": [
         "1/2 (half) cup mash beans",
@@ -2285,11 +2285,11 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 su bardağı nohut (akşamdan ıslatılmış çiğ veya 2 su bardağı nohut unu)",
-        "​3 adet yumurta",
-        "​3 yemek kaşığı zeytinyağı",
-        "​3 yemek kaşığı yoğurt (tercihen süzme yoğurt)",
-        "​1 paket kabartma tozu (veya 1 çay kaşığı karbonat + birkaç damla limon)",
-        "​1 çay kaşığı tuz"
+        "3 adet yumurta",
+        "3 yemek kaşığı zeytinyağı",
+        "3 yemek kaşığı yoğurt (tercihen süzme yoğurt)",
+        "1 paket kabartma tozu (veya 1 çay kaşığı karbonat + birkaç damla limon)",
+        "1 çay kaşığı tuz"
       ],
       "en": [
         "2 cups chickpeas (raw soaked from the evening, or 2 cups chickpea flour)",
@@ -2303,11 +2303,11 @@ export const diyetRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Akşamdan ıslattığın çiğ nohutların suyunu süzüp ve yıkayalım. (nohutları kesinlikle haşlamıyoruz, çiğ olarak kullanacağız).",
-        "Süzülmüş çiğ nohutları, yumurtaları, zeytinyağını ve yoğurdu güçlü bir mutfak robotuna (veya blender’a) alın. ​",
-        "Pürüzsüz, kremamsı bir kıvam alana kadar birkaç dakika robotu çalıştırın. ​",
+        "Süzülmüş çiğ nohutları, yumurtaları, zeytinyağını ve yoğurdu güçlü bir mutfak robotuna (veya blender’a) alın. ",
+        "Pürüzsüz, kremamsı bir kıvam alana kadar birkaç dakika robotu çalıştırın. ",
         "Homojen bir kıvam elde edince tuz ve kabartma tozunu ekleyip spatulayla son kez karıştırın.",
-        "Pişirme kağıdı serdiğiniz küçük boy bir baton kek kalıbına karışımı dökün. ​",
-        "Üzerine isteğe göre çörek otu veya susam serpiştirin. ​",
+        "Pişirme kağıdı serdiğiniz küçük boy bir baton kek kalıbına karışımı dökün. ",
+        "Üzerine isteğe göre çörek otu veya susam serpiştirin. ",
         "Önceden ısıtılmış 180°c fırında yaklaşık 35-40 dakika, üzeri altın sarısı olana ve içi çekene kadar pişirin. (kürdan testi yaparak içinin piştiğinden emin olabilirsiniz)."
       ],
       "en": [
@@ -2344,7 +2344,7 @@ export const diyetRecipes: Recipe[] = [
         "4 yemek kaşığı yulaf (blenderdan geçirip un haline getirdim)",
         "2 tam ceviz (elimle ufaladım)",
         "1 paket vanilin",
-        "Yarım paket kabartma tozu"
+        "yarım paket kabartma tozu"
       ],
       "en": [
         "1 egg",
@@ -2399,8 +2399,8 @@ export const diyetRecipes: Recipe[] = [
         "1 orta boy patates",
         "1 yemek kaşığı mısır unu",
         "1 yemek kaşığı zeytinyağı",
-        "İstediğiniz baharatlar",
-        "Tuz"
+        "istediğiniz baharatlar",
+        "tuz"
       ],
       "en": [
         "1 medium zucchini",
@@ -2494,10 +2494,10 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "​150 gram schär glutensiz bisküvi",
-        "​1 avuç badem",
-        "​3 yemek kaşığı hindistan cevizi yağı (sıvı formda)",
-        "​3 tatlı kaşığı ham kakao"
+        "150 gram schär glutensiz bisküvi",
+        "1 avuç badem",
+        "3 yemek kaşığı hindistan cevizi yağı (sıvı formda)",
+        "3 tatlı kaşığı ham kakao"
       ],
       "en": [
         "150 g Schär gluten-free biscuits",
@@ -2544,9 +2544,9 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "1 su bardağına yakın müsli yada yulaf",
-        "Yarım şeftali",
-        "Yarım elma",
+        "1 su bardağına yakın müsli ya da yulaf",
+        "yarım şeftali",
+        "yarım elma",
         "1 avuç kuru üzüm",
         "1 avuç kabak çekirdeği",
         "1 yemek kaşığı bal",
@@ -2606,7 +2606,7 @@ export const diyetRecipes: Recipe[] = [
         "2 tam ceviz",
         "1 paket vanilin",
         "1 silme yemek kaşığı pekmez (ben hurma özü kullandım)",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "1 ölçek protein tozu"
       ],
       "en": [
@@ -2664,11 +2664,11 @@ export const diyetRecipes: Recipe[] = [
         "1 kutu doğranmış domates (400 g)",
         "1 tatlı kaşığı kuru kekik",
         "1 tatlı kaşığı toz kırmızı biber",
-        "Damak tadına göre tuz ve karabiber",
+        "damak tadına göre tuz ve karabiber",
         "150 ml krema",
-        "Birkaç damla limon suyu",
+        "birkaç damla limon suyu",
         "2 avuç taze fesleğen",
-        "Taze fesleğen yoksa 1 tatlı kaşığı kuru fesleğen"
+        "taze fesleğen yoksa 1 tatlı kaşığı kuru fesleğen"
       ],
       "en": [
         "2 tablespoons olive oil",
@@ -2677,13 +2677,13 @@ export const diyetRecipes: Recipe[] = [
         "2 cloves of garlic",
         "2 tablespoons tomato paste",
         "1 can diced tomatoes (400 g)",
-        "1 tablespoon dried thyme",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon dried thyme",
+        "1 teaspoon red pepper powder",
         "salt and black pepper to taste",
         "150 ml cream",
         "a few drops of lemon juice",
         "2 handfuls of fresh basil",
-        "if there is no fresh basil, 1 tablespoon dried basil"
+        "if there is no fresh basil, 1 teaspoon dried basil"
       ]
     },
     "steps": {
@@ -2751,7 +2751,7 @@ export const diyetRecipes: Recipe[] = [
         "2 medium zucchini",
         "1 medium potato",
         "2.5 tablespoons gluten-free flour (normal flour works too)",
-        "2 spoonfuls of gluten-free oat flour",
+        "2 spoonfuls of gluten-free rolled oats",
         "1 egg",
         "1 heaped teaspoon salt"
       ]
@@ -2798,10 +2798,10 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​2 adet yeşil elma (rendelenmiş)",
-        "​1/2 (yarım) çay bardağı sıkma elma suyu",
-        "​1 çay kaşığı toz tarçın",
-        "​1/2 (yarım) çay bardağı dövülmüş ceviz içi (isteğe bağlı)"
+        "2 adet yeşil elma (rendelenmiş)",
+        "1/2 (yarım) çay bardağı sıkma elma suyu",
+        "1 çay kaşığı toz tarçın",
+        "1/2 (yarım) çay bardağı dövülmüş ceviz içi (isteğe bağlı)"
       ],
       "en": [
         "2 green apples (grated)",
@@ -2853,11 +2853,11 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "150-200 gram haşlanmış tavuk",
-        "Bir miktar marul",
+        "bir miktar marul",
         "2 yemek kaşığı konserve mısır",
         "1 adet salatalık",
         "3 yemek kaşığı yoğurt",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "150-200 g boiled chicken",
@@ -2904,8 +2904,8 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "15 tane hurma",
         "1 çay bardağı ceviz içi",
-        "Susam",
-        "Tablet çikolata"
+        "susam",
+        "tablet çikolata"
       ],
       "en": [
         "15 dates",
@@ -2948,16 +2948,16 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 çay bardağı kinoa (100ml )",
         "1 tatlı kaşığı biber salçası",
-        "Orta boyda soğanın yarısı",
-        "Baharat ( karabiber, nane, kekik, kırmızı biber )",
+        "orta boyda soğanın yarısı",
+        "baharat ( karabiber, nane, kekik, kırmızı biber )",
         "3 adet marul",
-        "3 yemek kaşığı kadar  mor lahana",
-        "Bir tutam maydanoz",
-        "Tuz"
+        "3 yemek kaşığı kadar mor lahana",
+        "bir tutam maydanoz",
+        "tuz"
       ],
       "en": [
         "1 teacup quinoa (100ml)",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "half of a medium onion",
         "spices (black pepper, mint, thyme, red pepper)",
         "3 leaves lettuce",
@@ -3218,7 +3218,7 @@ export const diyetRecipes: Recipe[] = [
         "2 cups gluten-free muesli",
         "3 tablespoons labneh cheese",
         "2 tablespoons honey",
-        "1 tablespoon chia seeds",
+        "1 teaspoon chia seeds",
         "1/4 (quarter) cup coffee liqueur (or strong cold coffee/espresso as you prefer)"
       ]
     },
@@ -3260,8 +3260,8 @@ export const diyetRecipes: Recipe[] = [
       ],
       "en": [
         "5 figs",
-        "2 tablespoons tahini",
-        "2 tablespoons labneh"
+        "2 teaspoons tahini",
+        "2 teaspoons labneh"
       ]
     },
     "steps": {
@@ -3294,7 +3294,7 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Toplam 2 yemek kaşığı zeytinyağı",
+        "toplam 2 yemek kaşığı zeytinyağı",
         "1 adet soğan",
         "3 yemek kaşığı öğütülmüş keten tohumu",
         "3 yemek kaşığı sıcak su",
@@ -3317,10 +3317,10 @@ export const diyetRecipes: Recipe[] = [
         "2 cloves of garlic (finely chopped)",
         "1 packet sunflower mince (75 g)",
         "120 ml hot vegetable stock",
-        "50 g oat flour (or oat flour or another gluten-free flour)",
+        "50 g rolled oats (or oat flour or another gluten-free flour)",
         "400 g canned kidney beans or black beans (about 255 g drained and rinsed)",
         "1 tablespoon tomato paste",
-        "1 heaped tablespoon cumin",
+        "1 heaped teaspoon cumin",
         "1 tablespoon red pepper powder",
         "½ teaspoon sea salt",
         "½ teaspoon black pepper"
@@ -3372,10 +3372,10 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 demet roka",
         "1 demet semizotu",
-        "Yoğurt",
-        "Su",
+        "yoğurt",
+        "su",
         "1 çay kaşığı kırmızı toz biber",
-        "Tuz",
+        "tuz",
         "1 yemek kaşığı sıvı yağ"
       ],
       "en": [
@@ -3422,8 +3422,8 @@ export const diyetRecipes: Recipe[] = [
         "1 adet orta boy soğan (blenderdan geçirilmiş veya rendelenmiş)",
         "1 çay kaşığı sarımsak tozu",
         "1 çay kaşığı kimyon",
-        "Yarım çay kaşığı karabiber",
-        "İsteğe bağlı az pul biber ve tuz"
+        "yarım çay kaşığı karabiber",
+        "isteğe bağlı az pul biber ve tuz"
       ],
       "en": [
         "300 g medium-fat ground beef",
@@ -3475,13 +3475,13 @@ export const diyetRecipes: Recipe[] = [
         "100 gram (fransız usulü) otlu krem peynir",
         "100 gram rendelenmiş kaşar peyniri – isteğe bağlı, hiç kullanmayabiliriz",
         "20 gram tereyağı – küçük parçalar halinde",
-        "Fırın kabını yağlamak için 1 tatlı kaşığı tereyağı",
+        "fırın kabını yağlamak için 1 tatlı kaşığı tereyağı",
         "1 tatlı kaşığı tuz",
         "½ tatlı kaşığı taze rendelenmiş muskat",
         "½ tatlı kaşığı karabiber",
-        "Gerekirse bir miktar süt",
-        "İsteğe bağlı: birkaç küçük dondurulmuş brokoli çiçeği",
-        "İsteğe bağlı: birkaç adet ikiye bölünmüş cherry domates"
+        "gerekirse bir miktar süt",
+        "isteğe bağlı: birkaç küçük dondurulmuş brokoli çiçeği",
+        "isteğe bağlı: birkaç adet ikiye bölünmüş cherry domates"
       ],
       "en": [
         "800 g medium potatoes – important: use a potato variety that does not fall apart while baking",
@@ -3489,8 +3489,8 @@ export const diyetRecipes: Recipe[] = [
         "100 g (French-style) herb cream cheese",
         "100 g grated cheddar cheese – optional, you can leave it out altogether",
         "20 g butter – in small pieces",
-        "1 tablespoon butter for greasing the baking dish",
-        "1 tablespoon salt",
+        "1 teaspoon butter for greasing the baking dish",
+        "1 teaspoon salt",
         "½ teaspoon freshly grated nutmeg",
         "½ teaspoon black pepper",
         "some milk if needed",
@@ -3551,8 +3551,8 @@ export const diyetRecipes: Recipe[] = [
         "280 gram glutensiz un (Ben 250 gram glutensiz un + 30 gram vegan protein tozu kullandım.)",
         "2 tatlı kaşığı kabartma tozu (Ben her zaman glutensiz kabartma tozu kullanıyorum.)",
         "2 tutam tuz",
-        "Daha fazla lif için isteğe bağlı 1 tatlı kaşığı chia tohumu veya öğütülmüş keten tohumu",
-        "Pişirmek için hindistan cevizi yağı"
+        "daha fazla lif için isteğe bağlı 1 tatlı kaşığı chia tohumu veya öğütülmüş keten tohumu",
+        "pişirmek için hindistan cevizi yağı"
       ],
       "en": [
         "2 ripe bananas",
@@ -3607,13 +3607,13 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 çay bardağı karabuğday (greçka)",
-        "​1 adet tavuk göğsü",
-        "​1 adet soğan",
-        "​1 adet havuç",
-        "​3 diş sarımsak",
-        "Tuz",
-        "​Tane karabiber",
-        "​Arzuya göre kimyon (dövme aşamasında eklemek için)"
+        "1 adet tavuk göğsü",
+        "1 adet soğan",
+        "1 adet havuç",
+        "3 diş sarımsak",
+        "tuz",
+        "tane karabiber",
+        "arzuya göre kimyon (dövme aşamasında eklemek için)"
       ],
       "en": [
         "1 teacup buckwheat (greçka)",
@@ -3628,7 +3628,7 @@ export const diyetRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "​1 çay bardağı greçkayı 1 gece veya en az 2 saat üzerine sıcak su dökerek bekletelim. (2 saat beklettim).",
+        "1 çay bardağı greçkayı 1 gece veya en az 2 saat üzerine sıcak su dökerek bekletelim. (2 saat beklettim).",
         "Tavuk göğsünü, havuç, soğan, greçka ve diğer malzemeleri tencereye alarak üzerini geçene kadar su ekleyip kaynamaya bırakalım.",
         "Greçka ve tavuk göğsü iyice pişince fazla suyunu süzgeç ile süzelim ve haşlama suyundan bir bardak kenara alalım.",
         "Tavukları didikleyelim. Greçkadan diğer malzemeleri ayıralım; onlar sadece tavuk suyuna aroma vermek içindi.",
@@ -3666,11 +3666,11 @@ export const diyetRecipes: Recipe[] = [
         "1 çay bardağından bir parmak eksik toz şeker (arzuya göre biraz azaltılabilir)",
         "1,5 yemek kaşığı glutensiz un",
         "1,5 yemek kaşığı glutensiz mısır nişastası",
-        "Bir çimdik tarçın"
+        "bir çimdik tarçın"
       ],
       "en": [
         "3 cups lactose-free milk",
-        "a bit less than a teacup of powdered sugar (you can reduce it a little if you wish)",
+        "a bit less than a teacup of granulated sugar (you can reduce it a little if you wish)",
         "1.5 tablespoons gluten-free flour",
         "1.5 tablespoons gluten-free corn starch",
         "a pinch of cinnamon"
@@ -3764,16 +3764,16 @@ export const diyetRecipes: Recipe[] = [
         "2 yemek kaşığı zeytinyağı",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı kırmızı toz biber",
-        "Biraz zerdeçal ve karabiber",
+        "biraz zerdeçal ve karabiber",
         "2 tatlı kaşığı nişasta"
       ],
       "en": [
         "1 large sweet potato (about 500 g)",
         "2 tablespoons olive oil",
-        "1 tablespoon salt",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon salt",
+        "1 teaspoon red pepper powder",
         "a little turmeric and black pepper",
-        "2 tablespoons cornstarch"
+        "2 teaspoons cornstarch"
       ]
     },
     "steps": {
@@ -3817,15 +3817,15 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1,5 su bardağı su",
-        "​1 paket kuru maya (veya instant maya)",
-        "​1 yemek kaşığı toz şeker",
-        "​4 su bardağı glutensiz ekmek unu karışımı (tercihen nohut, karabuğday veya çok amaçlı glutensiz un, kontrollü eklenmeli!)",
-        "​2 tatlı kaşığı tuz"
+        "1 paket kuru maya (veya instant maya)",
+        "1 yemek kaşığı toz şeker",
+        "4 su bardağı glutensiz ekmek unu karışımı (tercihen nohut, karabuğday veya çok amaçlı glutensiz un, kontrollü eklenmeli!)",
+        "2 tatlı kaşığı tuz"
       ],
       "en": [
         "1.5 cups water",
         "1 packet dry yeast (or instant yeast)",
-        "1 tablespoon powdered sugar",
+        "1 tablespoon granulated sugar",
         "4 cups gluten-free bread flour blend (preferably chickpea, buckwheat or all-purpose gluten-free flour, add it in a controlled way!)",
         "2 teaspoons salt"
       ]
@@ -3876,7 +3876,7 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı mısır unu (glutensiz)",
         "3-4 yemek kaşığı zeytinyağı",
-        "Küçük bir kase istediğiniz peynir çeşidi",
+        "küçük bir kase istediğiniz peynir çeşidi",
         "4-5 dal maydanoz"
       ],
       "en": [
@@ -3916,14 +3916,14 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​400 gram haşlanmış nohut",
-        "​2 adet küçük boy muz (veya 1 adet büyük boy)",
-        "​3 yemek kaşığı fıstık ezmesi",
-        "​3 yemek kaşığı glutensiz un (2 tepeleme + 1 silme kaşık)",
-        "​1 paket kabartma tozu (glutensiz)",
-        "​1 çimdik tuz",
-        "​1/4 (çeyrek) çay bardağı su (kıvam açmak için)",
-        "​60 gram bitter çikolata (küçük parçalara ayrılmış) (glutensiz)"
+        "400 gram haşlanmış nohut",
+        "2 adet küçük boy muz (veya 1 adet büyük boy)",
+        "3 yemek kaşığı fıstık ezmesi",
+        "3 yemek kaşığı glutensiz un (2 tepeleme + 1 silme kaşık)",
+        "1 paket kabartma tozu (glutensiz)",
+        "1 çimdik tuz",
+        "1/4 (çeyrek) çay bardağı su (kıvam açmak için)",
+        "60 gram bitter çikolata (küçük parçalara ayrılmış) (glutensiz)"
       ],
       "en": [
         "400 g boiled chickpeas",
@@ -3980,9 +3980,9 @@ export const diyetRecipes: Recipe[] = [
         "1 adet muz",
         "2 dolu kaşık yulaf unu",
         "1 fiske tuz",
-        "Yarım paket kabartma tozu",
-        "İsteğe bağlı vanilya",
-        "İsteğe bağlı tarçın"
+        "yarım paket kabartma tozu",
+        "isteğe bağlı vanilya",
+        "isteğe bağlı tarçın"
       ],
       "en": [
         "2 eggs",
@@ -4077,10 +4077,10 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 yumurta",
-        "Yarım çay bardağı sıcak su",
+        "yarım çay bardağı sıcak su",
         "5 tatlı kaşığı karnıyarık otu tozu",
-        "Tuz",
-        "Yarım paket kabartma tozu"
+        "tuz",
+        "yarım paket kabartma tozu"
       ],
       "en": [
         "4 eggs",
@@ -4183,19 +4183,19 @@ export const diyetRecipes: Recipe[] = [
         "6 yemek kaşığı yeşil mercimek",
         "5-6 yaprak marul",
         "150 gram yoğurt",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 tatlı kaşığı zeytinyağı",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Sarımsak tozu"
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "sarımsak tozu"
       ],
       "en": [
         "6 tablespoons green lentils",
         "5-6 leaves lettuce",
         "150 g yogurt",
         "juice of half a lemon",
-        "1 tablespoon olive oil",
+        "1 teaspoon olive oil",
         "salt",
         "black pepper",
         "red pepper flakes",
@@ -4236,13 +4236,13 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "2 küçük çay bardağı yeşil mercimek",
         "2 küçük sivri biber",
-        "Küçük kapya biber",
-        "Yarım çay bardağı haşlanmış mısır",
+        "küçük kapya biber",
+        "yarım çay bardağı haşlanmış mısır",
         "4,5 adet ceviz",
         "4,5 yaprak taze nane",
         "3,4 yaprak taze fesleğen",
         "3,4 dal maydanoz",
-        "Bir tutam dereotu"
+        "bir tutam dereotu"
       ],
       "en": [
         "2 small teacups green lentils",
@@ -4290,24 +4290,24 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​3 adet yumurta",
-        "​1 su bardağı toz şeker",
-        "​yarım su bardağı sıvı yağ",
-        "​yarım su bardağı süt (laktozsuz)",
-        "​2 yemek kaşığı yoğurt (laktozsuz)",
-        "​1 paket vanilya",
-        "​1 paket kabartma tozu",
+        "3 adet yumurta",
+        "1 su bardağı toz şeker",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı süt (laktozsuz)",
+        "2 yemek kaşığı yoğurt (laktozsuz)",
+        "1 paket vanilya",
+        "1 paket kabartma tozu",
         "1 çay kaşığı tarçın",
         "6 adet yaban mersini",
         "1 avuç ceviz",
-        "​12 adet çilek",
-        "​1 çay bardağı parça çikolata (glutensiz)",
-        "​2,5 su bardağı un (glutensiz)",
-        "İsteğe bağlı kuru üzüm"
+        "12 adet çilek",
+        "1 çay bardağı parça çikolata (glutensiz)",
+        "2,5 su bardağı un (glutensiz)",
+        "isteğe bağlı kuru üzüm"
       ],
       "en": [
         "3 eggs",
-        "1 cup powdered sugar",
+        "1 cup granulated sugar",
         "half a cup vegetable oil",
         "half a cup milk (lactose-free)",
         "2 tablespoons yogurt (lactose-free)",
@@ -4364,22 +4364,22 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "​taban için (18 cm): ​1 adet yumurta",
-        "​2 yemek kaşığı şeker",
-        "​2 yemek kaşığı sıvı yağ",
-        "​2 yemek kaşığı laktozsuz süt",
-        "​3 yemek kaşığı glutensiz un",
+        "taban için (18 cm): 1 adet yumurta",
+        "2 yemek kaşığı şeker",
+        "2 yemek kaşığı sıvı yağ",
+        "2 yemek kaşığı laktozsuz süt",
+        "3 yemek kaşığı glutensiz un",
         "1’er çimdik kabartma tozu ve vanilin",
-        "Krema için: ​2 cup laktozsuz labne",
-        "​2 adet yumurta",
-        "​2 yemek kaşığı glutensiz un",
-        "​1 tatlı kaşığı chia tohumu",
-        "​3 yemek kaşığı kakao",
-        "​2-3 yemek kaşığı bal",
-        "​üzeri için: ​kakao",
-        "​çilek",
-        "Böğürtlen",
-        "​bitter çikolata"
+        "krema için: 2 su bardağı laktozsuz labne",
+        "2 adet yumurta",
+        "2 yemek kaşığı glutensiz un",
+        "1 tatlı kaşığı chia tohumu",
+        "3 yemek kaşığı kakao",
+        "2-3 yemek kaşığı bal",
+        "üzeri için: kakao",
+        "çilek",
+        "böğürtlen",
+        "bitter çikolata"
       ],
       "en": [
         "for the base (18 cm): 1 egg",
@@ -4391,7 +4391,7 @@ export const diyetRecipes: Recipe[] = [
         "for the cream: 2 cups lactose-free labneh",
         "2 eggs",
         "2 tablespoons gluten-free flour",
-        "1 tablespoon chia seeds",
+        "1 teaspoon chia seeds",
         "3 tablespoons cocoa",
         "2-3 tablespoons honey",
         "for the top: cocoa",
@@ -4436,7 +4436,7 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 sap kereviz",
         "1 adet kabuğu soyulmuş limon",
-        "İsteğe bağlı olarak lezzet vermesi için 2 turuncu ve 2 mor havuç veya yarım salatalık"
+        "isteğe bağlı olarak lezzet vermesi için 2 turuncu ve 2 mor havuç veya yarım salatalık"
       ],
       "en": [
         "1 stalk celery",
@@ -4480,7 +4480,7 @@ export const diyetRecipes: Recipe[] = [
         "1 yemek kaşığı tercih ettiğiniz bir tatlandırıcı, örneğin akçaağaç şurubu",
         "1 yemek kaşığı tercih ettiğiniz fındık/fıstık ezmesi, örneğin fındık ezmesi",
         "1 çay bardağı eritilmiş bitter çikolata",
-        "İsteğe bağlı bir tutam tuz"
+        "isteğe bağlı bir tutam tuz"
       ],
       "en": [
         "4-5 puffed rice, lentil or corn (gluten-free)",
@@ -4578,27 +4578,27 @@ export const diyetRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı beyaz kinoa",
+        "yarım su bardağı beyaz kinoa",
         "1 küçük kuru soğan",
         "1 tatlı kaşığı biber salçası",
         "1 çay kaşığı kimyon",
-        "Pul biber",
-        "Tuz",
-        "Sumak",
-        "Yarım çay kaşığı karabiber",
+        "pul biber",
+        "tuz",
+        "sumak",
+        "yarım çay kaşığı karabiber",
         "2 yemek kaşığı zeytinyağ",
         "2 yaprak marul",
-        "Mor lahana biraz",
+        "mor lahana biraz",
         "2 adet domates",
         "2 adet salatalık",
         "1 tutam maydanoz",
-        "Küçük sarımsak minik doğranmış",
+        "küçük sarımsak minik doğranmış",
         "1 adet limon"
       ],
       "en": [
         "half a cup white quinoa",
         "1 small dry onion",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "1 teaspoon cumin",
         "red pepper flakes",
         "salt",
@@ -4655,8 +4655,8 @@ export const diyetRecipes: Recipe[] = [
         "2 adet orta boy pancar",
         "2 adet orta havuç",
         "1 adet yeşil elma",
-        "Yarın demet ince kıyılmış dereotu",
-        "Yarım kutu konserve mısır",
+        "yarın demet ince kıyılmış dereotu",
+        "yarım kutu konserve mısır",
         "1 avuç ceviz içi ( ben evde ne varsa o kuruyemişi kullanıyorum)",
         "1 çay bardağı nar"
       ],
@@ -4705,7 +4705,7 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket mantar",
-        "Avuç kadar iceberg marul",
+        "avuç kadar iceberg marul",
         "10- 15 yaprak roka",
         "1 adet havuç",
         "2 adet yeşil biber",
@@ -4769,10 +4769,10 @@ export const diyetRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3-4 parça somon",
-        "Yemeğin sosu için zeytinyağı",
-        "Yine sos için baharatlar (ben kekik, tuz, pulbiber, karabiber kullandım.)",
-        "Yeşil soğan (isteğe bağlı başka sebzeler de olabilir.)",
-        "Domates"
+        "yemeğin sosu için zeytinyağı",
+        "yine sos için baharatlar (ben kekik, tuz, pulbiber, karabiber kullandım.)",
+        "yeşil soğan (isteğe bağlı başka sebzeler de olabilir.)",
+        "domates"
       ],
       "en": [
         "3-4 pieces of salmon",
@@ -4866,9 +4866,9 @@ export const diyetRecipes: Recipe[] = [
         "1 adet orta boy domates",
         "2 adet orta boy limon",
         "10-12 diş sarımsak",
-        "Defne yaprağı",
+        "defne yaprağı",
         "2 yemek kaşığı zeytinyağı",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "3 sea bass",
@@ -4974,7 +4974,7 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "400 gram kanat",
         "1 yemek kaşığı zeytinyağı",
-        "Tavuk baharatı (ben tuz toz biber ve karabiber kullandım)"
+        "tavuk baharatı (ben tuz toz biber ve karabiber kullandım)"
       ],
       "en": [
         "400 g wings",
@@ -5022,7 +5022,7 @@ export const diyetRecipes: Recipe[] = [
         "30 gram hindistan cevizi yağı",
         "2/3 adet şeftali",
         "1 adet portal rendesi ve suyu",
-        "Tereyağ (tepsi için)"
+        "tereyağ (tepsi için)"
       ],
       "en": [
         "180 g oats",
@@ -5141,7 +5141,7 @@ export const diyetRecipes: Recipe[] = [
         "2 adet yumurta",
         "2 yemek kaşığı yoğurt",
         "1 paket kabartma tozu",
-        "İsteğe göre maydanoz/ dereotu"
+        "isteğe göre maydanoz/ dereotu"
       ],
       "en": [
         "1.5 cups oats",
@@ -5226,24 +5226,24 @@ export const diyetRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "1 adet kabak alacalı soyularak rendeleyelim, tavamıza alalım.",
-        "En kısık ateşe getirip karıştıralım .",
-        "suyunu salıp çekene kadar pişirelim ayrı bir kaseye yoğurdu koyalım içine sarımsağı rendeleyelim.",
-        "Akdeniz yeşilliği,salatalığı,çarliston biberini,domatesimizi,taze soğanımızı bir kabın içine alalım ve üzerine su ekleyelim.3 dakika sonra süzelim.",
-        "Közlenmiş patlıcan,kapya biberlerimizi,sarımsağımızı,kuru soğanımızı salataya uygun bir şekilde doğrayalım.",
-        "Salata kasesine alalım, haşlanmış mısırı ekleyelim ,zeytinlerimizi, salatamızın içine yoğurdumuzu rendelenmiş sarımsağı bir salata kasesine alalım.",
-        "Soğuyan kabağımızı salataya ekleyelim ve karıştıralım.",
-        "Baharatları alalım ve karıştıralım, buzdolabına vaktiniz varsa kaldıralım servis yaptığınız zamanlarda karıştıralım."
+        "1 adet kabağı alacalı soyup rendeleyelim ve tavaya alalım.",
+        "Ateşi en kısığa getirip karıştıralım.",
+        "Suyunu salıp çekene kadar pişirelim. Ayrı bir kaseye yoğurdu koyalım ve içine sarımsağı rendeleyelim.",
+        "Akdeniz yeşilliğini, salatalığı, çarliston biberini, domatesi ve taze soğanı bir kabın içine alalım; üzerine su ekleyelim. 3 dakika sonra süzelim.",
+        "Közlenmiş patlıcanı, kapya biberleri, sarımsağı ve kuru soğanı salataya uygun şekilde doğrayalım.",
+        "Salata kasesine alalım; haşlanmış mısırı, zeytinleri, yoğurdu ve rendelenmiş sarımsağı ekleyelim.",
+        "Soğuyan kabağı salataya ekleyelim ve karıştıralım.",
+        "Baharatları ekleyip karıştıralım. Vaktiniz varsa buzdolabına kaldıralım; servis yaparken tekrar karıştıralım."
       ],
       "en": [
-        "Grate 1 zucchini with alternating strips peeled and put it in our pan.",
-        "Turn the heat to the lowest and stir it.",
-        "Cook it until it releases and absorbs the water, put the yogurt in a separate bowl and grate the garlic into it.",
-        "Put the Mediterranean greens, the cucumber, the çarliston pepper, our tomato and our fresh onion in a pot and add water on top. After 3 minutes, strain it.",
-        "Chop our roasted eggplant, capia peppers, garlic and dry onion in a way suitable for the salad.",
-        "Put them in the salad bowl, add the boiled corn, our olives, our yogurt and the grated garlic into our salad bowl.",
-        "Add our cooled zucchini to the salad and mix.",
-        "Take the spices and mix, put it in the fridge if you have time and mix again when you serve."
+        "Peel 1 zucchini in alternating strips, grate it and put it in a pan.",
+        "Turn the heat to the lowest setting and stir.",
+        "Cook it until it releases its water and absorbs it. Put the yogurt in a separate bowl and grate the garlic into it.",
+        "Put the Mediterranean greens, cucumber, çarliston pepper, tomato and fresh onion in a bowl and cover with water. After 3 minutes, drain.",
+        "Chop the roasted eggplant, capia peppers, garlic and dry onion into salad-sized pieces.",
+        "Put them in a salad bowl and add the boiled corn, olives, yogurt and grated garlic.",
+        "Add the cooled zucchini to the salad and mix.",
+        "Add the spices and mix. Refrigerate if you have time and stir again before serving."
       ]
     },
     "alternatives": [],
@@ -5266,7 +5266,7 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "150 gram tavuk bonfile",
         "1 yumurta",
-        "İstenilen baharatlar"
+        "istenilen baharatlar"
       ],
       "en": [
         "150 g chicken fillet",
@@ -5313,9 +5313,9 @@ export const diyetRecipes: Recipe[] = [
       "en": [
         "1 frozen peach",
         "100 g yogurt",
-        "1 tablespoon honey",
-        "1 tablespoon cinnamon",
-        "1 tablespoon tahini (to drizzle on top as desired)"
+        "1 teaspoon honey",
+        "1 teaspoon cinnamon",
+        "1 teaspoon tahini (to drizzle on top as desired)"
       ]
     },
     "steps": {
@@ -5348,7 +5348,7 @@ export const diyetRecipes: Recipe[] = [
       "tr": [
         "1 su bardağı yulaf",
         "1 adet orta boy muz",
-        "Kuru üzüm"
+        "kuru üzüm"
       ],
       "en": [
         "1 cup oats",
@@ -5390,13 +5390,13 @@ export const diyetRecipes: Recipe[] = [
         "2 yemek kaşığı hindistan cevizi",
         "1 çay bardağı süt",
         "2 tatlı kaşığı bal",
-        "Şekersiz çikolata"
+        "şekersiz çikolata"
       ],
       "en": [
-        "4 tablespoons oat flour",
+        "4 tablespoons rolled oats",
         "2 tablespoons coconut",
-        "1 cup milk",
-        "2 tablespoons honey",
+        "1 teacup milk",
+        "2 teaspoons honey",
         "sugar-free chocolate"
       ]
     },

@@ -79,7 +79,7 @@ export const salataRecipes: Recipe[] = [
         "2 su bardağı yoğurt",
         "5 yemek kaşığı mayonez",
         "2-3 diş ezilmiş sarımsak",
-        "Tuz",
+        "tuz",
         "1 çay bardağı haşlanmış mısır"
       ],
       "en": [
@@ -139,16 +139,16 @@ export const salataRecipes: Recipe[] = [
         "1 buçuk su bardağı arpa şehriye",
         "1 çay bardağı sıvı yağ",
         "1 tatlı kaşığı tuz",
-        "Yarım demet dereotu",
-        "Yarım demet taze soğan",
-        "Yarım demet maydanoz",
-        "Yarım demet taze nane",
+        "yarım demet dereotu",
+        "yarım demet taze soğan",
+        "yarım demet maydanoz",
+        "yarım demet taze nane",
         "2 adet konserve kırmızı biber",
         "1 adet havuç",
         "5 adet salatalık turşusu",
         "1 kase mısır",
         "1 yemek kaşığı nar ekşisi",
-        "Yarım limonun suyu",
+        "yarım limonun suyu",
         "1 çay kaşığı tuz"
       ],
       "en": [
@@ -207,7 +207,7 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 büyük su bardağı ince bulgur",
-        "Yarım su sıcak su (bulguru ıslatmak için)",
+        "yarım su bardağı sıcak su (bulguru ıslatmak için)",
         "3 yaprak marul",
         "1 demet maydanoz",
         "3 adet taze soğan",
@@ -215,12 +215,12 @@ export const salataRecipes: Recipe[] = [
         "1 küçük salatalık",
         "5 tane çeri domates",
         "1 tane orta boy sivri biber",
-        "Yarım çay bardağı zeytinyağı (az gelirse ekleme yapın)",
+        "yarım çay bardağı zeytinyağı (az gelirse ekleme yapın)",
         "1 yemek kaşığı nar ekşisi",
-        "Karabiber",
-        "Pul biber",
-        "Kimyon",
-        "Tuz",
+        "karabiber",
+        "pul biber",
+        "kimyon",
+        "tuz",
         "1 yemek kaşığı biber salçası",
         "1 tatlı kaşığı domates salçası",
         "1 diş sarımsak",
@@ -285,15 +285,15 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1,5 su bardağı arpa şehriye",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı tuz",
         "2 su bardağı sıcak su",
         "3 adet közlenmiş kırmızı biber",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "6 adet kornişon turşu",
         "1 küçük kutu konserve mısır",
         "yarım tavuk göğsü",
-        "1 adet limon suyu"
+        "1 adet limonun suyu"
       ],
       "en": [
         "1.5 cups barley orzo",
@@ -350,9 +350,9 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "2 adet patates",
         "1 tutam maydanoz",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1,5 çay kaşığı tuz",
-        "Yarım çay kaşığı pul biber"
+        "yarım çay kaşığı pul biber"
       ],
       "en": [
         "2 potatoes",
@@ -366,7 +366,7 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "İlk olarak patatesleri haşlayalım. Ben hızlı olması için patatesleri soydum ve küpler halinde doğradıktan sonra haşladım.",
         "Daha sonra haşlanan patatesleri çatal ya da patates ezici yardımı ile güzelce ezelim. Bu aşamada sıcakken ezerseniz çok daha kolay olacaktır.",
-        "Baharatları, kıyılmış maydanozu ve tuzu ilave edelim. Dilerseniz  tüm malzemeleri ekledikten sonra da patatesleri ezebilirsiniz.",
+        "Baharatları, kıyılmış maydanozu ve tuzu ilave edelim. Dilerseniz tüm malzemeleri ekledikten sonra da patatesleri ezebilirsiniz.",
         "Tüm malzemeleri güzelce karıştıralım. Daha sonra harcımızdan parçalar alarak, elimizle yuvarlayıp top şeklini vererek servis tabağına alalım. Tüm harcımız bitene kadar bu işleme devam edelim.",
         "Üzerine ilk olarak çırptığımız sarımsaklı yoğurt ardından da kızdırmış olduğumuz tereyağı ve pul biberi gezdirerek servis edelim. Nefis bir salata, afiyet olsun."
       ],
@@ -398,15 +398,15 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "1 kilogram patates",
         "2-3 adet havuç",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "2-3 dal taze soğan",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 yemek kaşığı tereyağı",
-        "Yarım limon",
-        "Karabiber",
-        "Kimyon",
-        "Tuz",
-        "Zeytinyağı"
+        "yarım limon",
+        "karabiber",
+        "kimyon",
+        "tuz",
+        "zeytinyağı"
       ],
       "en": [
         "1 kilogram potatoes",
@@ -542,7 +542,7 @@ export const salataRecipes: Recipe[] = [
         "1 tutam maydanoz",
         "1 çay kaşığı tuz",
         "3 yemek kaşığı zeytinyağı",
-        "1 adet limon suyu"
+        "1 adet limonun suyu"
       ],
       "en": [
         "1 cup star orzo",
@@ -562,7 +562,7 @@ export const salataRecipes: Recipe[] = [
         "Şehriyelerimiz haşlanırken bizde turşularımızı küp küp doğrayalım.",
         "Ardından közlenmiş biber, taze soğan ve maydanozu da ince ince doğrayalım.",
         "Haşlanan şehriyelerimizin suyunu süzelim ve soğuk sudan geçirelim.",
-        "Derince bir kaba  haşlanmış yıldız şehriye, doğranmış yeşil soğan, suyu süzülmüş konserve mısır, kornişon turşu, maydanoz, kırmızı biber, soğan ve maydanozları alalım.",
+        "Derince bir kaba haşlanmış yıldız şehriye, doğranmış yeşil soğan, suyu süzülmüş konserve mısır, kornişon turşu, maydanoz, kırmızı biber, soğan ve maydanozları alalım.",
         "Salatamızın tuzunu ayarlayalım. Zeytinyağı ve limon suyunu ekleyerek güzelce karıştıralım.",
         "Şehriyeli nefis salatamız hazır. Servis tabağına alarak servis edelim. Afiyet olsun."
       ],
@@ -598,12 +598,12 @@ export const salataRecipes: Recipe[] = [
         "1 adet yeşil biber",
         "1 adet kuru soğan",
         "3-4 dal taze soğan",
-        "Maydanoz",
+        "maydanoz",
         "2 avuç iri kırılmış ceviz",
-        "Zeytinyağı",
-        "Nar ekşisi",
-        "Sumak",
-        "Tuz"
+        "zeytinyağı",
+        "nar ekşisi",
+        "sumak",
+        "tuz"
       ],
       "en": [
         "3 tomatoes",
@@ -660,13 +660,13 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım mor lahana",
+        "yarım mor lahana",
         "1 küçük kase dereotu",
         "1 küçük kase mısır",
         "4-5 adet salatalık turşusu",
         "1 büyük kase süzme yoğurt (ben normal yoğurdu süzerek kullanıyorum)",
         "2 yemek kaşığı mayonez",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "Half a purple cabbage",
@@ -681,7 +681,7 @@ export const salataRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Lahanayı çok ince doğrayın.",
-        "Tabanı yapışmaz bir tavaya 4 yemek kaşığı sıvı yağ yada zeytinyağı ekleyin,lahanayı sürekli karıştırarak yumuşayana kadar kavurun.",
+        "Tabanı yapışmaz bir tavaya 4 yemek kaşığı sıvı yağ ya da zeytinyağı ekleyin,lahanayı sürekli karıştırarak yumuşayana kadar kavurun.",
         "Kavrulmuş lahana tamamen soğuduktan sonra bütün malzemeyi karıştırın."
       ],
       "en": [
@@ -713,7 +713,7 @@ export const salataRecipes: Recipe[] = [
         "2 adet sivri biber",
         "2 adet kuru soğan",
         "1 diş sarımsak",
-        "Yarım demet maydanoz"
+        "yarım demet maydanoz"
       ],
       "en": [
         "2-3 tomatoes",
@@ -763,9 +763,9 @@ export const salataRecipes: Recipe[] = [
         "1 adet soğan",
         "1-2 diş sarımsak",
         "2 adet havuç",
-        "Turşu",
-        "Konserve mısır",
-        "Biraz maydanoz (tercihe göre konulabilir)",
+        "turşu",
+        "konserve mısır",
+        "biraz maydanoz (tercihe göre konulabilir)",
         "3 yemek kaşığı yoğurt",
         "1 yemek kaşığı mayonez"
       ],
@@ -924,13 +924,13 @@ export const salataRecipes: Recipe[] = [
         "3 yemek kaşığı zeytinyağı",
         "1 tatlı kaşığı kişniş tohumu ( ezip dövüyoruz)",
         "1 tatlı kaşığı tane karabiber",
-        "Çeyrek demet dereotu"
+        "çeyrek demet dereotu"
       ],
       "en": [
         "3 bunches red radishes",
         "3 cloves garlic",
         "1 teaspoon salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "2 tablespoons vinegar (grape or apple)",
         "3 tablespoons olive oil",
         "1 teaspoon coriander seed (crushed)",
@@ -984,7 +984,7 @@ export const salataRecipes: Recipe[] = [
         "1 çay kaşığı sumak",
         "1 çay kaşığı isot",
         "1 çay kaşığı pul biber",
-        "Yarım limon",
+        "yarım limon",
         "1 tutam maydanoz",
         "1 yemek kaşığı sirke",
         "2 yemek kaşığı sıvı yağ"
@@ -1002,7 +1002,7 @@ export const salataRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Soğanları uzun uzun yada yuvarlak ince doğrayalım.",
+        "Soğanları uzun uzun ya da yuvarlak ince doğrayalım.",
         "Soğanları önce tuzla ovalım.",
         "Sonra baharat, yağ,sirke,limon,maydanoz ekleyip karıştıralım.",
         "En önemli püf: limonu ve tuzu çok erken koyup bekletme. Soğan sulanıp gevşeyebilir. Servise yakın karıştırmak daha güzel."
@@ -1038,10 +1038,10 @@ export const salataRecipes: Recipe[] = [
         "3 yemek kaşığı zeytin yağı",
         "1 küp şeker",
         "1 tatlı kaşığı tuz",
-        "1/2 (yarım) adet limon suyu",
+        "1/2 (yarım) adet limonun suyu",
         "2.5 bardak sıcak su",
-        "Karabiber",
-        "Kimyon"
+        "karabiber",
+        "kimyon"
       ],
       "en": [
         "1 cup dried broad beans",
@@ -1103,7 +1103,7 @@ export const salataRecipes: Recipe[] = [
         "1 tatlı kaşığı kırmızı toz biber",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı tuz",
-        "Yarım çay bardağı sıvı yağ (patatesler için)",
+        "yarım çay bardağı sıvı yağ (patatesler için)",
         "3 yemek kaşığı sıvı yağ (soğanlar için)",
         "2 yemek kaşığı sıvı yağ (havuçlar için)"
       ],
@@ -1161,11 +1161,11 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 yemek kaşığı tahin",
-        "1/2 (yarım) limon suyu",
+        "1/2 (yarım) limonun suyu",
         "3-4 diş sarımsak",
         "1 tatlı kaşığı kırmızı biber",
         "1/2 (yarım) çay kaşığı acı pul biber",
-        "Yarım çay kaşığı kimyon",
+        "yarım çay kaşığı kimyon",
         "2 yemek kaşığı labne"
       ],
       "en": [
@@ -1211,7 +1211,7 @@ export const salataRecipes: Recipe[] = [
         "3 adet kapya biber",
         "4-5 yemek kaşığı yoğurt (dileyen süzme yoğurt da kullanabilir)",
         "1 diş sarımsak",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "3 bell peppers",
@@ -1302,19 +1302,19 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Kıvırcık marul",
-        "Baby roka",
-        "Lolo rosso",
-        "Ispanak",
-        "Cherry domates",
-        "Pancar yaprağı",
+        "kıvırcık marul",
+        "baby roka",
+        "lolo rosso",
+        "ıspanak",
+        "cherry domates",
+        "pancar yaprağı",
         "5 yemek kaşığı zeytin yağı",
-        "2 yemek kașığı hardal",
-        "1 yemek kașığı limon suyu",
-        "1 yemek kașığı bal",
+        "2 yemek kaşığı hardal",
+        "1 yemek kaşığı limon suyu",
+        "1 yemek kaşığı bal",
         "Parmesan peyniri",
-        "Mısır",
-        "Susam"
+        "mısır",
+        "susam"
       ],
       "en": [
         "Curly lettuce",
@@ -1370,8 +1370,8 @@ export const salataRecipes: Recipe[] = [
         "1 küçük diş sarımsak",
         "1 çay kaşığı tuz",
         "2 yemek kaşığı fıstık ezmesi",
-        "Yarım çay kaşığı kimyon",
-        "Yarım su bardağı süt kreması"
+        "yarım çay kaşığı kimyon",
+        "yarım su bardağı süt kreması"
       ],
       "en": [
         "1 cup boiled chickpeas",
@@ -1416,10 +1416,10 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "2 su bardağı yıldız yada arpa şehriye",
+        "2 su bardağı yıldız ya da arpa şehriye",
         "3 su bardağı şalgam suyu (tercihen acı olabilir )",
         "3 su bardağı su",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 cups star or barley orzo",
@@ -1474,11 +1474,11 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "4 adet közlenmiş patlıcan (1 kavanoz konservede kullanabilirsiniz)",
         "5 adet közlenmiş kapya biber (1 kavanoz konservede kullanabilirsiniz)",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı tuz",
         "2 diş sarımsak",
         "1 kase yoğurt süzme yoğurt(biraz kıvam için normal yoğurtta ekledim)",
-        "Mayonez"
+        "mayonez"
       ],
       "en": [
         "4 roasted eggplants (you can use 1 can of roasted eggplant)",
@@ -1538,12 +1538,12 @@ export const salataRecipes: Recipe[] = [
         "1 yemek kaşığı biber salçası",
         "1 dolu tatlı kaşığı domates salçası",
         "1 büyük diş sarımsak",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı kekik",
         "1 çay kaşığı yedi türlü",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 large dry onion",
@@ -1602,7 +1602,7 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "5-6 patates",
         "1 kase dilimlenmiş mantar",
-        "Sıvı yağ"
+        "sıvı yağ"
       ],
       "en": [
         "5-6 potatoes",
@@ -1706,7 +1706,7 @@ export const salataRecipes: Recipe[] = [
   {
     "id": "nefis-salata-1630",
     "name": {
-      "tr": "Greek Salad",
+      "tr": "Yunan Salatası",
       "en": "Greek Salad"
     },
     "cuisine": "salata",
@@ -1721,8 +1721,8 @@ export const salataRecipes: Recipe[] = [
         "1 dilim feta peyniri ya da sert ezine peyniri",
         "4-5 adet kalamata ya da irice herhangi bir sert zeytin",
         "1 çay kaşığı kekik",
-        "Tuz",
-        "Zeytinyağ"
+        "tuz",
+        "zeytinyağ"
       ],
       "en": [
         "2 medium tomatoes",
@@ -1771,7 +1771,7 @@ export const salataRecipes: Recipe[] = [
         "4-5 adet havuç",
         "2 yemek kaşığı yağ",
         "1su bardağı yoğurt",
-        "Yarım çay kaşığı tuz",
+        "yarım çay kaşığı tuz",
         "1 diş sarımsak",
         "4 adet ceviz"
       ],
@@ -1790,8 +1790,8 @@ export const salataRecipes: Recipe[] = [
         "Ayrı tavaya 2 şer kaşık yağ koyalım Tavaya havuç ve pancarları alalım üzerlerine 1er diş sarımsak rendeleyelim ve kavuralım.",
         "Kavrulan havuç ve pancarları bir kenara alalım ve soğumaya bırakalım.",
         "Ayrı kasede 1’er su bardağı yoğurdu çırpalım üzerine yarım çay kaşığı tuz atalım iki kaseyede 1. kaseye havucu 2. kaseyede pancarı koyalım.",
-        "Üzerlerine 4 er tane ceviz doğrayalım yada dövelim nasıl uygun görürseniz ben büyük seviyorum dişe gelsin cevizler.",
-        "Kayık bir kaseye alt taban olarak havuç taratoru koyalım üzerinede pancarlı kısmı koyalım yada ayrı ayrı tabaklayabilirsiniz tabaklamak tamamen size kalmış.",
+        "Üzerlerine 4 er tane ceviz doğrayalım ya da dövelim nasıl uygun görürseniz ben büyük seviyorum dişe gelsin cevizler.",
+        "Kayık bir kaseye alt taban olarak havuç taratoru koyalım üzerinede pancarlı kısmı koyalım ya da ayrı ayrı tabaklayabilirsiniz tabaklamak tamamen size kalmış.",
         "Bir tavada 1 kaşık yağ 1 çay kaşığı toz biber 4-5 ceviz parçacıkları alalım biraz kavurup, taratorun üzerini süsleyelim servis edelim. Deneyecek olanlara şimdiden afiyet olsun."
       ],
       "en": [
@@ -1824,13 +1824,13 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "2 kutu ton balığı",
         "6 yaprak marul",
-        "Roka",
+        "roka",
         "2 bardak haşlanmış nohut",
         "1 adet kapya biberi",
         "1 adet havuç",
-        "Zeytinyağı",
-        "Limon",
-        "Tuz"
+        "zeytinyağı",
+        "limon",
+        "tuz"
       ],
       "en": [
         "2 cans tuna",
@@ -1885,12 +1885,12 @@ export const salataRecipes: Recipe[] = [
         "600 gram lahana",
         "2 büyük boy havuç",
         "1 orta boy mor soğan",
-        "Yarım bağ ince doğranmış maydanoz",
-        "Sosu için 500 gram katı yoğurt",
+        "yarım bağ ince doğranmış maydanoz",
+        "sosu için 500 gram katı yoğurt",
         "2 çorba kaşığı üzüm sirkesi",
         "3,5 çorba kaşığı mayonez",
         "1 çay kaşığı tuz",
-        "Yarım tatlı kaşığı şeker",
+        "yarım tatlı kaşığı şeker",
         "1 diş sarımsak"
       ],
       "en": [
@@ -1990,14 +1990,14 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Semizotu yarım bağ",
+        "semizotu yarım bağ",
         "1 adet kuru soğan",
         "1 adet domates",
         "1 diş sarımsak",
         "2 yemek kaşığı sıvı yağ",
         "1 yemek kaşığı sirke",
-        "Tuz",
-        "Yarım limon"
+        "tuz",
+        "yarım limon"
       ],
       "en": [
         "Half a bunch purslane",
@@ -2091,15 +2091,15 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 su bardağı yoğurt",
-        "Yarım su bardağı mayonez",
-        "Yarım limonun suyu",
+        "yarım su bardağı mayonez",
+        "yarım limonun suyu",
         "2 su bardağı konserve mısır",
-        "Birkaç dal maydanoz",
-        "Yarım göbek veya marul",
-        "Birkaç dal dereotu",
+        "birkaç dal maydanoz",
+        "yarım göbek veya marul",
+        "birkaç dal dereotu",
         "2 adet salatalık",
         "1 diş sarımsak",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "4 cups yogurt",
@@ -2118,7 +2118,7 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "Yoğurdu geniş bir kaba alın.",
         "Mayonez, tuz ve limon suyunu ekleyip güzelce çırpın.",
-        "Salatalıkları küçük küçük doğrayın, maydanoz ve dereotunu ince ince kıyın,sarımsağı rendeleyin,göbek salata yada marulu büyük büyük doğrayın.",
+        "Salatalıkları küçük küçük doğrayın, maydanoz ve dereotunu ince ince kıyın,sarımsağı rendeleyin,göbek salata ya da marulu büyük büyük doğrayın.",
         "Mısırla birlikte yoğurtlu karışıma ekleyip güzelce karıştırın. Afiyet olsun🌺."
       ],
       "en": [
@@ -2149,9 +2149,9 @@ export const salataRecipes: Recipe[] = [
         "200 gram çeri domates",
         "200 gram feta peyniri",
         "1 adet tatlı yeşil biber",
-        "Yarım tatlı kaşığı pul biber",
+        "yarım tatlı kaşığı pul biber",
         "1 tatlı kaşığı kekik",
-        "Yarım çay kaşığı kara biber",
+        "yarım çay kaşığı kara biber",
         "6 yemek kaşığı zeytin yağı",
         "100 gram rendelenmiş kaşar peyniri"
       ],
@@ -2202,7 +2202,7 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Baby roka",
+        "baby roka",
         "6 adet çeri domates",
         "10 adet kruton",
         "6 adet ceviz",
@@ -2316,9 +2316,9 @@ export const salataRecipes: Recipe[] = [
         "2 yemek kaşığı tahin ( seviyorsanız 3 kaşık)",
         "2 diş sarımsak",
         "2-3 yemek kaşığı sulu yoğurt",
-        "Bir çimdik kimyon",
-        "Yarım limonun suyu",
-        "Bir miktar tuz"
+        "bir çimdik kimyon",
+        "yarım limonun suyu",
+        "bir miktar tuz"
       ],
       "en": [
         "1 can canned chickpeas (they can be boiled)",
@@ -2418,13 +2418,13 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Çeyrek mor lahana",
+        "çeyrek mor lahana",
         "5 yaprak marul",
         "1 adet salatalık",
         "1 küçük havuç",
         "1 çay kaşığı tuz",
-        "Yarım çay bardağından 1 parmak eksik zeytinyağı",
-        "Yarım limon suyu"
+        "yarım çay bardağından 1 parmak eksik zeytinyağı",
+        "yarım limonun suyu"
       ],
       "en": [
         "A quarter of a purple cabbage",
@@ -2519,7 +2519,7 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 su bardağı yoğurt",
-        "5 yemek kaşığı garnitür( daha fazla ekleyebilirsiniz ben çok sevmiyorum)",
+        "5 yemek kaşığı garnitür (daha fazla ekleyebilirsiniz ben çok sevmiyorum)",
         "1 tatlı kaşığı tuz",
         "3 tane salatalık turşusu dilimlenmiş",
         "1 paket makarna",
@@ -2574,7 +2574,7 @@ export const salataRecipes: Recipe[] = [
         "1 bağ semiz otu",
         "1 orta boy soğan",
         "3 yemek kaşığı zeytinyağ",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 teacup green lentils",
@@ -2629,13 +2629,13 @@ export const salataRecipes: Recipe[] = [
         "4 orta boy patates",
         "5 haşlanmış yumurta",
         "4-5 dal yeşil soğan",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 küçük kuru soğan varsa çok yakışır",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı pul biber",
-        "Yarım çay kaşığı karabiber(alerjim olduğu için kullanamıyorum)",
+        "yarım çay kaşığı karabiber(alerjim olduğu için kullanamıyorum)",
         "1 çay kaşığı sumak",
-        "Yarım limonun suyu",
+        "yarım limonun suyu",
         "4 yemek kaşığı sıvı yağ",
         "1 yemek kaşığı sirke"
       ],
@@ -2657,7 +2657,7 @@ export const salataRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Patatesleri haşlayalım. Çatal rahatça girsin ama dağılacak kadar da haşlamayın. Ilınınca kabuklarını soyup küp küp doğrayalım.",
-        "Yumurtaları da küp küp doğrayalım. ( yada canınız nasıl isterse😂). Çok küçük doğrama ki salatanın içinde kaybolmasın.",
+        "Yumurtaları da küp küp doğrayalım. ( ya da canınız nasıl isterse😂). Çok küçük doğrama ki salatanın içinde kaybolmasın.",
         "Yeşil soğanı ve maydanozu ince ince kıyalım.",
         "Patatesleri geniş bir kaba alalım.",
         "Üzerine limon suyu, sirke, sıvı yağ ve tuzu ekleyip patatesleri ezmeden karıştıralım.",
@@ -2739,7 +2739,7 @@ export const salataRecipes: Recipe[] = [
         "3 yemek kaşığı zeytinyağı",
         "4 yemek kaşığı dolusu süzme yoğurt",
         "2 yemek kaşığı mayonez",
-        "Yeteri kadar tuz"
+        "yeteri kadar tuz"
       ],
       "en": [
         "4 medium carrots",
@@ -2787,7 +2787,7 @@ export const salataRecipes: Recipe[] = [
         "1 yemek kaşığı tereyağı (püre için)",
         "1 su bardağı yoğurt (veya süzme yoğurt)",
         "2-3 diş sarımsak (ezilmiş)",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 cup red lentils",
@@ -2837,8 +2837,8 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 kg kapya biber",
-        "Yarim kg kuru soğan (arpacık soğan tercihen yada yumurta büyüklüğünde oval soğan)",
-        "Yarım fincan zeytinyağı",
+        "yarim kg kuru soğan (arpacık soğan tercihen ya da yumurta büyüklüğünde oval soğan)",
+        "yarım fincan zeytinyağı",
         "1 tatlı kaşığı biber salçası",
         "2 tatlı kaşığı nar ekşisi",
         "1 tatlı kaşığı sumak",
@@ -2886,7 +2886,7 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım demet semizotu",
+        "yarım demet semizotu",
         "1 adet orta boy salatalık",
         "5 yemek kaşığı süzme yoğurt",
         "2-3 diş sarımsak",
@@ -2945,9 +2945,9 @@ export const salataRecipes: Recipe[] = [
         "3-4 adet közlenmiş kırmızı kapya biber",
         "5-6 adet kornişon turşu",
         "1 küçük kutu mısır",
-        "Yarım demet ince kıyılmış dereotu",
-        "Sıvı yağ (şehriyeleri kavurmak için)",
-        "Tuz"
+        "yarım demet ince kıyılmış dereotu",
+        "sıvı yağ (şehriyeleri kavurmak için)",
+        "tuz"
       ],
       "en": [
         "2 cups barley orzo",
@@ -2997,15 +2997,15 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet orta boy soğan",
-        "Bir tutam maydanoz",
+        "bir tutam maydanoz",
         "1 adet yeşil köy biberi",
         "1 adet kırmızı kapya biber",
         "1 tatlı kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
         "1 yemek kaşığı sumak",
         "1 çay kaşığı tuz",
-        "Zeytinyağı",
-        "Nar ekşisi"
+        "zeytinyağı",
+        "nar ekşisi"
       ],
       "en": [
         "3 medium onions",
@@ -3060,7 +3060,7 @@ export const salataRecipes: Recipe[] = [
         "5-6 adet kornişon turşu",
         "2 adet közlenmiş kapya biber",
         "4 yemek kaşığı zeytin yağı",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "3 medium potatoes",
@@ -3110,17 +3110,17 @@ export const salataRecipes: Recipe[] = [
         "3 tane orta boy havuç",
         "1 büyük baş kuru soğan",
         "1 çorba kasesi süzme yoğurt",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "10 dal maydanoz",
         "6 dal reyhan",
-        "1yemek kaşığı tuz",
+        "1 yemek kaşığı tuz",
         "1 tatlı kaşığı pul biber",
         "1 tatlı kaşığı kimyon",
         "1 tatlı kaşığı kuru nane",
         "1 tatlı kaşığı isot",
         "2 diş sarımsak",
         "2 yemek kaşığı da zeytinyağı",
-        "Biraz da haşlanmış nohut"
+        "biraz da haşlanmış nohut"
       ],
       "en": [
         "5 potatoes",
@@ -3186,10 +3186,10 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "1 demet semizotu (yaprak kısımları)",
         "1 adet domates",
-        "Peynir topları",
-        "Yarım limon suyu",
-        "Zeytinyağı",
-        "Tuz"
+        "peynir topları",
+        "yarım limonun suyu",
+        "zeytinyağı",
+        "tuz"
       ],
       "en": [
         "1 bunch purslane (leaf parts)",
@@ -3233,8 +3233,8 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 gram kuru börülce",
-        "Yarım demet dereotu",
-        "Yarım demet maydanoz",
+        "yarım demet dereotu",
+        "yarım demet maydanoz",
         "6-7 dal taze nane",
         "2 adet küçük soğan",
         "1 tatlı kaşığı sumak",
@@ -3300,9 +3300,9 @@ export const salataRecipes: Recipe[] = [
         "1 tutam maydanoz",
         "1 yemek kaşığı biber salçası",
         "2 yemek kaşığı nar ekşisi",
-        "Yarım limon suyu",
-        "Zeytinyağı",
-        "Tuz",
+        "yarım limonun suyu",
+        "zeytinyağı",
+        "tuz",
         "1 tatlı kaşığı kırmızı biber",
         "1 tatlı kaşığı nane",
         "1 tatlı kaşığı sumak"
@@ -3357,9 +3357,9 @@ export const salataRecipes: Recipe[] = [
         "1 adet patlıcan",
         "4adet yeşil biber",
         "2 yemek kaşığı sıvı yağ",
-        "Toz reyhan",
-        "Tuz",
-        "Sarımsaklı yoğurt"
+        "toz reyhan",
+        "tuz",
+        "sarımsaklı yoğurt"
       ],
       "en": [
         "2 potatoes",
@@ -3415,8 +3415,8 @@ export const salataRecipes: Recipe[] = [
         "1 çay kaşığı ucuyla karabiber",
         "1 çay kaşığı ucuyla kimyon",
         "1 yemek kaşığı zeytinyağı",
-        "Limon",
-        "Tuz"
+        "limon",
+        "tuz"
       ],
       "en": [
         "2 eggs",
@@ -3463,15 +3463,15 @@ export const salataRecipes: Recipe[] = [
         "1 adet soğan",
         "1 büyük boy patlıcan",
         "2 diş sarımsak",
-        "Maydanoz",
+        "maydanoz",
         "3 yemek kaşığı yoğurt",
         "2 yemek kaşığı süzme yoğurt",
         "1 yemek kaşığı dolu dolu tahin",
         "1 yemek kaşığı zeytinyağ",
         "1 avuç ceviz",
-        "Tuz",
-        "Pul biber",
-        "Karabiber"
+        "tuz",
+        "pul biber",
+        "karabiber"
       ],
       "en": [
         "1 onion",
@@ -3519,8 +3519,8 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "250 mg boncuk makarna",
-        "Yeterince kaynar su",
-        "Tuz",
+        "yeterince kaynar su",
+        "tuz",
         "1 yemek kaşığı sıvı yağ"
       ],
       "en": [
@@ -3577,8 +3577,8 @@ export const salataRecipes: Recipe[] = [
         "1 diş sarımsak",
         "1 tutam taze nane",
         "1 turam dereotu",
-        "Çeyrek limon suyu",
-        "Tuz"
+        "çeyrek limonun suyu",
+        "tuz"
       ],
       "en": [
         "4 cucumbers",
@@ -3626,7 +3626,7 @@ export const salataRecipes: Recipe[] = [
         "6 tepeleme yemek kaşığı yoğurt",
         "3 diş sarımsak",
         "2 yemek kaşığı zeytinyağı",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "4 medium beetroot",
@@ -3714,7 +3714,7 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Orta boy lahananın çeyreği",
+        "orta boy lahananın çeyreği",
         "2 orta boy havuç",
         "3-4 yemek kaşığı haşlanmış mısır",
         "1 tutam ince kıyılmış dereotu",
@@ -3762,7 +3762,7 @@ export const salataRecipes: Recipe[] = [
         "1 adet kapya biber",
         "3 adet orta boy enginar",
         "1 adet portakal",
-        "Yarım limon",
+        "yarım limon",
         "1 çay kaşığı tuz",
         "1 adet küp şeker"
       ],
@@ -3810,7 +3810,7 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım göbek marul",
+        "yarım göbek marul",
         "2 adet salatalık",
         "2- 3 adet kornişon turşu",
         "1 küçük havuç",
@@ -3818,8 +3818,8 @@ export const salataRecipes: Recipe[] = [
         "1 tavuk göğsü",
         "2 su bardağı yoğurt",
         "2 yemek kaşığı mayonez",
-        "Tuz",
-        "Nane"
+        "tuz",
+        "nane"
       ],
       "en": [
         "Half a head of lettuce",
@@ -3882,9 +3882,9 @@ export const salataRecipes: Recipe[] = [
         "3 yemek kaşığı tahin",
         "4 yemek kaşığı zeytinyağı",
         "2 büyük diş sarımsak",
-        "Biraz su",
-        "Tuz",
-        "Kimyon"
+        "biraz su",
+        "tuz",
+        "kimyon"
       ],
       "en": [
         "1 teacup chickpeas",
@@ -3948,14 +3948,14 @@ export const salataRecipes: Recipe[] = [
         "1 büyük kapya biber",
         "1 adet kırmızı soğan",
         "1 adet salatalık",
-        "Mısır",
-        "Dereotu",
-        "Mayonez",
+        "mısır",
+        "dereotu",
+        "mayonez",
         "4 yemek kaşığı yoğurt",
-        "Zeytinyağ",
-        "Tuz",
-        "Karabiber",
-        "Pul biber"
+        "zeytinyağ",
+        "tuz",
+        "karabiber",
+        "pul biber"
       ],
       "en": [
         "3 medium potatoes",
@@ -4008,10 +4008,10 @@ export const salataRecipes: Recipe[] = [
         "2,5 kilo yumurta domatesi",
         "2 kilo kırmızı kapya biber",
         "4 baş sarımsak",
-        "Yarım kilo cin biber",
+        "yarım kilo cin biber",
         "1 demet maydanoz",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım su bardağı üzüm sirkesi",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı üzüm sirkesi",
         "1 yemek kaşığı kaya tuzu"
       ],
       "en": [
@@ -4060,13 +4060,13 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım kilo ayıklanmış badalan fasulye içi",
+        "yarım kilo ayıklanmış badalan fasulye içi",
         "5 çorba kaşığı süzme yoğurt",
         "2 diş sarımsak",
         "8 – 10 dal maydanoz ve dereotu",
-        "Küçük boy kırmızı soğan",
-        "Yarım parça kapya biber",
-        "Yarım çay bardağı zeytinyağı",
+        "küçük boy kırmızı soğan",
+        "yarım parça kapya biber",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı tozbiber",
         "1 tatlı kaşığı tuz"
       ],
@@ -4174,10 +4174,10 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "1 demet roka",
         "1 demet semizotu",
-        "Yoğurt",
-        "Su",
+        "yoğurt",
+        "su",
         "1 çay kaşığı kırmızı toz biber",
-        "Tuz",
+        "tuz",
         "1 yemek kaşığı sıvı yağ"
       ],
       "en": [
@@ -4220,9 +4220,9 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım adet pancar",
-        "Yarım demet roka",
-        "Yarım su bardağı top peynir",
+        "yarım adet pancar",
+        "yarım demet roka",
+        "yarım su bardağı top peynir",
         "6-7 adet ceviz içi"
       ],
       "en": [
@@ -4267,13 +4267,13 @@ export const salataRecipes: Recipe[] = [
         "2 su bardağı haşlanmış kuru fasulye",
         "1 adet orta boy soğan (küp doğranmış)",
         "2 adet orta boy havuç (rendelenmiş)",
-        "7-8 adet kornişon tursu (küp doğranmış)",
+        "7-8 adet kornişon turşu (küp doğranmış)",
         "6-7 dal dereotu (ince kıyılmış)",
         "6-7 dal maydanoz (ince kıyılmış)",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı tuz",
-        "Yarım limon suyu",
-        "4-5 yemek kaşığı zeytinyağı"
+        "yarım limonun suyu",
+        "4-5 yemek kaşığı zeytinyağı"
       ],
       "en": [
         "2 cups boiled dried beans",
@@ -4322,10 +4322,10 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "1 demet roka",
         "1 adet domates",
-        "Yarım limonun suyu",
+        "yarım limonun suyu",
         "2 yemek kaşığı zeytinyağı",
-        "Tuz",
-        "İsteğe göre nar ekşisi"
+        "tuz",
+        "isteğe göre nar ekşisi"
       ],
       "en": [
         "1 bunch arugula",
@@ -4373,13 +4373,13 @@ export const salataRecipes: Recipe[] = [
         "5 orta boy patates",
         "1 küçük kuru soğan",
         "4-5 dal kuzu kulağı (ekşi otu)",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1-2 adet közlenmiş kırmızı biber veya kapya biber",
         "4-5 adet sarımsak turşusu",
         "1 tatlı kaşığı pul biber",
         "1 çay kaşığı kekik",
-        "Karabiber",
-        "Yağ"
+        "karabiber",
+        "yağ"
       ],
       "en": [
         "5 medium potatoes",
@@ -4433,9 +4433,9 @@ export const salataRecipes: Recipe[] = [
         "2,5 su bardağı su (kontrollü)",
         "4 yemek kaşığı sıvı yağ",
         "2 kutu ton balığı",
-        "Karabiber",
-        "Tuz",
-        "Yeni bahar"
+        "karabiber",
+        "tuz",
+        "yeni bahar"
       ],
       "en": [
         "1 large dry onion",
@@ -4489,7 +4489,7 @@ export const salataRecipes: Recipe[] = [
         "2 adet salatalık",
         "1 tutam dereotu",
         "2 adet kapya biber",
-        "Yarım çay bardağından biraz fazla zeytinyağı",
+        "yarım çay bardağından biraz fazla zeytinyağı",
         "1 avuç iri kıyım ceviz içi",
         "1’er çay kaşığı nane kırmızı toz biber",
         "1 kase katı yoğurt",
@@ -4550,7 +4550,7 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım kilo taze börülce"
+        "yarım kilo taze börülce"
       ],
       "en": [
         "Half a kilo fresh stuffed vine leaves"
@@ -4663,7 +4663,7 @@ export const salataRecipes: Recipe[] = [
         "1 pinch parsley",
         "1 slice white cheese",
         "1 tablespoon black and green olives",
-        "1 tablespoon dried mulberries",
+        "1 teaspoon dried mulberries",
         "1 tablespoon olive oil",
         "1 teaspoon salt",
         "1 teaspoon Aleppo pepper",
@@ -4706,9 +4706,9 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Ortalama 1,-1.5kilo yoğurt(miktarı isteğe bağlı olarak değişebilir)",
+        "ortalama 1,-1.5kilo yoğurt(miktarı isteğe bağlı olarak değişebilir)",
         "1 bağ dereotu",
-        "Kornişon turşu",
+        "kornişon turşu",
         "1 miktar mayonez",
         "1 tatlı kaşığı tuz"
       ],
@@ -4774,10 +4774,10 @@ export const salataRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Uygun bir tavaya zeytinyağı ekleyip, kokusu çıkana kadar salçayı kavuralım.",
+        "Uygun bir tavaya zeytinyağı ekleyip, kokusu çıkana kadar salçayı kavuralım.",
         "Üzerine haşlanmış nohudu ekleyip, 3-4 dakika orta ateşte kavuralım.",
         "Nohutlar hafif ılıdıktan sonra uygun bir kap içerisine alalım.",
-        "Üzerine közlenmiş biber, soğan, korniş tursu, dereotu, nar eksisi ve tuzu ekleyip hepsini karıştıralım. Deneyeceklere şimdiden afiyet olsun. 🤗 ♥️"
+        "Üzerine közlenmiş biber, soğan, korniş tursu, dereotu, nar ekşisi ve tuzu ekleyip hepsini karıştıralım. Deneyeceklere şimdiden afiyet olsun. 🤗 ♥️"
       ],
       "en": [
         "Add the olive oil to a suitable pan and fry the paste until it gives off its aroma.",
@@ -4809,9 +4809,9 @@ export const salataRecipes: Recipe[] = [
         "2-3 diş sarımsak",
         "1 tatlı kaşığı kuru nane",
         "1 çay kaşığı kimyon",
-        "Az tuz",
-        "Kırmızı pul biber",
-        "Zeytinyağı"
+        "az tuz",
+        "kırmızı pul biber",
+        "zeytinyağı"
       ],
       "en": [
         "1 cup strained yogurt",
@@ -4902,10 +4902,10 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "3 yemek kaşığı yoğurt",
         "100 gram beyaz peynir",
-        "Bir tutam dereotu",
-        "Bir tutam maydanoz",
-        "Kuru nane",
-        "Tuz",
+        "bir tutam dereotu",
+        "bir tutam maydanoz",
+        "kuru nane",
+        "tuz",
         "1 avuç kıyılmış ceviz",
         "2 diş sarımsak",
         "3 adet közlenmiş kapya biber",
@@ -4965,7 +4965,7 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 yemek kaşığı süzme yoğurt",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "1 salatalık",
         "2 çay kaşığı tuz"
       ],
@@ -5015,7 +5015,7 @@ export const salataRecipes: Recipe[] = [
         "5 dal taze soğan",
         "2 adet kırmızı soğan",
         "5 adet cherry domates",
-        "Biraz maydanoz"
+        "biraz maydanoz"
       ],
       "en": [
         "500 g orecchiette pasta (any pasta you like will do)",
@@ -5086,9 +5086,9 @@ export const salataRecipes: Recipe[] = [
         "1 çay kaşığı nane",
         "2 su bardağı kısırlık bulgur",
         "1 orta boy limonun suyu",
-        "Yarım çay bardağı nar ekşisi",
-        "Yarım çay bardağı zeytinyağ",
-        "Yarım demet maydanoz",
+        "yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı zeytinyağ",
+        "yarım demet maydanoz",
         "2-3 dal yeşil soğan",
         "3-4 yaprak marul"
       ],
@@ -5150,13 +5150,13 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "3-4 adet kabak",
         "1 adet kuru soğan",
-        "Yarım çay bardağı zeytinyağı",
-        "1 adet limon suyu",
+        "yarım çay bardağı zeytinyağı",
+        "1 adet limonun suyu",
         "2 yemek kaşığı pirinç",
-        "Yarım şu bardağı sıcak su",
-        "Yarım tatlı kaşığı tuz",
-        "Yarım tatlı kaşığı kuru nane",
-        "Yarım demet dereotu"
+        "yarım şu bardağı sıcak su",
+        "yarım tatlı kaşığı tuz",
+        "yarım tatlı kaşığı kuru nane",
+        "yarım demet dereotu"
       ],
       "en": [
         "3-4 zucchini",
@@ -5210,7 +5210,7 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "500 gram taze fasulye",
         "1 orta boy soğan",
-        "Damak tadımıza göre tuz"
+        "damak tadımıza göre tuz"
       ],
       "en": [
         "500 g green beans",
@@ -5264,11 +5264,11 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Yarım kg ıspanak sapı",
+        "yarım kg ıspanak sapı",
         "1 adet limon",
         "1 diş sarımsak",
-        "Zeytinyağı",
-        "Tuz"
+        "zeytinyağı",
+        "tuz"
       ],
       "en": [
         "Half a kg spinach stems",
@@ -5309,7 +5309,7 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 paket mantar",
-        "Avuç kadar iceberg marul",
+        "avuç kadar iceberg marul",
         "10- 15 yaprak roka",
         "1 adet havuç",
         "2 adet yeşil biber",
@@ -5372,9 +5372,9 @@ export const salataRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Sumak",
-        "Tuz",
-        "Limon suyu",
+        "sumak",
+        "tuz",
+        "limon suyu",
         "2 adet soğan",
         "2 adet domates",
         "2 adet salatalık",
@@ -5423,9 +5423,9 @@ export const salataRecipes: Recipe[] = [
         "3 adet köz patlıcan",
         "2 adet sarımsak",
         "1 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı pulbiber",
-        "Zeytinyağ"
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı pulbiber",
+        "zeytinyağ"
       ],
       "en": [
         "3 roasted eggplants",
@@ -5471,9 +5471,9 @@ export const salataRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 demet roka",
-        "Mor lahana",
-        "Tuz",
-        "Sıvı yağ",
+        "mor lahana",
+        "tuz",
+        "sıvı yağ",
         "2 adet limon",
         "1 adet salatalık",
         "1 adet domates",
@@ -5522,12 +5522,12 @@ export const salataRecipes: Recipe[] = [
       "tr": [
         "1 paket makarna (yarım pakette kullanabilirsiniz)",
         "3 adet kapya biber",
-        "Kornişon turşu",
-        "Mısır",
-        "Yoğurt (2 çorba kesesi yeterli)",
-        "Mayonez (3 yemek kaşığı)",
-        "Dereotu (doğranmış)",
-        "Tuz"
+        "kornişon turşu",
+        "mısır",
+        "yoğurt (2 çorba kesesi yeterli)",
+        "mayonez (3 yemek kaşığı)",
+        "dereotu (doğranmış)",
+        "tuz"
       ],
       "en": [
         "1 package pasta (you can use half a package)",

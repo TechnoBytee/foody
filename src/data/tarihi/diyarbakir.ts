@@ -8,7 +8,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 150,
     difficulty: "hard",
-    ingredients: { tr: ["yoğurt", "un", "tarhana otu", "tuz", "biber"], en: ["yoğurt", "un", "tarhana otu", "tuz", "biber"] },
+    ingredients: { tr: ["yoğurt", "un", "tarhana otu", "tuz", "biber"], en: ["yogurt", "flour", "tarhana herb", "salt", "pepper"] },
     steps: {
       tr: [
         "Tarhana otunu yıkayıp suda bekletin.",
@@ -37,7 +37,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 60,
     difficulty: "medium",
-    ingredients: { tr: ["kıyma", "susam", "soğan", "küncüt", "baharat", "tuz"], en: ["kıyma", "susam", "soğan", "küncüt", "baharat", "tuz"] },
+    ingredients: { tr: ["kıyma", "susam", "soğan", "küncüt", "baharat", "tuz"], en: ["minced meat", "sesame", "onion", "sesame", "spice", "salt"] },
     steps: {
       tr: [
         "Kıymayı küncüt, susam ve soğanla yoğurun.",
@@ -66,7 +66,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 100,
     difficulty: "medium",
-    ingredients: { tr: ["dana kelle paçalık", "limon", "yumurta sarısı", "sarımsak", "tuz"], en: ["dana kelle paçalık", "limon", "yumurta sarısı", "sarımsak", "tuz"] },
+    ingredients: { tr: ["dana kelle paçalık", "limon", "yumurta sarısı", "sarımsak", "tuz"], en: ["beef head and trotters", "lemon", "egg yolk", "garlic", "salt"] },
     steps: {
       tr: [
         "Kelle ve paçalıkları 90 dakika haşlayın.",
@@ -95,7 +95,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 150,
     difficulty: "hard",
-    ingredients: { tr: ["dana yüreği", "pirinç", "soğan", "domates", "salça", "baharat"], en: ["dana yüreği", "pirinç", "soğan", "domates", "salça", "baharat"] },
+    ingredients: { tr: ["dana yüreği", "pirinç", "soğan", "domates", "salça", "baharat"], en: ["beef heart", "rice", "onion", "tomato", "tomato paste", "spice"] },
     steps: {
       tr: [
         "Yüreği temizleyip pirinçli iç malzeme doldurun.",
@@ -124,7 +124,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 80,
     difficulty: "medium",
-    ingredients: { tr: ["biber", "etli pirinç", "domates", "yoğurt", "tuz"], en: ["biber", "etli pirinç", "domates", "yoğurt", "tuz"] },
+    ingredients: { tr: ["biber", "etli pirinç", "domates", "yoğurt", "tuz"], en: ["pepper", "rice with meat", "tomato", "yogurt", "salt"] },
     steps: {
       tr: [
         "Biberleri etli pirinçle doldurun.",
@@ -153,7 +153,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 60,
     difficulty: "medium",
-    ingredients: { tr: ["gül suyu", "un", "şerbet", "ceviz", "tuz"], en: ["gül suyu", "un", "şerbet", "ceviz", "tuz"] },
+    ingredients: { tr: ["gül suyu", "un", "şerbet", "ceviz", "tuz"], en: ["rose water", "flour", "syrup", "walnut", "salt"] },
     steps: {
       tr: [
         "Gül suyunu şerbetle karıştırıp unu dökün.",
@@ -182,7 +182,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 90,
     difficulty: "medium",
-    ingredients: { tr: ["asma yaprağı", "pirinç", "yumurta", "yoğurt", "salça", "tuz"], en: ["asma yaprağı", "pirinç", "yumurta", "yoğurt", "salça", "tuz"] },
+    ingredients: { tr: ["asma yaprağı", "pirinç", "yumurta", "yoğurt", "salça", "tuz"], en: ["grape leaves", "rice", "egg", "yogurt", "tomato paste", "salt"] },
     steps: {
       tr: [
         "Yaprakları haşlayıp sarma sosunu hazırlayın.",
@@ -210,7 +210,7 @@ export const diyarbakirRecipes: Recipe[] = [
     cuisine: "turk",
     time: 70,
     difficulty: "medium",
-    ingredients: { tr: ["kıyma", "hamur", "soğan", "yumurta", "baharat"], en: ["kıyma", "hamur", "soğan", "yumurta", "baharat"] },
+    ingredients: { tr: ["kıyma", "hamur", "soğan", "yumurta", "baharat"], en: ["minced meat", "dough", "onion", "egg", "spice"] },
     steps: {
       tr: [
         "Kıymayı soğan ve baharatla kavurun.",

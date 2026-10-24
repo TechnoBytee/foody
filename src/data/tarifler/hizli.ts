@@ -16,10 +16,10 @@ export const hizliRecipes: Recipe[] = [
         "5-6 yemek kaşığı zeytinyağı",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı kırmızı toz biber",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı kekik",
-        "Yarım paket krema – 100 ml",
+        "yarım paket krema – 100 ml",
         "1,5 su bardağı kadar rendelenmiş kaşar peyniri"
       ],
       "en": [
@@ -66,7 +66,7 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "5 adet orta boy Patates",
+        "5 adet orta boy patates",
         "2 diş rendelenmiş sarımsak",
         "3 yemek kaşığı zeytinyağ",
         "2 yemek kaşığı galeta unu",
@@ -120,9 +120,9 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "4 adet milföy  (Kişi sayısına göre ben 4 tane kullandım. 2 adet tost yaptım)",
-        "Sucuk",
-        "Kaşar Peyniri  (iç malzemesini damak tadınıza göre zenginleştirebiliriz. Ben bu defa sadece sucuk ve  kaşar peyniri kullandım )"
+        "4 adet milföy (Kişi sayısına göre ben 4 tane kullandım. 2 adet tost yaptım)",
+        "sucuk",
+        "kaşar peyniri (iç malzemesini damak tadınıza göre zenginleştirebiliriz. Ben bu defa sadece sucuk ve kaşar peyniri kullandım )"
       ],
       "en": [
         "4 sheets of puff pastry (depending on the number of people, I used 4 and made 2 toasts)",
@@ -172,7 +172,7 @@ export const hizliRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "2 adet domates rendesi(ben konserve kullandım)",
         "1 silme çay kaşığı tuz,karabiber,pul biber",
-        "Üzerine kaşar peyniri(olmasada olur)"
+        "üzerine kaşar peyniri(olmasada olur)"
       ],
       "en": [
         "3-4 potatoes",
@@ -222,10 +222,10 @@ export const hizliRecipes: Recipe[] = [
       "tr": [
         "200 gram tavuk göğsü",
         "2 yemek kaşığı zeytinyağ",
-        "Yarım kuru soğan",
+        "yarım kuru soğan",
         "1 diş sarımsak",
-        "Karabiber, pul biber, kekik, kimyon, kırmızı toz biber",
-        "Tuz"
+        "karabiber, pul biber, kekik, kimyon, kırmızı toz biber",
+        "tuz"
       ],
       "en": [
         "200 g chicken breast",
@@ -295,10 +295,10 @@ export const hizliRecipes: Recipe[] = [
         "️2 diş sarımsak",
         "️1 çay bardağı domates sosu ya da 1 yemek kaşığı salça",
         "️1 su bardağı sıcak su",
-        "️Tuz",
-        "️Karabiber",
-        "️Pulbiber",
-        "️Kaşar peyniri"
+        "️tuz",
+        "️karabiber",
+        "️pulbiber",
+        "️kaşar peyniri"
       ],
       "en": [
         "400 g mushrooms",
@@ -306,7 +306,7 @@ export const hizliRecipes: Recipe[] = [
         "1 capsicum pepper",
         "1 charleston pepper",
         "2 cloves garlic",
-        "1 cup tomato sauce or 1 tablespoon tomato paste",
+        "1 teacup tomato sauce or 1 tablespoon tomato paste",
         "1 cup hot water",
         "Salt",
         "Black pepper",
@@ -360,14 +360,14 @@ export const hizliRecipes: Recipe[] = [
         "1 çay bardağı rendelenmiş kaşar",
         "2 yemek kaşığı zeytinyağı",
         "1 yumurta",
-        "Bir fiske tuz",
-        "Bir fiske karabiber",
+        "bir fiske tuz",
+        "bir fiske karabiber",
         "1 küçük diş sarmısak",
-        "Pişirme kağıdı"
+        "pişirme kağıdı"
       ],
       "en": [
         "2 potatoes",
-        "1 cup grated kashar cheese",
+        "1 teacup grated kashar cheese",
         "2 tablespoons olive oil",
         "1 egg",
         "A pinch of salt",
@@ -410,11 +410,11 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Sucuk",
-        "Sosis",
-        "Salam",
-        "Kaşar peyniri",
-        "Sandviç ekmeği veya hamburger ekmeği"
+        "sucuk",
+        "sosis",
+        "salam",
+        "kaşar peyniri",
+        "sandviç ekmeği veya hamburger ekmeği"
       ],
       "en": [
         "Sucuk (Turkish sausage)",
@@ -426,9 +426,9 @@ export const hizliRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Sosis, salam ve sucuk jülyen şekilde dilimlenir. Isıtılmış tavada sotelenir.",
-        "Sandviç ekmeği ikiye bölünüp ısıtılır. Sandviç ekmeğinin arasına sotelenmiş malzemeler konulur.",
-        "Kaşar peyniri tavada arkalı önlü erimeden kızartılır. Ekmek arasındaki malzemelerin üstüne konur. Tercihe göre ketçap ve mayonez sıkılıp servis edilir."
+        "Sosis, salam ve sucuk jülyen şekilde dilimlenir. Isıtılmış tavada sotelenir.",
+        "Sandviç ekmeği ikiye bölünüp ısıtılır. Sandviç ekmeğinin arasına sotelenmiş malzemeler konulur.",
+        "Kaşar peyniri tavada arkalı önlü erimeden kızartılır. Ekmek arasındaki malzemelerin üstüne konur. Tercihe göre ketçap ve mayonez sıkılıp servis edilir."
       ],
       "en": [
         "Slice the sausage, salami and sucuk into julienne strips. Sauté them in a heated pan.",
@@ -474,7 +474,7 @@ export const hizliRecipes: Recipe[] = [
         "Half a teaspoon cumin",
         "Half a teaspoon black pepper",
         "1 teaspoon salt",
-        "Half a cup hot water",
+        "Half a teacup hot water",
         "1 teaspoon baking soda (not mandatory)"
       ]
     },
@@ -529,8 +529,8 @@ export const hizliRecipes: Recipe[] = [
         "2 adet yumurta",
         "3 yemek kaşığı tepeleme un",
         "1 tatlı kaşığı silme karabiber",
-        "Pul biber",
-        "Toz biber",
+        "pul biber",
+        "toz biber",
         "1 çay kaşığı tepeleme tuz"
       ],
       "en": [
@@ -631,7 +631,7 @@ export const hizliRecipes: Recipe[] = [
         "4 adet orta boy patates(patatesleriniz küçükse biraz daha fazla)",
         "1 tatlı kaşığı tuz",
         "1 yemek kaşığı sıvı yağ",
-        "İsteğe bağlı pulbiber ya da toz biber"
+        "isteğe bağlı pulbiber ya da toz biber"
       ],
       "en": [
         "4 medium potatoes (a little more if your potatoes are small)",
@@ -675,11 +675,11 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1,50 su bardağı pirinç",
-        "Su",
-        "Margarin",
-        "Yarım biber",
+        "su",
+        "margarin",
+        "yarım biber",
         "3 adet domates",
-        "Tuz",
+        "tuz",
         "1 yemek kaşığı karabiber"
       ],
       "en": [
@@ -732,8 +732,8 @@ export const hizliRecipes: Recipe[] = [
       "tr": [
         "1 paket tavuk",
         "1 su bardağı nohut",
-        "Tuz",
-        "Su",
+        "tuz",
+        "su",
         "1.50 su bardağı bulgur"
       ],
       "en": [
@@ -783,9 +783,9 @@ export const hizliRecipes: Recipe[] = [
         "2 adet havuç",
         "2 adet soğan",
         "1 diş sarımsak",
-        "Margarin",
-        "Su",
-        "Kahve bardağı ile sıvı yağ",
+        "margarin",
+        "su",
+        "kahve bardağı ile sıvı yağ",
         "1 adet sivri biber",
         "1,5 su bardağı basmati pirinç"
       ],
@@ -839,7 +839,7 @@ export const hizliRecipes: Recipe[] = [
         "1 çay kaşığı kimyon",
         "4 yemek kaşığı galeta unu",
         "1 çimdik karbonat",
-        "Karabiber",
+        "karabiber",
         "3 tane patates"
       ],
       "en": [
@@ -894,7 +894,7 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Küçük kuş başı kesilmiş sana eti ( isteğe bağlı koymayada bilirsiniz)",
+        "küçük kuş başı kesilmiş sana eti ( isteğe bağlı koymayada bilirsiniz)",
         "3 adet patates (küçük küp şeklinde doğranmış)",
         "7-8 adet kuru domates",
         "1 adet kapya biber",
@@ -902,8 +902,8 @@ export const hizliRecipes: Recipe[] = [
         "1 adet soğan",
         "1 tatlı kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Sıvı yağ",
-        "Tuz"
+        "sıvı yağ",
+        "tuz"
       ],
       "en": [
         "Small chopped poultry meat (you can leave it out if you wish)",
@@ -954,7 +954,7 @@ export const hizliRecipes: Recipe[] = [
         "2 adet kokteyl sosis",
         "14 dilim sucuk",
         "1 adet yeşil biber",
-        "Yarım avuç tane mısır",
+        "yarım avuç tane mısır",
         "4 adet zeytin (çekirdeği çıkarılmış)",
         "1 yemek kaşığı salça",
         "10 dilim kaşar peyniri"
@@ -1005,13 +1005,13 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü eti",
-        "Haşlamak için 1 su bardağı su",
-        "Sıvı yağ",
-        "Pul biber",
-        "Karabiber",
-        "Kimyon",
-        "Kırmızı toz biber",
-        "Tuz"
+        "haşlamak için 1 su bardağı su",
+        "sıvı yağ",
+        "pul biber",
+        "karabiber",
+        "kimyon",
+        "kırmızı toz biber",
+        "tuz"
       ],
       "en": [
         "500 g chicken breast",
@@ -1072,9 +1072,9 @@ export const hizliRecipes: Recipe[] = [
         "5 diş sarımsak",
         "2 adet domates (kabuğu soyulmuş)",
         "1 dolu yemek kaşığı tereyağ",
-        "Tuz",
-        "Karabiber",
-        "Pul biber"
+        "tuz",
+        "karabiber",
+        "pul biber"
       ],
       "en": [
         "225 g jumbo shrimp",
@@ -1136,8 +1136,8 @@ export const hizliRecipes: Recipe[] = [
       "tr": [
         "1 adet fındıklı halk ekmeği",
         "1 dilim ufalanmış beyaz peynir",
-        "Yarım dilim haşlanmış yumurta",
-        "Ekmeğe sürülecek kadar fıstık ezmesi",
+        "yarım dilim haşlanmış yumurta",
+        "ekmeğe sürülecek kadar fıstık ezmesi",
         "1 tutam çörek otu",
         "1 tutam kuru nane"
       ],
@@ -1232,7 +1232,7 @@ export const hizliRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 çay kaşığı toz kırmızı biber",
         "1 çay kaşığı sarımsak tozu",
-        "Yarım çay kaşığı kimyon"
+        "yarım çay kaşığı kimyon"
       ],
       "en": [
         "500 g chicken breast (cut into strips)",
@@ -1284,13 +1284,13 @@ export const hizliRecipes: Recipe[] = [
         "4-5 adet charleston biber",
         "1 tatlı kaşığı pul biber",
         "1 tatlı kaşığı toz kırmızı biber",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "4-5 tomatoes",
         "4-5 charleston peppers",
-        "1 tablespoon chili flakes",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon chili flakes",
+        "1 teaspoon red pepper powder",
         "Salt"
       ]
     },
@@ -1336,7 +1336,7 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Toplam 2 yemek kaşığı zeytinyağı",
+        "toplam 2 yemek kaşığı zeytinyağı",
         "1 adet soğan",
         "3 yemek kaşığı öğütülmüş keten tohumu",
         "3 yemek kaşığı sıcak su",
@@ -1359,7 +1359,7 @@ export const hizliRecipes: Recipe[] = [
         "2 cloves garlic (chopped finely)",
         "1 package sunflower minced meat (75 g)",
         "120 ml hot vegetable stock",
-        "50 g oat flour paste (or oat flour or another gluten-free flour)",
+        "50 g rolled oats (or oat flour or another gluten-free flour)",
         "400 g canned kidney beans or black beans (about 255 g when rinsed and drained)",
         "1 tablespoon tomato paste",
         "1 heaped teaspoon cumin",
@@ -1456,14 +1456,14 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo fasulye",
+        "yarım kilo fasulye",
         "1 yemek kaşığı kırmızı toz biber",
         "1 yemek kaşığı karabiber",
         "1 yemek kaşığı kekik",
-        "Tuz",
-        "Zeytin yağ",
-        "Su",
-        "Salça",
+        "tuz",
+        "zeytin yağ",
+        "su",
+        "salça",
         "1 yemek kaşığı kimyon",
         "1 adet soğan",
         "2 baş sarımsak",
@@ -1516,20 +1516,20 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Lavaş",
+        "lavaş",
         "500 gram tavuk göğsü",
         "4-5 yemek kaşığı sıvı yağ",
         "1 çay bardağı su",
         "1 tatlı kaşığı toz kırmızı biber",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı kimyon(tercihe bağlı)",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "Flatbread",
         "500 g chicken breast",
         "4-5 tablespoons liquid oil",
-        "1 cup water",
+        "1 teacup water",
         "1 teaspoon red pepper powder",
         "1 teaspoon chili flakes",
         "1 teaspoon cumin (optional)",
@@ -1572,17 +1572,17 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Sıvı yağ",
+        "sıvı yağ",
         "300 gram kıyma",
         "1 adet soğan",
         "1 baş sarımsak",
-        "Tuz",
+        "tuz",
         "1 yemek kaşığı kimyon",
         "1 tatlı kaşığı kırmızı toz biber(acı)",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı kuru nane",
         "1 tatlı kaşığı kekik",
-        "Sarı kaşar peynir"
+        "sarı kaşar peynir"
       ],
       "en": [
         "Oil",
@@ -1591,10 +1591,10 @@ export const hizliRecipes: Recipe[] = [
         "1 head of garlic",
         "Salt",
         "1 tablespoon cumin",
-        "1 tablespoon red pepper powder (hot)",
-        "1 tablespoon black pepper",
-        "1 tablespoon dried mint",
-        "1 tablespoon thyme",
+        "1 teaspoon red pepper powder (hot)",
+        "1 teaspoon black pepper",
+        "1 teaspoon dried mint",
+        "1 teaspoon thyme",
         "Yellow kashar cheese"
       ]
     },
@@ -1632,7 +1632,7 @@ export const hizliRecipes: Recipe[] = [
         "3 adet parmak sosis",
         "1 adet yumurta",
         "50 gram rendelenmiş kaşar peyniri",
-        "Yarım kapya biber",
+        "yarım kapya biber",
         "2 dal dereotu",
         "10 gram çörekotu",
         "10 gram susam"
@@ -1689,16 +1689,16 @@ export const hizliRecipes: Recipe[] = [
         "1 tatlı kaşığı sumak",
         "4 adet orta boy domates",
         "1 kase dilimlenmiş kornişon turşu",
-        "Acı pul biber",
-        "En büyük boy lavaş dürüm ekmeği",
+        "acı pul biber",
+        "en büyük boy lavaş dürüm ekmeği",
         "5-6 adet orta boy kızartılmış patates"
       ],
       "en": [
         "400 g chicken breast",
-        "5 cups liquid oil",
+        "5 teacups liquid oil",
         "2 heaping tablespoons red pepper powder",
         "5 teaspoons salt",
-        "5 cups boiling water",
+        "5 teacups boiling water",
         "4 medium onions",
         "1 teaspoon sumac",
         "4 medium tomatoes",
@@ -1715,7 +1715,7 @@ export const hizliRecipes: Recipe[] = [
         "Patatesleri kızartalım. Tavamızın içine 2 yemek kaşığı sıvı yağ ekleyip kızdıralım. İçine etimizi döküp biraz ocağın altını biraz kısalım.",
         "5 dakika kadar etin rengi dönene kadar kavuralım. Etimiz suyunu salana kadar bekleyelim. Sülana eti arada bir karıştırarak yaklaşık 30 dakika kadar pişirelim.",
         "Suyu kalmayan ete sıvı yağımızı ekleyelim. Kırmızı toz biber ve tuzunuda ilave edelim. 2 3 tur kavuralım ve kaynar suyu ekleyip ocaktan alalım.",
-        "Lavaşımızı etin yağlı suyuna baktıralım ve tüm iç malzemelerini dolduralım ve pulbiberde serpip rulo şeklinde sıkıca saralım.  Dürümümüz hazır herkese afiyet olsun."
+        "Lavaşımızı etin yağlı suyuna baktıralım ve tüm iç malzemelerini dolduralım ve pulbiberde serpip rulo şeklinde sıkıca saralım. Dürümümüz hazır herkese afiyet olsun."
       ],
       "en": [
         "Halve the chicken breasts and cut them into small pieces.",
@@ -1791,7 +1791,7 @@ export const hizliRecipes: Recipe[] = [
         "2 adet domates",
         "2 adet yeşil etli biber",
         "2 adet kapya biber",
-        "İstediğiniz miktarda sarımsak",
+        "istediğiniz miktarda sarımsak",
         "2 adet patlıcan"
       ],
       "en": [
@@ -1814,7 +1814,7 @@ export const hizliRecipes: Recipe[] = [
         "Patlıcan yapmak isterseniz kabuklarını soyup bütün şekilde koyabişirsiniz.",
         "Sos için fırın tepsisine baharatları, salçaları ,sıvı yağı karıp karıştırıyoruz, hepsinin her yerine sütüyoruz.",
         "Sebzeleride tepsiye diziyoruz.",
-        "Sostan fırçayla yada elinizle sebzelerin üzerine sürün.",
+        "Sostan fırçayla ya da elinizle sebzelerin üzerine sürün.",
         "Fırında sos yanmaması için 1 su bardagı su ilave ettim tepsiye orjinalinde su yoktu.",
         "Tepsinin üzerini yağlı kagıtla kapatıp 200 derecede 40 dk yağlı kagıdı alıp 10 dk pişiriyoruz.",
         "Kontrollü pişirin dibindeki sos tepsiye yapışabilir bu durumda su ilave edebilirsiniz.",
@@ -1857,18 +1857,18 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet patates",
-        "Sıvı yağ",
-        "Tuz",
+        "sıvı yağ",
+        "tuz",
         "1 yemek kaşığı karabiber",
         "1 yemek kaşığı kırmızı biber",
         "1 yemek kaşığı kimyon",
         "1 yemek kaşığı kekik",
         "1 yemek kaşığı kuru nane",
         "4 tavuk budu",
-        "Kaşar peynir",
+        "kaşar peynir",
         "1 su bardağı krema",
         "1 su bardağı su",
-        "Salça"
+        "salça"
       ],
       "en": [
         "2 potatoes",
@@ -1926,9 +1926,9 @@ export const hizliRecipes: Recipe[] = [
         "2 yemek kaşığı salça",
         "1 yemek kaşığı kimyon",
         "1 yemek kaşığı karabiber",
-        "Tuz",
-        "Margarin",
-        "Su",
+        "tuz",
+        "margarin",
+        "su",
         "2 adet domates",
         "1 adet soğan"
       ],
@@ -2041,7 +2041,7 @@ export const hizliRecipes: Recipe[] = [
         "2 teaspoons chili flakes",
         "1 teaspoon thyme",
         "1 teaspoon salt",
-        "1 cup liquid oil"
+        "1 teacup liquid oil"
       ]
     },
     "steps": {
@@ -2099,14 +2099,14 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "500 gram kurutulmuş patlıcan",
-        "500 gram kurutulmuş  biber",
+        "500 gram kurutulmuş biber",
         "500 gram kurutulmuş domates",
-        "Tuz",
-        "4 orta boy kuru  soğan,",
+        "tuz",
+        "4 orta boy kuru soğan,",
         "2 yemek kaşığı tozbiber",
-        "1 yemek kaşığı  domates salçası",
-        "1 yemek kaşığı pul  biber",
-        "Karabiber"
+        "1 yemek kaşığı domates salçası",
+        "1 yemek kaşığı pul biber",
+        "karabiber"
       ],
       "en": [
         "500 g dried eggplant",
@@ -2122,10 +2122,10 @@ export const hizliRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Kurutulmuş  sebzeler,  daha  önceden  haşlanır.",
-        "Bir  süzgeç  yardımı  ile  süzülür.",
-        "Bir  tencereye  sıvı yağ eklenip, ince  kıyılmış  kuru  soğanı yağın içerisinde soldurulur, üzerine  domates salçası, tuz, ekleyip,biraz  kavurduktansonra,süzülen  sebzeleri  ilave  edilerek   iyice  karıştırılır.",
-        "Sonra  üzerine karabiber ekleyip yanında ince  kıyılmış  taze  veya  kuru  soğan , maydanoz  garnitürleri  ile  servis  yapılır afiyet olsun."
+        "Kurutulmuş sebzeler, daha önceden haşlanır.",
+        "Bir süzgeç yardımı ile süzülür.",
+        "Bir tencereye sıvı yağ eklenip, ince kıyılmış kuru soğanı yağın içerisinde soldurulur, üzerine domates salçası, tuz, ekleyip,biraz kavurduktansonra,süzülen sebzeleri ilave edilerek iyice karıştırılır.",
+        "Sonra üzerine karabiber ekleyip yanında ince kıyılmış taze veya kuru soğan , maydanoz garnitürleri ile servis yapılır afiyet olsun."
       ],
       "en": [
         "The dried vegetables are boiled beforehand.",
@@ -2276,7 +2276,7 @@ export const hizliRecipes: Recipe[] = [
       "en": [
         "500 g flour",
         "1 cup lukewarm water",
-        "Half a cup milk",
+        "Half a teacup milk",
         "1 package instant yeast",
         "50 g butter",
         "2 tablespoons sugar",
@@ -2373,9 +2373,9 @@ export const hizliRecipes: Recipe[] = [
         "2 adet kabak",
         "2 adet havuç",
         "2 adet yumurta",
-        "Kaşar",
-        "Pul biber",
-        "Tuz"
+        "kaşar",
+        "pul biber",
+        "tuz"
       ],
       "en": [
         "2 zucchini",
@@ -2421,12 +2421,12 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet iri boy tavuk göğsü",
-        "Tuz",
-        "Karabiber",
-        "Tatlı tozbiber",
-        "Bir çimdik kimyon",
-        "Birkaç tamla limon veya misket limonu suyu",
-        "Birkaç damla tabasco veya sriracha sos ( varsa eklemenizi tavsiye ederim )",
+        "tuz",
+        "karabiber",
+        "tatlı tozbiber",
+        "bir çimdik kimyon",
+        "birkaç tamla limon veya misket limonu suyu",
+        "birkaç damla tabasco veya sriracha sos ( varsa eklemenizi tavsiye ederim )",
         "1 yemek kaşığı zeytinyağı"
       ],
       "en": [
@@ -2525,7 +2525,7 @@ export const hizliRecipes: Recipe[] = [
         "1 kase salam",
         "6-7 dilim kaşar peyniri",
         "4 adet sandviç ekmeği",
-        "Turşu"
+        "turşu"
       ],
       "en": [
         "1 bowl sucuk (Turkish sausage)",
@@ -2588,7 +2588,7 @@ export const hizliRecipes: Recipe[] = [
         "2 tablespoons liquid oil",
         "1 package instant yeast",
         "1 teaspoon salt",
-        "2 teaspoons powdered sugar",
+        "2 teaspoons granulated sugar",
         "3-3.5 cups flour"
       ]
     },
@@ -2644,7 +2644,7 @@ export const hizliRecipes: Recipe[] = [
         "1/2 (yarım) çay kaşığı tuz"
       ],
       "en": [
-        "4 tablespoons oat flour paste",
+        "4 tablespoons rolled oats",
         "1 tablespoon yogurt",
         "1 egg",
         "Half a teaspoon salt"
@@ -2686,12 +2686,12 @@ export const hizliRecipes: Recipe[] = [
         "2 kuru soğan",
         "5-6 diş sarımsak",
         "2 domates",
-        "Yeşil yada kırmızı kapya biber",
-        "Sıvı yağ",
-        "Kırmızı toz biber",
-        "Tuz",
-        "Kekik karabiber",
-        "Pul biber"
+        "yeşil ya da kırmızı kapya biber",
+        "sıvı yağ",
+        "kırmızı toz biber",
+        "tuz",
+        "kekik karabiber",
+        "pul biber"
       ],
       "en": [
         "3-4 potatoes",
@@ -2790,7 +2790,7 @@ export const hizliRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "3 yemek kaşığı yoğurt",
         "3 yemek kaşığı sıvı yağ",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 yemek kaşığı tereyağı"
       ],
       "en": [
@@ -2848,7 +2848,7 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Hazır hamburger ekmeği"
+        "hazır hamburger ekmeği"
       ],
       "en": [
         "Ready-made hamburger buns"
@@ -2902,7 +2902,7 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Lavaş veya ekmek"
+        "lavaş veya ekmek"
       ],
       "en": [
         "Flatbread or bread"
@@ -2966,7 +2966,7 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Hazır lavaş ekmeği"
+        "hazır lavaş ekmeği"
       ],
       "en": [
         "Ready-made flatbread"
@@ -3104,7 +3104,7 @@ export const hizliRecipes: Recipe[] = [
         "2 büyük domates",
         "4 tane sivri biber",
         "2 çay kaşığı tuz",
-        "Sıvı yağ"
+        "sıvı yağ"
       ],
       "en": [
         "5 medium potatoes",
@@ -3273,8 +3273,8 @@ export const hizliRecipes: Recipe[] = [
         "Öncelikle mücver malzemelerini hazırlayalım. Kabakları soyarak rendenin iri kısmında rendeleyelim ve suyunu sıkalım ve bir kaba alalım.",
         "Maydanozu minik minik doğrayalım. Kabak mücver harcını hazırlayalım. Yumurtaları bir kaba alalım. Üzerine sırası ile un, pul biber, karabiber ve tuzu ilave edilerek iyice çırpalım.",
         "Ardından suyunu iyice sıktığımız kabakları ve maydanozu ekleyerek karıştıralım. Böylece mücver harcımız hazır.",
-        "Tavaya az miktarda sıvı yağ alalım ve ısıtalım. Isınan yağımıza kabak karışımından bir kaşık dökelim, çevirerek kızartalım.  Mücverlerin her iki yüzü de kızardıktan sonra havlu kağıt serilmiş tabağa alalım.",
-        "Kabak mücveri sosla beraber servis edelim  işte hazır. Afiyet olsun. Tarifi deneyip fotoğraf paylaşmayı ve yorum yapmayı unutmayın şimdiden kolay gelsin 🌹🌹"
+        "Tavaya az miktarda sıvı yağ alalım ve ısıtalım. Isınan yağımıza kabak karışımından bir kaşık dökelim, çevirerek kızartalım. Mücverlerin her iki yüzü de kızardıktan sonra havlu kağıt serilmiş tabağa alalım.",
+        "Kabak mücveri sosla beraber servis edelim işte hazır. Afiyet olsun. Tarifi deneyip fotoğraf paylaşmayı ve yorum yapmayı unutmayın şimdiden kolay gelsin 🌹🌹"
       ],
       "en": [
         "First of all let us get the fritter ingredients ready. Peel the zucchini, grate it on the coarse part of the grater, squeeze out the water and put it in a bowl.",
@@ -3308,8 +3308,8 @@ export const hizliRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "1 çay kaşığından az karabiber",
         "3 yemek kaşığı sıvı yağ",
-        "Tuz",
-        "Yeteri kadar su 3 su bardağı (200 ml)"
+        "tuz",
+        "yeteri kadar su 3 su bardağı (200 ml)"
       ],
       "en": [
         "500 g peas",
@@ -3353,18 +3353,18 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tereyağı",
-        "1/2 (yarım) yemek kaşığı sıvı yağ/ zeytinyağı",
+        "1/2 (yarım) yemek kaşığı sıvı yağ/zeytinyağı",
         "1 çay bardağı tel şehriye",
         "2 çay bardağı su",
         "2.5 su bardağı süt (pastörize ya da daha önce pişirilmiş olmalıdır",
-        "Çiğ süt kullanılmamalıdır.)",
-        "Tuz"
+        "çiğ süt kullanılmamalıdır.)",
+        "tuz"
       ],
       "en": [
         "1 tablespoon butter",
         "Half a tablespoon liquid oil or olive oil",
-        "1 cup fine vermicelli",
-        "2 cups water",
+        "1 teacup fine vermicelli",
+        "2 teacups water",
         "2.5 cups milk (it must be pasteurized or previously cooked)",
         "Raw milk must not be used.)",
         "Salt"
@@ -3407,8 +3407,8 @@ export const hizliRecipes: Recipe[] = [
         "1 su bardağı sıvı yağ",
         "1 adet soğan",
         "3 adet patates",
-        "Küçük 1 kase beyaz peynir",
-        "Yarım demet maydanoz",
+        "küçük 1 kase beyaz peynir",
+        "yarım demet maydanoz",
         "2 tatlı kaşığı pul biber",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı tuz",
@@ -3433,7 +3433,7 @@ export const hizliRecipes: Recipe[] = [
     "steps": {
       "tr": [
         "Öncelikle patatesleri yıkayıp küp şeklinde küçük küçük doğrayalım. Soğan ve maydanozları da küçük olarak doğrayıp hazır hale getirelim.",
-        "Yumurtaları mikserle iyice çırpıp üzerine yoğurt, sıvı yağ, peynir,  karabiber, pul biber ve tuzu ekleyip karıştıralım. Doğradığımız  patates, soğan ve maydanozu ekleyip tekrar karıştıralım. En son kabartma tozu ve unu ekleyerek karıştıralım.",
+        "Yumurtaları mikserle iyice çırpıp üzerine yoğurt, sıvı yağ, peynir, karabiber, pul biber ve tuzu ekleyip karıştıralım. Doğradığımız patates, soğan ve maydanozu ekleyip tekrar karıştıralım. En son kabartma tozu ve unu ekleyerek karıştıralım.",
         "Borcamı yağlayıp borcama malzemeyi dökelim tepsi kağıdı varsa eğer onu kullanabiliriz.",
         "Üzerine susam dökelim ve 180°fırında üzeri iyice kızarana kadar pişirelim. Soğumaya bırakalım. Yani yaklaşık yarım saat sonra servis edelim. Afiyet olsun."
       ],
@@ -3463,8 +3463,8 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "150 gram tavuk(ben akşamdan kalan tavuklarımı değerlendirdim)",
-        "Yarım havuç",
-        "Yarım kuru soğan",
+        "yarım havuç",
+        "yarım kuru soğan",
         "1 çay kaşığı köri",
         "1 yemek kaşığı zeytinyağı",
         "1 adet lavaş",
@@ -3519,8 +3519,8 @@ export const hizliRecipes: Recipe[] = [
         "500 gr fasulye",
         "2 adet domates",
         "1 tatlı kaşığı salça",
-        "Sıvı yağ",
-        "Tuz",
+        "sıvı yağ",
+        "tuz",
         "2 su bardağı su"
       ],
       "en": [
@@ -3569,7 +3569,7 @@ export const hizliRecipes: Recipe[] = [
         "1 tatlı kaşığı biber salçası",
         "1 yemek kaşığı margarin",
         "1 küçük dilim kaşar",
-        "Vanilya- rom aroması (yoksa pudra şekeri bir çay kaşığı)"
+        "vanilya- rom aroması (yoksa pudra şekeri bir çay kaşığı)"
       ],
       "en": [
         "1 egg",
@@ -3625,11 +3625,11 @@ export const hizliRecipes: Recipe[] = [
         "1 tane yeşil biber",
         "1 adet küçük soğan",
         "6 adet mantar",
-        "Yarım paket krema",
-        "Lavaş",
-        "Soya sosu",
-        "Acı sos",
-        "Tuz"
+        "yarım paket krema",
+        "lavaş",
+        "soya sosu",
+        "acı sos",
+        "tuz"
       ],
       "en": [
         "2 chicken breasts",
@@ -3747,14 +3747,14 @@ export const hizliRecipes: Recipe[] = [
         "4 yemek kaşığı toz şeker",
         "1 tatlı kaşığı tuz",
         "1 paket instant maya",
-        "Yaklaşık 7-8 su bardağı un"
+        "yaklaşık 7-8 su bardağı un"
       ],
       "en": [
         "2 cups lukewarm milk",
         "1 cup lukewarm water",
         "1 cup liquid oil",
         "1 egg (the white in the dough, the yolk on top)",
-        "4 tablespoons powdered sugar",
+        "4 tablespoons granulated sugar",
         "1 teaspoon salt",
         "1 package instant yeast",
         "About 7-8 cups flour"
@@ -3803,7 +3803,7 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
-        "Yarım su bardağı ılık süt",
+        "yarım su bardağı ılık süt",
         "2 yemek kaşığı zeytinyağı",
         "1 tatlı kaşığı şeker",
         "1 paket kuru maya (9 gr)",
@@ -3864,18 +3864,18 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "İnce/kalın bulgur (kişi başına 1 çay b.)",
+        "ince/kalın bulgur (kişi başına 1 çay b.)",
         "1 kaşığı domates salçası",
         "1 kaşığı biber salçası",
-        "Kimyon",
-        "Pul biber",
-        "Nar ekşisi",
-        "Maydanoz",
-        "Taze soğan",
+        "kimyon",
+        "pul biber",
+        "nar ekşisi",
+        "maydanoz",
+        "taze soğan",
         "1 adet kuru soğan",
         "2 adet domates",
-        "Sıvı yağ",
-        "Limon"
+        "sıvı yağ",
+        "limon"
       ],
       "en": [
         "Fine or coarse bulgur (1 cup per person)",
@@ -4017,7 +4017,7 @@ export const hizliRecipes: Recipe[] = [
         "500 gram dana et",
         "2 adet defne yaprağı",
         "4 yemek kaşığı sıvı yağ",
-        "Tuz",
+        "tuz",
         "4 su bardağı su (isteğe bağlı olarak üzerini geçecek kadar su)"
       ],
       "en": [
@@ -4056,7 +4056,7 @@ export const hizliRecipes: Recipe[] = [
   {
     "id": "nefis-hizli-1074",
     "name": {
-      "tr": "Home Burger",
+      "tr": "Ev Burgeri",
       "en": "Home Burger"
     },
     "cuisine": "hizli",
@@ -4125,7 +4125,7 @@ export const hizliRecipes: Recipe[] = [
         "1 çay kaşığı pul biber",
         "1 çay kaşığı nane",
         "3 yemek kaşığı sıvı yağ",
-        "Tuz",
+        "tuz",
         "4 su bardağı su"
       ],
       "en": [
@@ -4180,7 +4180,7 @@ export const hizliRecipes: Recipe[] = [
         "1 cup lukewarm milk",
         "1 cup lukewarm water",
         "1 egg (the yolk will be set aside)",
-        "2 tablespoons powdered sugar",
+        "2 tablespoons granulated sugar",
         "1 teaspoon salt",
         "4-4.5 cups flour",
         "1 teaspoon butter"
@@ -4230,8 +4230,8 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Dondurulmuş parmak patates",
-        "Hazır tortilla lavaş"
+        "dondurulmuş parmak patates",
+        "hazır tortilla lavaş"
       ],
       "en": [
         "Frozen finger potatoes",
@@ -4282,8 +4282,8 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı ılık süt",
-        "Yarım su bardağı ılık su",
+        "yarım su bardağı ılık süt",
+        "yarım su bardağı ılık su",
         "1 çorba kaşığı şeker",
         "1 çorba kaşığı instant maya",
         "1 tatlı kaşığı silme tuz",
@@ -4453,10 +4453,10 @@ export const hizliRecipes: Recipe[] = [
         "4 yemek kaşığı yulaf ezmesi",
         "1 yemek kaşığı yoğurt",
         "1 adet yumurta",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı tuz"
       ],
       "en": [
-        "4 tablespoons oat flour paste",
+        "4 tablespoons rolled oats",
         "1 tablespoon yogurt",
         "1 egg",
         "Half a teaspoon salt"
@@ -4490,10 +4490,10 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı ılık su",
-        "Yarım su bardağı ılık süt",
+        "yarım su bardağı ılık su",
+        "yarım su bardağı ılık süt",
         "2 yemek kaşığı şeker",
-        "Yarım paket kuru maya",
+        "yarım paket kuru maya",
         "1 tatlı kaşığı tuz",
         "4-5 su bardağı un"
       ],
@@ -4544,10 +4544,10 @@ export const hizliRecipes: Recipe[] = [
         "4 adet domates küp doğranmış",
         "1 adet kuru soğan",
         "4 diş sarımsak",
-        "Pul biber",
-        "Karabiber",
-        "Tuz",
-        "Sıvı yağ",
+        "pul biber",
+        "karabiber",
+        "tuz",
+        "sıvı yağ",
         "3 tane büyük boy lavaş ekmeği"
       ],
       "en": [
@@ -4602,7 +4602,7 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "İnce lavaş"
+        "ince lavaş"
       ],
       "en": [
         "Thin flatbread"
@@ -4647,17 +4647,17 @@ export const hizliRecipes: Recipe[] = [
         "500 gr tavuk göğsü",
         "1 yemek kaşığı yoğurt",
         "1 yemek kaşığı domates salçası",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı tavuk çeşnisi",
         "1 tatlı kaşığı tuz",
-        "Lavaş ekmeği",
+        "lavaş ekmeği",
         "1,5 yemek kaşığı tereyağı"
       ],
       "en": [
         "500 g chicken breast",
         "1 tablespoon yogurt",
         "1 tablespoon tomato paste",
-        "Half a cup olive oil",
+        "Half a teacup olive oil",
         "1 teaspoon chicken seasoning",
         "1 teaspoon salt",
         "Flatbread",
@@ -4709,7 +4709,7 @@ export const hizliRecipes: Recipe[] = [
         "1 su bardağı ılık süt",
         "1 çay bardağı ılık su",
         "1 yemek kaşığı şeker",
-        "Yarım paket instant maya (5 g)",
+        "yarım paket instant maya (5 g)",
         "1 adet yumurta (sarısı üzerine)",
         "1 tatlı kaşığı tuz",
         "4-4,5 su bardağı un",
@@ -4717,7 +4717,7 @@ export const hizliRecipes: Recipe[] = [
       ],
       "en": [
         "1 cup lukewarm milk",
-        "1 cup lukewarm water",
+        "1 teacup lukewarm water",
         "1 tablespoon sugar",
         "Half a package instant yeast (5 g)",
         "1 egg (for the top)",
@@ -4775,8 +4775,8 @@ export const hizliRecipes: Recipe[] = [
         "1 paket dondurulmuş superfresh ıspanak (450 gr)",
         "2 adet küçük domates",
         "1 orta boy soğan",
-        "Yarım tatlı kaşığı domates salçası",
-        "Zeytinyağı",
+        "yarım tatlı kaşığı domates salçası",
+        "zeytinyağı",
         "2 çay kaşığı tuz",
         "1 su bardağından 2 parmak eksik sıcak su"
       ],
@@ -4833,7 +4833,7 @@ export const hizliRecipes: Recipe[] = [
         "2 su bardağı ılık süt",
         "1 paket instant maya",
         "1 tatlı kaşığı şeker",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "5 su bardağı un",
         "2 tatlı kaşığı tuz"
       ],
@@ -4841,7 +4841,7 @@ export const hizliRecipes: Recipe[] = [
         "2 cups lukewarm milk",
         "1 package instant yeast",
         "1 teaspoon sugar",
-        "Half a cup liquid oil",
+        "Half a teacup liquid oil",
         "5 cups flour",
         "2 teaspoons salt"
       ]
@@ -4895,7 +4895,7 @@ export const hizliRecipes: Recipe[] = [
         "2 adet domates",
         "1 adet biber",
         "1 adet kapya biber",
-        "İsteğe bağlı maydanoz",
+        "isteğe bağlı maydanoz",
         "2 tatlı kaşığı salça",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı karabiber",
@@ -5014,8 +5014,8 @@ export const hizliRecipes: Recipe[] = [
       "tr": [
         "1,5 su bardağı ılık süt",
         "1 paket kuru maya",
-        "2 yemek kasığı zeytinyağı",
-        "Alabildiği kadar un (4 su bardağı kadar)"
+        "2 yemek kaşığı zeytinyağı",
+        "alabildiği kadar un (4 su bardağı kadar)"
       ],
       "en": [
         "1.5 cups lukewarm milk",
@@ -5058,12 +5058,12 @@ export const hizliRecipes: Recipe[] = [
       "tr": [
         "4 adet yumurta",
         "1 bardak şeker tozu",
-        "1 adet vanilya",
+        "1 paket vanilya",
         "1 bardak süt",
         "1 bardaktan biraz az sıvı yağ",
-        "Yarım bardak susam",
+        "yarım bardak susam",
         "2 su bardağı un",
-        "1 adet kabartma tozu"
+        "1 paket kabartma tozu"
       ],
       "en": [
         "4 eggs",
@@ -5113,10 +5113,10 @@ export const hizliRecipes: Recipe[] = [
         "2 adet yumurta",
         "150 gram şeker",
         "0,5 su bardağı sıvı yağ",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1 su bardağı yoğurt",
-        "1 adet vanilya",
-        "1 adet kabartma tozu",
+        "1 paket vanilya",
+        "1 paket kabartma tozu",
         "1,5 su bardağı un",
         "100 gram havuç rendesi"
       ],
@@ -5171,14 +5171,14 @@ export const hizliRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 tam tavuk göğsü",
-        "3 adet kırmızı yada yeşil biber",
+        "3 adet kırmızı ya da yeşil biber",
         "2 adet orta boy soğan",
-        "Tuz",
-        "Karabiber",
-        "Kimyon",
-        "Pul biber",
-        "Sıvı yağ",
-        "Tercihe bağlı kuyruk yağı"
+        "tuz",
+        "karabiber",
+        "kimyon",
+        "pul biber",
+        "sıvı yağ",
+        "tercihe bağlı kuyruk yağı"
       ],
       "en": [
         "1 whole chicken breast",
@@ -5231,11 +5231,11 @@ export const hizliRecipes: Recipe[] = [
         "1 tane büyük domates",
         "250 gr tavuk göğsü ( isteğe bağlı ) + ( kemikli tavukla veya etsiz de pişirilir)",
         "1 tatlı kaşığı salça",
-        "Tuz",
+        "tuz",
         "1 su bardağı su",
-        "Kekik",
-        "Yarım çay bardağı sıvı yağ",
-        "Pul biber"
+        "kekik",
+        "yarım çay bardağı sıvı yağ",
+        "pul biber"
       ],
       "en": [
         "4 medium potatoes",
@@ -5246,7 +5246,7 @@ export const hizliRecipes: Recipe[] = [
         "Salt",
         "1 cup water",
         "Thyme",
-        "Half a cup liquid oil",
+        "Half a teacup liquid oil",
         "Chili flakes"
       ]
     },
@@ -5282,16 +5282,16 @@ export const hizliRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım çay bardağı tahin",
-        "Yarım çay bardağı pekmez",
+        "yarım çay bardağı tahin",
+        "yarım çay bardağı pekmez",
         "2 adet yumurta",
         "1 paket kabartma tozu",
         "3 yemek kaşığı kakao",
-        "Protein tozu (Kıvam alana kadar)"
+        "protein tozu (Kıvam alana kadar)"
       ],
       "en": [
-        "Half a cup tahini",
-        "Half a cup molasses",
+        "Half a teacup tahini",
+        "Half a teacup molasses",
         "2 eggs",
         "1 package baking powder",
         "3 tablespoons cocoa",
@@ -5335,7 +5335,7 @@ export const hizliRecipes: Recipe[] = [
         "1 su bardağı ılık su",
         "1 çay bardağı ılık süt",
         "1 yemek kaşığı şeker",
-        "Yarım paket instant maya (5 g)",
+        "yarım paket instant maya (5 g)",
         "1 adet yumurta (sarısı üzerine sürülecek)",
         "2 yemek kaşığı tereyağı",
         "1 tatlı kaşığı tuz",
@@ -5343,7 +5343,7 @@ export const hizliRecipes: Recipe[] = [
       ],
       "en": [
         "1 cup lukewarm water",
-        "1 cup lukewarm milk",
+        "1 teacup lukewarm milk",
         "1 tablespoon sugar",
         "Half a package instant yeast (5 g)",
         "1 egg (for brushing on top)",
@@ -5390,7 +5390,7 @@ export const hizliRecipes: Recipe[] = [
         "4 dilim kaşar",
         "1 kemiksiz tavuk butu",
         "1 dilim ananas",
-        "Yarım kapya biber",
+        "yarım kapya biber",
         "1 küçük konserve mantar",
         "1 küçük konserve mısır",
         "1 tatlı kaşığı bal",
@@ -5398,8 +5398,8 @@ export const hizliRecipes: Recipe[] = [
         "1 çay kaşığı kekik",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı kırmızı toz biber",
-        "Tuz (isteğe göre)",
-        "Karabiber (isteğe göre)"
+        "tuz (isteğe göre)",
+        "karabiber (isteğe göre)"
       ],
       "en": [
         "2 tortillas",
@@ -5510,8 +5510,8 @@ export const hizliRecipes: Recipe[] = [
       ],
       "en": [
         "2 zucchini",
-        "1 cup flour",
-        "1 cup starch"
+        "1 teacup flour",
+        "1 teacup starch"
       ]
     },
     "steps": {

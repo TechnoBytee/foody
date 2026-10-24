@@ -6,7 +6,6 @@ import { Recipe } from "@/data/recipes";
 import allIngredients from "@/data/ingredient-search.json";
 
 const EXACT_THRESHOLD = 0.85;
-const SIMILAR_THRESHOLD = 0.4;
 
 function levenshtein(a: string, b: string): number {
   const m = a.length, n = b.length;
@@ -43,10 +42,12 @@ function findSimilar(input: string, list: string[]): { name: string; score: numb
 
 export default function FridgeSearch({
   labels,
+  locale,
   onResults,
   onLoading,
 }: {
   labels: { upload: string; add: string; find: string; analyzing: string };
+  locale: "tr" | "en";
   onResults: (recipes: Recipe[], ingredients: string[]) => void;
   onLoading: (loading: boolean) => void;
 }) {
@@ -59,12 +60,36 @@ export default function FridgeSearch({
     | null
   >(null);
   const [addedMsg, setAddedMsg] = useState("");
+  const copy =
+    locale === "tr"
+      ? {
+          confirmTitle: "Bunu mu demek istediniz?",
+          confirmAdd: "Evet, ekle",
+          cancel: "Vazgeç",
+          missingTitle: "Malzeme bulunamadı",
+          missingBody:
+            "tariflerimizde bulunmamaktadır. Bu malzemeyi içeren tarifleri sizin için hazırlamamızı ister misiniz?",
+          request: "Evet, hazırlayın",
+          thanks: "Geliştirme birimine iletildi, teşekkürler!",
+          remove: "kaldır",
+        }
+      : {
+          confirmTitle: "Did you mean this?",
+          confirmAdd: "Yes, add it",
+          cancel: "Cancel",
+          missingTitle: "Ingredient not found",
+          missingBody:
+            "is not in our recipes. Would you like us to prepare recipes using this ingredient?",
+          request: "Yes, please",
+          thanks: "Sent to our team, thank you!",
+          remove: "remove",
+        };
 
   const add = () => {
     const v = input.trim();
     if (!v) return;
 
-    const list = allIngredients.tr;
+    const list = allIngredients[locale];
     const exact = list.find((i) => i.toLowerCase() === v.toLowerCase());
     if (exact) {
       if (!ingredients.includes(exact)) setIngredients([...ingredients, exact]);
@@ -84,14 +109,14 @@ export default function FridgeSearch({
   const handleFile = async (file?: File) => {
     if (!file) return;
     onLoading(true);
-    const found = await analyzeImage(file);
+    const found = await analyzeImage(file, locale);
     setIngredients((prev) => Array.from(new Set([...prev, ...found])));
     onLoading(false);
   };
 
   const find = async () => {
     onLoading(true);
-    const results = await suggestRecipes(ingredients);
+    const results = await suggestRecipes(ingredients, "", locale);
     onResults(results, ingredients);
     onLoading(false);
   };
@@ -113,7 +138,7 @@ export default function FridgeSearch({
         body: JSON.stringify({ name: v }),
       });
     } catch {}
-    setAddedMsg("Geliştirme birimine iletildi, teşekkürler!");
+    setAddedMsg(copy.thanks);
     setTimeout(() => setAddedMsg(""), 3000);
     setModal(null);
     setInput("");
@@ -168,7 +193,7 @@ export default function FridgeSearch({
               {ing}
               <button
                 onClick={() => setIngredients(ingredients.filter((i) => i !== ing))}
-                aria-label={`remove ${ing}`}
+                aria-label={`${copy.remove} ${ing}`}
               >
                 ×
               </button>
@@ -182,45 +207,53 @@ export default function FridgeSearch({
           <div className="w-full max-w-sm rounded-xl bg-white p-6 shadow-xl">
             {modal.type === "confirm" ? (
               <>
-                <h3 className="font-serif text-lg">Bunu mu demek istediniz?</h3>
+                <h3 className="font-serif text-lg">{copy.confirmTitle}</h3>
                 <p className="mt-2 text-sm text-[#787774]">
-                  &quot;{input.trim()}&quot; yerine{" "}
-                  <span className="font-medium text-[#2F3437]">{modal.name}</span> ekleyelim mi?
+                  {locale === "tr" ? (
+                    <>
+                      &quot;{input.trim()}&quot; yerine{" "}
+                      <span className="font-medium text-[#2F3437]">{modal.name}</span> ekleyelim mi?
+                    </>
+                  ) : (
+                    <>
+                      Did you mean <span className="font-medium text-[#2F3437]">{modal.name}</span>{" "}
+                      instead of &quot;{input.trim()}&quot;?
+                    </>
+                  )}
                 </p>
                 <div className="mt-5 flex gap-2">
                   <button
                     onClick={confirmAdd}
                     className="rounded-md bg-[#346538] px-4 py-2 text-sm font-medium text-white hover:bg-[#2C5530]"
                   >
-                    Evet, ekle
+                    {copy.confirmAdd}
                   </button>
                   <button
                     onClick={() => setModal(null)}
                     className="rounded-md border border-[#EAEAEA] px-4 py-2 text-sm hover:bg-[#F7F6F3]"
                   >
-                    Vazgeç
+                    {copy.cancel}
                   </button>
                 </div>
               </>
             ) : (
               <>
-                <h3 className="font-serif text-lg">Malzeme bulunamadı</h3>
+                <h3 className="font-serif text-lg">{copy.missingTitle}</h3>
                 <p className="mt-2 text-sm text-[#787774]">
-                  &quot;{input.trim()}&quot; tariflerimizde bulunmamaktadır. Bu malzemeyi içeren
-                  tarifleri sizin için hazırlamamızı ister misiniz?
+                  &quot;{input.trim()}&quot; {copy.missingBody}
                 </p>
                 <div className="mt-5 flex gap-2">
                   <button
                     onClick={reportMissing}
                     className="rounded-md bg-[#346538] px-4 py-2 text-sm font-medium text-white hover:bg-[#2C5530]"
                   >
-                    Evet, hazırlayın
+                    {copy.request}
                   </button>
                   <button
                     onClick={() => setModal(null)}
                     className="rounded-md border border-[#EAEAEA] px-4 py-2 text-sm hover:bg-[#F7F6F3]"
                   >
-                    Vazgeç
+                    {copy.cancel}
                   </button>
                 </div>
               </>

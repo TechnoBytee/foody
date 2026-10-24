@@ -12,7 +12,7 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Dolmalık Biber"
+        "dolmalık biber"
       ],
       "en": [
         "Stuffing peppers"
@@ -28,7 +28,7 @@ export const dolmaRecipes: Recipe[] = [
         "Diğer taraftan dolmalık biberlerin kapak kısmı açılır ve güzelce yıkanır.",
         "Her biberin içine iç harcından doldurularak tencereye yerleştirilir. Burada önemli olan nokta pirinçlerin rahatça şişebilmesi için biberleri çok sıkı bir şekilde ve tepeleme doldurmamak gerekir, yarısını biraz geçecek kadar iç harcı doldurmanız yeterli olacaktır.",
         "Dolmaların kapağına kapatmak için bir domates küçük doğranarak her biberin tepesini kapatılır.",
-        "Daha sonra uygun bir tencereye doldurulur.",
+        "Daha sonra uygun bir tencereye doldurulur.",
         "Son olarak üzerlerine yarım çay bardağı kadar zeytinyağı gezdirilir ve biberlerin yarısına gelecek kadar su ilave edilir.",
         "Tencerenin kapağı kapatılarak pişmeye bırakılır. Pirinçler yumuşayıncaya kadar, yaklaşık 20-25 dakika kaynatılır.",
         "Soğuduktan sonra servis edilir."
@@ -79,7 +79,7 @@ export const dolmaRecipes: Recipe[] = [
         "Üzerine kıyma ilave edilerek suyunu salıp rengi dönene kadar kavrulmaya devam edilir.",
         "Kabuklarını soyduğumuz küçük doğradığımız domatesler eklenir ve 3-4 dakika domatesler suyunu çekene kadar kavrulur.",
         "Salça, pul biber, karabiber, tuz ilave edilerek karıştırılır.",
-        "Son olarak yıkanmış ve suyu süzülmüş pirinç ile kıyılmış maydanoz eklenerek karıştırılır. 1-2 dakika daha kavrulduktan sonra ocaktan alınır. İç harcını ben pişirerek yapıyorum, dilerseniz çiğden tüm malzemeleri karıştırarak da yapabilirsiniz.",
+        "Son olarak yıkanmış ve suyu süzülmüş pirinç ile kıyılmış maydanoz eklenerek karıştırılır. 1-2 dakika daha kavrulduktan sonra ocaktan alınır. İç harcını ben pişirerek yapıyorum, dilerseniz çiğden tüm malzemeleri karıştırarak da yapabilirsiniz.",
         "Hazır olan iç harcı ile biberlerin içlerini bir kaşık yardımı ile doldurularak üzerlerine domates ile kapak yapılır ve tencereye dizilir. Bu aşamada biberlerin üzerinde bir miktar boşluk bırakmalısınız.",
         "Sos için salça sıcak su ile çözdürülür. Dolmaların üzerlerinden gezdirerek tencereye dökülür.",
         "Dolmaların yarısını geçecek kadar tekrar sıcak su ilave edilerek kapağı kapatılır ve orta ateşteki ocağa alınır.",
@@ -121,7 +121,7 @@ export const dolmaRecipes: Recipe[] = [
         "2 adet kuru soğan",
         "1 su bardağı pirinç",
         "1 tatlı kaşığı tarçın",
-        "1 tatlı kaşığı karabiber",
+        "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı toz şeker",
         "tuz",
         "yarım demet maydanoz",
@@ -135,13 +135,13 @@ export const dolmaRecipes: Recipe[] = [
       "en": [
         "2 dried onions",
         "1 cup rice",
-        "1 tablespoon cinnamon",
-        "1 tablespoon black pepper",
-        "1 tablespoon powdered sugar",
+        "1 teaspoon cinnamon",
+        "1 teaspoon black pepper",
+        "1 teaspoon granulated sugar",
         "salt",
         "half a bunch of parsley",
         "a few sprigs of fresh mint",
-        "1 tablespoon dried mint",
+        "1 teaspoon dried mint",
         "half a coffee cup of currants",
         "half a coffee cup of pine nuts",
         "1 large tomato",
@@ -150,10 +150,10 @@ export const dolmaRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Zeytinyağlı biber dolmasında kullandığım iç harcının aynını kullandım.  Bunun için kuru soğanlar ince yemeklik doğranır ve yarım çay bardağı zeytinyağında kavrulur.",
+        "Zeytinyağlı biber dolmasında kullandığım iç harcının aynını kullandım. Bunun için kuru soğanlar ince yemeklik doğranır ve yarım çay bardağı zeytinyağında kavrulur.",
         "Soğanlar kavrulunca rendelenmiş veya robottan geçirilmiş 1 adet domates eklenir ve karıştırılır.",
         "Yıkanmış ve suyu süzülmüş pirinçler ilave edilerek hafifçe kavrulur.",
-        "Dolmalık fıstıklar, kuş üzümü, tarçın, kuru nane, karabiber, toz şeker, tuz (yaprağınızın tuzuna göre ayarlayın, çok tuzlu ise hiç kullanmayın)  ilave edilir.",
+        "Dolmalık fıstıklar, kuş üzümü, tarçın, kuru nane, karabiber, toz şeker, tuz (yaprağınızın tuzuna göre ayarlayın, çok tuzlu ise hiç kullanmayın) ilave edilir.",
         "Karıştırılarak ocaktan alınır.",
         "Son olarak İnce doğranmış maydanoz ve taze naneler eklenir ve güzelce karıştırılır.",
         "Salamura yapraklar yıkanarak varsa fazla tuzu gitmesi için suda bekletilir.",
@@ -227,7 +227,7 @@ export const dolmaRecipes: Recipe[] = [
         "4-5 tablespoons olive oil",
         "2 tablespoons tomato paste",
         "1 tablespoon pepper paste",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1/4 teaspoon black pepper, mint, chili flakes",
         "3 tablespoons pomegranate molasses"
       ]
@@ -280,16 +280,16 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım kg dolmalık biber",
-        "Her biber için 1 yemek kaşığı pirinç",
+        "yarım kg dolmalık biber",
+        "her biber için 1 yemek kaşığı pirinç",
         "1 adet soğan",
         "1 yemek kaşığı salça",
-        "Maydanoz",
+        "maydanoz",
         "2-3 adet domates",
-        "Karabiber",
-        "Tuz",
-        "Nane",
-        "Sıvı yağ-Zeytinyağı"
+        "karabiber",
+        "tuz",
+        "nane",
+        "sıvı yağ-zeytinyağı"
       ],
       "en": [
         "Half a kg of stuffing peppers",
@@ -364,14 +364,14 @@ export const dolmaRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "İlk olarak kabakları yıkayalım ve  çizgili bir biçimde soyalım.",
+        "İlk olarak kabakları yıkayalım ve çizgili bir biçimde soyalım.",
         "Daha sonra ortadan ikiye keserek iç kısmını oyma aparatı ile oyalım.",
         "İç harcı için soğan ve biberi ince ince doğrayalım, maydanozu da kıyalım.",
         "Yıkadığımız pirinçleri, kıyılmış maydanozu, soğan ve biberleri, kıymayı, salçayı, sıvı yağı, tuz ve baharatları derin bir kabın içinde karıştırıp elinizle harmanlayın.",
         "Hazırladığımız harcı oymuş olduğunuz kabakların içine tatlı kaşığı ile doldurarak kabakları tencereye sıralayalım.",
         "Domatesi küçük küçük keserek kabakların üstlerine kapak yapalım",
         "Salçalı sos için 1,5 su bardağı sıcak suda yarım yemek kaşığı salçayı ezelim ve tencereye ekleyelim.",
-        "Tencerenin kapağını kapatalım ve dolmalarımızı  kaynayana kadar orta ateşte, kaynadıktan sonra kısık ateşte pirinçler pişip kabaklar yumuşayana kadar yaklaşık 40 dakika pişirelim.",
+        "Tencerenin kapağını kapatalım ve dolmalarımızı kaynayana kadar orta ateşte, kaynadıktan sonra kısık ateşte pirinçler pişip kabaklar yumuşayana kadar yaklaşık 40 dakika pişirelim.",
         "Pişen kabak dolmalarımızı ılık veya sıcakken servis edelim. Servis yaparken isterseniz kabakları bütün halinde isterseniz de halka halka keserek servis edebilirsiniz.",
         "Yanında ya da üzerinde sarımsaklı yoğurt ile çok güzel oluyor. Afiyet olsun…"
       ],
@@ -410,7 +410,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet soğan",
         "1 kase garnitür (ben 500g hazır garnitür kullandım)",
         "6 adet konserve enginar",
-        "Yarım çay bardağı sıcak su"
+        "yarım çay bardağı sıcak su"
       ],
       "en": [
         "2 tablespoons olive oil",
@@ -424,7 +424,7 @@ export const dolmaRecipes: Recipe[] = [
       "tr": [
         "İlk olarak yemeklik doğradığınız ya da tercihe bağlı robotta çektiğimiz soğanları, 2 yemek kaşığı zeytinyağı koyduğumuz tencerede pembeleşinceye kadar kavuralım. Kapaklı bir tavanız varsa onunla da yapabilirsiniz.",
         "Üzerine garnitürü ilave edip 2-3 dakika daha karıştırarak kavuralım.",
-        "Ayrı bir kaseye aldığımız zeytinyağı içerisine limon suyunu, tuz ve  şekeri karıştırarak sosumuzu hazırlayalım.",
+        "Ayrı bir kaseye aldığımız zeytinyağı içerisine limon suyunu, tuz ve şekeri karıştırarak sosumuzu hazırlayalım.",
         "Daha sonra enginarlarımızı çukur kısmı aşağıya bakacak şekilde tenceremize yerleştirelim ve üzerine sosumuz ile sıcak suyu gezdirelim.",
         "Tenceremizin kapağını kapatalım, kaynayana kadar orta ateşte kaynadıktan sonra kısık ateşte 25 dakika enginarlar pişene kadar haşlayalım. Sık sık kontrol ederek dağılmamasını sağlayın.",
         "Enginarlarımız piştikten sonra ocağın altını kapatalım ve soğumaya bırakalım.",
@@ -467,16 +467,16 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet küçük boy kuru soğan",
         "1 yemek kaşığı domates salçası",
         "1 çay kaşığı tatlı biber salçası",
-        "Yarım çay bardağı zeytinyağı (60 ml)",
+        "yarım çay bardağı zeytinyağı (60 ml)",
         "1 diş sarımsak",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "1 çay kaşığı toz kırmızı biber",
         "1 çay kaşığı kuru nane",
         "1 çay kaşığı acı pul biber",
         "1 çay kaşığı tuz",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon",
-        "Yarım çay kaşığı yenibahar"
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı kimyon",
+        "yarım çay kaşığı yenibahar"
       ],
       "en": [
         "7 large dried onions",
@@ -503,8 +503,7 @@ export const dolmaRecipes: Recipe[] = [
         "Öncelikle soğanlarımızın kabuğunu soyalım ve dik olacak şekilde bir yarısını keselim. Bu aşamada merkezine kadar kesmek yeterli olacaktır.",
         "Ardından sıcak su dolu tencereye alarak yumuşayana kadar 15 dakika haşlayalım.",
         "Soğanlar yumuşadıktan sonra suyunu süzerek yapraklarına ayıralım.",
-        "İç harcı için geniş bir tabağa kıyma, sıcak su ile yıkadığımız pirinç, küçük küçük doğranmış soğan, domates",
-        "salçası, biber salçası, zeytinyağı, baharatlar, tuz, sarımsak, nar ekşisi ve kıyılmış maydanozu ekleyerek elimizle yoğuralım.",
+        "İç harcı için geniş bir tabağa kıyma, sıcak su ile yıkadığımız pirinç, küçük küçük doğranmış soğan, domates salçası, biber salçası, zeytinyağı, baharatlar, tuz, sarımsak, nar ekşisi ve kıyılmış maydanozu ekleyerek elimizle yoğuralım.",
         "Haşlanan soğanları da bir kaseye alarak zarlarını temizleyelim. Soğanları ne çok ne de az haşlamamalısınız. Çok haşladığınızda yırtılacaktır. Az haşladığınızda ise iç harcını doldurmakta zorlanabilirsiniz.",
         "Soğan yaprağının bir ucuna harçtan yerleştirelim ve rulo şeklinde saralım. Tüm soğan yaprakları bitene kadar bu işlemi tekrarlayalım.",
         "Derin bir tava ya da tepsiye dolmalarımızı sıralayalım.",
@@ -518,8 +517,7 @@ export const dolmaRecipes: Recipe[] = [
         "First peel our onions and cut them lengthwise in half upright. At this stage, cutting as far as the center will be enough.",
         "Then put them in a pot filled with hot water and boil for 15 minutes until they soften.",
         "After the onions soften, drain them and separate them into leaves.",
-        "For the filling, put the minced meat, the rice we washed with hot water, the finely chopped onion, tomato",
-        "paste, pepper paste, olive oil, spices, salt, garlic, pomegranate molasses and chopped parsley into a wide plate and knead them with our hands.",
+        "For the filling, put the minced meat, the rice we washed with hot water, the finely chopped onion, tomato paste, pepper paste, olive oil, spices, salt, garlic, pomegranate molasses and chopped parsley into a wide plate and knead them with your hands.",
         "Put the boiled onions into a bowl and clean their membranes. Do not boil the onions too much or too little. If you boil them too much they will tear. If you boil them too little, you may have difficulty filling them.",
         "Place the filling at one end of the onion leaf and roll it up. Repeat this process until all the onion leaves are used.",
         "Arrange our stuffings in a deep pan or tray.",
@@ -553,14 +551,14 @@ export const dolmaRecipes: Recipe[] = [
         "2 adet domates",
         "1 adet kuru soğan",
         "2 diş sarımsak",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 su bardağı 2 parmak eksik sıvı yağ",
         "1 er tatlı kaşığı tuz",
-        "Karabiber",
-        "Pulbiber",
-        "Nane",
-        "Reyhan",
-        "Sumak",
+        "karabiber",
+        "pulbiber",
+        "nane",
+        "reyhan",
+        "sumak",
         "1 er yemek kaşığı domates ve biber salçası"
       ],
       "en": [
@@ -571,7 +569,7 @@ export const dolmaRecipes: Recipe[] = [
         "2 cloves of garlic",
         "half a bunch of parsley",
         "1 cup minus 2 fingers of liquid oil",
-        "1/4 tablespoon salt",
+        "1/4 teaspoon salt",
         "black pepper",
         "chili flakes",
         "mint",
@@ -627,9 +625,9 @@ export const dolmaRecipes: Recipe[] = [
         "1 yemek kaşığı biber salçası",
         "3 yemek kaşığı sıvı yağ",
         "1 çay kaşığı kuru reyhan",
-        "Karabiber",
-        "Pulbiber",
-        "Tuz ( damak zevkinize göre ekleme yapabilirsiniz )"
+        "karabiber",
+        "pulbiber",
+        "tuz ( damak zevkinize göre ekleme yapabilirsiniz )"
       ],
       "en": [
         "5 zucchinis",
@@ -682,8 +680,8 @@ export const dolmaRecipes: Recipe[] = [
         "2 adet kuru soğan",
         "2 diş sarımsak",
         "2 adet domates",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım demet maydanoz",
+        "yarım su bardağı sıvı yağ",
+        "yarım demet maydanoz",
         "1 çay kaşığı tuz",
         "1 tatlı kaşığı pulbiber",
         "1 tatlı kaşığı nane",
@@ -700,11 +698,11 @@ export const dolmaRecipes: Recipe[] = [
         "half a cup liquid oil",
         "half a bunch of parsley",
         "1 teaspoon salt",
-        "1 tablespoon chili flakes",
-        "1 tablespoon mint",
+        "1 teaspoon chili flakes",
+        "1 teaspoon mint",
         "1 teaspoon black pepper",
-        "1 tablespoon sumac",
-        "1/4 tablespoon tomato and pepper paste",
+        "1 teaspoon sumac",
+        "1/4 teaspoon tomato and pepper paste",
         "1 cup water"
       ]
     },
@@ -795,11 +793,11 @@ export const dolmaRecipes: Recipe[] = [
         "4 tane kabak",
         "1 adet kuru soğan",
         "1 adet domates",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "3 su bardağı pirinç",
-        "Tarçın",
-        "Pul biber",
-        "Karabiber",
+        "tarçın",
+        "pul biber",
+        "karabiber",
         "1 tatlı salça"
       ],
       "en": [
@@ -860,10 +858,10 @@ export const dolmaRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
         "1 yemek kaşığı tatlı pul biber",
-        "Kara biber",
-        "Nane",
-        "Tuz",
-        "Yağ"
+        "kara biber",
+        "nane",
+        "tuz",
+        "yağ"
       ],
       "en": [
         "1 kg vine leaves (soaked in hot water)",
@@ -874,7 +872,7 @@ export const dolmaRecipes: Recipe[] = [
         "3 tomatoes",
         "2 cups rice",
         "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "1 tablespoon sweet chili flakes",
         "black pepper",
         "mint",
@@ -973,21 +971,21 @@ export const dolmaRecipes: Recipe[] = [
         "1 çay kaşığı acı pulbiber",
         "1 tatlı kaşığı sumak",
         "1 su bardağı su",
-        "Bir tutam maydanoz",
+        "bir tutam maydanoz",
         "3 yemek kaşığı sıvı yağ",
         "4 yemek kaşığı zeytinyağı"
       ],
       "en": [
         "2 cups rice",
         "1 large onion",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "2 tablespoons tomatoes",
-        "1 tablespoon thyme",
+        "1 teaspoon thyme",
         "1 teaspoon mint",
         "1 teaspoon black pepper",
-        "1 tablespoon pepper powder",
+        "1 teaspoon pepper powder",
         "1 teaspoon hot chili flakes",
-        "1 tablespoon sumac",
+        "1 teaspoon sumac",
         "1 cup water",
         "a handful of parsley",
         "3 tablespoons liquid oil",
@@ -1024,21 +1022,21 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Lahana",
+        "lahana",
         "1 su bardağı pirinç",
         "250 gram orta yağlı kıyma",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "10 yaprak reyhan",
         "1 tane sarımsak",
         "1 büyük baş soğan",
-        "Tuz",
-        "Karabiber",
-        "Kimyon",
-        "Yenibahar",
-        "Yedibahar",
-        "Nane",
-        "Pulbiber",
-        "Yağ",
+        "tuz",
+        "karabiber",
+        "kimyon",
+        "yenibahar",
+        "yedibahar",
+        "nane",
+        "pulbiber",
+        "yağ",
         "1 yemek kaşığı salça"
       ],
       "en": [
@@ -1102,13 +1100,13 @@ export const dolmaRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "3 yemek kaşığı sumak",
         "1 çay kaşığı kimyon",
-        "Pul biber",
-        "Kuru nane",
-        "Yarım demet maydanoz",
-        "Taze nane",
-        "Limon",
-        "Tuz",
-        "Nar ekşisi ( pişirme suyu için)"
+        "pul biber",
+        "kuru nane",
+        "yarım demet maydanoz",
+        "taze nane",
+        "limon",
+        "tuz",
+        "nar ekşisi ( pişirme suyu için)"
       ],
       "en": [
         "500 g salted vine leaves",
@@ -1227,7 +1225,7 @@ export const dolmaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet soğan orta veya büyük boy",
-        "Sıcak su (soğanları haşlamak için)"
+        "sıcak su (soğanları haşlamak için)"
       ],
       "en": [
         "3 medium or large onions",
@@ -1275,18 +1273,18 @@ export const dolmaRecipes: Recipe[] = [
         "1 kilo salamura yaprak",
         "2 su bardağı pirinç",
         "2 adet kuru soğan",
-        "Yarım su bardağından biraz fazla sıvı yağ",
+        "yarım su bardağından biraz fazla sıvı yağ",
         "3,4 diş sarımsak",
         "2 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı nar ekşisi",
         "1 tam limonun suyu",
         "1 yemek kaşığı tuz",
         "1 yemek kaşığı kuru nane",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı kekik",
-        "Çeyrek demet maydanoz"
+        "çeyrek demet maydanoz"
       ],
       "en": [
         "1 kilo salted vine leaves",
@@ -1350,13 +1348,13 @@ export const dolmaRecipes: Recipe[] = [
         "2-3 adet domates",
         "2 adet kuru soğan",
         "3-4 adet sivri biber",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1’er yemek kaşığı biber ve domates salçası",
         "1 su bardağı zeytinyağı",
         "1 su bardağı sumak ekşisi suyu",
-        "Tuz",
-        "Karabiber",
-        "Pul biber"
+        "tuz",
+        "karabiber",
+        "pul biber"
       ],
       "en": [
         "2 cups rice",
@@ -1410,13 +1408,13 @@ export const dolmaRecipes: Recipe[] = [
         "2 yemek kaşığı çam fıstığı",
         "3 yemek kaşığı kuş üzümü (5 dakika kaynar suda bekletin şişsin)",
         "1.5 tatlı kaşığı tuz",
-        "Yarım tatlı kaşığı karabiber",
+        "yarım tatlı kaşığı karabiber",
         "2 tatlı kaşığı yenibahar",
         "1 tatlı kaşığı tarçın",
         "2 yemek kaşığı nane",
         "3 yemek kaşığı toz şeker",
         "1 su bardağı sıcak su",
-        "Dolmalık biber"
+        "dolmalık biber"
       ],
       "en": [
         "1 teacup olive oil",
@@ -1424,12 +1422,12 @@ export const dolmaRecipes: Recipe[] = [
         "1 cup baldo rice (200 ml glass)",
         "2 tablespoons pine nuts",
         "3 tablespoons currants (let them swell in boiling water for 5 minutes)",
-        "1.5 tablespoons salt",
-        "half a tablespoon black pepper",
-        "2 tablespoons allspice",
-        "1 tablespoon cinnamon",
+        "1.5 teaspoons salt",
+        "half a teaspoon black pepper",
+        "2 teaspoons allspice",
+        "1 teaspoon cinnamon",
         "2 tablespoons mint",
-        "3 tablespoons powdered sugar",
+        "3 tablespoons granulated sugar",
         "1 cup hot water",
         "stuffing peppers"
       ]
@@ -1464,7 +1462,7 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "6 adet büyük boy dolmalik biber"
+        "6 adet büyük boy dolmalık biber"
       ],
       "en": [
         "6 large stuffing peppers"
@@ -1504,7 +1502,7 @@ export const dolmaRecipes: Recipe[] = [
       "tr": [
         "20-21 adet kabak çiçeği",
         "1,5 çay bardağı pirinç",
-        "Çeyrek çay bardağı zeytinyağ",
+        "çeyrek çay bardağı zeytinyağ",
         "1 küçük soğan",
         "4-5 dal maydanoz",
         "4-5 dal nane",
@@ -1512,7 +1510,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı kırmızı toz biber",
-        "Çeyrek çay bardağı zeytinyağ",
+        "çeyrek çay bardağı zeytinyağ",
         "1 çay bardağından iki parmak eksik su"
       ],
       "en": [
@@ -1523,9 +1521,9 @@ export const dolmaRecipes: Recipe[] = [
         "4-5 sprigs parsley",
         "4-5 sprigs mint",
         "1 teacup chopped tomato",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
-        "1 tablespoon red pepper powder",
+        "1 teaspoon red pepper powder",
         "a quarter teacup olive oil",
         "1 teacup minus two fingers of water"
       ]
@@ -1664,7 +1662,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 çay kaşığı karabiber",
         "1 tatlı kaşığı kırmızı toz biber",
         "1 tatlı kaşığı kuru nane",
-        "Yarım demet maydanoz"
+        "yarım demet maydanoz"
       ],
       "en": [
         "8-10 small zucchinis (if they are large, cut them in half from the middle)",
@@ -1675,12 +1673,12 @@ export const dolmaRecipes: Recipe[] = [
         "400-500 g minced meat",
         "1,5 cups boiled chickpeas",
         "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
-        "1 tablespoon salt",
+        "1 teaspoon pepper paste",
+        "1 teaspoon salt",
         "1 teaspoon chili flakes",
         "1 teaspoon black pepper",
-        "1 tablespoon red pepper powder",
-        "1 tablespoon dried mint",
+        "1 teaspoon red pepper powder",
+        "1 teaspoon dried mint",
         "half a bunch of parsley"
       ]
     },
@@ -1764,19 +1762,19 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Adet orta boy sert kavun",
+        "adet orta boy sert kavun",
         "400 gram kuzu kuşbaşı et",
         "1 çay bardağı pirinç",
         "1 adet kuru soğan",
         "2 yemek kaşığı tereyağı",
         "1 yemek kaşığı kuş üzümü",
-        "Dolmalık fıstık",
+        "dolmalık fıstık",
         "2 yemek kaşığı badem",
-        "Yarım çay kaşığı tarçın",
+        "yarım çay kaşığı tarçın",
         "1 çay kaşığı yenibahar",
-        "Tuz",
-        "Karabiber",
-        "Bir tutam ince doğranmış maydanoz"
+        "tuz",
+        "karabiber",
+        "bir tutam ince doğranmış maydanoz"
       ],
       "en": [
         "Medium sized firm melon",
@@ -1836,13 +1834,13 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet soğan",
         "2 diş sarımsak",
         "1 adet domates rendesi",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1,5 yemek tarifleri domates salçası ( yarım kaşık biber salçasıda kullanabilirsiniz)",
-        "Tuz",
-        "Karabiber",
-        "Nane",
-        "Pulbiber",
-        "Zeytinyağı"
+        "tuz",
+        "karabiber",
+        "nane",
+        "pulbiber",
+        "zeytinyağı"
       ],
       "en": [
         "8-10 stuffing peppers",
@@ -1895,18 +1893,18 @@ export const dolmaRecipes: Recipe[] = [
         "2 su bardağı pirinç",
         "3 tane kuru soğan",
         "1 su bardağı zeytinyağı",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "2 yemek kaşığı domates salçası",
         "2 tatlı kaşığı toz kırmızı biber",
         "2 çay kaşığı karabiber",
         "2 çay kaşığı pul biber",
         "1/2 (yarım) çay kaşığı kimyon",
         "1 çay kaşığı nane",
-        "1 adet limon suyu",
+        "1 adet limonun suyu",
         "2 yemek kaşığı nar ekşisi",
-        "Yarım çay bardağı su",
-        "Tuz",
-        "Asma yaprağı",
+        "yarım çay bardağı su",
+        "tuz",
+        "asma yaprağı",
         "1 adet dilimlenmiş limon"
       ],
       "en": [
@@ -1915,7 +1913,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 cup olive oil",
         "a quarter bunch of parsley",
         "2 tablespoons tomato paste",
-        "2 tablespoons red pepper powder",
+        "2 teaspoons red pepper powder",
         "2 teaspoons black pepper",
         "2 teaspoons chili flakes",
         "1/2 (half) teaspoon cumin",
@@ -1978,7 +1976,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 diş sarımsak",
         "1 yemek kaşığı salça",
         "2 domates rendesi",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tutam maydanoz",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı nane",
@@ -1990,19 +1988,19 @@ export const dolmaRecipes: Recipe[] = [
       ],
       "en": [
         "20 stuffing peppers (small sized)",
-        "20 tablespoons rice",
+        "20 teaspoons rice",
         "2 dried onions",
         "1 clove of garlic",
         "1 tablespoon tomato paste",
         "2 grated tomatoes",
         "half a teacup olive oil",
         "a handful of parsley",
-        "1 tablespoon salt",
-        "1 tablespoon mint",
+        "1 teaspoon salt",
+        "1 teaspoon mint",
         "1 teaspoon sugar",
         "1 teaspoon black pepper",
         "1 teaspoon cumin",
-        "1 tablespoon sumac",
+        "1 teaspoon sumac",
         "1 tablespoon pomegranate molasses"
       ]
     },
@@ -2062,17 +2060,17 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı zeytinyağı",
+        "yarım su bardağı zeytinyağı",
         "5 adet iri kabak",
         "1 küçük diş sarımsak",
         "1 orta boy soğan",
         "1 demet ince kıyılmış dereotu",
         "1 çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon",
-        "Silme bir tatlı kaşığı tuz",
+        "yarım çay kaşığı kimyon",
+        "silme bir tatlı kaşığı tuz",
         "2 yemek kaşığı ayçiçek yağı",
-        "Yarım çay bardağı yarım yağlı veya yağlı süt",
-        "Yarım yemek kaşığı salça",
+        "yarım çay bardağı yarım yağlı veya yağlı süt",
+        "yarım yemek kaşığı salça",
         "5 avuç kırık pirinç"
       ],
       "en": [
@@ -2083,7 +2081,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 bunch finely chopped dill",
         "1 teaspoon black pepper",
         "half a teaspoon cumin",
-        "a level tablespoon salt",
+        "a level teaspoon salt",
         "2 tablespoons sunflower oil",
         "half a teacup of semi-skimmed or whole milk",
         "half a tablespoon tomato paste",
@@ -2175,7 +2173,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 çay bardağı zeytinyağı",
         "2 adet soğan",
         "1 yemek kaşığı dolmalık fıstık",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 yemek kaşığı domates salçası",
         "1 su bardağı haşlanmış nohut",
         "1 çay kaşığı karabiber",
@@ -2193,8 +2191,8 @@ export const dolmaRecipes: Recipe[] = [
         "1 tablespoon tomato paste",
         "1 cup boiled chickpeas",
         "1 teaspoon black pepper",
-        "1 tablespoon pepper powder",
-        "1 tablespoon chili flakes",
+        "1 teaspoon pepper powder",
+        "1 teaspoon chili flakes",
         "1 teaspoon salt to taste"
       ]
     },
@@ -2232,10 +2230,10 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Un",
-        "Su",
-        "Sıvı yağ",
-        "Tuz"
+        "un",
+        "su",
+        "sıvı yağ",
+        "tuz"
       ],
       "en": [
         "Flour",
@@ -2279,16 +2277,16 @@ export const dolmaRecipes: Recipe[] = [
         "3 demet karalahana",
         "1 adet soğan",
         "2 su bardağı pirinç",
-        "Yarım su bardağı ince bulgur",
+        "yarım su bardağı ince bulgur",
         "2 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Yarım çay bardağı sıvı yağ",
-        "Yarım çay bardağı zeytinyağı",
-        "Yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı nar ekşisi",
         "1 yemek kaşığı tuz",
-        "Karabiber",
-        "Pulbiber",
-        "Nane"
+        "karabiber",
+        "pulbiber",
+        "nane"
       ],
       "en": [
         "3 bunches of savoy cabbage",
@@ -2338,9 +2336,9 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Dolmalık yeşil biber",
-        "Dolmalık kapya biber",
-        "Patlıcan"
+        "dolmalık yeşil biber",
+        "dolmalık kapya biber",
+        "patlıcan"
       ],
       "en": [
         "Stuffing green peppers",
@@ -2418,15 +2416,15 @@ export const dolmaRecipes: Recipe[] = [
         "2 çay kaşığı kuru kekik",
         "1 tatlı kaşığı sumak",
         "2 yemek kaşığı nar ekşisi",
-        "Yarım limon suyu",
-        "Bir tutam maydanoz"
+        "yarım limonun suyu",
+        "bir tutam maydanoz"
       ],
       "en": [
         "15 dried peppers",
         "1 cup rice",
         "1 dried onion",
-        "1 tablespoon pepper paste",
-        "1 tablespoon tomato paste",
+        "1 teaspoon pepper paste",
+        "1 teaspoon tomato paste",
         "1 teacup olive oil",
         "1 teaspoon black pepper",
         "2 teaspoons cumin",
@@ -2434,7 +2432,7 @@ export const dolmaRecipes: Recipe[] = [
         "2 teaspoons dried mint",
         "2 teaspoons salt",
         "2 teaspoons dried thyme",
-        "1 tablespoon sumac",
+        "1 teaspoon sumac",
         "2 tablespoons pomegranate molasses",
         "Half a lemon juice",
         "a handful of parsley"
@@ -2491,7 +2489,7 @@ export const dolmaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "16 adet dolmalık biber",
-        "3 – 4 adet domates  (dolmayı kapatmak için)"
+        "3 – 4 adet domates (dolmayı kapatmak için)"
       ],
       "en": [
         "16 stuffing peppers",
@@ -2590,7 +2588,7 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Üzüm yaprağı"
+        "üzüm yaprağı"
       ],
       "en": [
         "Grape leaves"
@@ -2646,7 +2644,7 @@ export const dolmaRecipes: Recipe[] = [
         "½ çay kaşığı pul biber",
         "½ çay kaşığı kuru nane",
         "½ çay kaşığı tuz",
-        "Biraz maydanoz"
+        "biraz maydanoz"
       ],
       "en": [
         "6 stuffing peppers",
@@ -2712,11 +2710,11 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet soğan",
         "1 adet domates",
         "1 adet sivri yeşil biber",
-        "Maydanoz",
-        "Pulbiber",
-        "Karabiber",
-        "Tuz",
-        "Sıvı yağ"
+        "maydanoz",
+        "pulbiber",
+        "karabiber",
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "1 medium cabbage",
@@ -2798,9 +2796,9 @@ export const dolmaRecipes: Recipe[] = [
         "1 çay kaşığı mavi haşhaş",
         "1–2 fiske rendelenmiş muskat",
         "1 çay kaşığı tuz",
-        "Pişirme suyu için:",
-        "Yaklaşık 1–1,5 su bardağı dimes vişne-elma suyu",
-        "Aynı miktarda veya damak tadına göre su (amaç meyve suyunu suyla seyrelterek elmaların tencerede yaklaşık yarısına gelecek miktarı elde etmek)"
+        "pişirme suyu için:",
+        "yaklaşık 1–1,5 su bardağı dimes vişne-elma suyu",
+        "aynı miktarda veya damak tadına göre su (amaç meyve suyunu suyla seyrelterek elmaların tencerede yaklaşık yarısına gelecek miktarı elde etmek)"
       ],
       "en": [
         "6 hard, sour green apples",
@@ -2912,14 +2910,14 @@ export const dolmaRecipes: Recipe[] = [
         "1 su bardağı pirinç",
         "1/4 (çeyrek) su bardağı ince bulgur",
         "1 adet kuru soğan (ince doğranmış)",
-        "Yarım demet maydanoz (ince kıyılmış)",
-        "Yarım demet dereotu (ince kıyılmış)",
+        "yarım demet maydanoz (ince kıyılmış)",
+        "yarım demet dereotu (ince kıyılmış)",
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı tuz",
         "1’er çay kaşığı yenibahar",
-        "Karabiber",
-        "Kırmızı toz biber",
-        "Yarım çay kaşığı kimyon",
+        "karabiber",
+        "kırmızı toz biber",
+        "yarım çay kaşığı kimyon",
         "1 tatlı kaşığı kuru nane",
         "4-5 yemek kaşığı zeytinyağı veya sıvı yağ (iç harca)"
       ],
@@ -2931,12 +2929,12 @@ export const dolmaRecipes: Recipe[] = [
         "half a bunch of parsley (finely chopped)",
         "half a bunch of dill (finely chopped)",
         "1 tablespoon tomato paste",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon allspice each",
         "black pepper",
         "red pepper powder",
         "half a teaspoon cumin",
-        "1 tablespoon dried mint",
+        "1 teaspoon dried mint",
         "4-5 tablespoons olive oil or liquid oil (for the filling)"
       ]
     },
@@ -2990,22 +2988,22 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Hatmi çiçeği ( yaklaşık 30-35 tane )",
+        "hatmi çiçeği ( yaklaşık 30-35 tane )",
         "1 su bardağı pirinç",
         "1 adet kuru soğan",
         "1 adet domates",
         "1 tatlı kaşığı domates salçası",
         "1 çay bardağı sıvı yağ",
-        "Tuz",
-        "Karabiber",
-        "Kırmızı toz biber"
+        "tuz",
+        "karabiber",
+        "kırmızı toz biber"
       ],
       "en": [
         "Hibiscus flowers (about 30-35 pieces)",
         "1 cup rice",
         "1 dried onion",
         "1 tomato",
-        "1 tablespoon tomato paste",
+        "1 teaspoon tomato paste",
         "1 teacup liquid oil",
         "salt",
         "black pepper",
@@ -3057,7 +3055,7 @@ export const dolmaRecipes: Recipe[] = [
         "6 tane girit kabağı",
         "200 gram kıyma",
         "1 tane kuru soğan",
-        "Yarım su bardağı pirinç",
+        "yarım su bardağı pirinç",
         "1 yemek kaşığı bulgur",
         "1 tane domates",
         "1 çay bardağına yakın zeytinyağı",
@@ -3066,10 +3064,10 @@ export const dolmaRecipes: Recipe[] = [
         "1 diş sarımsak",
         "5-6 dal dereotu",
         "4-5 dal maydanoz",
-        "Karabiber",
-        "Kırmızı tatlı toz biber",
-        "Nane",
-        "Tuz"
+        "karabiber",
+        "kırmızı tatlı toz biber",
+        "nane",
+        "tuz"
       ],
       "en": [
         "6 girit zucchinis",
@@ -3220,7 +3218,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet domates",
         "1 tatlı kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tutam maydanoz",
         "1 tatlı kaşığı nar ekşisi",
         "1 çay kaşığı tuz",
@@ -3233,11 +3231,11 @@ export const dolmaRecipes: Recipe[] = [
         "14 tablespoons rice (1 tbsp for each medium pepper)",
         "1 medium onion",
         "1 tomato",
-        "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
+        "1 teaspoon tomato paste",
+        "1 teaspoon pepper paste",
         "Half a teacup olive oil",
         "a handful of parsley",
-        "1 tablespoon pomegranate molasses",
+        "1 teaspoon pomegranate molasses",
         "1 teaspoon salt",
         "1 teaspoon mint",
         "1 teaspoon pepper powder",
@@ -3301,8 +3299,8 @@ export const dolmaRecipes: Recipe[] = [
         "2-3 sprigs fresh sweet basil",
         "4-5 sprigs parsley",
         "4-5 sprigs dill",
-        "1 tablespoon salt",
-        "1 tablespoon chili flakes",
+        "1 teaspoon salt",
+        "1 teaspoon chili flakes",
         "1 teaspoon black pepper",
         "1/2 (half) teaspoon cumin",
         "4 tablespoons olive oil"
@@ -3348,12 +3346,12 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet büyük boy domates",
         "1 yemek kaşığı salça",
         "1 yemek kaşığı isot",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 tutam kuru nane",
         "1 tutam kuru dereotu",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
-        "Yarım çay bardağı sıvı yağ"
+        "yarım çay bardağı sıvı yağ"
       ],
       "en": [
         "8 girit zucchinis",
@@ -3365,7 +3363,7 @@ export const dolmaRecipes: Recipe[] = [
         "half a bunch of parsley",
         "a handful of dried mint",
         "a handful of dried dill",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "half a teacup liquid oil"
       ]
@@ -3405,13 +3403,13 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet büyük kuru soğan",
         "1 yemek kaşığı domates salçası",
         "1 demet dereotu (ince kıyılmış)",
-        "Yarım demet maydanoz (ince kıyılmış)",
+        "yarım demet maydanoz (ince kıyılmış)",
         "8-10 dal taze nane (veya 1 yemek kaşığı kuru nane)",
         "2 diş sarımsak (ezilmiş)",
         "6 yemek kaşığı sızma zeytinyağı",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı pul biber (isteğe bağlı)",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "8 medium zucchinis",
@@ -3434,7 +3432,7 @@ export const dolmaRecipes: Recipe[] = [
         "Pirinci yıkayıp süzün. Geniş bir kapta pirinç, ince doğranmış soğan, sarımsak, dereotu, maydanoz, nane, zeytinyağı, tuz ve baharatları iyice karıştırın.",
         "Hazırladığınız harcı kabakların içine çok bastırmadan doldurun. Pirinç pişerken şişeceği için üstte yaklaşık 1 cm boşluk bırakın.",
         "Kabakları fırın kabına dizin. Tabanına yarım çay bardağı sıcak su ekleyin. Üzerlerine zeytinyağını gezdirin ve isterseniz küçük tereyağı parçaları yerleştirin.",
-        "Kabın üzerini yağlı kâğıt veya alüminyum folyo ile kapatın. Önceden ısıtılmış 180°c fırında 50 dakika pişirin.",
+        "Kabın üzerini yağlı kâğıt veya alüminyum folyo ile kapatın. Önceden ısıtılmış 180°c fırında 50 dakika pişirin.",
         "7. Sonrasında folyoyu çıkarın ve 15-20 dakika daha, üzerleri hafif kızarana kadar pişirin.",
         "Servis önerisi fırından çıktıktan sonra 10 dakika dinlendirin. Üzerine biraz daha sızma zeytinyağı gezdirip bol limonla servis edin. Yanına sarımsaklı yoğurt da çok yakışır."
       ],
@@ -3469,7 +3467,7 @@ export const dolmaRecipes: Recipe[] = [
         "25 adet kuru biber",
         "25 adet kuru patlıcan",
         "25 adet kuru kabak",
-        "Yarım çay bardağı zeytin yağı"
+        "yarım çay bardağı zeytin yağı"
       ],
       "en": [
         "25 dried peppers",
@@ -3519,12 +3517,12 @@ export const dolmaRecipes: Recipe[] = [
         "5 adet orta boy dolmalık biber",
         "2 adet domates",
         "1 adet soğan",
-        "Bir demet maydanoz",
+        "bir demet maydanoz",
         "1 yemek kaşığı salça",
-        "Sıvı yağ",
-        "Tuz",
-        "Karabiber",
-        "Nane"
+        "sıvı yağ",
+        "tuz",
+        "karabiber",
+        "nane"
       ],
       "en": [
         "5 medium stuffing peppers",
@@ -3635,8 +3633,8 @@ export const dolmaRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1,5 çay kaşığı tuz",
         "1,5 çay kaşığı kuru nane",
-        "Domates dilimler (üzeri için)",
-        "Yarım demet maydanoz"
+        "domates dilimler (üzeri için)",
+        "yarım demet maydanoz"
       ],
       "en": [
         "6 stuffed peppers",
@@ -3704,7 +3702,7 @@ export const dolmaRecipes: Recipe[] = [
         "2 adet küp esmer şeker",
         "1 su bardağı sıcak su",
         "1 adet domates",
-        "Maydanoz"
+        "maydanoz"
       ],
       "en": [
         "15 stuffing peppers",
@@ -3712,12 +3710,12 @@ export const dolmaRecipes: Recipe[] = [
         "3 medium dried onions",
         "1,5 cups rice",
         "1 tablespoon mixed tomato paste",
-        "1 tablespoon mint",
+        "1 teaspoon mint",
         "1 teaspoon black pepper",
         "1,5 tablespoons currants",
-        "1 tablespoon allspice",
-        "1 tablespoon red pepper powder",
-        "1 tablespoon salt",
+        "1 teaspoon allspice",
+        "1 teaspoon red pepper powder",
+        "1 teaspoon salt",
         "2 cubes of brown sugar",
         "1 cup hot water",
         "1 tomato",
@@ -3778,7 +3776,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "1 diş sarımsak",
         "2 su bardağı pirinç",
-        "Baharatlar (nane, karabiber kimyon yenibahar tuz)",
+        "baharatlar (nane, karabiber kimyon yenibahar tuz)",
         "1 kg kadar dolmalık biber (tercihe göre kabak, patlıcan ve patates de olur)"
       ],
       "en": [
@@ -3833,12 +3831,12 @@ export const dolmaRecipes: Recipe[] = [
         "1 çay kaşığı kekik",
         "1 tatlı kaşığı toz biber",
         "1 adet orta boy soğan",
-        "Yarım kaşık salça",
-        "Zeytinyağı",
-        "Sıvıyağ",
-        "Tuz",
-        "Domatesin içi",
-        "Bol maydanoz ve dereotu"
+        "yarım kaşık salça",
+        "zeytinyağı",
+        "sıvıyağ",
+        "tuz",
+        "domatesin içi",
+        "bol maydanoz ve dereotu"
       ],
       "en": [
         "5-6 medium zucchinis",
@@ -3846,7 +3844,7 @@ export const dolmaRecipes: Recipe[] = [
         "15 teaspoons bulgur",
         "1,5 teaspoons black pepper",
         "1 teaspoon thyme",
-        "1 tablespoon pepper powder",
+        "1 teaspoon pepper powder",
         "1 medium dried onion",
         "half a spoon of tomato paste",
         "olive oil",
@@ -3902,14 +3900,14 @@ export const dolmaRecipes: Recipe[] = [
       "tr": [
         "1 kg dolma biber",
         "400 gr kıyma",
-        "Yarım çay bardağı haşlanmış pirinç",
-        "1 baş soğan 2diş sarımsak",
+        "yarım çay bardağı haşlanmış pirinç",
+        "1 baş soğan, 2 diş sarımsak",
         "1 yemek kaşığı salça",
         "1 tatlı kaşığı pulbiber",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı kekik",
-        "Yarım çay bardağı su"
+        "yarım çay bardağı su"
       ],
       "en": [
         "1 kg dolma peppers",
@@ -3917,10 +3915,10 @@ export const dolmaRecipes: Recipe[] = [
         "half a teacup boiled rice",
         "1 head onion 2 cloves of garlic",
         "1 tablespoon tomato paste",
-        "1 tablespoon chili flakes",
-        "1 tablespoon black pepper",
-        "1 tablespoon salt",
-        "1 tablespoon thyme",
+        "1 teaspoon chili flakes",
+        "1 teaspoon black pepper",
+        "1 teaspoon salt",
+        "1 teaspoon thyme",
         "half a teacup water"
       ]
     },
@@ -3958,7 +3956,7 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Üzüm yaprağı"
+        "üzüm yaprağı"
       ],
       "en": [
         "Grape leaves"
@@ -3974,7 +3972,7 @@ export const dolmaRecipes: Recipe[] = [
         "Dolmalarımızı iç harcımızla dolduralım. Tencerenin ilk sırası sadece yaprak sarma ile yerleştirelim. Ardından dolmalarımızı ve yapraklarımızı karışık yerleştirelim. Tencereyi böyle dolduralım.",
         "Ocağın altını açıp bir kettle sıcak su ekleyelim ve üzerini tabakla kapatalım kapağını da kapatalım pişsin. Yaklaşık 40 dakika pişecek.",
         "Piştikten sonra tencereyi ocaktan alalım ve ilk sıcağını çıkartmasını bekleyelim. Sonra büyük bir tepsiye dökelim ve dinlendirelim.",
-        "Sıcağı geçen yaprak sarmalarımız servise hazır. İster yoğurt ile ister limonla servis edebilirsiniz. Bu tarif 12-14 kişiliktir kendinize göre malzemeleri oranlayabilirsiniz. Afiyet olsun."
+        "Sıcağı geçen yaprak sarmalarımız servise hazır. İster yoğurt ile ister limonla servis edebilirsiniz. Bu tarif 12-14 kişiliktir kendinize göre malzemeleri oranlayabilirsiniz. Afiyet olsun."
       ],
       "en": [
         "First of all, peel the onion for the dolma and put it into hot water and put it on the heat and make sure it boils thoroughly and softens. Put the softened onions into a separate bowl.",
@@ -4013,7 +4011,7 @@ export const dolmaRecipes: Recipe[] = [
         "3 adet domates (biri ile biberlerin üzerini kapatacağız)",
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı tuz (iç harç için)",
-        "Biberlerin içini tuzlamak için ayrıca bir miktar tuz",
+        "biberlerin içini tuzlamak için ayrıca bir miktar tuz",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı pul biber"
       ],
@@ -4024,7 +4022,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 teacup olive oil",
         "3 tomatoes (we will use one to cover the tops of the peppers)",
         "1 tablespoon tomato paste",
-        "1 tablespoon salt (for the filling)",
+        "1 teaspoon salt (for the filling)",
         "An extra amount of salt to salt the insides of the peppers",
         "1 teaspoon black pepper",
         "1 teaspoon chili flakes"
@@ -4082,7 +4080,7 @@ export const dolmaRecipes: Recipe[] = [
       "tr": [
         "1,5 kg patlıcan",
         "1,5 kg dolmalık biber",
-        "Yarım kg kapya biber"
+        "yarım kg kapya biber"
       ],
       "en": [
         "1,5 kg eggplant",
@@ -4273,11 +4271,11 @@ export const dolmaRecipes: Recipe[] = [
         "1 tablespoon pepper paste",
         "1 grated tomato (I did not add it optionally)",
         "4 tablespoons liquid oil",
-        "1 tablespoon mint",
-        "1 tablespoon thyme (I did not add it optionally)",
-        "1 tablespoon pepper powder",
+        "1 teaspoon mint",
+        "1 teaspoon thyme (I did not add it optionally)",
+        "1 teaspoon pepper powder",
         "3 tablespoons pomegranate molasses (I did not add it optionally)",
-        "1 tablespoon salt"
+        "1 teaspoon salt"
       ]
     },
     "steps": {
@@ -4335,8 +4333,8 @@ export const dolmaRecipes: Recipe[] = [
         "1 adet büyükçe soğan",
         "1 yemek kaşığı salça",
         "1 yemek kaşığı biber salçası",
-        "Yarım bağ maydanoz",
-        "1 yemek kaşığı kürü nane"
+        "yarım bağ maydanoz",
+        "1 yemek kaşığı kuru nane"
       ],
       "en": [
         "1 kilo collard greens",
@@ -4382,7 +4380,7 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Üzüm yaprağı",
+        "üzüm yaprağı",
         "4-5 orta boy soğan"
       ],
       "en": [
@@ -4428,19 +4426,19 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Çeyrek su bardağı pirinç",
+        "çeyrek su bardağı pirinç",
         "1 adet kuru soğan",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı kuru nane",
         "1 adet domates",
-        "Yarım çay bardağı zeytinyağı",
-        "Tuz"
+        "yarım çay bardağı zeytinyağı",
+        "tuz"
       ],
       "en": [
         "a quarter cup rice",
         "1 dried onion",
-        "1 tablespoon black pepper",
-        "1 tablespoon dried mint",
+        "1 teaspoon black pepper",
+        "1 teaspoon dried mint",
         "1 tomato",
         "half a teacup olive oil",
         "salt"
@@ -4484,19 +4482,19 @@ export const dolmaRecipes: Recipe[] = [
       "tr": [
         "400 gram kıyma",
         "3-4 adet soğan",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "3 adet domates",
         "1 adet yeşil biber",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 yemek kaşığı biber salçası",
-        "Yarım yemek kaşığı domates salçası",
-        "Tuz",
-        "Karabiber",
-        "Kuru nane",
-        "Kuru reyhan",
-        "Kırmızı toz biber",
-        "Acı pul biber",
-        "Sıvı sumak ekşisi",
+        "yarım yemek kaşığı domates salçası",
+        "tuz",
+        "karabiber",
+        "kuru nane",
+        "kuru reyhan",
+        "kırmızı toz biber",
+        "acı pul biber",
+        "sıvı sumak ekşisi",
         "2 su bardağı pirinç"
       ],
       "en": [
@@ -4568,8 +4566,8 @@ export const dolmaRecipes: Recipe[] = [
         "1 su bardağından iki parmak eksik basmati pirinç",
         "1 adet küçük boy kuru soğan ( rendelenmiş)",
         "1 diş sarımsak ( rendelenmiş)",
-        "Yarım çay kaşığı yenibahar",
-        "Yarım çay karabiber",
+        "yarım çay kaşığı yenibahar",
+        "yarım çay karabiber",
         "1 çay kaşığı tuz",
         "1 çay kaşığı toz şeker",
         "1 çay kaşığı toz tatlı biber",
@@ -4587,7 +4585,7 @@ export const dolmaRecipes: Recipe[] = [
         "half a teaspoon allspice",
         "half a teaspoon black pepper",
         "1 teaspoon salt",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "1 teaspoon sweet pepper powder",
         "1 tablespoon currants and pine nuts",
         "a handful of finely chopped parsley and dill",
@@ -4691,7 +4689,7 @@ export const dolmaRecipes: Recipe[] = [
         "Tomurcuk alınmasa dolmamız acı olur.",
         "Yemeklik doğradığımız soğanı zeytinyağında soteliyoruz.",
         "Üzerine yıkanmış süzülmüş pirinçleri ekliyoruz.",
-        "Biraz kavurduktan sonra soyulmuş minik küp şeklinde doğranmış( yada rendelenmiş) domatesi ,tuz ve baharatı ekleyip biraz daha kavuruyoruz.",
+        "Biraz kavurduktan sonra soyulmuş minik küp şeklinde doğranmış( ya da rendelenmiş) domatesi ,tuz ve baharatı ekleyip biraz daha kavuruyoruz.",
         "Yarım su bardağı kaynar suyumuzu da ekleyip kısık ateşte suyunu çekene kadar pişiriyoruz.",
         "Soğumaya bırakıyoruz.",
         "İnce kıyılmış dereotu,maydanoz ve naneyi ekleyip karıştırıyoruz.",
@@ -4749,7 +4747,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 yemek kaşığı tuz",
         "2 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
-        "Yarım çay bardağı nar ekşisi",
+        "yarım çay bardağı nar ekşisi",
         "1 su bardağı zeytinyağı",
         "1 çay bardağı sıvı yağ"
       ],
@@ -4839,10 +4837,10 @@ export const dolmaRecipes: Recipe[] = [
         "1 large dried onion",
         "3 cloves of garlic",
         "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "1 teaspoon red pepper",
         "1 teaspoon black pepper",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon cumin",
         "1 teaspoon dried mint",
         "1 teaspoon thyme",
@@ -4885,7 +4883,7 @@ export const dolmaRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "750 gram asma yaprağı (tokat yaprağı kullandım)",
-        "Kemikli et",
+        "kemikli et",
         "2 yemek kaşığı domates salçası",
         "1 yemek kaşığı biber salçası",
         "1 tane soğan",
@@ -4893,10 +4891,10 @@ export const dolmaRecipes: Recipe[] = [
         "2 tane domates",
         "5 su bardağı pirinç",
         "5 yemek kaşığı sumak dilerseniz ince sumak",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
-        "Toz biber",
+        "tuz",
+        "karabiber",
+        "pul biber",
+        "toz biber",
         "1 çay bardağı sıvı yağ"
       ],
       "en": [
@@ -4950,15 +4948,15 @@ export const dolmaRecipes: Recipe[] = [
       "tr": [
         "1 kilo kaliforniya biberi",
         "1 yemek kaşığı salça",
-        "Göz kararı sıvı yağı",
+        "göz kararı sıvı yağı",
         "1 çay kaşığı tuz",
-        "İsteğe bağlı 1 yemek kaşığı kuş üzümü",
-        "Göz kararı baharat kimyon",
-        "Toz kırmızı biber",
+        "isteğe bağlı 1 yemek kaşığı kuş üzümü",
+        "göz kararı baharat kimyon",
+        "toz kırmızı biber",
         "1 demet maydanoz",
         "1 adet soğan",
         "1,5 su bardağı pirinç (200 ml)",
-        "Sıcak su"
+        "sıcak su"
       ],
       "en": [
         "1 kilo California peppers",
@@ -5013,8 +5011,8 @@ export const dolmaRecipes: Recipe[] = [
         "2 diş sarımsak",
         "400 gram kıyma",
         "3 adet domates rendesi",
-        "Yarım çay bardağı pirinç",
-        "Yarım çay bardağı bulgur",
+        "yarım çay bardağı pirinç",
+        "yarım çay bardağı bulgur",
         "2 tatlı kaşığı tuz",
         "1 tatlı kaşığı karabiber ve kırmızı pul biber",
         "1 yemek kaşığı salça",
@@ -5030,10 +5028,10 @@ export const dolmaRecipes: Recipe[] = [
         "3 grated tomatoes",
         "half a teacup rice",
         "half a teacup bulgur",
-        "2 tablespoons salt",
-        "1 tablespoon black pepper and red chili flakes",
+        "2 teaspoons salt",
+        "1 teaspoon black pepper and red chili flakes",
         "1 tablespoon tomato paste",
-        "1 tablespoon pepper paste",
+        "1 teaspoon pepper paste",
         "2 tablespoons butter oil",
         "1 teacup hot water"
       ]
@@ -5150,10 +5148,10 @@ export const dolmaRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
-        "Yarım çay kaşığı kimyon",
+        "yarım çay kaşığı kimyon",
         "1 tatlı kaşığı limon suyu (1 çay kaşığı sumak da olur)",
         "1 tatlı kaşığı nane (çok sevilmiyorsa çay kaşığı kullanılabilir)",
-        "Yarım çay bardağı zeytinyağı"
+        "yarım çay bardağı zeytinyağı"
       ],
       "en": [
         "6 stuffing peppers",
@@ -5162,11 +5160,11 @@ export const dolmaRecipes: Recipe[] = [
         "5-6 sprigs parsley",
         "1 clove of garlic",
         "1 tablespoon tomato paste",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1 teaspoon black pepper",
         "half a teaspoon cumin",
-        "1 tablespoon lemon juice (1 teaspoon sumac also works)",
-        "1 tablespoon mint (you can use a teaspoon if it is not liked)",
+        "1 teaspoon lemon juice (1 teaspoon sumac also works)",
+        "1 teaspoon mint (you can use a teaspoon if it is not liked)",
         "half a teacup olive oil"
       ]
     },
@@ -5214,7 +5212,7 @@ export const dolmaRecipes: Recipe[] = [
     "difficulty": "easy",
     "ingredients": {
       "tr": [
-        "Salamura asma yaprağı"
+        "salamura asma yaprağı"
       ],
       "en": [
         "Salted grape leaves"
@@ -5257,7 +5255,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 tatlı kaşığı biber salçası",
         "1 tatlı kaşığı domates salçası",
         "1 çay kaşığı tuz, toz tatlı biber, toz şeker",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "2 çay kaşığı kuru nane",
         "1 tatlı kaşığı sumak",
         "1 türk kahve fincanı zeytinyağı",
@@ -5269,12 +5267,12 @@ export const dolmaRecipes: Recipe[] = [
         "1 cup rice",
         "1 dried onion",
         "3 cloves of garlic",
-        "1 tablespoon pepper paste",
-        "1 tablespoon tomato paste",
-        "1 teaspoon salt, sweet pepper powder, powdered sugar",
+        "1 teaspoon pepper paste",
+        "1 teaspoon tomato paste",
+        "1 teaspoon salt, sweet pepper powder, granulated sugar",
         "half a teaspoon black pepper",
         "2 teaspoons dried mint",
-        "1 tablespoon sumac",
+        "1 teaspoon sumac",
         "1 Turkish coffee cup olive oil",
         "1 medium tomato (for the lid)",
         "a handful of finely chopped parsley and dill"
@@ -5363,7 +5361,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 tatlı kaşığı tereyağı",
         "1 tatlı kaşığı kuru maydanoz",
         "1 yemek kaşığı biber salçası",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "10 stuffing peppers",
@@ -5371,11 +5369,11 @@ export const dolmaRecipes: Recipe[] = [
         "1 large onion",
         "2 tomatoes",
         "1,5 cups rice",
-        "1 tablespoon black pepper",
+        "1 teaspoon black pepper",
         "1 teaspoon pepper powder",
         "4 tablespoons liquid oil",
-        "1 tablespoon butter",
-        "1 tablespoon dried parsley",
+        "1 teaspoon butter",
+        "1 teaspoon dried parsley",
         "1 tablespoon pepper paste",
         "salt"
       ]
@@ -5388,7 +5386,7 @@ export const dolmaRecipes: Recipe[] = [
         "Kıymayı, pirinçi, soğanı ve domatesleri, yağları, baharatları ekleyip güzelce karıştırıyoruz.",
         "Biberlerimizi doldurup, ağızlarını kapatıp tencereye diziyoruz.",
         "Sonrasında sosumuzu hazırlıyoruz ve biberlerin üzerini geçmeyecek kadar sosu döküyoruz.",
-        "30 dakika kadar pişiriyoruz. Pişirme esnasında ara ara pirinçleri kontrol ederseniz daha iyi olur. Daha erken yada daha geç pişme ihtimali olabilir. Afiyet olsun. 🌼."
+        "30 dakika kadar pişiriyoruz. Pişirme esnasında ara ara pirinçleri kontrol ederseniz daha iyi olur. Daha erken ya da daha geç pişme ihtimali olabilir. Afiyet olsun. 🌼."
       ],
       "en": [
         "First cut the mouths of the peppers, clean their insides thoroughly and wash them.",
@@ -5526,7 +5524,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 su bardağı zeytinyağı",
         "1 adet soğan",
         "2 adet domates",
-        "Tuz",
+        "tuz",
         "2 diş sarımsak",
         "1.5 su bardağı kaynar su"
       ],
@@ -5632,7 +5630,7 @@ export const dolmaRecipes: Recipe[] = [
         "3 medium onions",
         "1 grated tomato",
         "1 packet each of pine nuts and currants",
-        "1 tablespoon each of black pepper, cinnamon, sugar, dried mint and salt",
+        "1 teaspoon each of black pepper, cinnamon, sugar, dried mint and salt",
         "1 cup olive oil"
       ]
     },
@@ -5676,8 +5674,8 @@ export const dolmaRecipes: Recipe[] = [
         "1 demet taze soğan",
         "1 adet kuru soğan",
         "1 demet maydanoz ve dereotu",
-        "Tuz",
-        "İsteğe göre baharat ( ben kullanmadım)",
+        "tuz",
+        "isteğe göre baharat ( ben kullanmadım)",
         "3 adet limon"
       ],
       "en": [
@@ -5908,7 +5906,7 @@ export const dolmaRecipes: Recipe[] = [
         "1 tatlı kaşığı şeker",
         "1/2 (yarım) kg dolmalık biber",
         "1 kg kabak",
-        "Asma yaprağı"
+        "asma yaprağı"
       ],
       "en": [
         "4 cups rice",
@@ -5920,15 +5918,15 @@ export const dolmaRecipes: Recipe[] = [
         "1 bunch of parsley",
         "a handful of fresh mint",
         "3 tomatoes",
-        "3 tablespoons chili flakes",
+        "3 teaspoons chili flakes",
         "3 tablespoons sumak vinegar",
         "1 tablespoon tomato paste",
         "1 tablespoon pepper paste",
-        "1 tablespoon dried mint",
-        "1 tablespoon black pepper",
+        "1 teaspoon dried mint",
+        "1 teaspoon black pepper",
         "1 teaspoon cumin",
-        "2 tablespoons salt",
-        "1 tablespoon sugar",
+        "2 teaspoons salt",
+        "1 teaspoon sugar",
         "1/2 (half) kg stuffing peppers",
         "1 kg zucchini",
         "Grape leaves"
@@ -5994,11 +5992,11 @@ export const dolmaRecipes: Recipe[] = [
         "3 cups rice",
         "1 cup bulgur",
         "1 tablespoon salt (adjust the salt ratio according to whether the leaves are salted)",
-        "1 tablespoon black pepper",
-        "1 tablespoon red pepper powder",
-        "1 tablespoon chili flakes",
+        "1 teaspoon black pepper",
+        "1 teaspoon red pepper powder",
+        "1 teaspoon chili flakes",
         "1 teaspoon cumin",
-        "1 tablespoon sumac powder",
+        "1 teaspoon sumac powder",
         "1 teacup pomegranate molasses",
         "1 cup olive oil",
         "1 cup liquid oil",
@@ -6013,7 +6011,7 @@ export const dolmaRecipes: Recipe[] = [
         "Yaprağın mat ve damarlı kısmı üstte kalacak şekilde doğrama tahtası veya düz bir tabağa derelim üzerine bir tatlı kaşığı kadar iç harcımdan koyup, kenarlardan katlayarak saralım.",
         "Yarakların sağları varsa kesip ayıralım tüm yapraklar bitince derin bir tencerenin en alt kısmına yağlı kağıt serelim ve sarmaları dizelim ayırdığımız sağları en üste serpelim (limon yerine bu yöntemi kullanıyorum limon kabuğu acılığı olmuyor dilerseniz limon dilimleyebilirsiniz)",
         "Harcı hazırladığımız kaba sıcak su yağ ve salçayı koyup, karıştıralım sarmaların üstünü geçecek kadar hazırladığımız karışımı tencereye dökelim sarma taşı veya düz bir tabak kapatalım.",
-        "Kaynayana kadar orta ateşte kaynadıktan sonra ocağın en küçük gözünde kısık ateşte yaklaşık bir saat kontrollü pişirelim yoğurt ile yada sade servis edebilirsiniz. Şimdiden deneyen herkese afiyet olsun."
+        "Kaynayana kadar orta ateşte kaynadıktan sonra ocağın en küçük gözünde kısık ateşte yaklaşık bir saat kontrollü pişirelim yoğurt ile ya da sade servis edebilirsiniz. Şimdiden deneyen herkese afiyet olsun."
       ],
       "en": [
         "If your leaves are salted, wait for them in hot water for 3-4 rounds and wash them so that they are free of salt.",
@@ -6106,7 +6104,7 @@ export const dolmaRecipes: Recipe[] = [
         "3 cloves of garlic",
         "3 tomatoes",
         "1 small carrot",
-        "1 tablespoon salt",
+        "1 teaspoon salt",
         "1/2 (half) teaspoon black pepper"
       ]
     },

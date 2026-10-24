@@ -14,13 +14,13 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "3 adet yumurta",
         "3 adet kabak",
-        "Yarım su bardağı un",
+        "yarım su bardağı un",
         "2-3 dal yeşil soğan",
-        "Yarım demet maydanoz",
-        "Bir tutam dereotu",
-        "Tuz",
-        "Karabiber",
-        "Pul biber"
+        "yarım demet maydanoz",
+        "bir tutam dereotu",
+        "tuz",
+        "karabiber",
+        "pul biber"
       ],
       "en": [
         "3 eggs",
@@ -81,10 +81,10 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet kuru soğan",
         "400 gram mantar",
         "1 yemek kaşığı domates salçası",
-        "Yarım çay bardağı zeytinyağı (60 ml)",
+        "yarım çay bardağı zeytinyağı (60 ml)",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı karabiber",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "1 çay bardağı sıcak su (125 ml)"
       ],
       "en": [
@@ -93,11 +93,11 @@ export const sebzeRecipes: Recipe[] = [
         "2 onions",
         "400 g mushrooms",
         "1 tablespoon tomato paste",
-        "1/2 cup olive oil (60 ml)",
+        "1/2 teacup olive oil (60 ml)",
         "1 teaspoon salt",
         "1 teaspoon black pepper",
         "1/2 bunch parsley",
-        "1 cup hot water (125 ml)"
+        "1 teacup hot water (125 ml)"
       ]
     },
     "steps": {
@@ -112,7 +112,7 @@ export const sebzeRecipes: Recipe[] = [
         "Kabuklarını soyduğumuz patatesleri ne ince ne de kalın olacak şekilde dilimleyelim.",
         "Fırın kabını sıvı yağ ile yağlayalım. Dilimlediğimiz patatesleri kenarları üst üste gelecek şekilde dizelim.",
         "Hazırladığımız mantarlı iç harcı patateslerin üzerine yayalım. Yemeğimizin üzerini alüminyum folyo ya da sar pişir ile kapatarak önceden ısıtılmış 200 °C fırında 40 dakika pişmeye bırakalım.",
-        "Yemeğimizin beşamel sosu için küçük bir sos tenceresine  tereyağını alarak eritelim.",
+        "Yemeğimizin beşamel sosu için küçük bir sos tenceresine tereyağını alarak eritelim.",
         "Eriyen yağın üzerine unu ilave edelim ve karıştırarak kavuralım.",
         "Unun kokusu hafifçe çıkmaya başlayıp rengi de biraz koyulaştıktan sonra içerisine sütü yavaşça ekleyerek sosu güzelce karıştıralım.",
         "Beşamel sos kaynamaya başladığında içerisine 1 çay kaşığı tuz ve yarım çay kaşığı karabiberi ekleyelim. Karıştırarak ocaktan alalım.",
@@ -164,11 +164,11 @@ export const sebzeRecipes: Recipe[] = [
         "3 adet kabak",
         "3 adet patates",
         "1 büyük çay bardağı sıvı yağ",
-        "Yarım demet dereotu",
-        "Yarım demet maydanoz",
+        "yarım demet dereotu",
+        "yarım demet maydanoz",
         "4-5 dal taze soğan",
         "1 tatlı kaşığı pul biber",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "1 tatlı kaşığı tuz",
         "1 su bardağı un"
       ],
@@ -176,7 +176,7 @@ export const sebzeRecipes: Recipe[] = [
         "4 eggs",
         "3 zucchini",
         "3 potatoes",
-        "1 large cup vegetable oil",
+        "1 large teacup vegetable oil",
         "1/2 bunch dill",
         "1/2 bunch parsley",
         "4-5 stalks of fresh onions",
@@ -253,7 +253,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 teaspoon salt",
         "1 teaspoon black pepper",
         "1 teaspoon red pepper flakes",
-        "1 cup hot water (125 ml)"
+        "1 teacup hot water (125 ml)"
       ]
     },
     "steps": {
@@ -307,7 +307,7 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet karnabahar",
-        "Kaşar peyniri"
+        "kaşar peyniri"
       ],
       "en": [
         "1 cauliflower",
@@ -358,17 +358,17 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "1 kg ıspanak",
         "1 adet kuru soğan",
-        "Yarım çay bardağı pirinç",
+        "yarım çay bardağı pirinç",
         "2 yemek kaşığı sıvı yağ",
         "1 yemek kaşığı domates salçası",
-        "Tuz",
-        "Karabiber",
-        "Pul biber"
+        "tuz",
+        "karabiber",
+        "pul biber"
       ],
       "en": [
         "1 kg spinach",
         "1 onion",
-        "1/2 cup rice",
+        "1/2 teacup rice",
         "2 tablespoons vegetable oil",
         "1 tablespoon tomato paste",
         "Salt",
@@ -415,8 +415,8 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
-        "Yeşil biber",
-        "Çeri domates"
+        "yeşil biber",
+        "çeri domates"
       ],
       "en": [
         "4 eggplant",
@@ -478,10 +478,10 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet havuç",
         "1 yemek kaşığı domates salçası",
         "5-6 yemek kaşığı domates sosu",
-        "Yarım Türk kahvesi fincanı pirinç",
+        "yarım Türk kahvesi fincanı pirinç",
         "2 yemek kaşığı sıvı yağ",
-        "Tuz",
-        "Sıcak su"
+        "tuz",
+        "sıcak su"
       ],
       "en": [
         "5-6 stalks of leek (use the white parts)",
@@ -499,8 +499,8 @@ export const sebzeRecipes: Recipe[] = [
         "Pırasa yemeği yapmak için pırasalar temizlenerek 1 cm uzunluğunda doğranır.",
         "Bol su ile yıkanarak suyunun süzülmesi sağlanır.",
         "2 adet orta boy havucun dış kısmı soyulur ve ince ince halka şeklinde dilimlenir.",
-        "Tencereye sıvı yağ alınarak salça eklenir ve kavrulur.",
-        "Rendelenmiş  domates  eklenerek 1-2 tur çevirelim.",
+        "Tencereye sıvı yağ alınarak salça eklenir ve kavrulur.",
+        "Rendelenmiş domates eklenerek 1-2 tur çevirelim.",
         "Daha sonra havuç ilave edilir ve 2-3 dk hep birlikte kavrulması sağlanır.",
         "Suyu süzülen pırasalar ilave edildikten sonra karıştırılır ve tencerenin kapağı kapatılır.",
         "Orta ateşte pırasalar suyunu salıp, suyunu çekene kadar bu şekilde pişirilir.",
@@ -586,7 +586,7 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım kilo kültür mantarı",
+        "yarım kilo kültür mantarı",
         "2 tane orta boy ince havuç",
         "1 baş soğan",
         "4 diş sarımsak",
@@ -594,11 +594,11 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet yeşil biber",
         "3 tane domates",
         "1 yemek kaşığı pirinç",
-        "Yarım çay kaşığı karabiber",
-        "Pulbiber",
-        "Tuz",
-        "Az kimyon",
-        "Kekik"
+        "yarım çay kaşığı karabiber",
+        "pulbiber",
+        "tuz",
+        "az kimyon",
+        "kekik"
       ],
       "en": [
         "1/2 kilo cultivated mushrooms",
@@ -658,15 +658,15 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo yeşil fasulye",
+        "yarım kilo yeşil fasulye",
         "2 adet yumurta",
         "2 adet kuru soğan",
         "1 adet domates",
         "2 yemek kaşığı tereyağ",
         "2 yemek kaşığı sıvı yağ",
-        "Toz kırmızı biber",
-        "Karabiber",
-        "Tuz"
+        "toz kırmızı biber",
+        "karabiber",
+        "tuz"
       ],
       "en": [
         "1/2 kilo green beans",
@@ -717,8 +717,8 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 orta boy karnabahar",
-        "Haşlamak için bol su",
-        "Yarım su bardağı süt",
+        "haşlamak için bol su",
+        "yarım su bardağı süt",
         "1 tatlı kaşığı tuz"
       ],
       "en": [
@@ -776,14 +776,14 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "2 yumurta",
         "2 yemek kaşığı rende kaşar peyniri",
-        "Tuz",
-        "Kırmızı toz biber",
-        "Sarımsak tozu",
-        "Soğan tozu",
+        "tuz",
+        "kırmızı toz biber",
+        "sarımsak tozu",
+        "soğan tozu",
         "1 çay kaşığı karbonat",
         "400 gram konserve mısır",
         "1 kapya biber",
-        "Kıyılmış maydanoz",
+        "kıyılmış maydanoz",
         "1 çay bardağı un"
       ],
       "en": [
@@ -797,7 +797,7 @@ export const sebzeRecipes: Recipe[] = [
         "400 g canned corn",
         "1 capia pepper",
         "Chopped parsley",
-        "1 cup flour"
+        "1 teacup flour"
       ]
     },
     "steps": {
@@ -837,12 +837,12 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 tatlı kaşığı kırmızı toz biber"
       ],
       "en": [
         "4 eggplant",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "1 teaspoon red pepper powder"
       ]
     },
@@ -898,9 +898,9 @@ export const sebzeRecipes: Recipe[] = [
         "2 diş sarımsak",
         "1/2 (yarım) çay bardağı pirinç",
         "2-3 su bardağı sıcak su",
-        "Tuz",
-        "Karabiber",
-        "Pul biber"
+        "tuz",
+        "karabiber",
+        "pul biber"
       ],
       "en": [
         "500 g frozen spinach",
@@ -909,7 +909,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 tablespoon tomato paste",
         "1 teaspoon pepper paste (if you have it, it clings to the roof of your mouth)",
         "2 cloves of garlic",
-        "1/2 (half) cup of rice",
+        "1/2 (half) teacup of rice",
         "2-3 cups hot water",
         "Salt",
         "Black pepper",
@@ -963,10 +963,10 @@ export const sebzeRecipes: Recipe[] = [
         "2 diş sarımsak",
         "2 adet domates",
         "1 yemek kaşığı salça",
-        "Zeytinyağı",
-        "Tuz",
-        "Toz biber",
-        "Karabiber",
+        "zeytinyağı",
+        "tuz",
+        "toz biber",
+        "karabiber",
         "1 çay bardağı su"
       ],
       "en": [
@@ -979,7 +979,7 @@ export const sebzeRecipes: Recipe[] = [
         "Salt",
         "Red pepper powder",
         "Black pepper",
-        "1 cup water"
+        "1 teacup water"
       ]
     },
     "steps": {
@@ -1088,10 +1088,10 @@ export const sebzeRecipes: Recipe[] = [
         "3 adet domates",
         "1 yemek kaşığı salça",
         "1 yemek kaşığı sumak ekşisi",
-        "1 adet limon suyu",
+        "1 adet limonun suyu",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı pulbiber",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 çay bardağı zeytinyağı"
       ],
       "en": [
@@ -1102,12 +1102,12 @@ export const sebzeRecipes: Recipe[] = [
         "5 cloves of garlic",
         "3 tomatoes",
         "1 tablespoon tomato paste",
-        "1 tablespoon sumac vinegar",
+        "1 tablespoon sour sumac sauce",
         "1 lemon juice",
         "1 teaspoon salt",
         "1 teaspoon red pepper flakes",
         "1/2 teaspoon black pepper",
-        "1 cup olive oil"
+        "1 teacup olive oil"
       ]
     },
     "steps": {
@@ -1176,21 +1176,21 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Lahana",
+        "lahana",
         "1 su bardağı pirinç",
         "250 gram orta yağlı kıyma",
-        "Yarım demet maydanoz",
+        "yarım demet maydanoz",
         "10 yaprak reyhan",
         "1 tane sarımsak",
         "1 büyük baş soğan",
-        "Tuz",
-        "Karabiber",
-        "Kimyon",
-        "Yenibahar",
-        "Yedibahar",
-        "Nane",
-        "Pulbiber",
-        "Yağ",
+        "tuz",
+        "karabiber",
+        "kimyon",
+        "yenibahar",
+        "yedibahar",
+        "nane",
+        "pulbiber",
+        "yağ",
         "1 yemek kaşığı salça"
       ],
       "en": [
@@ -1292,12 +1292,12 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "1 adet soğan",
         "200 gram kıyma",
-        "3 4 yemek kaşığı zeytinyağı",
+        "3-4 yemek kaşığı zeytinyağı",
         "1 yemek kaşığı salça",
         "5 adet kabak",
-        "Tuz",
-        "Kırmızı toz biber",
-        "Karabiber",
+        "tuz",
+        "kırmızı toz biber",
+        "karabiber",
         "500 ml su (ben tavuk suyu kullandım)"
       ],
       "en": [
@@ -1347,14 +1347,14 @@ export const sebzeRecipes: Recipe[] = [
         "1 adet soğan",
         "1 adet patates",
         "1 adet kabak",
-        "Yeşil ve kırmızı biber (isteğe göre ayarlanır)",
+        "yeşil ve kırmızı biber (isteğe göre ayarlanır)",
         "3 adet patlıcan",
         "3 veya 4 adet domates (büyüklüğüne göre)",
         "3-4 diş sarımsak",
-        "Zeytinyağ",
-        "Tuz",
-        "Karabiber",
-        "Kekik"
+        "zeytinyağ",
+        "tuz",
+        "karabiber",
+        "kekik"
       ],
       "en": [
         "1 onion",
@@ -1405,11 +1405,11 @@ export const sebzeRecipes: Recipe[] = [
         "1 tane havuç",
         "1 tane kapya biber",
         "1 tane domates (püre halinde)",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 limonun suyu",
-        "Tuz",
-        "Karabiber",
-        "Pul biber",
+        "tuz",
+        "karabiber",
+        "pul biber",
         "2 su bardağı su"
       ],
       "en": [
@@ -1418,7 +1418,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 carrot",
         "1 capia pepper",
         "1 tomato (puréed)",
-        "1/2 cup olive oil",
+        "1/2 teacup olive oil",
         "Juice of 1 lemon",
         "Salt",
         "Black pepper",
@@ -1462,7 +1462,7 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım buz dolabı poşeti madımak ( buzluktan çıkarttım )",
+        "yarım buzdolabı poşeti madımak ( buzluktan çıkarttım )",
         "2 yemek kaşığı dolusu tereyağ ( sıvı yağ ile olmaz )",
         "2 yemek kaşığı bulgur",
         "2-3 tane sarımsak ( adetti isteğe bağlı yoğun sevemeyenler olabilir )",
@@ -1512,12 +1512,12 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo bamya",
+        "yarım kilo bamya",
         "2 yemek kaşığı mısır unu",
-        "2 yemek kaşığı kuru ekmek tozu(galeta unu da olur)",
+        "2 yemek kaşığı kuru ekmek tozu (galeta unu da olur)",
         "1 çay bardağı zeytinyağı",
-        "İstenilen baharatlar (ben biryani baharatı kullandım)",
-        "Tuz",
+        "istenilen baharatlar (ben biryani baharatı kullandım)",
+        "tuz",
         "1 kase yoğurt",
         "1 diş sarımsak"
       ],
@@ -1525,7 +1525,7 @@ export const sebzeRecipes: Recipe[] = [
         "1/2 kilo okra",
         "2 tablespoons corn flour",
         "2 tablespoons dried bread crumbs (bread crumb flour also works)",
-        "1 cup olive oil",
+        "1 teacup olive oil",
         "Desired spices (I used biryani spice)",
         "Salt",
         "1 bowl of yogurt",
@@ -1586,7 +1586,7 @@ export const sebzeRecipes: Recipe[] = [
         "Hazırladığımız sıcak domates sosunu kızartmaların üzerine döküyoruz. 🤤❤️",
         "Mayanın üzerini kapatın 5 dk aktifleşsin(kabarsın) maya aktifleşince ılık süt, yoğurt ve sıvı yağı ekleyip karıştırın,un ve tuzu ekleyip yoğurun ,güzelce 5-6 dk yoğurun hafif ele yapışan kıvamda olacak .",
         "Toparlamak için hamuru,hafif sıvı yağa batırın elinizi un eklemeyin,hamurun üzerini örtüp mayalanmaya bırakın 45-50 dk kadar iki katına çıkınca hamur hazırdır👍",
-        "Mayalanan hamuru ,un serptiğiniz tezgaha alın merdaneyle açın 1 parmak kalınlığında ve bir tabak yada bardakla yuvarlak şekilde çıkarın,bu arada bol yağ alıp tavaya kızdırın yağı, yuvarlak şekil verdiğiniz hamurların üzerini örtüp 5 dk daha mayalandırın.",
+        "Mayalanan hamuru ,un serptiğiniz tezgaha alın merdaneyle açın 1 parmak kalınlığında ve bir tabak ya da bardakla yuvarlak şekilde çıkarın,bu arada bol yağ alıp tavaya kızdırın yağı, yuvarlak şekil verdiğiniz hamurların üzerini örtüp 5 dk daha mayalandırın.",
         "Yağa atar atmaz hamuru bir kaşık yardımıyla üzerine sürekli içindeki yağdan atın nasıl kabardığını göreceksiniz (hamurları açarken yırtmayın kabarmaz)böylelikle hepsini pişirin nasıl dışı çıtır gözenekli ve içi yumuşacık olduğunu göreceksiniz,afıyetle yıyın🤌🏼 Not:eğer hamurlar kabarıyorsa üzerine yağ atmanıza gerek yok."
       ],
       "en": [
@@ -1625,16 +1625,16 @@ export const sebzeRecipes: Recipe[] = [
         "3 yemek kaşığı un",
         "6 yemek kaşığı irmik",
         "1 adet yumurta",
-        "Biraz kaşar rendesi",
+        "biraz kaşar rendesi",
         "2/3 yemek kaşığı sıvı yağ",
-        "Tuz",
-        "Karabiber"
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "2 zucchini",
         "1 tomato (to decorate the top)",
         "3 tablespoons flour",
-        "6 tablespoons bulgur",
+        "6 tablespoons semolina",
         "1 egg",
         "A little grated kaşar cheese",
         "2/3 tablespoon vegetable oil",
@@ -1738,19 +1738,19 @@ export const sebzeRecipes: Recipe[] = [
         "1 yemek kaşığı biber salçası",
         "1 dolu tatlı kaşığı domates salçası",
         "1 büyük diş sarımsak",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "1 çay kaşığı kimyon",
         "1 çay kaşığı pul biber",
         "1 çay kaşığı kekik",
         "1 çay kaşığı yedi türlü",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1 large onion",
         "3 large potatoes",
         "300/400 g ground beef",
         "1/2 (half) matchbox worth of tail fat (optional)",
-        "1.5 cups vegetable oil",
+        "1.5 teacups vegetable oil",
         "1 tablespoon pepper paste",
         "1 heaped teaspoon tomato paste",
         "1 large clove of garlic",
@@ -1801,13 +1801,13 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "5 adet orta boy patlıcan",
-        "Yarım çay b sıvı yağ",
+        "yarım çay b sıvı yağ",
         "150 gram kıyma",
         "1 adet büyük boy kuru soğan",
         "3 adet biber",
         "3 adet domates",
-        "Yarım yemek kaşığı salça",
-        "Tuz",
+        "yarım yemek kaşığı salça",
+        "tuz",
         "1 çay kaşığı kara biber kırmızı biber",
         "2 diş sarımsak"
       ],
@@ -1912,7 +1912,7 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "1 demet pırasa",
         "4-5 adet taze mürdüm eriği",
-        "Yarım türk kahve fincanı baldo pirinç",
+        "yarım türk kahve fincanı baldo pirinç",
         "1 küçük çay bardağı haşlanmış nohut",
         "1 adet havuç",
         "1 adet kuru soğan",
@@ -1921,14 +1921,14 @@ export const sebzeRecipes: Recipe[] = [
         "5 yemek kaşığı zeytinyağı",
         "1 tatlı kaşığı biber salçası",
         "1 çay kaşığı tuz toz tatlı biber",
-        "Yarım çay kaşığı karabiber",
+        "yarım çay kaşığı karabiber",
         "3 su bardağı su"
       ],
       "en": [
         "1 bunch leeks",
         "4-5 fresh sour cherries",
         "1/2 Turkish coffee cup of baldo rice",
-        "1 small cup of boiled chickpeas",
+        "1 small teacup of boiled chickpeas",
         "1 carrot",
         "1 onion",
         "1 capia pepper",
@@ -2119,7 +2119,7 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3-4 adet patlıcan",
-        "Yarım kilo kıyma",
+        "yarım kilo kıyma",
         "2 çay kaşığı tuz (kişiye gire değişebilir)",
         "1 çay kaşığı karabiber"
       ],
@@ -2166,12 +2166,12 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo mantar",
+        "yarım kilo mantar",
         "4 adet biber",
         "1 adet domates",
         "1 adet soğan",
         "1 yemek kaşığı salça",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "1/2 kilo mushrooms",
@@ -2229,11 +2229,11 @@ export const sebzeRecipes: Recipe[] = [
         "3 artichoke bottoms",
         "1 carrot",
         "1 potato",
-        "1/2 (half) cup of boiled peas",
+        "1/2 (half) teacup of boiled peas",
         "1/2 (half) lemon juice",
         "Juice of 1 orange",
         "A little less than 1 cup of olive oil",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "1/2 (half) teaspoon salt",
         "1 cup hot water"
       ]
@@ -2293,8 +2293,8 @@ export const sebzeRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 tatlı kaşığı karabiber",
         "1 tatlı kaşığı pulbiber",
-        "Tuz",
-        "Limon veya limon tuzu"
+        "tuz",
+        "limon veya limon tuzu"
       ],
       "en": [
         "1 kg spinach",
@@ -2356,7 +2356,7 @@ export const sebzeRecipes: Recipe[] = [
       ],
       "en": [
         "1 bunch fresh beans",
-        "Rice, 2 fingers less than a cup",
+        "Rice, 2 fingers less than a teacup",
         "1 onion",
         "1 tablespoon tomato paste",
         "1 teaspoon salt",
@@ -2401,10 +2401,10 @@ export const sebzeRecipes: Recipe[] = [
         "1 adet havuç",
         "1 yemek kaşığı tereyağı",
         "1 adet yumurta (sarısı üstü için)",
-        "Mısır unu",
+        "mısır unu",
         "1 buçuk su bardağı süt",
-        "Tuz",
-        "İçine ister lor peynir ister kaşar peynir"
+        "tuz",
+        "içine ister lor peynir ister kaşar peynir"
       ],
       "en": [
         "200 g spinach (I used frozen)",
@@ -2466,8 +2466,8 @@ export const sebzeRecipes: Recipe[] = [
         "2 diş sarımsak rendesi",
         "1 çay bardağı su",
         "2 yemek kaşığı bulgur",
-        "Toz kırmızı biber",
-        "Tuz"
+        "toz kırmızı biber",
+        "tuz"
       ],
       "en": [
         "1 bunch fresh beans",
@@ -2476,7 +2476,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 tomatoes",
         "1 teaspoon pepper paste",
         "2 cloves of grated garlic",
-        "1 cup water",
+        "1 teacup water",
         "2 tablespoons bulgur",
         "Red pepper powder",
         "Salt"
@@ -2523,8 +2523,8 @@ export const sebzeRecipes: Recipe[] = [
         "1 yemek kaşığı domates salçası",
         "1 adet iri soğan",
         "1 adet sarımsak",
-        "Tuz",
-        "Limon",
+        "tuz",
+        "limon",
         "3 yemek kaşığı zeytin yağ"
       ],
       "en": [
@@ -2547,7 +2547,7 @@ export const sebzeRecipes: Recipe[] = [
         "Üzerine bamyanın üstünü 1-2 parmak geçecek kadar sıcak su ekleyin ve limon sıkın (isterseniz limon dilimi de koyabilirsiniz).",
         "Baharatlarını da ekleyip kapağını kapatıp altını orta kısık ateşe getirip biraz kaynamaya bırakın.",
         "Çok fazla karıştırmayın ki bamyanın içindeki özünün (sümüklenmemesi için) dağılmamasını sağlayın. Karıştıracağınız zaman tahta kaşıkla hafif dokunurcasına bir karıştırma yapabilirsiniz.",
-        "Pişme durumuna göre sıcak su ilave edebilirsiniz yada daha sulu bir kıvam istiyorsanız isteğe bağlı ekleyebilirsiniz."
+        "Pişme durumuna göre sıcak su ilave edebilirsiniz ya da daha sulu bir kıvam istiyorsanız isteğe bağlı ekleyebilirsiniz."
       ],
       "en": [
         "Fry the onion and the garlic in the olive oil until they turn pale.",
@@ -2583,7 +2583,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "1 adet havuç",
         "1 çay kaşığı tuz",
-        "Yarım su bardağı su",
+        "yarım su bardağı su",
         "5 yemek kaşığı zeytinyağı"
       ],
       "en": [
@@ -2637,9 +2637,9 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet havuç",
         "2 diş sarımsak(isteğe bağlı)",
         "1 yemek kaşığı soya sosu",
-        "Yarım çay bardağı sıvı yağ",
-        "Tuz",
-        "Karabiber"
+        "yarım çay bardağı sıvı yağ",
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "400-500 g chicken breast",
@@ -2647,7 +2647,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 carrots",
         "2 cloves of garlic (optional)",
         "1 tablespoon soy sauce",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "Salt",
         "Black pepper"
       ]
@@ -2694,8 +2694,8 @@ export const sebzeRecipes: Recipe[] = [
         "1 kaşık un",
         "1 maden suyu",
         "1 kaşık nişasta",
-        "Tuz",
-        "Sıvı yağ"
+        "tuz",
+        "sıvı yağ"
       ],
       "en": [
         "1 zucchini",
@@ -2745,10 +2745,10 @@ export const sebzeRecipes: Recipe[] = [
         "1 adet orta boy patates",
         "1 parça kemiksiz, derisiz tavuk pirzola",
         "1 adet chili biberi",
-        "Yarım çay bardağı sıvı yağ",
-        "Yarım çay bardağı su",
+        "yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı su",
         "1 çay kaşığı pulbiber",
-        "Biraz karabiber",
+        "biraz karabiber",
         "1 çay kaşığı tuz",
         "1 çay kaşığı mangal çeşnisi"
       ],
@@ -2758,8 +2758,8 @@ export const sebzeRecipes: Recipe[] = [
         "1 medium potato",
         "1 piece of boneless, skinless chicken cutlet",
         "1 chili pepper",
-        "1/2 cup vegetable oil",
-        "1/2 cup water",
+        "1/2 teacup vegetable oil",
+        "1/2 teacup water",
         "1 teaspoon red pepper flakes",
         "A little black pepper",
         "1 teaspoon salt",
@@ -2868,14 +2868,14 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Küçük bir brokoli",
+        "küçük bir brokoli",
         "1 adet soğan",
         "2 adet havuç",
         "3 adet orta boy patates",
-        "Yağ",
-        "Tuz",
-        "Pul biber",
-        "Karabiber",
+        "yağ",
+        "tuz",
+        "pul biber",
+        "karabiber",
         "1 yemek kaşığı domates salçası",
         "1 tatlı kaşığı biber salçası"
       ],
@@ -2928,14 +2928,14 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo orta yağlı dana kıyma",
+        "yarım kilo orta yağlı dana kıyma",
         "1 tane orta boy kuru soğan",
         "1 su bardağı ince köftelik bulgur",
-        "Tuz",
+        "tuz",
         "1 tatlı kaşığı kuru nane",
         "1 tatlı kaşığı pul biber",
         "2 çorba kaşığı un",
-        "Yoğurmak için 1 su bardağı su"
+        "yoğurmak için 1 su bardağı su"
       ],
       "en": [
         "1/2 kilo medium-fat ground beef",
@@ -2985,7 +2985,7 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "6 adet küçük boy patlıcan",
-        "Sıvı yağ"
+        "sıvı yağ"
       ],
       "en": [
         "6 small eggplant",
@@ -3046,16 +3046,16 @@ export const sebzeRecipes: Recipe[] = [
         "1 kapya biber",
         "2 yeşil biber",
         "2 adet domates",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı karışık salça",
         "1 tatlı kaşığı kırmızı toz biber",
-        "Yarım çay kaşığı kimyon",
-        "Yarım çay kaşığı pul biber",
+        "yarım çay kaşığı kimyon",
+        "yarım çay kaşığı pul biber",
         "2 diş sarımsak",
-        "Yarım limon suyu",
-        "Tuz",
-        "İsteğe göre karabiber",
-        "Üzerini geçecek kadar sıcak su"
+        "yarım limonun suyu",
+        "tuz",
+        "isteğe göre karabiber",
+        "üzerini geçecek kadar sıcak su"
       ],
       "en": [
         "500 g shelled lima beans",
@@ -3064,7 +3064,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 capia pepper",
         "2 green peppers",
         "2 tomatoes",
-        "1/2 cup olive oil",
+        "1/2 teacup olive oil",
         "1 teaspoon mixed pepper paste",
         "1 teaspoon red pepper powder",
         "1/2 teaspoon cumin",
@@ -3134,8 +3134,8 @@ export const sebzeRecipes: Recipe[] = [
         "1 yemek kaşığı dolu dolu mısır unu",
         "1 yemek kaşığı zeytinyağı",
         "1 çay kaşığı ucuyla tuz",
-        "Toz kırmızı biber",
-        "Kajun baharatı"
+        "toz kırmızı biber",
+        "kajun baharatı"
       ],
       "en": [
         "1/2 (half) small cauliflower",
@@ -3190,10 +3190,10 @@ export const sebzeRecipes: Recipe[] = [
         "1 adet büyük boy kapya biber",
         "3 adet çarliston biber",
         "2 diş sarımsak",
-        "Çeyrek demet maydanoz",
+        "çeyrek demet maydanoz",
         "1 çay kaşığı karabiber",
         "1 çay kaşığı pul biber",
-        "Tuz",
+        "tuz",
         "3 yemek kaşığı zeytinyağı (Patlıcanları sürmek için)"
       ],
       "en": [
@@ -3251,8 +3251,8 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "13 adet küçük boy patates",
-        "Sııvı yağ",
-        "Tuz"
+        "sııvı yağ",
+        "tuz"
       ],
       "en": [
         "13 small potatoes",
@@ -3296,8 +3296,8 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "4 adet orta boy kabak",
         "10 adet taze soğan",
-        "Yarım demet taze nane",
-        "Yarım demet dereotu",
+        "yarım demet taze nane",
+        "yarım demet dereotu",
         "3 diş sarımsak",
         "2 yemek kaşığı pirinç",
         "1 adet orta boy limon",
@@ -3314,8 +3314,8 @@ export const sebzeRecipes: Recipe[] = [
         "2 tablespoons rice",
         "1 medium lemon",
         "1 heaped teaspoon salt",
-        "1.5 cups olive oil",
-        "1.5 cups cold water"
+        "1.5 teacups olive oil",
+        "1.5 teacups cold water"
       ]
     },
     "steps": {
@@ -3373,10 +3373,10 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet patlıcan",
-        "Kaynar su",
-        "Tuz",
-        "Mısır unu",
-        "Pul biber"
+        "kaynar su",
+        "tuz",
+        "mısır unu",
+        "pul biber"
       ],
       "en": [
         "2 eggplant",
@@ -3424,8 +3424,8 @@ export const sebzeRecipes: Recipe[] = [
         "1 yemek kaşığı salça",
         "3 yemek kaşığı zeytinyağı",
         "2 yemek kaşığı pirinç",
-        "Tuz",
-        "Pulbiber"
+        "tuz",
+        "pulbiber"
       ],
       "en": [
         "500 g spinach",
@@ -3482,7 +3482,7 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 orta boy kuru soğan",
         "1 adet kapya biber",
         "1 adet yeşil (çarliston) biber",
@@ -3491,13 +3491,13 @@ export const sebzeRecipes: Recipe[] = [
         "2 orta boy domates",
         "1 orta boy patates",
         "300 gram kıyma",
-        "Yarım kilo taze bamya",
-        "Karabiber",
-        "Kimyon",
-        "Tuz"
+        "yarım kilo taze bamya",
+        "karabiber",
+        "kimyon",
+        "tuz"
       ],
       "en": [
-        "1/2 cup olive oil",
+        "1/2 teacup olive oil",
         "1 medium onion",
         "1 capia pepper",
         "1 green (çarliston) pepper",
@@ -3555,13 +3555,13 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet patates",
         "1 küçük patlıcan",
         "1 adet domates",
-        "Yarım soğan",
-        "Küçük diş sarımsak",
+        "yarım soğan",
+        "küçük diş sarımsak",
         "150 gram kıyma",
-        "Yarım yemek kaşığı salça",
+        "yarım yemek kaşığı salça",
         "2-3 yemek kaşığı pulbiber",
-        "Tuz",
-        "Sıvıyağ"
+        "tuz",
+        "sıvıyağ"
       ],
       "en": [
         "2 potatoes",
@@ -3614,7 +3614,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 adet orta boy soğan",
         "2 yemek kaşığı salça",
         "1 adet orta boy havuç",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tepeleme tatlı kaşığı tuz",
         "4 kesme şeker"
       ],
@@ -3623,7 +3623,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 medium onion",
         "2 tablespoons tomato paste",
         "1 medium carrot",
-        "1/2 cup olive oil",
+        "1/2 teacup olive oil",
         "1 heaped teaspoon salt",
         "4 lump sugars"
       ]
@@ -3677,7 +3677,7 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "3 adet soğan orta veya büyük boy",
-        "Sıcak su (soğanları haşlamak için)"
+        "sıcak su (soğanları haşlamak için)"
       ],
       "en": [
         "3 onions, medium or large",
@@ -3731,7 +3731,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 tatlı kaşığı esmer şeker",
         "1 silme tatlı kaşığı tuz",
         "5 yemek kaşığı zeytinyağ",
-        "Sıcak su"
+        "sıcak su"
       ],
       "en": [
         "1 large celeriac",
@@ -3817,7 +3817,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 capia pepper",
         "2-3 cloves of garlic",
         "1 teaspoon salt",
-        "1 cup boiled peas",
+        "1 teacup boiled peas",
         "200 ml cream",
         "A handful of grated kaşar cheese"
       ]
@@ -3867,7 +3867,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet patates",
         "2 adet havuç 1 adet soğan",
         "1.5 yemek kaşığı domates salçası",
-        "Karabiber ,tuz",
+        "karabiber ,tuz",
         "1 miktar sıvı yağ"
       ],
       "en": [
@@ -3980,11 +3980,11 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "1 adet kuru soğan",
         "2 büyük diş sarımsak",
-        "Yarım kg taze fasulye",
-        "Zeytinyağı",
+        "yarım kg taze fasulye",
+        "zeytinyağı",
         "1,5 tatlı kaşığı tuz (dolu dolu)",
         "1 tatlı silme kaşığı toz şeker",
-        "Üzerini geçecek kadar sıcak su"
+        "üzerini geçecek kadar sıcak su"
       ],
       "en": [
         "1 onion",
@@ -3992,7 +3992,7 @@ export const sebzeRecipes: Recipe[] = [
         "1/2 kg fresh green beans",
         "Olive oil",
         "1.5 teaspoons salt (heaping)",
-        "1 level teaspoon powdered sugar",
+        "1 level teaspoon granulated sugar",
         "Hot water to cover"
       ]
     },
@@ -4097,11 +4097,11 @@ export const sebzeRecipes: Recipe[] = [
         "4 tane kabak",
         "1 adet kuru soğan",
         "1 adet domates",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "3 su bardağı pirinç",
-        "Tarçın",
-        "Pul biber",
-        "Karabiber",
+        "tarçın",
+        "pul biber",
+        "karabiber",
         "1 tatlı salça"
       ],
       "en": [
@@ -4159,7 +4159,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet domates",
         "1 tatlı kaşığı biber salçası",
         "1 tatlı kaşığı domates salçası",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1’er tatlı kaşığı tuz, karabiber, pulbiber",
         "1 su bardağı su"
       ],
@@ -4171,7 +4171,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 tomatoes",
         "1 teaspoon pepper paste",
         "1 teaspoon tomato paste",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "1 teaspoon each of salt, black pepper and red pepper flakes",
         "1 cup water"
       ]
@@ -4216,7 +4216,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı kırmızı toz biber",
         "1 çay kaşığı karabiber",
-        "Bir tutam kıyılmış maydanoz"
+        "bir tutam kıyılmış maydanoz"
       ],
       "en": [
         "300-400 g ground beef",
@@ -4334,7 +4334,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 çay kaşığı tuz",
         "½ çay kaşığı karabiber",
         "½ çay kaşığı kimyon",
-        "İsteğe göre pul biber"
+        "isteğe göre pul biber"
       ],
       "en": [
         "250 g ground beef",
@@ -4387,18 +4387,18 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "5 adet orta boy patates",
-        "Yeterince su",
+        "yeterince su",
         "1 yemek kaşığı tereyağ",
         "1 çay bardağı süt",
         "3 yemek kaşığı rendelenmiş kaşar peyniri",
-        "Tuz",
-        "Karabiber"
+        "tuz",
+        "karabiber"
       ],
       "en": [
         "5 medium potatoes",
         "Enough water",
         "1 tablespoon butter",
-        "1 cup milk",
+        "1 teacup milk",
         "3 tablespoons grated kaşar cheese",
         "Salt",
         "Black pepper"
@@ -4412,7 +4412,7 @@ export const sebzeRecipes: Recipe[] = [
         "Son olarak haşlanmış bezelyeleri de ekleyip bir iki dakika daha pişirerek ocaktan alalım.",
         "Fırın tepsi üzerine harcı dökelim tepsinin her yerine harcı yayalım. ️.",
         "Haşlanmış patatesin suyunu süzelim,üzerine tereyağını ekleyelim ve patatesi ezelim üzerine sütü, tuz ve karabiberini ekleyelim püre haline getirelim.",
-        "Patates püreyi harcın üzerine görseldeki gibi eşit şekilde dökelim.",
+        "Patates püreyi harcın üzerine görseldeki gibi eşit şekilde dökelim.",
         "Üzerine kaşar rendesi serpiştirip önceden ısıtılmış 180 derece fırında peynir kızarana kadar pişirelim. Afiyet olsun."
       ],
       "en": [
@@ -4450,10 +4450,10 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet orta boy domates",
         "5 diş sarımsak",
         "1 adet soğan",
-        "Zeytinyağı",
-        "Tuz",
-        "Pul biber",
-        "Karabiber",
+        "zeytinyağı",
+        "tuz",
+        "pul biber",
+        "karabiber",
         "1 su bardağı sıcak su"
       ],
       "en": [
@@ -4576,7 +4576,7 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kg pırasa",
+        "yarım kg pırasa",
         "3 adet havuç",
         "7 adet mürdüm eriği",
         "1 çay bardağı haşlanmış nohut",
@@ -4585,17 +4585,17 @@ export const sebzeRecipes: Recipe[] = [
         "1 yemek kaşığı toz şeker",
         "2 yemek kaşığı kuş üzümü",
         "1 çay kaşığı karabiber",
-        "Tuz",
+        "tuz",
         "1.5 lt su"
       ],
       "en": [
         "1/2 kg leek",
         "3 carrots",
         "7 sour cherries",
-        "1 cup boiled chickpeas",
-        "1 cup olive oil",
+        "1 teacup boiled chickpeas",
+        "1 teacup olive oil",
         "1 tablespoon tomato paste",
-        "1 tablespoon powdered sugar",
+        "1 tablespoon granulated sugar",
         "2 tablespoons currants",
         "1 teaspoon black pepper",
         "Salt",
@@ -4692,14 +4692,14 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo taze bamya",
+        "yarım kilo taze bamya",
         "1 adet orta boy soğan",
         "2 adet yeşil biber",
         "1 adet domates",
         "1 yemek kaşığı salça",
         "2 yemek kaşığı zeytinyağ",
-        "Yarım limon",
-        "Tuz"
+        "yarım limon",
+        "tuz"
       ],
       "en": [
         "1/2 kilo fresh okra",
@@ -4766,7 +4766,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 cloves of garlic",
         "3 medium tomatoes (meaty and juicy)",
         "1 cup hot water",
-        "1 teaspoon powdered sugar",
+        "1 teaspoon granulated sugar",
         "2 teaspoons salt"
       ]
     },
@@ -4818,7 +4818,7 @@ export const sebzeRecipes: Recipe[] = [
         "2 çay kaşığı tavuk bulyon tozu",
         "2 çay kaşığı sarımsak tozu",
         "1 çay kaşığı kırmızı toz biber",
-        "Tuz",
+        "tuz",
         "1 adet yumurta",
         "1 su bardağı rendelenmiş mozzarella veya kaşar peyniri"
       ],
@@ -4871,8 +4871,8 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet yumurta",
         "3 yemek kaşığı tepeleme un",
         "1 tatlı kaşığı silme karabiber",
-        "Pul biber",
-        "Toz biber",
+        "pul biber",
+        "toz biber",
         "1 çay kaşığı tepeleme tuz"
       ],
       "en": [
@@ -4968,7 +4968,7 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "300 gr taze fasulye",
         "1 adet kuru soğan (küp doğranmış)",
         "2 adet yeşil sivri biber (küp doğranmış)",
@@ -4984,7 +4984,7 @@ export const sebzeRecipes: Recipe[] = [
         "3,5 su bardağı su"
       ],
       "en": [
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "300 g fresh green beans",
         "1 onion (diced)",
         "2 green pointed peppers (diced)",
@@ -5040,17 +5040,17 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "​Yarım kg bamya",
-        "​1 su bardağı haşlanmış nohut",
-        "​400 gram kırmızı et (kuşbaşından biraz küçük doğranmış)",
-        "​1 adet limon",
-        "​1 adet soğan",
-        "​1 adet domates",
-        "​2 yemek kaşığı salça",
-        "​3 yemek kaşığı nar ekşisi",
-        "​1 tatlı kaşığı kuru nane",
-        "​Zeytinyağı",
-        "​Tuz"
+        "yarım kg bamya",
+        "1 su bardağı haşlanmış nohut",
+        "400 gram kırmızı et (kuşbaşından biraz küçük doğranmış)",
+        "1 adet limon",
+        "1 adet soğan",
+        "1 adet domates",
+        "2 yemek kaşığı salça",
+        "3 yemek kaşığı nar ekşisi",
+        "1 tatlı kaşığı kuru nane",
+        "zeytinyağı",
+        "tuz"
       ],
       "en": [
         "1/2 kg okra",
@@ -5078,7 +5078,7 @@ export const sebzeRecipes: Recipe[] = [
         "Yemek piştikten sonra ocağı kapatın ve 3 yemek kaşığı nar ekşisini ilave edip karıştırın.",
         "Ayrı bir tavada zeytinyağını ısıtıp kuru naneyi ekleyin ve naneyi kısa süre yağda yakmadan kızdırın.",
         "Hazırladığınız naneli yağı yemeğin üzerine gezdirip karıştırın.",
-        "Birkaç dakika dinlendirdikten sonra servis edin. ​afiyet olsun."
+        "Birkaç dakika dinlendirdikten sonra servis edin. afiyet olsun."
       ],
       "en": [
         "Take the olive oil in the pot and fry the meat on high heat until it releases and then absorbs its liquid.",
@@ -5119,7 +5119,7 @@ export const sebzeRecipes: Recipe[] = [
         "1 çay kaşığı kimyon",
         "4 yemek kaşığı galeta unu",
         "1 çimdik karbonat",
-        "Karabiber",
+        "karabiber",
         "3 tane patates"
       ],
       "en": [
@@ -5174,7 +5174,7 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Sarma veya dolmanızdan artan harç"
+        "sarma veya dolmanızdan artan harç"
       ],
       "en": [
         "The leftover filling from your sarma or dolma"
@@ -5267,8 +5267,8 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet sarımsak",
         "2 yemek kaşığı tereyağı",
         "1 adet patlıcan",
-        "Tuz",
-        "Pulbiber"
+        "tuz",
+        "pulbiber"
       ],
       "en": [
         "7 – 8 tomatoes",
@@ -5312,10 +5312,10 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım kilo bamya",
-        "Vişne ( çorba kasesi kadar çekirdekleri çıkartılmış olacak)",
+        "yarım kilo bamya",
+        "vişne ( çorba kasesi kadar çekirdekleri çıkartılmış olacak)",
         "1 su bardağına yakın zeytinyağı",
-        "Yarım limon suyu",
+        "yarım limonun suyu",
         "1-1,5 su bardağı su",
         "2 çay kaşığı tuz",
         "1 adet kırmızı soğan",
@@ -5368,12 +5368,12 @@ export const sebzeRecipes: Recipe[] = [
       "tr": [
         "2 adet bostan patlıcanı",
         "1 çay kaşığı tuz ve karabiber",
-        "Çeyrek çay bardağı sıvı yağ"
+        "çeyrek çay bardağı sıvı yağ"
       ],
       "en": [
         "2 field eggplants",
         "1 teaspoon salt and black pepper",
-        "1/4 cup vegetable oil"
+        "1/4 teacup vegetable oil"
       ]
     },
     "steps": {
@@ -5416,22 +5416,22 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "​3 büyük boy yeşil domates",
-        "​1 adet orta boy soğan",
-        "​2-3 diş sarımsak",
-        "​Yarım çay bardağı zeytinyağı",
-        "​Yarım çay bardağı pirinç",
-        "​1 su bardağı su",
-        "​1 yemek kaşığı kıyılmış taze nane",
-        "​1 yemek kaşığı kıyılmış dereotu",
-        "Tuz"
+        "3 büyük boy yeşil domates",
+        "1 adet orta boy soğan",
+        "2-3 diş sarımsak",
+        "yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı pirinç",
+        "1 su bardağı su",
+        "1 yemek kaşığı kıyılmış taze nane",
+        "1 yemek kaşığı kıyılmış dereotu",
+        "tuz"
       ],
       "en": [
         "3 large green tomatoes",
         "1 medium onion",
         "2-3 cloves of garlic",
-        "1/2 cup olive oil",
-        "1/2 cup rice",
+        "1/2 teacup olive oil",
+        "1/2 teacup rice",
         "1 cup water",
         "1 tablespoon chopped fresh mint",
         "1 tablespoon chopped dill",
@@ -5483,8 +5483,8 @@ export const sebzeRecipes: Recipe[] = [
         "1,5 yemek kaşığı domates salçası",
         "1 tatlı kaşığı dolusu biber salçası",
         "1 su bardağı sıvı yağ",
-        "Yarım demet maydanoz",
-        "Yarım kilo asma yaprağı",
+        "yarım demet maydanoz",
+        "yarım kilo asma yaprağı",
         "2 adet patlıcan",
         "5 adet dolmalık biber",
         "1 baş kuru soğan"
@@ -5539,7 +5539,7 @@ export const sebzeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet girit kabağı (açık yeşil renkli kabakta olur)",
-        "Tuz"
+        "tuz"
       ],
       "en": [
         "2 zucchini (it can also be made with the light green zucchini)",
@@ -5552,7 +5552,7 @@ export const sebzeRecipes: Recipe[] = [
         "Tuz ile karıştırıp bir süzgeçte suyunun süzülmesi için 30 dakika kenara alın.",
         "Kaplama sosu için tüm malzemeleri bir kapta tuz ve karabiber ilavesi ile çırparak pürüzsüz bir kıvam elde edin.",
         "Sosu kabakların suyu süzülene kadar buzdolabında bekletin.",
-        "Hafif suyu çıkıp yumuşayan kabakları havlu kağıt yada mutfak bezi ile kurulayın.",
+        "Hafif suyu çıkıp yumuşayan kabakları havlu kağıt ya da mutfak bezi ile kurulayın.",
         "Ocağın büyük gözünde orta-yüksek ateşte yağı bir tavada kızdırın. Kabakları sosa bulayıp fazlasından kurtulduktan sonra tek tek yağa bırakın.",
         "Yağa attıktan 2,5 dakika sonra rengini de kontrol edip tek tek çevirin. 2 dakika kadarda çevirdiğiniz yüzler kızarıp pişince kabakları kevgirler kağıt havlu serili tabağa alın.",
         "Servis için; yanında yoğurt bazlı dip soslar ile servis edebilirsiniz."
@@ -5590,9 +5590,9 @@ export const sebzeRecipes: Recipe[] = [
         "1 yemek kaşığı sıvı yağ",
         "1 yemek kaşığı domates salçası",
         "1 çay kaşığı pul biber",
-        "Yarım çay kaşığı karabiber",
-        "Yarım çay kaşığı kekik",
-        "Yarım çay kaşığı tuz"
+        "yarım çay kaşığı karabiber",
+        "yarım çay kaşığı kekik",
+        "yarım çay kaşığı tuz"
       ],
       "en": [
         "300 g chicken breast",
@@ -5653,10 +5653,10 @@ export const sebzeRecipes: Recipe[] = [
         "2 adet orta boy domates",
         "2 yemek kaşığı tepeleme domates salçası",
         "4-5 yemek kaşığı sıvı yağ",
-        "Yaklaşık 2 litre sıcak su",
+        "yaklaşık 2 litre sıcak su",
         "1 tatlı kaşığı tuz",
-        "İsteğe göre karabiber",
-        "Pul biber"
+        "isteğe göre karabiber",
+        "pul biber"
       ],
       "en": [
         "4 medium eggplant (or 6 small eggplant)",
@@ -5811,17 +5811,17 @@ export const sebzeRecipes: Recipe[] = [
         "3 adet kabak",
         "2 yemek kaşığı pirinç",
         "1 adet kuru soğan",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 çay kaşığı tuz",
         "1 çay kaşığı kuru nane",
-        "Yarım demet dereotu",
+        "yarım demet dereotu",
         "1 su bardağı su"
       ],
       "en": [
         "3 zucchini",
         "2 tablespoons rice",
         "1 onion",
-        "1/2 cup vegetable oil",
+        "1/2 teacup vegetable oil",
         "1 teaspoon salt",
         "1 teaspoon dried mint",
         "1/2 bunch dill",
@@ -5866,14 +5866,14 @@ export const sebzeRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Kemikli ya da kemiksiz et",
-        "Yarım kilo taze fasulye",
+        "kemikli ya da kemiksiz et",
+        "yarım kilo taze fasulye",
         "1 avuç kadar barbunya",
         "3-4 tane domates",
         "2 diş sarımsak",
-        "Yarım yemek kaşığı biber salçası",
-        "Yarım yemek kaşığı domates salçası",
-        "Sıvı yağ yada kuyruk yağı"
+        "yarım yemek kaşığı biber salçası",
+        "yarım yemek kaşığı domates salçası",
+        "sıvı yağ ya da kuyruk yağı"
       ],
       "en": [
         "Meat with bone or boneless",
@@ -5938,7 +5938,7 @@ export const sebzeRecipes: Recipe[] = [
         "2-3 adet yeşil biber",
         "5 adet orta boy domates",
         "1 çorba kaşığı tereyağı",
-        "Yarım çay bardağı zeytinyağı",
+        "yarım çay bardağı zeytinyağı",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı pul biber"
       ],
@@ -5949,14 +5949,14 @@ export const sebzeRecipes: Recipe[] = [
         "2-3 green peppers",
         "5 medium tomatoes",
         "1 tablespoon butter",
-        "1/2 cup olive oil",
+        "1/2 teacup olive oil",
         "1 teaspoon salt",
         "1 teaspoon red pepper flakes"
       ]
     },
     "steps": {
       "tr": [
-        "Öncelikle fasulyeleri yıkayıp isteğe bağlı olarak dilimleyebilirsiniz yada kırabilirsiniz.",
+        "Öncelikle fasulyeleri yıkayıp isteğe bağlı olarak dilimleyebilirsiniz ya da kırabilirsiniz.",
         "Domates, biber ve sarımsakları görseldeki gibi doğrayıp hazır ediyoruz.",
         "Tencereyi ocağa alıp zeytinyağı ve tereyağını ekleyip, eriyince üzerine soğanı bütünüyle koyup üzerine sırasıyla fasulye, domates, biber ve sarımsağı ekleyip pul biber ve tuzu da koyarak kapağını kapatıyoruz. Altı kısık ateşte 1, 1buçuk saat kadar pişiriyoruz. Arada karıştırmayı tavsiye ediyorum.",
         "Fasulyeler piştiğinde ocağın altını kapatıp biraz dinlendirin (bir kenarda fasulyeyi kaşıkla ezerek kolay bölünüyorsa piştiğini anlayabilirsiniz) İster ılık ister sıcak yiyebilirsiniz. Şimdiden afiyet olsun."

@@ -152,6 +152,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
           find: messages.findRecipes,
           analyzing: messages.analyzing,
         }}
+        locale={locale}
         onResults={(r) => setResults(r)}
         onLoading={setLoading}
       />

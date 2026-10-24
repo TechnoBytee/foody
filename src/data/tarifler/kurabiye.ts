@@ -136,7 +136,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 kahve fincanı sıvı yağ",
         "4 çorba kaşığı buğday nişastası",
         "1 su bardağı pudra şekeri",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "1 packet butter or margarine (it must be soft, 250 g)",
@@ -148,7 +148,7 @@ export const kurabiyeRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Margarin yada tereyağı, sıvı yağ ve pudra şekerinin 1 su bardağını yoğuruyoruz. Kalan yarım bardaklık pudra şekeri üzeri için kullanılacak.",
+        "Margarin ya da tereyağı, sıvı yağ ve pudra şekerinin 1 su bardağını yoğuruyoruz. Kalan yarım bardaklık pudra şekeri üzeri için kullanılacak.",
         "5 dk. yoğurduktan sonra nişasta ve unu ilave ediyoruz. İyice yoğuracağız çünkü hamur parçalanacaktır.",
         "Şekil verirken 2 adet ceviz büyüklüğünde bir parça koparıp rulo şekline getirin.",
         "Sağ, sol ve üst kısmına çatalla şekil verip yan yan kesin.(Resimden faydalanabilirsiniz).",
@@ -189,7 +189,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "200 gram oda sıcaklığında tereyağı ya da margarin",
         "1 yumurta sarısı (akını üzeri için ayırın)",
         "1 paket vanilya",
-        "Yeterince un (yaklaşık 3,5 su bardağı)"
+        "yeterince un (yaklaşık 3,5 su bardağı)"
       ],
       "en": [
         "1 cup sugar",
@@ -208,7 +208,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "Hamuru yoğurma işlemi bittiğinde kurabiyeleri ceviz büyüklüğünde elinizde yuvarlayın.",
         "Kurabiyelerin üst kısmını önce yumurta akına batırın daha sonra kırılmış cevize bulayın.",
         "Pişirme kağıdı serdiğiniz fırın tepsisine aralarında boşluk olacak şekilde sıralayın. Ben 30 adet kurabiye elde ettim.",
-        "Kurabiyelerimizi yaklaşık 180 derece önceden ısıtılmış fırında  hafif pembeleşinceye kadar yaklaşık 30 dakika pişirelim.",
+        "Kurabiyelerimizi yaklaşık 180 derece önceden ısıtılmış fırında hafif pembeleşinceye kadar yaklaşık 30 dakika pişirelim.",
         "Sürenin sonunda pişen kurabiyelerimiz hazır. Afiyet olsun!"
       ],
       "en": [
@@ -244,11 +244,11 @@ export const kurabiyeRecipes: Recipe[] = [
         "150 gr tereyağı veya margarin",
         "1 çay bardağı pudra şekeri",
         "1 yemek kaşığı su",
-        "Yarım paket vanilya",
-        "Yarım paket kabartma tozu",
+        "yarım paket vanilya",
+        "yarım paket kabartma tozu",
         "1 çay kaşığı tarçın",
         "1 su bardağı çekilmiş ceviz",
-        "Yarım su bardağı damla çikolata",
+        "yarım su bardağı damla çikolata",
         "2,5 su bardağı un"
       ],
       "en": [
@@ -324,10 +324,10 @@ export const kurabiyeRecipes: Recipe[] = [
     },
     "steps": {
       "tr": [
-        "Ağızda dağılan tuzlu kurabiyelerin hamuru için öncelikle, yoğurma kabına oda sıcaklığında yumuşamış tereyağı, sıvı yağ, birinin sarısını üzeri için ayırdığımız yumurtalar, tuz, şeker, sirke ve son olarak kullanacağımız unun bir kısmını ekleyerek hamuru yoğuralım.  Ele yapışmayan yumuşak bir hamur elde etmemiz gerekiyor.",
+        "Ağızda dağılan tuzlu kurabiyelerin hamuru için öncelikle, yoğurma kabına oda sıcaklığında yumuşamış tereyağı, sıvı yağ, birinin sarısını üzeri için ayırdığımız yumurtalar, tuz, şeker, sirke ve son olarak kullanacağımız unun bir kısmını ekleyerek hamuru yoğuralım. Ele yapışmayan yumuşak bir hamur elde etmemiz gerekiyor.",
         "Hamuru toparladıktan sonra önce hamurdan büyük bir parça alıp tezgahta elimizle rulo haline getirelim.",
         "Parmak uçlarımızla bastırarak hamuru biraz düzleştirdikten sonra, bir bıçak yardımıyla verev şeklinde eşit büyüklükte keselim. Bu ölçülerle ben 70 adet kurabiye elde ettim.",
-        "Tüm hamur bitinceye kadar şekillendirdiğiniz kurabiyeleri pişirme kağıdı serdiğimiz fırın tepsisine aralıklı olarak yerleştirelim.  Ayırdığımız yumurta sarısını da üzerlerine sürelim. Bu arada, yumurta sarısına biraz sıvı yağ ilave ederek kıvamını açabilirsiniz.",
+        "Tüm hamur bitinceye kadar şekillendirdiğiniz kurabiyeleri pişirme kağıdı serdiğimiz fırın tepsisine aralıklı olarak yerleştirelim. Ayırdığımız yumurta sarısını da üzerlerine sürelim. Bu arada, yumurta sarısına biraz sıvı yağ ilave ederek kıvamını açabilirsiniz.",
         "İsteğe bağlı üzerlerine susam, çörek otu, mavi haşhaş serpiştirelim.",
         "Hazırladığımız kurabiyeleri, önceden 170 dereceye ısıttığımız fırında alt üst fansız ayarda 20 dakika boyunca pişmeye bırakalım.",
         "Sürenin sonunda kurabiyelerimizi fırından alalım ve oda sıcaklığına gelinceye kadar dinlendirelim ve servis edelim. Afiyet olsun!"
@@ -360,8 +360,8 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı ılık su",
-        "Yarım çay bardağından az sıvı yağ",
+        "yarım su bardağı ılık su",
+        "yarım çay bardağından az sıvı yağ",
         "1 yemek kaşığı şeker",
         "1 paket vanilya",
         "1,5 su bardağı un (gerekirse 1-2 kaşık daha eklenebilir)"
@@ -484,7 +484,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "200 gram tereyağ (oda ısısında)",
         "1 çay bardağı sıvı yağ",
-        "Yarım çay bardağı toz şeker",
+        "yarım çay bardağı toz şeker",
         "1 kaşık yoğurt",
         "1 çay kaşığı kabartma tozu",
         "1 tane vanilin",
@@ -544,12 +544,12 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "100 gram oda ısısında margarin yada tereyağı",
-        "Yarım çay bardağı şeker",
-        "Yarım çay bardağı esmer şeker (yoksa 2 tatlı kaşığı pekmezi toz şekerle güzelce karıştırın)",
+        "100 gram oda ısısında margarin ya da tereyağı",
+        "yarım çay bardağı şeker",
+        "yarım çay bardağı esmer şeker (yoksa 2 tatlı kaşığı pekmezi toz şekerle güzelce karıştırın)",
         "1 adet yumurta",
         "1 paket vanilin",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "2 silme su bardağı un",
         "1 su bardağı damla çikolata"
       ],
@@ -603,7 +603,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 yemek kaşığı şeker",
         "1 tatlı kaşığı tuz",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "2 yemek kaşığı elma sirkesi",
         "3-3,5 su bardağı un"
       ],
@@ -654,7 +654,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "200 gram margarin veya tereyağ",
         "200 gram labne",
-        "Yarım çay bardağı pudra şekeri",
+        "yarım çay bardağı pudra şekeri",
         "1 adet yumurta sarısı",
         "1 çay kaşığı karbonat ve karbonatı aktifleştirmek için birkaç damla limon",
         "2,5 su bardağından biraz fazla un"
@@ -835,7 +835,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 egg",
         "1 packet of vanilla",
         "1 teaspoon baking powder",
-        "1 tablespoon cocoa powder",
+        "1 teaspoon cocoa powder",
         "1 teaspoon cinnamon",
         "3 cups flour"
       ]
@@ -986,7 +986,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 su bardağı damla çikolata",
         "1 paket vanilin",
         "1 paket kabartma tozu",
-        "Aldığı kadar un ( yaklaşık 4 su bardağı un)"
+        "aldığı kadar un ( yaklaşık 4 su bardağı un)"
       ],
       "en": [
         "200 g butter",
@@ -1043,8 +1043,8 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay kaşığı karbonat",
         "1 çimdik tuz",
         "1 yemek kaşığı mısır nişastası",
-        "Sütlü veya bitter damla çikolata",
-        "İsteğe bağlı kakao"
+        "sütlü veya bitter damla çikolata",
+        "isteğe bağlı kakao"
       ],
       "en": [
         "175 g butter or margarine",
@@ -1171,11 +1171,11 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "125 gr margarin",
-        "Yarım su bardağından 1 parmak eksik pudra şekeri",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım su bardağından 1 parmak eksik pudra şekeri",
+        "yarım çay bardağı sıvı yağ",
         "1 paket vanilya",
         "1 yemek kaşığı kakao",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "125 g margarine",
@@ -1225,7 +1225,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet büyük boy elma",
-        "Yarım çay bardağı toz şekeri",
+        "yarım çay bardağı toz şekeri",
         "1 tatlı kaşığı tarçın",
         "1 çay bardağı iri dökülmüş ceviz"
       ],
@@ -1275,8 +1275,8 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "250 gram margarin veya tereyağı",
-        "Yarım su bardağından biraz az sıvı yağ",
-        "Yarım su bardağından biraz fazla pudra şekeri",
+        "yarım su bardağından biraz az sıvı yağ",
+        "yarım su bardağından biraz fazla pudra şekeri",
         "1 adet yumurta",
         "1 tatlı kaşığı kabartma tozu",
         "3,5 – 4 su bardağı kadar un (kontrolü ekleyin)"
@@ -1339,7 +1339,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "125 gram oda sıcaklığın margarin",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 adet yumurta",
         "1 su bardağı pudra şekeri",
         "1 su bardağı mısır nişastası",
@@ -1406,7 +1406,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "125 gram tereyağı",
         "1 su bardağı sıvı yağ (1 parmak eksik olacak)",
-        "Yarım su bardağı şeker",
+        "yarım su bardağı şeker",
         "1 tane kabartma tozu",
         "3-4 su bardağı un",
         "2 tane yumurta (sarısı içine beyazı üzeri için)",
@@ -1464,7 +1464,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "250 gram tereyağı",
         "1 çay bardağı sıvı yağ",
-        "Yarım kahve fincanı sirke",
+        "yarım kahve fincanı sirke",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı toz şeker",
         "2 adet yumurta (birinin sarısı üzeri için)",
@@ -1488,7 +1488,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "Kabartma tozu ve unu yavaş yavaş ilave ederek yumuşak kıvamlı bir hamur elde edelim.",
         "Hamurdan küçük parçalar alarak rulo şeklini verelim.",
         "Birinin uç kısmını diğerinin üzerine kapatalım. Pişirme kağıdı serili fırın tepsisine yerleştirelim ve üzerlerine yumurta sarısı sürelim.",
-        "Susam ve çörek otu serperek önceden ısıtılmış 180°c fırında yaklaşık 20 dakika pişirelim.  Biz bu ölçüler ile 50 adet kurabiye elde ettik."
+        "Susam ve çörek otu serperek önceden ısıtılmış 180°c fırında yaklaşık 20 dakika pişirelim. Biz bu ölçüler ile 50 adet kurabiye elde ettik."
       ],
       "en": [
         "Start kneading in a mixing bowl by adding the butter, vegetable oil, vinegar, salt, sugar and the eggs, one of which you set the yolk of aside for the tops.",
@@ -1586,7 +1586,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 paket kabartma tozu",
         "1 paket vanilya",
         "1 çay bardağı damla çikolata",
-        "•1 çay bardağı kıyılmış fındık içi",
+        "1 çay bardağı kıyılmış fındık içi",
         "3.5-4 su bardağı un"
       ],
       "en": [
@@ -1638,15 +1638,15 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 çay bardağı pudra şekeri",
         "1 yemek kaşığı nişasta",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "2 paket kabartma tozu",
         "1 paket vanilya",
         "3,5-4 su bardağı un",
-        "Kakao",
+        "kakao",
         "Antep fıstığı tozu",
-        "Kırılmış ceviz",
-        "Tarçın",
-        "Mavi haşhaş"
+        "kırılmış ceviz",
+        "tarçın",
+        "mavi haşhaş"
       ],
       "en": [
         "200 g butter or margarine",
@@ -1704,7 +1704,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 tatlı kaşığı mahlep",
         "1 paket kabartma tozu",
         "1 su bardağı un",
-        "Aldığı kadar nişasta"
+        "aldığı kadar nişasta"
       ],
       "en": [
         "125 g butter",
@@ -1811,7 +1811,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "1 paket tereyağı yada margarin (250 gram)",
+        "1 paket tereyağı ya da margarin (250 gram)",
         "2 buçuk su bardağı un",
         "1 su bardağı nişasta",
         "1 su bardağı pudra şekeri",
@@ -1827,7 +1827,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 cup powdered sugar",
         "1 packet baking powder",
         "2 packets vanilla",
-        "2 tablespoons cocoa powder (for the tops)"
+        "2 teaspoons cocoa powder (for the tops)"
       ]
     },
     "steps": {
@@ -1873,7 +1873,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "125 gram oda sıcaklığında tereyağı veya margarin",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 adet yumurta",
         "3 yemek kaşığı nişasta (mısır- buğday farketmez)",
         "1 su bardağı pudra şekeri",
@@ -1997,11 +1997,11 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 adet yumurta",
-        "1 adet kabartma tozu",
+        "1 paket kabartma tozu",
         "2 çay kaşığı nişasta",
-        "Yarım su bardağı pudra şekeri",
+        "yarım su bardağı pudra şekeri",
         "150 gram margarin",
-        "Yarım su bardağı sıvı yağ",
+        "yarım su bardağı sıvı yağ",
         "3 bardak un yavaş yavaş ekleyerek",
         "2 yemek kaşığı süt"
       ],
@@ -2107,7 +2107,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "250 gram yumuşamış tereyağı",
-        "Yarım su bardağı pudra şekeri",
+        "yarım su bardağı pudra şekeri",
         "1 yumurta",
         "1 yemek kaşığı yoğurt",
         "1 paket vanilya",
@@ -2162,7 +2162,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay bardağı sirke",
         "1 çay kaşığı tuz",
         "1 paket kabartma tozu",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "1 packet margarine",
@@ -2207,11 +2207,11 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "75 gram tereyağı",
-        "Yarım çay bardağı pudra şeker",
-        "Çeyrek çay bardağı sıvı yağ",
+        "yarım çay bardağı pudra şeker",
+        "çeyrek çay bardağı sıvı yağ",
         "1 tatlı kaşığı yoğurt",
         "1 yumurta akı (sarısı üzeri için)",
-        "Yarım paket kabartma tozu",
+        "yarım paket kabartma tozu",
         "2-2,5 su bardağı un (kontrollü ekleyin)"
       ],
       "en": [
@@ -2269,9 +2269,9 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 paket vanilya",
         "1 çay kaşığı toz maya",
         "4 su bardağı un",
-        "Yarım su bardağı erimiş tereyağı",
-        "Yarım su bardağı süt krema",
-        "Küçük 1 bağ ıspanak yaprakları (130 gram)"
+        "yarım su bardağı erimiş tereyağı",
+        "yarım su bardağı süt krema",
+        "küçük 1 bağ ıspanak yaprakları (130 gram)"
       ],
       "en": [
         "1 egg",
@@ -2329,7 +2329,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "125 gram tereyağı",
         "1 çay bardağı sıvı yağ",
         "2 yemek kaşığı pudra şekeri",
-        "2 adet yumurta birinin sarısı üzerine sürmek için •1 tatlı kaşığı tuz",
+        "2 adet yumurta birinin sarısı üzerine sürmek için 1 tatlı kaşığı tuz",
         "1 tatlı kaşığı sirke",
         "1 paket kabartma tozu",
         "3.5 su bardağı un",
@@ -2438,11 +2438,11 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "1 adet yumurta (beyazı üzerine)",
         "1 su bardağı sıvı yağ",
-        "Yarım su bardağı zeytinyağı",
+        "yarım su bardağı zeytinyağı",
         "1 tatlı kaşığı tuz",
         "1 çay kaşığı şeker",
-        "Yarım paket kabartma tozu",
-        "Aldığı kadar un"
+        "yarım paket kabartma tozu",
+        "aldığı kadar un"
       ],
       "en": [
         "1 egg (the white for the tops)",
@@ -2485,7 +2485,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "id": "nefis-kurabiye-1344",
     "name": {
       "tr": "Eti Cin Kurabiye",
-      "en": "Etiçin Flower Cookies"
+      "en": "Eti Cin Flower Cookies"
     },
     "cuisine": "kurabiye",
     "time": 50,
@@ -2496,8 +2496,8 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 su bardağı pudra şekeri",
         "1 adet yumurta",
         "3 su bardağı un",
-        "1 adet vanilya",
-        "1 adet kabartma tozu"
+        "1 paket vanilya",
+        "1 paket kabartma tozu"
       ],
       "en": [
         "250 g butter or margarine",
@@ -2518,7 +2518,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ],
       "en": [
         "Put all the ingredients into a bowl over the melted butter. Add the flour slowly and carefully to make the dough.",
-        "Place the dough between two sheets of baking paper, roll it out to a thickness of 1 cm and cut out shapes with a glass. Make small balls from the dough and shape them like etiçin flowers.",
+        "Place the dough between two sheets of baking paper, roll it out to a thickness of 1 cm and cut out shapes with a glass. Make small balls from the dough and shape them like Eti Cin flower cookies.",
         "Bake in an oven at 170 degrees with no top or bottom fan.",
         "Put the orange juice, water, starch and turmeric into a saucepan and stir over the heat until it thickens.",
         "Pour the orange sauce into the centers of the cooled cookies and add glaze and sugar decorations on top."
@@ -2545,7 +2545,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "250 gram tereyağ",
         "1 su bardağı toz şeker",
         "2 adet yumurta (1’inin beyazı ayrılacak)",
-        "Yarım su bardağı badem unu",
+        "yarım su bardağı badem unu",
         "1 su bardağı nişasta",
         "2 su bardağı un (kontrollü ekleyin)",
         "1 paket vanilya",
@@ -2710,8 +2710,8 @@ export const kurabiyeRecipes: Recipe[] = [
         "1,5 su bardağı pudra şekeri",
         "1 paket vanilya",
         "3 su bardağı kadar un",
-        "Kakao",
-        "Damla çikolata"
+        "kakao",
+        "damla çikolata"
       ],
       "en": [
         "250 g margarine or butter",
@@ -2762,9 +2762,9 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 yumurta",
         "1 çay bardağı nişasta",
         "1 paket vanilya",
-        "Yarım paket kabartma tozu",
-        "Aldığı kadar un",
-        "Gıda boyası"
+        "yarım paket kabartma tozu",
+        "aldığı kadar un",
+        "gıda boyası"
       ],
       "en": [
         "250 g margarine",
@@ -2858,7 +2858,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "125 gram tereyağ yada margarin",
+        "125 gram tereyağ ya da margarin",
         "1 yumurta",
         "1/2 (yarım) su bardağı toz şeker(tatlı seviyorsanız 1 su bardağı ekleyin ama tarçının tatlılığı olduğu için yaptığım ölçüyü veriyorum)",
         "2 yemek kaşığı yoğurt",
@@ -2914,7 +2914,7 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "125 gram tereyağı yada margarin",
+        "125 gram tereyağı ya da margarin",
         "1 yumurta",
         "1 su bardağından 1 parmak eksik şeker",
         "2 yemek kaşığı pekmez (doğal pekmez ise 1 yemek kaşığı)",
@@ -2922,7 +2922,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1/2 (yarım) çay kaşığı tuz",
         "2 su bardağı un",
         "1/2 (yarım) çay kaşığı karbonat",
-        "160 gram isteğe bağlı  çikolata (sütlü, bitter)"
+        "160 gram isteğe bağlı çikolata (sütlü, bitter)"
       ],
       "en": [
         "125 g butter or margarine",
@@ -2975,8 +2975,8 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "2 adet yumurta",
-        "Yarım su bardağı toz şeker",
-        "Yarım su bardağı esmer şeker",
+        "yarım su bardağı toz şeker",
+        "yarım su bardağı esmer şeker",
         "150 gram tereyağı",
         "1 paket vanilya",
         "1 paket kabartma tozu",
@@ -3087,7 +3087,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "6 elma rendesi",
         "3 yemek kaşığı şeker",
         "1 çay kaşığı tarçın",
-        "Bir fincan ceviz içi"
+        "bir fincan ceviz içi"
       ],
       "en": [
         "6 grated apples",
@@ -3193,12 +3193,12 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "1 su bardağı sıvı yağ",
-        "Yarım su bardağı su",
+        "yarım su bardağı su",
         "2 tatlı kaşığı şeker",
         "1 tatlı kaşığı tuz",
         "1 yumurta sarısı",
         "1 paket vanilya",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "1 cup vegetable oil",
@@ -3248,7 +3248,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay bardağı sıvı yağ",
         "3 yemek kaşığı pudra şekeri",
         "1 su bardağı hindistan cevizi",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "1 packet margarine",
@@ -3291,11 +3291,11 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "150 gram tereyağı (oda ısısında)",
-        "Yarım su bardağı pudra şekeri",
+        "yarım su bardağı pudra şekeri",
         "1 yumurta",
         "1 paket kabartma tozu",
         "1 paket vanilya",
-        "Yaklaşık 3 su bardağı un"
+        "yaklaşık 3 su bardağı un"
       ],
       "en": [
         "150 g butter (at room temperature)",
@@ -3398,7 +3398,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "100 gram eritilmiş tereyağı",
         "1 çay bardağı sıvı yağ",
-        "Yarım çay bardağı yoğurt",
+        "yarım çay bardağı yoğurt",
         "1 yumurta sarısı",
         "1 yemek kaşığı sirke",
         "1 yemek kaşığı şeker",
@@ -3512,8 +3512,8 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay bardağı pudra şekeri",
         "1 adet yumurta",
         "1 paket vanilin",
-        "Yarım paket kabartma tozu",
-        "Yaklaşık 2,5–3 su bardağı un"
+        "yarım paket kabartma tozu",
+        "yaklaşık 2,5–3 su bardağı un"
       ],
       "en": [
         "125 g butter or margarine (at room temperature)",
@@ -3748,8 +3748,8 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 su bardağı şeker",
         "4- 5 bardak un",
-        "Kabartma tozu",
-        "Vanilya",
+        "kabartma tozu",
+        "vanilya",
         "1 kase erik"
       ],
       "en": [
@@ -3799,11 +3799,11 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "125 gram oda sıcaklığında margarin",
-        "Yarım çay bardağı sıvı yağ",
-        "Yarım su bardağı pudra şekeri",
+        "yarım çay bardağı sıvı yağ",
+        "yarım su bardağı pudra şekeri",
         "1 adet yumurta",
         "1 paket vanilya",
-        "Çeyrek paket kabartma tozu",
+        "çeyrek paket kabartma tozu",
         "1 dilim pancar rendesi (suyunu kullanacağız)",
         "1 kaşık dolusu ıspanak püresi",
         "2–3 su bardağı un (kontrollü ekleyin)"
@@ -3811,7 +3811,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": [
         "125 g margarine at room temperature",
         "Half a teacup vegetable oil",
-        "Half a teacup powdered sugar",
+        "Half a cup powdered sugar",
         "1 egg",
         "1 packet vanilla",
         "Quarter packet baking powder",
@@ -3858,8 +3858,8 @@ export const kurabiyeRecipes: Recipe[] = [
         "2 adet yumurta (1’inin sarısı üzerine)",
         "2 paket kabartma tozu",
         "1 demet dereotu",
-        "Beyaz peynir",
-        "Kontrollü şekilde yaklaşık 5 su bardağı un"
+        "beyaz peynir",
+        "kontrollü şekilde yaklaşık 5 su bardağı un"
       ],
       "en": [
         "150 g butter or margarine",
@@ -3913,12 +3913,12 @@ export const kurabiyeRecipes: Recipe[] = [
     "ingredients": {
       "tr": [
         "125 gram tereyağı veya margarin",
-        "Yarım çay bardağı sıvı yağ",
+        "yarım çay bardağı sıvı yağ",
         "1 paket çilekli puding(toz halinde)",
         "1 adet yumurta",
         "1 paket kabartma tozu",
         "1 paket vanilya",
-        "Yaklaşık 3 su bardağı kadar un"
+        "yaklaşık 3 su bardağı kadar un"
       ],
       "en": [
         "125 g butter or margarine",
@@ -3964,7 +3964,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "1 bardak tahin",
         "1 bardak sıvı yağ",
-        "1 bardak tozşeker",
+        "1 bardak toz şeker",
         "1 bardak kavrulmuş kadayıf",
         "1 bardak ceviz fındık kırığı",
         "1 paket kabartma tozu",
@@ -4018,7 +4018,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 tatlı kaşığı karbonat",
         "1 çay kaşığı vanilya",
         "2 yemek kaşığı dolusu kömbe baharatı",
-        "Un (kıvamına göre)"
+        "un (kıvamına göre)"
       ],
       "en": [
         "250 g butter",
@@ -4138,7 +4138,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay bardağı nişasta",
         "2,5 yemek kaşığı kakao",
         "2 su bardağı un",
-        "Yarım çay bardağı iri kıyım ceviz veya fındık (ben fındık kullandım)",
+        "yarım çay bardağı iri kıyım ceviz veya fındık (ben fındık kullandım)",
         "1 çay bardağı damla çikolata veya yarım çay bardağı parça çikolata evde hangisi varsa",
         "1 paket kabartma tozu",
         "1 paket şekerli vanilin"
@@ -4161,7 +4161,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "Yumurta ve şekeri beyazlayıp köpürene kadar çırpalım.",
         "Sırasıyla diğer malzemeleri de ekleyip tekrar çırpalım. En son unu, kabartma tozunu ve şekerli vanilini ekleyip yoğuralım.",
         "Fırın kağıdı serili tepsiye aralıklarla ceviz büyüklüğünde bezeler yapıp dizelim. 150 derece 3 dk önden ısıtılmış fırında 15 dakika pişirelim.",
-        "Yumuşak bir kurabiye olacak yumuşaklığına aldanıp tekrar fırınlamayalım üzerinin çatlaması yeter bu aşamada. Çıkan kurabiyelerin ilk sıcaklığı gidince bir bardak yardımıyla hafifçe üstüne bastıralım. Bu ölçülerle büyüklüğüne bağlı 25-30 adet çıkıyor.Vee brownie cookielerimiz hazır afiyet oldu sizede olsun👩🏻‍🍳♥️."
+        "Yumuşak bir kurabiye olacak yumuşaklığına aldanıp tekrar fırınlamayalım üzerinin çatlaması yeter bu aşamada. Çıkan kurabiyelerin ilk sıcaklığı gidince bir bardak yardımıyla hafifçe üstüne bastıralım. Bu ölçülerle büyüklüğüne bağlı 25-30 adet çıkıyor.Vee brownie cookielerimiz hazır afiyet oldu sizede olsun👩🏻🍳♥️."
       ],
       "en": [
         "Beat the eggs and the sugar until they turn pale and fluffy.",
@@ -4188,14 +4188,14 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "250 gram oda sıcaklığında tereyağ yada margarin",
+        "250 gram oda sıcaklığında tereyağ ya da margarin",
         "1 çay bardağı sıvı yağ",
         "1 adet yumurta sarısı üzerine beyazı hamura",
         "1 paket kabartma tozu",
         "2 yemek kaşığı sirke",
         "1 tatlı kaşığı tuz",
         "1 tatlı kaşığı şeker",
-        "Yaklaşık 4,5 su bardağı un (yinede kontrollü koyun)"
+        "yaklaşık 4,5 su bardağı un (yinede kontrollü koyun)"
       ],
       "en": [
         "250 g butter or margarine at room temperature",
@@ -4344,12 +4344,12 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı tahin",
+        "yarım su bardağı tahin",
         "1 çay bardağı sıvı yağ",
         "2 yemek kaşığı kakao",
         "1 su bardağı pudra şekeri",
         "1 paket kabartma tozu",
-        "Aldığı kadar un"
+        "aldığı kadar un"
       ],
       "en": [
         "Half a cup tahini",
@@ -4400,7 +4400,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay bardağı nişasta",
         "1 paket kabartma tozu",
         "2 yemek kaşığı kakao",
-        "Aldığı kadar un (yaklaşık 2 su bardağı)"
+        "aldığı kadar un (yaklaşık 2 su bardağı)"
       ],
       "en": [
         "1 egg",
@@ -4518,16 +4518,16 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "hard",
     "ingredients": {
       "tr": [
-        "125 gram margarin yada tereyağ",
+        "125 gram margarin ya da tereyağ",
         "100 ml sıvı yağ (yarım su bardağı)",
         "5 yemek kaşığı pudra şekeri",
         "6 yemek kaşığı buğday nişastası",
         "1 paket vanilya",
-        "Aldığı kadar un",
+        "aldığı kadar un",
         "1 su bardağı damla çikolata",
-        "İsteğe bağlı ceviz",
-        "Fındık",
-        "Badem"
+        "isteğe bağlı ceviz",
+        "fındık",
+        "badem"
       ],
       "en": [
         "125 g margarine or butter",
@@ -4588,7 +4588,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "tr": [
         "2 su bardağı sıvı yağ",
         "1 su bardağı pudra şekeri",
-        "Aldığı kadar un kontrolü ekleyin",
+        "aldığı kadar un kontrolü ekleyin",
         "1 paket kabartma tozu"
       ],
       "en": [
@@ -4691,7 +4691,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 paket vanilya",
         "1 paket kabartma tozu",
         "1 su bardağı parçalanmış ceviz",
-        "Yarım su bardağından biraz fazla damla çikolata"
+        "yarım su bardağından biraz fazla damla çikolata"
       ],
       "en": [
         "150 g margarine (at room temperature)",
@@ -4734,10 +4734,10 @@ export const kurabiyeRecipes: Recipe[] = [
     "difficulty": "medium",
     "ingredients": {
       "tr": [
-        "Yarım su bardağı şeker",
-        "Yarım su bardağı sıvı yağ",
-        "Yarım su bardağı ceviz",
-        "Yarım su bardağı nişasta",
+        "yarım su bardağı şeker",
+        "yarım su bardağı sıvı yağ",
+        "yarım su bardağı ceviz",
+        "yarım su bardağı nişasta",
         "1 adet yumurta",
         "1 adet ince rendelenmiş havuç",
         "1 çay kaşığı tarçın",
@@ -4795,7 +4795,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay bardağı yoğurt",
         "1 paket margarin",
         "1 paket kabartma tozu",
-        "Alabildiği kadar un(yaklaşık 4 su bardağı kadar)",
+        "alabildiği kadar un(yaklaşık 4 su bardağı kadar)",
         "1 kahve fincanı damla çikolata"
       ],
       "en": [
@@ -4849,7 +4849,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "2 adet yumurta",
         "1 paket vanilya",
         "1 paket kabartma tozu",
-        "Aldığı kadar un (yaklaşık 5 su bardağı)"
+        "aldığı kadar un (yaklaşık 5 su bardağı)"
       ],
       "en": [
         "250 g butter or margarine (at room temperature)",
@@ -4947,8 +4947,8 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 çay kaşığı karbonat",
         "1 paket vanilin",
         "2 adet yumurta",
-        "Yarım paket oda ısında bekletilmiş tereyağı (125 gr)",
-        "Damla çikolata"
+        "yarım paket oda ısında bekletilmiş tereyağı (125 gr)",
+        "damla çikolata"
       ],
       "en": [
         "3 cups flour",
@@ -4986,7 +4986,7 @@ export const kurabiyeRecipes: Recipe[] = [
   {
     "id": "nefis-kurabiye-1390",
     "name": {
-      "tr": "Chocolate Cookies",
+      "tr": "Çikolatalı Kurabiye",
       "en": "Chocolate Cookies"
     },
     "cuisine": "kurabiye",
@@ -5002,7 +5002,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1/3 çay kaşığı karbonat",
         "1 fiske tuz",
         "100 gram bitter + 80 gram sütlü çikolata (hamurun içerisine eklenecek)",
-        "Dilediğiniz kadar beyaz /bitter / sütlü çikolata (kurabiyelen üzerlerine batırmak için)"
+        "dilediğiniz kadar beyaz /bitter / sütlü çikolata (kurabiyelen üzerlerine batırmak için)"
       ],
       "en": [
         "100 g butter (at room temperature)",
@@ -5069,7 +5069,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 su bardağı mısır unu (200 ml bardak)",
         "2 adet yumurta (1 tanesinin sarısı ayrılacak )",
         "1 çay kaşığı karbonat",
-        "Yeteri kadar un"
+        "yeteri kadar un"
       ],
       "en": [
         "1 packet margarine (at room temperature)",
@@ -5181,7 +5181,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "125 gram margarin",
         "1 adet yumurta",
         "1 limon kabuğu rendesi",
-        "Yarım çay bardağı kadar limon suyu",
+        "yarım çay bardağı kadar limon suyu",
         "2 buçuk su bardağı un",
         "1 paket kabartma tozu",
         "1 paket vanilya"
@@ -5245,9 +5245,9 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 tatlı ķaşığı toz şeker",
         "1 tatlı kaşığı tuz",
         "1 yumurta akı ( sarısı kurabiyelerin üstü için kullanacak)",
-        "Çörek otu",
-        "Susam",
-        "Un (4 bardak kullandım)"
+        "çörek otu",
+        "susam",
+        "un (4 bardak kullandım)"
       ],
       "en": [
         "250 g butter (at room temperature)",
@@ -5299,11 +5299,11 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 adet yumurta",
         "1 paket vanilya",
         "1,5 çay kaşığı kabartma tozu",
-        "Çay kaşığının ucuyla karbonat",
-        "Çay kaşığının ucuyla tuz",
+        "çay kaşığının ucuyla karbonat",
+        "çay kaşığının ucuyla tuz",
         "2 tatlı kaşığı pekmez",
         "1 su bardağı un (210 ml)",
-        "Çikolata (bitter veya sade dileğiniz kadar ekleyebilirsiniz)"
+        "çikolata (bitter veya sade dileğiniz kadar ekleyebilirsiniz)"
       ],
       "en": [
         "85 g butter",
@@ -5410,7 +5410,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "2 adet yumurta (birinin beyazı üzerine)",
         "2 yemek kaşığı sirke",
         "4-5 su bardağı un (kontrollü)",
-        "File badem"
+        "file badem"
       ],
       "en": [
         "150 g butter",
@@ -5532,7 +5532,7 @@ export const kurabiyeRecipes: Recipe[] = [
         "1 cup granulated sugar and 1 tablespoon molasses",
         "2 eggs",
         "1 packet vanilla",
-        "1 tablespoon starch",
+        "1 teaspoon starch",
         "3.5 cups flour",
         "1 teaspoon baking powder",
         "1 teaspoon baking soda",
