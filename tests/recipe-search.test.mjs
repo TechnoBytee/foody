@@ -1,0 +1,56 @@
+import { test } from "node:test";
+import assert from "node:assert/strict";
+import {
+  searchDishes,
+  suggestSimilarDishes,
+} from "../src/services/recipe-search.ts";
+
+function dish(id, tr, en, extra = {}) {
+  return {
+    id,
+    name: { tr, en },
+    cuisine: "corba",
+    categories: [],
+    time: 30,
+    difficulty: "easy",
+    ingredients: {
+      tr: ["1 su bardağı yumurta"],
+      en: ["1 cup eggs"],
+    },
+    steps: { tr: [], en: [] },
+    alternatives: [],
+    calories: 100,
+    ...extra,
+  };
+}
+
+const soups = [
+  dish("a", "Mercimek Çorbası", "Lentil Soup"),
+  dish("b", "Ezogelin Çorbası", "Ezogelin Soup"),
+  dish("c", "Pirinç Pilav", "Rice Pilaf", { categories: ["pilav"] }),
+];
+
+test("dish search matches names case- and accent-insensitively", () => {
+  const found = searchDishes("MERCIMEK CORBASI", soups, "tr");
+  assert.equal(found[0]?.id, "a");
+  assert.ok(!found.some((r) => r.id === "c"));
+});
+
+test("dish search does not use ingredients (kept separate from fridge search)", () => {
+  const found = searchDishes("yumurta", soups, "tr");
+  assert.equal(found.length, 0);
+});
+
+test("dish search ranks names over category metadata", () => {
+  const found = searchDishes("pilav", soups, "tr");
+  assert.equal(found[0]?.id, "c");
+});
+
+test("similar dish suggestions appear for a near-miss query", () => {
+  const suggestions = suggestSimilarDishes("mercimek corbasi", soups, "tr");
+  assert.equal(suggestions[0], "Mercimek Çorbası");
+});
+
+test("unrelated query yields no similar dish suggestions", () => {
+  assert.deepEqual(suggestSimilarDishes("xyzqwerty", soups, "en"), []);
+});

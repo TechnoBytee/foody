@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import Link from "next/link";
+import DishSearch from "./DishSearch";
 import FridgeSearch from "./FridgeSearch";
 import RecipeCards from "./RecipeCards";
 import { hasSplashShown, markSplashShown } from "@/lib/splashState";
@@ -10,6 +11,7 @@ import { Messages, Locale } from "@/i18n";
 
 export default function HomeClient({ messages, locale }: { messages: Messages; locale: Locale }) {
   const [results, setResults] = useState<Recipe[]>([]);
+  const [dishResults, setDishResults] = useState<Recipe[]>([]);
   const [loading, setLoading] = useState(false);
   const [phase, setPhase] = useState<"splash" | "moving" | "done" | null>(() =>
     hasSplashShown() ? null : "splash"
@@ -145,19 +147,31 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
         <p className="text-[#787774]">{messages.heroSubtitle}</p>
       </section>
 
-      <FridgeSearch
-        labels={{
-          upload: messages.uploadButton,
-          add: messages.addIngredient,
-          find: messages.findRecipes,
-          analyzing: messages.analyzing,
-        }}
-        locale={locale}
-        onResults={(r) => setResults(r)}
-        onLoading={setLoading}
-      />
+      <div className="flex flex-col gap-3">
+        <DishSearch locale={locale} onResults={setDishResults} />
+        <FridgeSearch
+          labels={{
+            upload: messages.uploadButton,
+            add: messages.addIngredient,
+            find: messages.findRecipes,
+            analyzing: messages.analyzing,
+          }}
+          locale={locale}
+          onResults={(r) => setResults(r)}
+          onLoading={setLoading}
+        />
+      </div>
 
       {loading && <p className="animate-pulse text-sm text-[#787774]">{messages.analyzing}</p>}
+
+      {dishResults.length > 0 && (
+        <section className="flex flex-col gap-4">
+          <h2 className="font-serif text-2xl">
+            {locale === "tr" ? "Yemek sonuçları" : "Dish results"}
+          </h2>
+          <RecipeCards recipes={dishResults} locale={locale} />
+        </section>
+      )}
 
       {results.length > 0 && (
         <section className="flex flex-col gap-4">
