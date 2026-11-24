@@ -60,6 +60,7 @@ export default function FridgeSearch({
     | null
   >(null);
   const [addedMsg, setAddedMsg] = useState("");
+  const [requestFailed, setRequestFailed] = useState(false);
   const copy =
     locale === "tr"
       ? {
@@ -131,15 +132,28 @@ export default function FridgeSearch({
 
   const reportMissing = async () => {
     const v = input.trim();
+    let message = copy.thanks;
+    let failed = false;
     try {
-      await fetch("/api/eksik-malzeme", {
+      const res = await fetch("/api/eksik-malzeme", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name: v }),
       });
-    } catch {}
-    setAddedMsg(copy.thanks);
-    setTimeout(() => setAddedMsg(""), 3000);
+      if (!res.ok) {
+        message = locale === "tr" ? "Kayıt başarısız oldu, tekrar deneyin." : "Could not save, please try again.";
+        failed = true;
+      }
+    } catch {
+      message = locale === "tr" ? "Bağlantı kurulamadı, tekrar deneyin." : "Connection failed, please try again.";
+      failed = true;
+    }
+    setRequestFailed(failed);
+    setAddedMsg(message);
+    setTimeout(() => {
+      setAddedMsg("");
+      setRequestFailed(false);
+    }, 3000);
     setModal(null);
     setInput("");
   };
@@ -263,7 +277,13 @@ export default function FridgeSearch({
       )}
 
       {addedMsg && (
-        <div className="mt-3 rounded-md bg-[#EDF3EC] px-4 py-2 text-sm text-[#346538]">
+        <div
+          role="status"
+          aria-live="polite"
+          className={`mt-3 rounded-md px-4 py-2 text-sm ${
+            requestFailed ? "bg-[#FBFAF8] text-[#8B3A3A]" : "bg-[#EDF3EC] text-[#346538]"
+          }`}
+        >
           {addedMsg}
         </div>
       )}
