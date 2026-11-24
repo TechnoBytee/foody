@@ -5,19 +5,30 @@ import { recipesByArea, areas } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
 import RouteSkeleton from "@/components/RouteSkeleton";
+import Pagination from "@/components/Pagination";
+import { paginate } from "@/lib/paginate";
 
 type PageParams = { locale: Locale; slug: string };
+type PageQuery = { sayfa?: string };
 
 export function generateStaticParams() {
   return areas.map((a) => ({ slug: a.slug }));
 }
 
-async function AreaContent({ params }: { params: Promise<PageParams> }) {
+async function AreaContent({
+  params,
+  searchParams,
+}: {
+  params: Promise<PageParams>;
+  searchParams: Promise<PageQuery>;
+}) {
   const { locale, slug } = await params;
+  const { sayfa } = await searchParams;
   const area = areas.find((a) => a.slug === slug);
   if (!area) notFound();
   const messages = getMessages(locale);
   const list = recipesByArea(slug);
+  const view = paginate(list, Number(sayfa));
 
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
@@ -30,7 +41,13 @@ async function AreaContent({ params }: { params: Promise<PageParams> }) {
           {list.length} {messages.recipeCount}
         </p>
       </div>
-      <RecipeCards recipes={list} locale={locale} />
+      <RecipeCards recipes={view.items} locale={locale} />
+      <Pagination
+        basePath={`/${locale}/bolge/${slug}`}
+        page={view.page}
+        totalPages={view.totalPages}
+        locale={locale}
+      />
       <section className="flex flex-col gap-3 border-t border-[#EAEAEA] pt-6">
         <h2 className="font-serif text-xl">{messages.otherAreas}</h2>
         <div className="flex flex-wrap gap-2">
@@ -51,10 +68,16 @@ async function AreaContent({ params }: { params: Promise<PageParams> }) {
   );
 }
 
-export default function AreaPage({ params }: { params: Promise<PageParams> }) {
+export default function AreaPage({
+  params,
+  searchParams,
+}: {
+  params: Promise<PageParams>;
+  searchParams: Promise<PageQuery>;
+}) {
   return (
     <Suspense fallback={<RouteSkeleton />}>
-      <AreaContent params={params} />
+      <AreaContent params={params} searchParams={searchParams} />
     </Suspense>
   );
 }

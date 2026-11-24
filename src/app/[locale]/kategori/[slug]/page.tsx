@@ -5,19 +5,30 @@ import { allCuisines, recipesByCuisine, areas } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
 import RouteSkeleton from "@/components/RouteSkeleton";
+import Pagination from "@/components/Pagination";
+import { paginate } from "@/lib/paginate";
 
 type PageParams = { locale: Locale; slug: string };
+type PageQuery = { sayfa?: string };
 
 export function generateStaticParams() {
   return allCuisines.map((c) => ({ slug: c.slug }));
 }
 
-async function CuisineContent({ params }: { params: Promise<PageParams> }) {
+async function CuisineContent({
+  params,
+  searchParams,
+}: {
+  params: Promise<PageParams>;
+  searchParams: Promise<PageQuery>;
+}) {
   const { locale, slug } = await params;
+  const { sayfa } = await searchParams;
   const cuisine = allCuisines.find((c) => c.slug === slug);
   if (!cuisine) notFound();
   const messages = getMessages(locale);
   const list = recipesByCuisine(slug);
+  const view = paginate(list, Number(sayfa));
 
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
@@ -46,15 +57,27 @@ async function CuisineContent({ params }: { params: Promise<PageParams> }) {
         </div>
       </section>
 
-      <RecipeCards recipes={list} locale={locale} />
+      <RecipeCards recipes={view.items} locale={locale} />
+      <Pagination
+        basePath={`/${locale}/kategori/${slug}`}
+        page={view.page}
+        totalPages={view.totalPages}
+        locale={locale}
+      />
     </main>
   );
 }
 
-export default function CuisinePage({ params }: { params: Promise<PageParams> }) {
+export default function CuisinePage({
+  params,
+  searchParams,
+}: {
+  params: Promise<PageParams>;
+  searchParams: Promise<PageQuery>;
+}) {
   return (
     <Suspense fallback={<RouteSkeleton />}>
-      <CuisineContent params={params} />
+      <CuisineContent params={params} searchParams={searchParams} />
     </Suspense>
   );
 }

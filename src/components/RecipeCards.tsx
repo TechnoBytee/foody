@@ -18,7 +18,7 @@ export default function RecipeCards({
         <Link
           key={r.id}
           href={`/${locale}/tarif/${r.id}`}
-          style={{ animationDelay: `${i * 50}ms`, animationFillMode: "both" }}
+          style={{ animationDelay: `${Math.min(i, 8) * 50}ms`, animationFillMode: "both" }}
           className="animate-chip-in block overflow-hidden rounded-xl border border-[#EAEAEA] bg-white transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
         >
           {r.image && (

@@ -53,6 +53,8 @@
     "recipeCount":  "recipes",
     "kcal":  "kcal",
     "showMore":  "Show more",
+    "previousPage":  "Previous",
+    "nextPage":  "Next",
     "switchLanguage":  "Switch language",
     "signInTitle":  "Sign In",
     "email":  "Email",
