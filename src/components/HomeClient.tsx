@@ -1,11 +1,14 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import Image from "next/image";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import DishSearch from "./DishSearch";
 import FridgeSearch from "./FridgeSearch";
 import RecipeCards from "./RecipeCards";
 import { hasSplashShown, markSplashShown } from "@/lib/splashState";
+import { switchLocalePath } from "@/lib/locale-link";
 import { cuisines } from "@/data/cuisines";
 import { areas } from "@/data/areas";
 import type { RecipeCardData } from "@/lib/recipe-card";
@@ -21,6 +24,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
   const targetRef = useRef<HTMLDivElement>(null);
   const logoRef = useRef<HTMLImageElement>(null);
   const [delta, setDelta] = useState<{ x: number; y: number } | null>(null);
+  const pathname = usePathname();
 
   useEffect(() => {
     if (phase !== "splash") return;
@@ -73,7 +77,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
               zIndex: 60,
             }}
           >
-            <img
+            <Image
               ref={logoRef}
               src="/assets/1-cropped-sm.png"
               alt="foody"
@@ -121,10 +125,10 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
 
       <header className="flex items-baseline justify-between">
         <Link href={`/${locale}`} className="flex items-center gap-2">
-          <img src="/assets/2-cropped-sm.png" alt="foody" className="h-16 w-auto rounded-md object-contain" />
+          <Image src="/assets/2-cropped-sm.png" alt="foody" width={157} height={56} className="h-16 w-auto rounded-md object-contain" />
         </Link>
         <Link
-          href={`/${locale === "tr" ? "en" : "tr"}`}
+          href={switchLocalePath(pathname, locale === "tr" ? "en" : "tr")}
           aria-label={messages.switchLanguage}
           className="text-xs uppercase tracking-widest text-[#787774]"
         >
@@ -134,7 +138,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
 
       <section className="flex flex-col items-center gap-4 text-center">
         {phase === null || phase === "done" ? (
-          <img
+          <Image
             src="/assets/1-cropped-sm.png"
             alt="foody"
             width={157}

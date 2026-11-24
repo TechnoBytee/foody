@@ -7,6 +7,9 @@ const nextConfig: NextConfig = {
   experimental: {
     agentUpgrade: "security",
   },
+  images: {
+    remotePatterns: [{ protocol: "https", hostname: "www.themealdb.com" }],
+  },
   allowedDevOrigins: ["192.168.1.67"],
   turbopack: {
     rules: {

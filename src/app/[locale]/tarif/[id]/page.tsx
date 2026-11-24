@@ -1,5 +1,6 @@
 import { Suspense } from "react";
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { recipes, getRecipe } from "@/data/recipes";
@@ -84,12 +85,13 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
           </span>
         )}
         {recipe.image && (
-          <div className="overflow-hidden rounded-xl border border-[#EAEAEA]">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img
+          <div className="relative aspect-[16/9] overflow-hidden rounded-xl border border-[#EAEAEA] bg-[#F7F6F3]">
+            <Image
               src={recipe.image}
               alt={recipe.name[locale]}
-              className="aspect-[16/9] w-full object-cover"
+              fill
+              sizes="(max-width: 768px) 100vw, 768px"
+              className="object-cover"
             />
           </div>
         )}

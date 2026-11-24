@@ -1,3 +1,4 @@
+import Image from "next/image";
 import Link from "next/link";
 import type { RecipeCardData } from "@/lib/recipe-card";
 import { metaLabels, metaParts } from "@/lib/recipe-meta";
@@ -22,12 +23,13 @@ export default function RecipeCards({
           className="animate-chip-in block overflow-hidden rounded-xl border border-[#EAEAEA] bg-white transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
         >
           {r.image && (
-            <div className="aspect-[4/3] w-full overflow-hidden bg-[#F7F6F3]">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img
+            <div className="relative aspect-[4/3] w-full overflow-hidden bg-[#F7F6F3]">
+              <Image
                 src={r.image}
                 alt={r.name[locale]}
-                className="h-full w-full object-cover"
+                fill
+                sizes="(max-width: 640px) 100vw, 50vw"
+                className="object-cover"
                 loading="lazy"
               />
             </div>
