@@ -54,3 +54,23 @@ test("similar dish suggestions appear for a near-miss query", () => {
 test("unrelated query yields no similar dish suggestions", () => {
   assert.deepEqual(suggestSimilarDishes("xyzqwerty", soups, "en"), []);
 });
+
+test("cross-language aliases find dishes", () => {
+  const found = searchDishes("lentil soup", soups, "tr");
+  assert.equal(found[0]?.id, "a");
+});
+
+test("full matches rank above partial matches", () => {
+  const found = searchDishes("mercimek corbasi", soups, "tr");
+  assert.deepEqual(found.map((r) => r.id), ["a"]);
+});
+
+test("overlong queries are capped instead of crashing", () => {
+  assert.deepEqual(searchDishes("a".repeat(200), soups, "tr"), []);
+});
+
+test("duplicate dish names produce a single suggestion", () => {
+  const twin = { ...soups[0], id: "a-copy" };
+  const suggestions = suggestSimilarDishes("mercimek corbasi", [soups[0], twin], "tr");
+  assert.deepEqual(suggestions, ["Mercimek Çorbası"]);
+});
