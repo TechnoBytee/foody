@@ -7,11 +7,13 @@ export default function Icon({
   size = 18,
   filled = false,
   className = "",
+  color = "var(--icon-color)",
 }: {
   name: string;
   size?: number;
   filled?: boolean;
   className?: string;
+  color?: string;
 }) {
   const source = phosphorIcons[name] ?? phosphorIcons.x;
   const inner = filled ? source.replace(/opacity="0\.2"/g, 'opacity="1"') : source;
@@ -23,7 +25,7 @@ export default function Icon({
       width={size}
       height={size}
       className={`inline-block shrink-0 align-middle ${className}`}
-      style={{ color: "#7b6f6f" }}
+      style={{ color }}
       dangerouslySetInnerHTML={{ __html: `<g fill="currentColor">${inner}</g>` }}
     />
   );

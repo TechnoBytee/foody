@@ -73,7 +73,12 @@ export default function DishSearch({
           onClick={() => run(query)}
           className="rounded-md bg-[#346538] px-5 py-2.5 text-sm font-medium text-white hover:bg-[#2C5530] active:scale-[0.98] transition"
         >
-          <Icon name="magnifying-glass" size={16} /> {copy.button}
+          <Icon
+            name="magnifying-glass"
+            size={16}
+            color="var(--icon-color-on-dark)"
+          />{" "}
+          {copy.button}
         </button>
       </div>
       {resultCount >= limit && limit < 24 && (

@@ -168,7 +168,7 @@ export default function FridgeSearch({
           onClick={() => fileRef.current?.click()}
           className="rounded-md bg-[#111111] px-4 py-2.5 text-sm font-medium text-white hover:bg-[#333333] active:scale-[0.98] transition"
         >
-          <Icon name="camera" size={16} /> {labels.upload}
+          <Icon name="camera" size={16} color="var(--icon-color-on-dark)" /> {labels.upload}
         </button>
         <input
           ref={fileRef}
