@@ -7,6 +7,7 @@
  */
 const fs = require("fs");
 const path = require("path");
+const vocabulary = require("./ingredient-vocabulary.cjs");
 
 const root = path.join(__dirname, "..");
 const dataDir = path.join(root, "src", "data");
@@ -235,8 +236,8 @@ const enCanon = canonical(enRaw);
 const merged = [...trCanon, ...enCanon].filter((e) => e.variants.length > 1);
 const stillHasAmount = [...trCanon, ...enCanon].filter((e) => /\d|[½¼¾]/.test(e.canonical));
 
-const trOut = trCanon.map((e) => e.canonical);
-const enOut = enCanon.map((e) => e.canonical);
+const trOut = vocabulary.pruneVocabulary(trCanon.map((e) => e.canonical), "tr");
+const enOut = vocabulary.pruneVocabulary(enCanon.map((e) => e.canonical), "en");
 
 fs.writeFileSync(
   path.join(dataDir, "ingredient-search.json"),
