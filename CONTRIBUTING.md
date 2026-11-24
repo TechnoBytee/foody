@@ -25,11 +25,14 @@ Requirements:
 Run these locally:
 
 ```bash
+npm test
 npm run lint
 npm run build
 ```
 
-Both must pass. TypeScript is checked during the build, so type errors fail the build.
+All three must pass. TypeScript is checked during the build, so type errors fail the build. Tests require Node.js 22.6+ because they import TypeScript modules directly.
+
+Current workflow: work directly on `main`, one focused change per commit, and push each commit. Do not open feature branches for this repository.
 
 ## How to work on the codebase
 

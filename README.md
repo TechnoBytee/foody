@@ -6,7 +6,7 @@
 
 [tr] Dünyanın her mutfağından tarifler ve unutulmaya yüz tutmuş yemeklerin arşivi.
 
-[![Next.js](https://img.shields.io/badge/Next.js-16.4.0-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-16.4.6-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-19.3.0-087ea4?style=flat-square&logo=react&logoColor=61dafb)](https://react.dev)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
@@ -79,6 +79,7 @@ Two datasets live side by side inside the app:
 
 - **Fridge search** — type ingredients as chips or upload a photo; the analysis step is pluggable and currently resolves through the AI abstraction.
 - **Ingredient matching** — a scoring service ranks recipes against the ingredients you provide and returns the best matches with alternatives.
+- **Dish search** — a separate name-based search above the fridge search, with cross-language aliases (TR↔EN) and "did you mean" suggestions when nothing matches. The two search systems stay independent.
 - **31 cuisines** — 10 core categories plus 21 imported recipe collections.
 - **2,397 recipes** with ingredients, step-by-step instructions (TR/EN), time, difficulty, calories and suggested alternatives.
 - **Ancient Kitchen Archive** — era, region, history and a "nearly forgotten" badge for dishes that dropped out of everyday cooking.
@@ -92,7 +93,7 @@ Two datasets live side by side inside the app:
 
 | Layer | Choice | Version |
 | --- | --- | --- |
-| Framework | [Next.js](https://nextjs.org) (App Router, Turbopack, `cacheComponents`) | 16.4.0 |
+| Framework | [Next.js](https://nextjs.org) (App Router, Turbopack, `cacheComponents`) | 16.4.6 |
 | UI runtime | [React](https://react.dev) / React DOM | 19.3.0 |
 | Language | [TypeScript](https://www.typescriptlang.org) | ^5 |
 | Styling | [Tailwind CSS](https://tailwindcss.com) (with the Turbopack loader) | ^4 |
@@ -155,6 +156,8 @@ export const recipes: Recipe[];           // 2,397 recipes: 8 contemporary, 204 
 
 Because search, static params and category listings all read from these merged exports, the archive is a first-class citizen of the product rather than a separate corner — searching for “lamb”, “honey” or “vinegar” surfaces historical dishes next to contemporary ones.
 
+Imported Nefis recipes have no reliable source values for time, difficulty or calories. These fields are stored as `0` and hidden in the UI instead of showing fabricated estimates. `src/lib/recipe-intro.ts` builds each detail page's short intro from the remaining fields.
+
 Historical recipes extend the base contract with:
 
 ```ts
@@ -175,6 +178,8 @@ All machine-intelligence calls go through `src/services/ai.ts`, which currently 
 | `askAboutFood(query)` | Answers a free-form food question using recipe metadata. |
 
 The module is the project's designated integration point: adding OpenAI, Gemini or a vision model means implementing the same three function signatures, leaving every component untouched. Ingredients, steps, alternatives, era and history are all plain data, which keeps the future step from being a UI problem — it is a service problem.
+
+Both searches run on the server (`/api/yemek-arama` and `/api/malzeme-arama`). They return small card DTOs instead of full recipes, so the 2,397-recipe archive is never downloaded by the browser. `tests/client-bundle.test.mjs` enforces that client components do not import `src/data/recipes` or `src/services/ai`.
 
 ### Internationalisation
 
@@ -230,7 +235,7 @@ foody/
 
 ## Getting started
 
-**Prerequisites:** Node.js 20+ and npm 10+.
+**Prerequisites:** Node.js 22.6+ (the test runner imports TypeScript via Node's built-in type stripping) and npm 10+.
 
 ```bash
 # 1. install dependencies
@@ -273,6 +278,8 @@ npm run start
 | `npm run build` | Production build; also type-checks the project. |
 | `npm run start` | Serves the production build. |
 | `npm run lint` | ESLint over the project. |
+| `npm test` | Node's built-in test runner over `tests/*.test.mjs`. |
+| `npm run data:prepare` | Regenerate derived data (MealDB fixes, areas, Nefis files, ingredient vocabulary). Use `-- --fetch` to re-download MealDB first. |
 
 ---
 

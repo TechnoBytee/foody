@@ -4,6 +4,9 @@
   "private": true,
   "description": "Mobile-first, bilingual recipe platform with a searchable archive of historical world dishes.",
   "license": "Apache-2.0",
+  "engines": {
+    "node": ">=22.6"
+  },
   "keywords": [
     "nextjs",
     "react",
