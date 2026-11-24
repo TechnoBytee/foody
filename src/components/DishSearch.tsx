@@ -109,7 +109,7 @@ export default function DishSearch({
               <button
                 key={name}
                 onClick={() => applySuggestion(name)}
-                className="rounded-full border border-[#EAEAEA] bg-white px-3 py-1 text-xs text-[#2F3437] transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
+                className="min-h-[44px] rounded-full border border-[#EAEAEA] bg-white px-3 py-2 text-xs text-[#2F3437] transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
               >
                 {name}
               </button>

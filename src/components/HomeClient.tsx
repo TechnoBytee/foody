@@ -1,13 +1,13 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import DishSearch from "./DishSearch";
 import FridgeSearch from "./FridgeSearch";
 import RecipeCards from "./RecipeCards";
-import { hasSplashShown, markSplashShown } from "@/lib/splashState";
+import { hasSplashShown, markSplashShown, subscribeSplash } from "@/lib/splashState";
 import { switchLocalePath } from "@/lib/locale-link";
 import { cuisines } from "@/data/cuisines";
 import { areas } from "@/data/areas";
@@ -18,13 +18,15 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
   const [results, setResults] = useState<RecipeCardData[]>([]);
   const [dishResults, setDishResults] = useState<RecipeCardData[]>([]);
   const [loading, setLoading] = useState(false);
-  const [phase, setPhase] = useState<"splash" | "moving" | "done" | null>(() =>
-    hasSplashShown() ? null : "splash"
+  const splashShown = useSyncExternalStore(subscribeSplash, hasSplashShown, () => false);
+  const [phase, setPhase] = useState<"splash" | "moving" | "done" | null>(
+    splashShown ? null : "splash"
   );
   const targetRef = useRef<HTMLDivElement>(null);
   const logoRef = useRef<HTMLImageElement>(null);
   const [delta, setDelta] = useState<{ x: number; y: number } | null>(null);
   const pathname = usePathname();
+  const splashActive = phase === "splash" || phase === "moving";
 
   useEffect(() => {
     if (phase !== "splash") return;
@@ -123,6 +125,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
         </>
       )}
 
+      <div inert={splashActive} aria-hidden={splashActive}>
       <header className="flex items-baseline justify-between">
         <Link href={`/${locale}`} className="flex items-center gap-2">
           <Image src="/assets/2-cropped-sm.png" alt="foody" width={157} height={56} className="h-16 w-auto rounded-md object-contain" />
@@ -212,13 +215,14 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
             <Link
               key={a.slug}
               href={`/${locale}/bolge/${a.slug}`}
-              className="rounded-full border border-[#EAEAEA] bg-white px-4 py-2 text-sm transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
+              className="min-h-[44px] rounded-full border border-[#EAEAEA] bg-white px-4 py-2 text-sm transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
             >
               {a.name[locale]}
             </Link>
           ))}
         </div>
       </section>
+      </div>
     </main>
   );
 }

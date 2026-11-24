@@ -214,7 +214,9 @@ export default function FridgeSearch({
                 onClick={() => setIngredients(ingredients.filter((i) => i !== ing))}
                 aria-label={`${copy.remove} ${ing}`}
               >
-                <Icon name="x" size={12} />
+                <span className="flex h-8 w-8 items-center justify-center">
+                  <Icon name="x" size={12} />
+                </span>
               </button>
             </span>
           ))}

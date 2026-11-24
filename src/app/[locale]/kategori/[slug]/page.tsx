@@ -50,7 +50,7 @@ async function CuisineContent({
             <Link
               key={a.slug}
               href={`/${locale}/kategori/${slug}/${a.slug}`}
-              className="rounded-full border border-[#EAEAEA] bg-white px-3 py-1.5 text-xs transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
+              className="min-h-[44px] rounded-full border border-[#EAEAEA] bg-white px-3 py-2.5 text-xs transition hover:-translate-y-0.5 hover:border-[#C9C9C9]"
             >
               {a.name[locale]}
             </Link>
