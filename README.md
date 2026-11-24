@@ -80,12 +80,17 @@ Two datasets live side by side inside the app:
 - **Fridge search** — type ingredients as chips or upload a photo; the analysis step is pluggable and currently resolves through the AI abstraction.
 - **Ingredient matching** — a scoring service ranks recipes against the ingredients you provide and returns the best matches with alternatives.
 - **Dish search** — a separate name-based search above the fridge search, with cross-language aliases (TR↔EN) and "did you mean" suggestions when nothing matches. The two search systems stay independent.
-- **31 cuisines** — 10 core categories plus 21 imported recipe collections.
+- **37 cuisines** — 16 core categories plus 21 imported recipe collections; 34 browsable regions.
 - **2,397 recipes** with ingredients, step-by-step instructions (TR/EN), time, difficulty, calories and suggested alternatives.
 - **Ancient Kitchen Archive** — era, region, history and a "nearly forgotten" badge for dishes that dropped out of everyday cooking.
 - **Bilingual (TR/EN)** — locale-prefixed routing, dictionary-driven UI copy, automatic redirect based on `Accept-Language`.
 - **Progressive web app** — web manifest with standalone display, installable on Android and iOS home screens.
 - **Motion system** — a splash sequence that runs only on full page loads, plus restrained page transitions, staggered cards and chip micro-interactions.
+- **Cooking mode** — full-screen step-by-step guidance with a manual timer, keyboard arrows and a focus-trapped dialog.
+- **Personal tools** — local favourites and a shopping list filled from any recipe's ingredients (device-local, ready for a future account sync).
+- **Recipe actions** — print view and native share with clipboard fallback; every detail page carries short generated intro copy and Recipe JSON-LD.
+- **Fast listings** — category, area and filtered lists are paginated (24 per page); empty category/area combinations are not prerendered.
+- **Icons** — Phosphor duotone icons at `#7b6f6f`, switching to `#f7f6f3` on dark buttons; both colours are CSS tokens.
 
 ---
 
@@ -118,12 +123,13 @@ src/app/[locale]/
 ├── page.tsx          # home (client component)
 ├── kategori/[slug]/  # cuisine & archive category listing
 ├── tarif/[id]/       # recipe detail
-├── favoriler/        # favourites (UI stage)
+├── favoriler/        # local favourites
+├── alisveris/        # local shopping list
 └── giris/            # sign-in (UI stage)
 ```
 
 - **Locale prefix.** Every route lives under `/tr` or `/en`. `src/proxy.ts` (Next.js 16 middleware) intercepts locale-less requests, reads `Accept-Language`, and redirects to `/tr` or `/en` accordingly.
-- **Static generation with dynamic fallbacks.** `generateStaticParams` pre-renders every locale, every cuisine and every recipe. `cacheComponents: true` and `partialPrefetching: true` in `next.config.ts` let Next.js ship a prerendered shell and stream the dynamic parts, which keeps first paint fast while the page still reads live data.
+- **Static generation with dynamic fallbacks.** `generateStaticParams` pre-renders every locale, every cuisine and every recipe; only non-empty cuisine×area combinations are generated. `cacheComponents: true` and `partialPrefetching: true` in `next.config.ts` let Next.js ship a prerendered shell and stream the dynamic parts. URL data (`params`/`searchParams`) is read inside `<Suspense>` boundaries so navigations stay instant; `tests/instant-navigation.test.mjs` guards that structure.
 - **Navigation transitions.** `template.tsx` wraps every route change in a 220 ms opacity fade. Because a template remounts on navigation, the effect applies per page transition without any client-side router plumbing.
 
 ### Data layer
@@ -192,7 +198,7 @@ Both searches run on the server (`/api/yemek-arama` and `/api/malzeme-arama`). T
 
 The splash screen is a small piece of deliberate engineering:
 
-- **Runs once per real visit.** `src/lib/splashState.ts` keeps a module-level flag. A full page load re-evaluates the module (splash plays), while client-side navigation keeps it alive (splash is skipped).
+- **Runs once per real visit.** `src/lib/splashState.ts` keeps a module-level flag exposed through `useSyncExternalStore`, so server and client snapshots agree and hydration stays clean. A full page load re-evaluates the module (splash plays), while client-side navigation keeps it alive (splash is skipped). The page content is `inert`/`aria-hidden` while the overlay is up.
 - **Renders correctly before CSS arrives.** The splash overlay, logo and loading track are positioned with inline styles rather than utility classes. Tailwind chunks can arrive after first paint; inline styles ship inside the HTML, so the logo never flashes in an unstyled position.
 - **Continuous motion.** The background fades independently while the *same* `<img>` element travels from the viewport centre to its final hero position — one element, one transform, no swap and no re-entry.
 - **A single dot, not a sliding bar.** The loading indicator is a 12 px dot moving left–right inside a thin rounded track (`barDot`, 1.2 s, easing in-out).
@@ -315,12 +321,14 @@ Historical recipes in `src/data/tarihi/` are practical reconstructions: ingredie
 - [x] Ancient Kitchen Archive (85 recipes, 8 categories)
 - [x] Splash experience and restrained motion system
 - [x] PWA manifest and LAN-safe development setup
+- [x] API input validation/rate limiting, baseline security headers, clean dependency audit
 - [ ] Real AI provider behind `src/services/ai.ts` (vision + recipe reasoning)
 - [ ] Supabase persistence: accounts, favourites, recipe submissions
 - [ ] Android release via Capacitor, native camera capture
 - [ ] Recipe images, difficulty scaling by serving count, ratings
-- [ ] Nutrition and cost estimation, shopping list generation
-- [ ] Cooking mode with timers, step-by-step guidance
+- [x] Local favourites and shopping list (device-local; account sync pending)
+- [x] Cooking mode with timers, step-by-step guidance
+- [ ] Nutrition and cost estimation
 
 ---
 
