@@ -13,6 +13,7 @@ import RecipeCards from "@/components/RecipeCards";
 import FavoriteButton from "@/components/FavoriteButton";
 import RecipeActions from "@/components/RecipeActions";
 import ShoppingListButton from "@/components/ShoppingListButton";
+import CookingModeButton from "@/components/CookingModeButton";
 import Icon from "@/components/Icon";
 import RouteSkeleton from "@/components/RouteSkeleton";
 
@@ -108,6 +109,7 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
           <FavoriteButton recipe={toCardData(recipe)} locale={locale} />
           <RecipeActions name={recipe.name[locale]} locale={locale} />
           <ShoppingListButton ingredients={recipe.ingredients[locale]} locale={locale} />
+          <CookingModeButton steps={recipe.steps[locale]} locale={locale} />
         </div>
         {(recipe.era || recipe.region || recipe.area) && (
           <p className="flex flex-wrap gap-x-4 gap-y-1 text-xs uppercase tracking-wide text-[#787774]">
