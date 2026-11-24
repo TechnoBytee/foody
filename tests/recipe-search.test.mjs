@@ -69,6 +69,11 @@ test("overlong queries are capped instead of crashing", () => {
   assert.deepEqual(searchDishes("a".repeat(200), soups, "tr"), []);
 });
 
+test("result limit is respected", () => {
+  const many = Array.from({ length: 10 }, (_, i) => dish(`p${i}`, `Pilav ${i}`, `Pilaf ${i}`));
+  assert.equal(searchDishes("pilav", many, "tr", 3).length, 3);
+});
+
 test("duplicate dish names produce a single suggestion", () => {
   const twin = { ...soups[0], id: "a-copy" };
   const suggestions = suggestSimilarDishes("mercimek corbasi", [soups[0], twin], "tr");

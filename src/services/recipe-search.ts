@@ -67,7 +67,7 @@ function termVariants(term: string): string[] {
   return [term, ...(ALIASES[term] ?? [])];
 }
 
-export function searchDishes(query: string, recipes: Recipe[], lang: Lang): Recipe[] {
+export function searchDishes(query: string, recipes: Recipe[], lang: Lang, limit = 8): Recipe[] {
   const terms = normalizeDish(query).slice(0, MAX_QUERY).split(" ").filter((t) => t.length > 1);
   if (terms.length === 0) return [];
   const normalizedQuery = normalizeDish(query).slice(0, MAX_QUERY);
@@ -96,7 +96,7 @@ export function searchDishes(query: string, recipes: Recipe[], lang: Lang): Reci
   }
   return scored
     .sort((a, b) => b.score - a.score || b.matches - a.matches)
-    .slice(0, 8)
+    .slice(0, limit)
     .map((s) => s.recipe);
 }
 

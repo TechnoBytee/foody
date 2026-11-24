@@ -15,6 +15,8 @@ export default function DishSearch({
   const [query, setQuery] = useState("");
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [notFound, setNotFound] = useState(false);
+  const [limit, setLimit] = useState(8);
+  const [resultCount, setResultCount] = useState(0);
 
   const m = getMessages(locale);
   const copy = {
@@ -24,10 +26,10 @@ export default function DishSearch({
     notFound: m.dishNotFound,
   };
 
-  const run = async (value: string) => {
+  const run = async (value: string, nextLimit = 8) => {
     try {
       const res = await fetch(
-        `/api/yemek-arama?q=${encodeURIComponent(value)}&locale=${locale}`
+        `/api/yemek-arama?q=${encodeURIComponent(value)}&locale=${locale}&limit=${nextLimit}`
       );
       if (!res.ok) throw new Error("search failed");
       const data = (await res.json()) as {
@@ -35,10 +37,14 @@ export default function DishSearch({
         suggestions: string[];
       };
       onResults(data.results);
+      setLimit(nextLimit);
+      setResultCount(data.results.length);
       setSuggestions(data.suggestions);
       setNotFound(data.results.length === 0 && data.suggestions.length === 0);
     } catch {
       onResults([]);
+      setLimit(8);
+      setResultCount(0);
       setSuggestions([]);
       setNotFound(true);
     }
@@ -69,6 +75,19 @@ export default function DishSearch({
           {copy.button}
         </button>
       </div>
+      {resultCount >= limit && limit < 24 && (
+        <button
+          onClick={() => run(query, Math.min(24, limit + 8))}
+          className="mt-3 w-fit rounded-full border border-[#EAEAEA] px-4 py-2 text-xs text-[#346538] transition hover:bg-[#EDF3EC]"
+        >
+          {m.showMore}
+        </button>
+      )}
+      {resultCount > 0 && (
+        <p role="status" className="mt-3 text-xs text-[#787774]">
+          {resultCount} {m.recipeCount}
+        </p>
+      )}
       {notFound && (
         <p role="status" aria-live="polite" className="mt-3 text-sm text-[#787774]">
           {copy.notFound}
