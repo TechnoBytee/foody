@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getMessages, Locale } from "@/i18n";
+import Icon from "./Icon";
 
 // ?sayfa=n ile sunucu tarafında sayfalama; istemciye ek veri gönderilmez.
 export default function Pagination({
@@ -22,7 +23,7 @@ export default function Pagination({
     <nav aria-label="Pagination" className="flex items-center justify-between gap-3">
       {page > 1 ? (
         <Link href={`${basePath}?sayfa=${page - 1}`} className={linkClass}>
-          ← {m.previousPage}
+          <Icon name="caret-left" size={14} /> {m.previousPage}
         </Link>
       ) : (
         <span />
@@ -32,7 +33,7 @@ export default function Pagination({
       </span>
       {page < totalPages ? (
         <Link href={`${basePath}?sayfa=${page + 1}`} className={linkClass}>
-          {m.nextPage} →
+          {m.nextPage} <Icon name="caret-right" size={14} />
         </Link>
       ) : (
         <span />

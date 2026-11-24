@@ -11,6 +11,7 @@ import { metaLabels, metaParts } from "@/lib/recipe-meta";
 import { toCardData } from "@/lib/recipe-card";
 import RecipeCards from "@/components/RecipeCards";
 import FavoriteButton from "@/components/FavoriteButton";
+import Icon from "@/components/Icon";
 import RouteSkeleton from "@/components/RouteSkeleton";
 
 type PageParams = { locale: Locale; id: string };
@@ -78,7 +79,7 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
         }}
       />
       <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">
-        ← {messages.back}
+        <Icon name="arrow-left" size={16} /> {messages.back}
       </Link>
       <div className="flex flex-col gap-3">
         {recipe.forgotten && (

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getMessages, Locale } from "@/i18n";
+import Icon from "@/components/Icon";
 
 export default async function GirisPage({
   params,
@@ -18,7 +19,7 @@ export default async function GirisPage({
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
       <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">
-        ← {messages.back}
+        <Icon name="arrow-left" size={16} /> {messages.back}
       </Link>
       <h1 className="font-serif text-4xl tracking-tight">{copy.title}</h1>
       <form className="flex flex-col gap-3" action="#">

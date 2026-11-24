@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getMessages, Locale } from "@/i18n";
 import FavoritesList from "@/components/FavoritesList";
+import Icon from "@/components/Icon";
 
 export default async function FavorilerPage({
   params,
@@ -13,7 +14,7 @@ export default async function FavorilerPage({
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
       <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">
-        ← {messages.back}
+        <Icon name="arrow-left" size={16} /> {messages.back}
       </Link>
       <h1 className="font-serif text-4xl tracking-tight">{copy.title}</h1>
       <p className="text-sm text-[#787774]">{copy.body}</p>

@@ -5,6 +5,7 @@ import { analyzeImage } from "@/services/image-analysis";
 import type { RecipeCardData } from "@/lib/recipe-card";
 import { useModalFocus } from "@/lib/use-modal-focus";
 import { getMessages } from "@/i18n";
+import Icon from "./Icon";
 import allIngredients from "@/data/ingredient-search.json";
 
 const EXACT_THRESHOLD = 0.85;
@@ -167,7 +168,7 @@ export default function FridgeSearch({
           onClick={() => fileRef.current?.click()}
           className="rounded-md bg-[#111111] px-4 py-2.5 text-sm font-medium text-white hover:bg-[#333333] active:scale-[0.98] transition"
         >
-          {labels.upload}
+          <Icon name="camera" size={16} /> {labels.upload}
         </button>
         <input
           ref={fileRef}
@@ -191,7 +192,7 @@ export default function FridgeSearch({
             aria-label={labels.add}
             className="rounded-md border border-[#EAEAEA] px-3 py-2.5 text-sm hover:bg-[#F7F6F3]"
           >
-            +
+            <Icon name="plus" size={16} />
           </button>
         </div>
         <button
@@ -213,7 +214,7 @@ export default function FridgeSearch({
                 onClick={() => setIngredients(ingredients.filter((i) => i !== ing))}
                 aria-label={`${copy.remove} ${ing}`}
               >
-                ×
+                <Icon name="x" size={12} />
               </button>
             </span>
           ))}

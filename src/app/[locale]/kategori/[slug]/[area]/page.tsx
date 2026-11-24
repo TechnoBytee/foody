@@ -5,6 +5,7 @@ import { allCuisines, recipesByCuisineAndArea, areas } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
 import RouteSkeleton from "@/components/RouteSkeleton";
+import Icon from "@/components/Icon";
 import Pagination from "@/components/Pagination";
 import { paginate } from "@/lib/paginate";
 
@@ -39,7 +40,7 @@ async function CuisineAreaContent({
         href={`/${locale}/kategori/${slug}`}
         className="text-sm text-[#787774] transition hover:text-[#2F3437]"
       >
-        ← {cuisine.name[locale]}
+        <Icon name="arrow-left" size={16} /> {cuisine.name[locale]}
       </Link>
       <div className="flex flex-col gap-2">
         <span className="w-fit rounded-full bg-[#EDF3EC] px-3 py-1 text-xs uppercase tracking-wide text-[#346538]">

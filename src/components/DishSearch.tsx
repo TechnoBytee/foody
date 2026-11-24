@@ -3,6 +3,7 @@
 import { useState } from "react";
 import type { RecipeCardData } from "@/lib/recipe-card";
 import { getMessages } from "@/i18n";
+import Icon from "./Icon";
 
 // Malzeme aramasından ayrı, kendi state'i ve servisi olan yemek adı araması.
 export default function DishSearch({
@@ -72,7 +73,7 @@ export default function DishSearch({
           onClick={() => run(query)}
           className="rounded-md bg-[#346538] px-5 py-2.5 text-sm font-medium text-white hover:bg-[#2C5530] active:scale-[0.98] transition"
         >
-          {copy.button}
+          <Icon name="magnifying-glass" size={16} /> {copy.button}
         </button>
       </div>
       {resultCount >= limit && limit < 24 && (

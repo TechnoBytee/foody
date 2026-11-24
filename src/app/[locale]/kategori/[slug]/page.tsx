@@ -5,6 +5,7 @@ import { allCuisines, recipesByCuisine, areas } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
 import RouteSkeleton from "@/components/RouteSkeleton";
+import Icon from "@/components/Icon";
 import Pagination from "@/components/Pagination";
 import { paginate } from "@/lib/paginate";
 
@@ -33,7 +34,7 @@ async function CuisineContent({
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
       <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">
-        ← {messages.back}
+        <Icon name="arrow-left" size={16} /> {messages.back}
       </Link>
 
       <h1 className="font-serif text-4xl tracking-tight">{cuisine.name[locale]}</h1>
