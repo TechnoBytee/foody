@@ -8,7 +8,9 @@ import { getMessages, Locale } from "@/i18n";
 import { getAlternatives } from "@/services/ai";
 import { getRecipeIntro } from "@/lib/recipe-intro";
 import { metaLabels, metaParts } from "@/lib/recipe-meta";
+import { toCardData } from "@/lib/recipe-card";
 import RecipeCards from "@/components/RecipeCards";
+import FavoriteButton from "@/components/FavoriteButton";
 import RouteSkeleton from "@/components/RouteSkeleton";
 
 type PageParams = { locale: Locale; id: string };
@@ -99,6 +101,7 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
         {metaParts(recipe, labels).length > 0 && (
           <p className="text-sm text-[#787774]">{metaParts(recipe, labels).join(" · ")}</p>
         )}
+        <FavoriteButton recipe={toCardData(recipe)} locale={locale} />
         {(recipe.era || recipe.region || recipe.area) && (
           <p className="flex flex-wrap gap-x-4 gap-y-1 text-xs uppercase tracking-wide text-[#787774]">
             {recipe.era && (
