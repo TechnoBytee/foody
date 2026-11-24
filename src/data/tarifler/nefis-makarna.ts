@@ -8,8 +8,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Lasagna Recipe (Video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "12 yaprak lazanya"
@@ -55,7 +55,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -68,8 +68,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta with Béchamel Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket fırın makarna",
@@ -105,7 +105,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 500,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -118,8 +118,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Thyme Menu - Chicken a la King Flavor (video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet tavuk göğsü",
@@ -173,7 +173,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -186,8 +186,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta (video recipe with lots of sauce)"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket fırın makarna",
@@ -233,7 +233,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -246,8 +246,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Tomato Pasta Cooked in Its Own Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram makarna",
@@ -297,7 +297,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 549,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -310,8 +310,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Chicken Pasta Salad"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket boncuk makarna",
@@ -353,7 +353,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 354,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -366,8 +366,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta with Béchamel Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500g Piyale ince uzun makarna",
@@ -407,7 +407,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -420,8 +420,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Zucchini Spaghetti (video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy kabak",
@@ -453,7 +453,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 431,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -466,8 +466,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Mushroom and Pepper Pasta That Seems Creamy to You"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr makarna (istediğiniz bir çeşit)",
@@ -531,7 +531,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -544,8 +544,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta with Cheese"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket fırın makarna (miktarı fırın kabınıza göre ayarlayabilirsiniz)"
@@ -575,7 +575,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 238,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -588,8 +588,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Chicken and Mushroom Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase mantar (konserve veya taze)",
@@ -645,7 +645,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 398,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -658,8 +658,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Erişte with Milk"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram erişte",
@@ -717,7 +717,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -730,8 +730,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Lasagna (Video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "9 adet lazanya yaprağı"
@@ -767,7 +767,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 162,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -780,8 +780,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Homemade Erişte"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg un (9 su bardağı un)",
@@ -817,7 +817,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -830,8 +830,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Spaghetti with Meatballs"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket spagetti makarna"
@@ -859,7 +859,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -872,7 +872,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Tagliatelle Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -915,7 +915,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 520,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -928,8 +928,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Healthy Chicken and Vegetable Noodles"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 parça noodle",
@@ -977,7 +977,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -990,8 +990,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Sausage Rolls"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu sosis",
@@ -1031,7 +1031,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 354,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1044,8 +1044,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Basil Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1/2 (yarım) paket dilediğiniz çeşit makarna (kalem veya spagetti çok yakışır)",
@@ -1083,7 +1083,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 484,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1096,8 +1096,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "One-Pan Creamy Chicken Pasta (Video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "zeytinyağı",
@@ -1145,7 +1145,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1158,8 +1158,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Yogurt and Ground Meat"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 pk makarna",
@@ -1211,7 +1211,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 229,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1224,8 +1224,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Bolognese Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -1273,7 +1273,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 470,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1286,7 +1286,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Spicy Noodles"
     },
     "cuisine": "nefis-makarna",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1325,7 +1325,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 214,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1338,8 +1338,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Tomato Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet domates (isteğe göre arttırabilirsiniz)",
@@ -1387,7 +1387,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 289,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1400,8 +1400,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Slavic Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram makarna",
@@ -1435,7 +1435,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1448,8 +1448,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Homemade Noodles"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı su",
@@ -1489,7 +1489,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 491,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1502,8 +1502,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -1559,7 +1559,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 202,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1572,8 +1572,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Vegetable Pasta (No Onion)"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket makarna",
@@ -1617,7 +1617,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 531,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1630,8 +1630,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Aglio Olio E Peperoncino | Spicy Garlic Olive Oil Spaghetti (Video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150-200 gram spaghetti",
@@ -1675,7 +1675,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1688,8 +1688,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Delicious Lasagna Recipe"
     },
     "cuisine": "nefis-makarna",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "lazanya yaprakları"
@@ -1725,7 +1725,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 203,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1738,8 +1738,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta with Béchamel Sauce in the Airfryer"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -1775,7 +1775,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1788,8 +1788,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Chicken Sautéed Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet derisiz tavuk göğsü",
@@ -1841,7 +1841,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 438,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1854,8 +1854,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Shrimp"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gr karides",
@@ -1895,7 +1895,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 151,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1908,8 +1908,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Milk and Cheddar"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket dilediğiniz tip makarna",
@@ -1947,7 +1947,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 485,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1960,8 +1960,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Egg-Free Baked Pasta with Cheese"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -1999,7 +1999,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2012,8 +2012,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Creamy Tomato Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "12-13 adet barilla makarna (yada başka makarna olur)"
@@ -2039,7 +2039,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 385,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2052,8 +2052,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "My Refreshing Pasta Salad Recipe"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket küçük makarna",
@@ -2097,7 +2097,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 472,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2110,8 +2110,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket fırın makarna",
@@ -2141,7 +2141,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 489,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2154,7 +2154,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Yogurt Curry Noodles"
     },
     "cuisine": "nefis-makarna",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2183,7 +2183,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 355,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2196,8 +2196,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Lasagna"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket lazanya",
@@ -2243,7 +2243,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2256,8 +2256,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Tagliatelle Pasta and Chicken Meatballs"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket tagliatelle makarna (15-16 adet)",
@@ -2303,7 +2303,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2316,8 +2316,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta Salad with Pesto Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -2355,7 +2355,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2368,8 +2368,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Lasagna with Eggplant"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "9 adet pastavilla lazanya yaprağı",
@@ -2425,7 +2425,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 522,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2438,8 +2438,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Curry Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "makarna",
@@ -2483,7 +2483,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 400,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2496,8 +2496,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Carrots and Onions"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet havuç",
@@ -2541,7 +2541,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 167,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2554,8 +2554,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta with Béchamel Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket fırın makarna",
@@ -2589,7 +2589,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 241,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2602,8 +2602,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Cream-Free Chicken Pasta (Very Practical)"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -2647,7 +2647,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 188,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2660,8 +2660,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Chicken Pasta with Basil"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket yassı spagetti",
@@ -2717,7 +2717,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 406,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2730,8 +2730,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Pastry"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -2775,7 +2775,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 176,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2788,8 +2788,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pizza-Flavored Baked Pasta with Tomato Paste"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket penne makarna",
@@ -2825,7 +2825,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 150,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2838,8 +2838,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Pesto Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket penne makarna",
@@ -2875,7 +2875,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 251,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2888,8 +2888,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Braised Tagliatelle with Meatballs"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 küçük soğan (rendelenmiş)",
@@ -2947,7 +2947,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 517,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2960,8 +2960,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Refreshing Pasta with Eggplant"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -3007,7 +3007,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 307,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3020,8 +3020,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket fırın makarna ( şart değil ben olacağını göstermek için normal spagetti ile yaptım kullanabilirsiniz)",
@@ -3053,7 +3053,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3066,8 +3066,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Erişte with Yogurt"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı erişte"
@@ -3091,7 +3091,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 510,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3104,8 +3104,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Erişte with Yogurt Topping"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket erişte",
@@ -3137,7 +3137,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 157,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3150,8 +3150,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Toasted Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -3185,7 +3185,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3198,8 +3198,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -3249,7 +3249,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 406,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3262,8 +3262,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Creamy Pasta with Cheddar"
     },
     "cuisine": "nefis-makarna",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket makarna",
@@ -3319,7 +3319,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 237,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3332,8 +3332,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Cheesy Baked Pasta in a Cake Tin"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket iki parmak fazla makarna"
@@ -3359,7 +3359,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3372,8 +3372,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Zucchini and Yogurt"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -3401,7 +3401,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 375,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3414,8 +3414,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta Salad"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket boncuk makarna",
@@ -3451,7 +3451,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3464,8 +3464,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Fusilli with Zucchini (Video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram burgu makarna",
@@ -3503,7 +3503,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 430,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3516,8 +3516,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Lasagna Rolls with Béchamel Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "12–15 adet lazanya yaprağı"
@@ -3547,7 +3547,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 311,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3560,8 +3560,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket makarna",
@@ -3605,7 +3605,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3618,8 +3618,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Bell Pepper Fiesta"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna (yaklaşık 500 gram)",
@@ -3669,7 +3669,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 419,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3682,8 +3682,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta with Ground Meat (Greek-Style Pastitsio)"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kuru soğan",
@@ -3737,7 +3737,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 286,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3750,8 +3750,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Mushrooms"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram spagetti",
@@ -3797,7 +3797,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3810,8 +3810,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Very Tasty Chicken and Mushroom Curry Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 parça tavuk göğsü",
@@ -3861,7 +3861,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3874,7 +3874,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Mushroom Pasta with Lots of Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3909,7 +3909,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 427,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3922,8 +3922,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "One-Pot Creamy Gigi Hadid Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna (kişisel favorim penne)",
@@ -3973,7 +3973,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 466,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3986,7 +3986,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Noodles with Yogurt Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4009,7 +4009,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4022,8 +4022,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy (Lightly Tomato-Sauced) Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram makarna",
@@ -4065,7 +4065,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4078,8 +4078,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Spaghetti with Tomato Sauce, Ground Meat and Mushrooms"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre kaynar su",
@@ -4117,7 +4117,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 411,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4130,7 +4130,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "One-Pot Braised Spaghetti (Video)"
     },
     "cuisine": "nefis-makarna",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4167,7 +4167,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 388,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4180,8 +4180,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Fettuccine Alfredo"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paketten biraz az fettucini makarna",
@@ -4219,7 +4219,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 415,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4232,8 +4232,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Mushroom Pasta with Curry Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük beyaz soğan",
@@ -4283,7 +4283,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 306,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4296,8 +4296,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Properly Measured Lasagna (Lasagne)"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "14 yaprak lasagne n.189",
@@ -4349,7 +4349,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 503,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4362,8 +4362,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Chicken and Vegetable Noodles"
     },
     "cuisine": "nefis-makarna",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kabak",
@@ -4415,7 +4415,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 220,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4428,8 +4428,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Manti-Style Pasta with Ground Meat"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 yemek kaşığı sıvı yağ",
@@ -4479,7 +4479,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 402,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4492,8 +4492,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Tagliatelle Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tane yumurta",
@@ -4531,7 +4531,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 333,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4544,8 +4544,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Mushroom Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram makarna",
@@ -4603,7 +4603,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 332,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4616,8 +4616,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Vegetable Noodles"
     },
     "cuisine": "nefis-makarna",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket sade noodle",
@@ -4677,7 +4677,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4690,8 +4690,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Braised-Style Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket makarna",
@@ -4727,7 +4727,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 256,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4740,8 +4740,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Baked Pasta with Béchamel Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket haşlanmış makarna",
@@ -4771,7 +4771,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 331,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4784,7 +4784,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Tomato"
     },
     "cuisine": "nefis-makarna",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4807,7 +4807,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 166,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4820,8 +4820,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Lasagna"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 yaprak lazanya"
@@ -4867,7 +4867,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4880,8 +4880,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Gigi Hadid Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "penne veya rigatoni makarna",
@@ -4927,7 +4927,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4940,8 +4940,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Easy One-Pan Pasta with Meatballs"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram makarna (yarım paket)",
@@ -4979,7 +4979,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4992,8 +4992,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Bell Pepper and Tomato Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -5025,7 +5025,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5038,8 +5038,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Basil and Cheese Ravioli"
     },
     "cuisine": "nefis-makarna",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "160 gram un (yaklaşık 1 su bardağı + 1 yemek kaşığı)",
@@ -5093,7 +5093,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 225,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5106,8 +5106,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Mushroom Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -5139,7 +5139,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 493,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5152,8 +5152,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Braised Creamy Vegetable Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -5213,7 +5213,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5226,8 +5226,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Pasta with Tomato Sauce"
     },
     "cuisine": "nefis-makarna",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket makarna",
@@ -5279,7 +5279,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 535,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5292,8 +5292,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket krema",
@@ -5331,7 +5331,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 181,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5344,8 +5344,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Mushroom Pasta"
     },
     "cuisine": "nefis-makarna",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tereyağı (çokça)",
@@ -5387,7 +5387,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 232,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5400,8 +5400,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Pasta with Tomato Paste"
     },
     "cuisine": "nefis-makarna",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna (istediğiniz)",
@@ -5439,7 +5439,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 298,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5452,8 +5452,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Bundle Lasagna"
     },
     "cuisine": "nefis-makarna",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8 adet lazanya yaprağı"
@@ -5489,7 +5489,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 327,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5502,8 +5502,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Creamy Curry Erişte"
     },
     "cuisine": "nefis-makarna",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı erişte",
@@ -5543,7 +5543,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 470,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5556,8 +5556,8 @@ export const nefis_makarnaRecipes: Recipe[] = [
       "en": "Homemade Lasagna with a Borek Flavor"
     },
     "cuisine": "nefis-makarna",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket lazanya"
@@ -5601,7 +5601,7 @@ export const nefis_makarnaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 357,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

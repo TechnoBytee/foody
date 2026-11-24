@@ -8,8 +8,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Meyhane Pilavi (Bulgur Pilaf with Tomato) (Video)"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pilavlık bulgur",
@@ -63,7 +63,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 513,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -76,8 +76,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf Recipe (Video)"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
@@ -115,7 +115,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 308,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -128,8 +128,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Maklube Recipe (Video)"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kuşbaşı doğranmış et",
@@ -181,7 +181,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 355,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -194,8 +194,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "How to Make Vegetable Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yemek kaşığı sıvı yağ",
@@ -251,7 +251,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 211,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -264,8 +264,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Orzo Pilaf Recipe (Video)"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı tereyağı",
@@ -301,7 +301,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 486,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -314,8 +314,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf (An Absolutely Wonderful Flavor)"
     },
     "cuisine": "pilav",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr kuşbaşı et",
@@ -369,7 +369,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 196,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -382,8 +382,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Orzo Pilaf (Easy and Delicious)"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -429,7 +429,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 171,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -442,8 +442,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato Paste (Video)"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1, 5 su bardağı bulgur",
@@ -485,7 +485,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -498,8 +498,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Chicken and Vegetables"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 su bardağı iri bulgur",
@@ -553,7 +553,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -566,8 +566,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Tomato"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,50 su bardağı pirinç",
@@ -609,7 +609,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 227,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -622,8 +622,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Pilaf"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet havuç",
@@ -661,7 +661,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 402,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -674,8 +674,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf (Grain by Grain)"
     },
     "cuisine": "pilav",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pirinç",
@@ -717,7 +717,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 376,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -730,7 +730,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -761,7 +761,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 383,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -774,8 +774,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Couscous"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kuskus",
@@ -819,7 +819,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 516,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -832,8 +832,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf with Meat"
     },
     "cuisine": "pilav",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram kuşbaşı dana eti",
@@ -887,7 +887,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -900,8 +900,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Mardin Bulgur Pilaf with Green Tomatoes"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı mardin bulguru",
@@ -947,7 +947,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 445,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -960,8 +960,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Baked Orzo Dish with Chicken"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket arpa şehriye",
@@ -1023,7 +1023,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 250,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1036,8 +1036,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Stuffed Kid Shoulder with Bulgur"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1-1-5 kg kemikli oğlak eti",
@@ -1077,7 +1077,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1090,8 +1090,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Zucchini"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 tane orta boy kabak ( dolmada kullanılan)",
@@ -1139,7 +1139,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 331,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1152,8 +1152,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Garnish"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet patates",
@@ -1193,7 +1193,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1206,8 +1206,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Classic Rice Pilaf with Orzo"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pirinç",
@@ -1245,7 +1245,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 188,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1258,8 +1258,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Palace Style Baked Pilaf with Spiced Quail"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pirinç",
@@ -1321,7 +1321,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 196,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1334,7 +1334,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Chickpeas"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1367,7 +1367,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 392,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1380,8 +1380,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük boy kuru soğan",
@@ -1419,7 +1419,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1432,8 +1432,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Pilaf with Salmon"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet somon balığı",
@@ -1499,7 +1499,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1512,7 +1512,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Creamy Pilaf with Mushrooms and Orzo"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1555,7 +1555,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 257,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1568,8 +1568,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Olive Oil Green Tomato Dish"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 büyük boy yeşil domates",
@@ -1613,7 +1613,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 476,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1626,8 +1626,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur with Chickpeas (with Chicken)"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket tavuk",
@@ -1663,7 +1663,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1676,8 +1676,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Grain by Grain Rice Pilaf"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pirinç",
@@ -1711,7 +1711,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 246,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1724,8 +1724,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Chicken Served over Pilaf"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tereyağ",
@@ -1779,7 +1779,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1792,8 +1792,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Broken Orzo"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "tuz",
@@ -1831,7 +1831,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 244,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1844,8 +1844,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Mussel Pilaf Without Mussels"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı pirinç",
@@ -1887,7 +1887,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 465,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1900,8 +1900,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur with Tomato"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı bulgur",
@@ -1941,7 +1941,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 505,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1954,8 +1954,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Minced Meat, Vegetables and Nuts"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
@@ -1993,7 +1993,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2006,8 +2006,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Mushrooms"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pilavlık bulgur",
@@ -2055,7 +2055,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2068,7 +2068,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Orzo"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2099,7 +2099,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 549,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2112,8 +2112,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato (Meyhane Pilaf)"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet domates",
@@ -2155,7 +2155,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 538,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2168,8 +2168,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Turkish Style Fried Rice (Fried Rice)"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük tabak bir gün önceden kalmış şehriyeli pirinç pilavı",
@@ -2247,7 +2247,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2260,8 +2260,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf (Video)"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "* 2 su bardağı baldo pirinç",
@@ -2311,7 +2311,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2324,8 +2324,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Bulgur Pilaf with Siyez Bulgur"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı siyez bulgur",
@@ -2375,7 +2375,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 438,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2388,8 +2388,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pilavlık bulgur",
@@ -2435,7 +2435,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 248,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2448,8 +2448,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Shirvan Pilaf"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı pirinç",
@@ -2503,7 +2503,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 283,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2516,8 +2516,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf for Two on an Electric Stove"
     },
     "cuisine": "pilav",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı baldo pirinç (200 ml bardak)",
@@ -2563,7 +2563,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 202,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2576,8 +2576,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Soyraz Wild Greens"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram soryaz otu",
@@ -2619,7 +2619,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 464,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2632,8 +2632,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Orzo to Serve with a Meat and Potato Dish (Video)"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram dana eti",
@@ -2679,7 +2679,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 169,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2692,7 +2692,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Lentils"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2725,7 +2725,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 307,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2738,8 +2738,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet soğan",
@@ -2777,7 +2777,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 242,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2790,8 +2790,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Orzo Pilaf, a Vitamin Storehouse for Children"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı arpa şehriye",
@@ -2837,7 +2837,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 258,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2850,8 +2850,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Mouchendra Pilaf (Cypriot Pilaf)"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı yeşil mercimek",
@@ -2889,7 +2889,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 521,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2902,8 +2902,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı bulgur",
@@ -2957,7 +2957,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2970,8 +2970,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf Recipe"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
@@ -3009,7 +3009,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 440,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3022,8 +3022,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Orzo Pilaf with Chicken"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet kemiksiz tavuk pirzola",
@@ -3067,7 +3067,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 357,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3080,8 +3080,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Grain by Grain Rice Pilaf with Orzo"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 dolu kase pirinç (2 dolu su bardağı pirinç)",
@@ -3129,7 +3129,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 530,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3142,8 +3142,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato and Paste"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı bulgur",
@@ -3189,7 +3189,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3202,7 +3202,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3239,7 +3239,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3252,8 +3252,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pasta with Mushrooms"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram spagetti",
@@ -3299,7 +3299,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3312,8 +3312,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf Stuffed Chicken with Mushrooms (with Mashed Potatoes)"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet tavuk pirzola"
@@ -3343,7 +3343,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 543,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3356,8 +3356,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Malatya Style Salma Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pilavlık bulgur",
@@ -3391,7 +3391,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 150,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3404,7 +3404,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato and Pepper"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3441,7 +3441,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 165,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3454,8 +3454,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Orzo Pilaf with Meat Sote"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı arpa şehriye",
@@ -3505,7 +3505,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 452,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3518,8 +3518,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Orzo and Tomato Paste"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pilavlık bulgur",
@@ -3567,7 +3567,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 419,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3580,8 +3580,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Chickpeas and Corn"
     },
     "cuisine": "pilav",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pirinç (ithal pilavlık pirinç kullandım)",
@@ -3627,7 +3627,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 265,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3640,8 +3640,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Mussel Pilaf Without Mussels"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet soğan",
@@ -3683,7 +3683,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 261,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3696,8 +3696,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "The Best Recipe of Spring: Pilaf with Artichokes (Video)"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet salamura çanak enginar",
@@ -3749,7 +3749,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 440,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3762,8 +3762,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato"
     },
     "cuisine": "pilav",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet domates",
@@ -3821,7 +3821,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3834,8 +3834,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Basmati Pilaf with Almonds (Video)"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı basmati pirinci",
@@ -3885,7 +3885,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3898,8 +3898,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Garlic Pilaf for Healing"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 bardak pirinç",
@@ -3937,7 +3937,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 451,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3950,7 +3950,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato Paste"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3985,7 +3985,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 288,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3998,8 +3998,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Eggplant"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet patlıcan",
@@ -4047,7 +4047,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 415,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4060,8 +4060,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Meat and Chickpeas (Video)"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram kuşbaşı doğranmış ve haşlanmış dana eti",
@@ -4117,7 +4117,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4130,8 +4130,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Risotto with Shrimp (Italy)"
     },
     "cuisine": "pilav",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 buçuk su bardağı baldo pirinç",
@@ -4185,7 +4185,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4198,7 +4198,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Lentils"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4225,7 +4225,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4238,8 +4238,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Feast of Flavors: Chicken Maklube"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tavuk göğüs",
@@ -4301,7 +4301,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 400,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4314,8 +4314,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Bulgur Pilaf"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı evdeki sebzeler (patates patlıcan kabak havuç vb)",
@@ -4365,7 +4365,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4378,8 +4378,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Spring Pilaf"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı zeytinyağı",
@@ -4415,7 +4415,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 505,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4428,8 +4428,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Kofte Pilaf / Kofte with Fried Potatoes"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram dana kıyma",
@@ -4533,7 +4533,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 392,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4546,8 +4546,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Orzo (Exact Measurements)"
     },
     "cuisine": "pilav",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 dolu kase pirinç (2 dolu su bardağı pirinç)",
@@ -4595,7 +4595,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 308,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4608,8 +4608,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Meyhane Pilaf with Basil"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy domates",
@@ -4663,7 +4663,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 410,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4676,8 +4676,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Eggplant"
     },
     "cuisine": "pilav",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pilavı pirinç",
@@ -4735,7 +4735,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4748,8 +4748,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kepçe zeytinyağı",
@@ -4795,7 +4795,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 213,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4808,7 +4808,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Fake Mussel Pilaf Recipe"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4847,7 +4847,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4860,8 +4860,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Meat"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram kuşbaşı dana eti",
@@ -4917,7 +4917,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 459,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4930,8 +4930,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Fake Mussel Pilaf"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "çeyrek çay bardağı sıvı yağ",
@@ -4977,7 +4977,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 304,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4990,7 +4990,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Greens"
     },
     "cuisine": "pilav",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5031,7 +5031,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 363,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5044,8 +5044,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Olive Oil Orzo Pilaf"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pirinç",
@@ -5079,7 +5079,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 226,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5092,8 +5092,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Orzo Pilaf with Meat"
     },
     "cuisine": "pilav",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gr dana kuşbaşı",
@@ -5151,7 +5151,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 497,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5164,8 +5164,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Fake Mussel Pilaf (Tuna Rice Pilaf)"
     },
     "cuisine": "pilav",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
@@ -5217,7 +5217,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 472,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5230,8 +5230,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Artichokes"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet çanak enginar",
@@ -5277,7 +5277,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5290,8 +5290,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Tomato (Crispy Bottom)"
     },
     "cuisine": "pilav",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy domates",
@@ -5341,7 +5341,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 394,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5354,8 +5354,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Orzo Pilaf with Chicken"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram tavuk kalça",
@@ -5401,7 +5401,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 381,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5414,8 +5414,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf with Chicken"
     },
     "cuisine": "pilav",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç (basmati kullandım)",
@@ -5463,7 +5463,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 210,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5476,8 +5476,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Rice Pilaf with Orzo"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı tereyağı",
@@ -5519,7 +5519,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5532,8 +5532,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr kuzu kuşbaşı",
@@ -5577,7 +5577,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 328,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5590,8 +5590,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Onion and Chickpeas"
     },
     "cuisine": "pilav",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 yemek kaşığı zeytinyağı",
@@ -5647,7 +5647,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 352,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5660,8 +5660,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf with Chicken"
     },
     "cuisine": "pilav",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy havuç",
@@ -5711,7 +5711,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5724,8 +5724,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Mushrooms"
     },
     "cuisine": "pilav",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram doğranmış kültür mantarı",
@@ -5767,7 +5767,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5780,8 +5780,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf with Carrots"
     },
     "cuisine": "pilav",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet büyük boy havuç",
@@ -5825,7 +5825,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 211,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5838,8 +5838,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Vegetable Meyhane Pilaf"
     },
     "cuisine": "pilav",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pilavlık bulgur",
@@ -5877,7 +5877,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 207,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5890,7 +5890,7 @@ export const pilavRecipes: Recipe[] = [
       "en": "Pilaf Recipe"
     },
     "cuisine": "pilav",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5919,7 +5919,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 368,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5932,8 +5932,8 @@ export const pilavRecipes: Recipe[] = [
       "en": "Uzbek Pilaf"
     },
     "cuisine": "pilav",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kuşbaşı et",
@@ -5983,7 +5983,7 @@ export const pilavRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

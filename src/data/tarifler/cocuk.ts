@@ -8,8 +8,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Noodle Tarhana Soup"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 yemek kaşığı sıvı yağ",
@@ -57,7 +57,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 499,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -70,8 +70,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Crepe Canape"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -111,7 +111,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 505,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -124,8 +124,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Milk Jam (video recipe)"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 lt hazır süt",
@@ -157,7 +157,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 250,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -170,8 +170,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Raffaello (video recipe)"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket hindistan cevizi ( 200 gr )",
@@ -209,7 +209,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 422,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -222,8 +222,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Chocolate Balls"
     },
     "cuisine": "cocuk",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu sıvı krema (200ml)",
@@ -269,7 +269,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 201,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -282,8 +282,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Stuffed Eggs"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yumurta",
@@ -317,7 +317,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 545,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -330,8 +330,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "5-Minute Cocopops Cake"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket cocopops (250 gram)",
@@ -363,7 +363,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 454,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -376,8 +376,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Noodle Yogurt Soup (for children)"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı yoğurt",
@@ -417,7 +417,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 404,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -430,8 +430,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Cupcake Cone Cake"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -477,7 +477,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -490,8 +490,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Fluffy Pancakes - Freezer Friendly, Nutritious"
     },
     "cuisine": "cocuk",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -545,7 +545,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -558,8 +558,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Healing Lentil Soup (Perfect Consistency)"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı mercimek",
@@ -597,7 +597,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -610,8 +610,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Milk Burger (for lunchbox)"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yumurta (oda sıcaklığında)",
@@ -653,7 +653,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 367,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -666,7 +666,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Strawberry Cookies"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -705,7 +705,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 381,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -718,8 +718,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Zebra Cake in Baking Dish"
     },
     "cuisine": "cocuk",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -765,7 +765,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 465,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -778,8 +778,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Bonbon Cookies"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane yumurta",
@@ -815,7 +815,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 392,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -828,8 +828,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "3-Ingredient Easy Cookies"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -859,7 +859,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 264,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -872,8 +872,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Creamy Potato Gratin"
     },
     "cuisine": "cocuk",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "800 gram orta boy patates – önemli: pişerken dağılmayan bir patates çeşidi kullanalım",
@@ -935,7 +935,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 365,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -948,8 +948,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Turmeric Chicken and Orzo Soup"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase minik minik doğranmış tavuk göğsü",
@@ -997,7 +997,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1010,8 +1010,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Carob Flour Lemon Cake"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -1061,7 +1061,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 458,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1074,8 +1074,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Spinach Potato Balls"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 avuç ıspanak (haşlayıp suyu sıkılmış)",
@@ -1121,7 +1121,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 538,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1134,8 +1134,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Poke Pop (Pokemon Egg)"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -1167,7 +1167,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 203,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1180,7 +1180,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Classic Pancakes for 2"
     },
     "cuisine": "cocuk",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1209,7 +1209,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 474,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1222,8 +1222,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Wafer Cars That Children Will Love"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet gofret",
@@ -1257,7 +1257,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 545,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1270,7 +1270,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Immunity Booster for Children"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1305,7 +1305,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 408,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1318,8 +1318,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Winter Liquid Tarhana (Deep Freezer)"
     },
     "cuisine": "cocuk",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bağ dereotu",
@@ -1379,7 +1379,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1392,8 +1392,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Gluten-Free Lahmacun"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı scher un",
@@ -1427,7 +1427,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 416,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1440,8 +1440,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Semolina Yogurt Soup"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı bebek irmiği",
@@ -1479,7 +1479,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 453,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1492,8 +1492,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Breakfast Crepes"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1525,7 +1525,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 260,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1538,8 +1538,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Pink Muffins"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet olgun muz",
@@ -1583,7 +1583,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 472,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1596,8 +1596,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Mashed Potatoes (Vegan)"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg püre yapımına uygun patates",
@@ -1631,7 +1631,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 476,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1644,8 +1644,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Air Fryer Tomato Soup"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet domates",
@@ -1691,7 +1691,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 209,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1704,7 +1704,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Homemade Fruity Gummy (video recipe)"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1731,7 +1731,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1744,8 +1744,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Hormone-Friendly Omelet"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet yumurta",
@@ -1781,7 +1781,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 274,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1794,7 +1794,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Crispy Chicken Slices in Tortilla"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1827,7 +1827,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 535,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1840,7 +1840,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Egg Man"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1867,7 +1867,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 257,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1880,8 +1880,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "White Mulberry, Tahini and Cocoa Cake"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı beyaz dut kurusu",
@@ -1923,7 +1923,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1936,8 +1936,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Boiled Egg Pudding"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1967,7 +1967,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 340,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1980,8 +1980,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Biscuit Cake"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre süt",
@@ -2013,7 +2013,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2026,8 +2026,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Soft Tahini Cookie Cake"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük olgun muz",
@@ -2063,7 +2063,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 162,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2076,8 +2076,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Zucchini Soup"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım taze bal kabağı (yani doğranmış 1 tabağa denk geliyor bende bal kabağı vardı o yüzden bal kabağı ile yaptım)",
@@ -2117,7 +2117,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 266,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2130,8 +2130,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Protein-Rich Green Lentil Omelet"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         " 2 adet yumurta",
@@ -2169,7 +2169,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 349,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2182,8 +2182,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Banana Chocolate Muffins"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2219,7 +2219,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 184,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2232,8 +2232,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Protein Chips"
     },
     "cuisine": "cocuk",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu kırmızı barbunya fasulyesi (240 gram süzülmüş ağırlık)",
@@ -2283,7 +2283,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2296,7 +2296,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Sugar-Free Gummy"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2323,7 +2323,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 473,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2336,7 +2336,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Tomato Pasta"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2359,7 +2359,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 288,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2372,8 +2372,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Ground Beef and Sweet Potato Gratin"
     },
     "cuisine": "cocuk",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet büyük tatlı patates",
@@ -2425,7 +2425,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 457,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2438,8 +2438,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Sweet Potato Fritters"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük tatlı patates (haşlanmış)",
@@ -2477,7 +2477,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 177,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2490,8 +2490,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Sweet Potato Pizza"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy tatlı patates",
@@ -2525,7 +2525,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2538,8 +2538,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Sweet Potato Pancakes"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2577,7 +2577,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 407,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2590,8 +2590,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Palace Roll with Ground Beef"
     },
     "cuisine": "cocuk",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet lavaş"
@@ -2623,7 +2623,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 541,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2636,8 +2636,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Oven Parmesan Asparagus"
     },
     "cuisine": "cocuk",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet yeşil kuşkonmaz",
@@ -2681,7 +2681,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 354,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2694,8 +2694,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Love Cookies"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2733,7 +2733,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 256,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2746,8 +2746,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Perfect Outer Cream for Boutique Cakes"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram sıvı şanti (bitkisel sıvı krema, çok soğuk olmalı)",
@@ -2777,7 +2777,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 242,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2790,8 +2790,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Practical Lemonade with Orange and Lemon"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 tane limon",
@@ -2827,7 +2827,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2840,8 +2840,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Strawberry Balls"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram çilek (yaklaşık 6-7 orta boy)",
@@ -2873,7 +2873,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 336,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2886,8 +2886,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Strawberry Pancakes"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet muz",
@@ -2927,7 +2927,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 546,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2940,8 +2940,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Strawberry Cookies"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet olgun muz",
@@ -2979,7 +2979,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 457,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2992,8 +2992,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Chicken and Vegetable Dish for Babies"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet soğan",
@@ -3039,7 +3039,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 219,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3052,7 +3052,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Fruity Chia Pudding"
     },
     "cuisine": "cocuk",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3083,7 +3083,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 242,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3096,8 +3096,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Strawberry Banana Milkshake (video recipe)"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet olgun muz",
@@ -3133,7 +3133,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 167,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3146,8 +3146,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Apple Millet Fritters"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram haşlanmış hirse (darı)",
@@ -3187,7 +3187,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 412,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3200,8 +3200,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Air Fryer Potato Sticks"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 patates",
@@ -3237,7 +3237,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3250,8 +3250,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Honey Soy Sauce Chicken Chops"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet tavuk pirzola",
@@ -3297,7 +3297,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 340,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3310,8 +3310,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Fruity Cake"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet muz",
@@ -3345,7 +3345,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 307,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3358,8 +3358,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Date and Tahini Snack"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 tatlı kaşığı tahin",
@@ -3391,7 +3391,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 214,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3404,8 +3404,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Cinnamon Apple Balls"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy tatlı elma",
@@ -3437,7 +3437,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 190,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3450,8 +3450,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Spreadable Chocolate"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı oda ısısında süt",
@@ -3483,7 +3483,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 478,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3496,7 +3496,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Pink Energy"
     },
     "cuisine": "cocuk",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3521,7 +3521,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3534,8 +3534,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Duck Cookies (Children Will Love Them Very Much)"
     },
     "cuisine": "cocuk",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağı (margarinde olabilir)",
@@ -3591,7 +3591,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 417,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3604,7 +3604,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Nut Brittle"
     },
     "cuisine": "cocuk",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3635,7 +3635,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 385,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3648,8 +3648,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Oven Crepe Pizza"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -3685,7 +3685,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3698,7 +3698,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Chocolate Hazelnuts"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3725,7 +3725,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 465,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3738,7 +3738,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Banana Oat Magnolia"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3767,7 +3767,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3780,8 +3780,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Bunny Cookies (Birthday Special)"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket margarin",
@@ -3819,7 +3819,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 416,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3832,8 +3832,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Banana Bars"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet olgun muz",
@@ -3861,7 +3861,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 436,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3874,7 +3874,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Purslane Bulgur Summer Soup"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3909,7 +3909,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 456,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3922,8 +3922,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Pancakes"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -3959,7 +3959,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 547,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3972,8 +3972,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Burnt-Bottom Potato Eggs"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -4009,7 +4009,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 463,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4022,8 +4022,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Eggplant Pizza"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy bostan patlıcan",
@@ -4063,7 +4063,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4076,8 +4076,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Nutritious Soft Baby Pancakes"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -4119,7 +4119,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4132,8 +4132,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Homemade Coffee Chocolate"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı tahin",
@@ -4169,7 +4169,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4182,7 +4182,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Baby Muffin Cake"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4217,7 +4217,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 191,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4230,8 +4230,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Homemade Milk Burger"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4265,7 +4265,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 280,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4278,8 +4278,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Beetroot Pancakes for Babies"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 küçük boy kırmızı pancar",
@@ -4313,7 +4313,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4326,8 +4326,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Banana Bread"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet çok olgun muz",
@@ -4369,7 +4369,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 532,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4382,8 +4382,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Vegetable Soup for Babies (+6 months)"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "çeyrek dilim kabak",
@@ -4423,7 +4423,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 196,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4436,8 +4436,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Purple Pancakes with Walnuts"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yumurta",
@@ -4473,7 +4473,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 356,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4486,8 +4486,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Banana Cocoa Pancakes"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet muz",
@@ -4523,7 +4523,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4536,8 +4536,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Homemade Chocolate"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı tahin",
@@ -4569,7 +4569,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 516,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4582,8 +4582,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Practical Healthy Delicious Date Dessert"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "20-30 adet hurma",
@@ -4621,7 +4621,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 184,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4634,7 +4634,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Pancakes (for 2)"
     },
     "cuisine": "cocuk",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4665,7 +4665,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 215,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4678,8 +4678,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Lentil Mini Breads"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram kırmızı mercimek (glutensiz)",
@@ -4717,7 +4717,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4730,8 +4730,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Celeriac Stew"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük boy kereviz",
@@ -4771,7 +4771,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 279,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4784,8 +4784,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Pumpkin Fritters"
     },
     "cuisine": "cocuk",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram bal kabağı (soyulmuş, rendelenmiş)",
@@ -4825,7 +4825,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4838,8 +4838,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Leek Pan Börek"
     },
     "cuisine": "cocuk",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dal pırasa (beyaz kısmı)",
@@ -4887,7 +4887,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 527,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4900,8 +4900,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Soufflé"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta (oda sıcaklığı)",
@@ -4939,7 +4939,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 449,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4952,7 +4952,7 @@ export const cocukRecipes: Recipe[] = [
       "en": "Tahini Baba Ganoush"
     },
     "cuisine": "cocuk",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4983,7 +4983,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 445,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4996,8 +4996,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Spinach Cake"
     },
     "cuisine": "cocuk",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -5041,7 +5041,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5054,8 +5054,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Sweet Potato Pizza"
     },
     "cuisine": "cocuk",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy tatlı patates",
@@ -5087,7 +5087,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5100,8 +5100,8 @@ export const cocukRecipes: Recipe[] = [
       "en": "Muhallebi (Cicibebe)"
     },
     "cuisine": "cocuk",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram cicibebe",
@@ -5137,7 +5137,7 @@ export const cocukRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 286,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

@@ -8,8 +8,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "The Most Delicious Way to Use Potatoes: Potato Gratin (Video)"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patates",
@@ -49,7 +49,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 537,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -62,8 +62,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Homemade Ranch Sauce with Crispy Potatoes"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet orta boy patates",
@@ -103,7 +103,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 529,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -116,8 +116,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Puff Pastry Toast (Taste Like a Börek)"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet milföy (Kişi sayısına göre ben 4 tane kullandım. 2 adet tost yaptım)",
@@ -147,7 +147,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 218,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -160,8 +160,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Potato Pan with Ground Meat"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet patates",
@@ -203,7 +203,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 380,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -216,8 +216,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Taco (Traditional Mexican Dish)"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tavuk göğsü",
@@ -271,7 +271,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 204,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -284,8 +284,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Mushroom Feast in Individual Baking Dishes"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "️400 gram mantar",
@@ -339,7 +339,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -352,8 +352,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Potato Toast"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 patates",
@@ -393,7 +393,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 333,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -406,7 +406,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Kumru (Turkish Sandwich)"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -437,7 +437,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 468,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -450,8 +450,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Chicken Tantuni (Ready in 15 Minutes)"
     },
     "cuisine": "hizli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü veya kemiksiz tavuk but",
@@ -507,7 +507,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 455,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -520,8 +520,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Zucchini and Potato Fritters"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy kabak",
@@ -563,7 +563,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -576,8 +576,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Harran Kubbesi (Harran Vault Bread)"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yeşil biber",
@@ -611,7 +611,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 207,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -624,8 +624,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Potato Gratin with Bechamel Sauce"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy patates(patatesleriniz küçükse biraz daha fazla)",
@@ -657,7 +657,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -670,8 +670,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Rice Pilaf with Tomatoes"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,50 su bardağı pirinç",
@@ -713,7 +713,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 360,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -726,8 +726,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Bulgur with Chickpeas (Chicken)"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket tavuk",
@@ -763,7 +763,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -776,8 +776,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Vegetable Pilaf"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet havuç",
@@ -815,7 +815,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 290,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -828,8 +828,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Potato Topped Meatballs in a Pan"
     },
     "cuisine": "hizli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kıyma",
@@ -877,7 +877,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 334,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -890,8 +890,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Practical Oven-Baked Potatoes with Sun-Dried Tomatoes"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "küçük kuş başı kesilmiş sana eti ( isteğe bağlı koymayada bilirsiniz)",
@@ -933,7 +933,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -946,8 +946,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Pizza Style Bazlama Toast - Practical and Delicious (Video)"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet bazlama ekmek",
@@ -987,7 +987,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 397,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1000,8 +1000,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Tantuni with Yogurt"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü eti",
@@ -1051,7 +1051,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 487,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1064,8 +1064,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Shrimp Guveç with Kashar Cheese (Video)"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "225 gram jumbo karides",
@@ -1117,7 +1117,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1130,8 +1130,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Toast with Peanut Butter"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet fındıklı halk ekmeği",
@@ -1165,7 +1165,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 483,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1178,8 +1178,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Oven-Baked Cheese Burger"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet susamlı burger ekmeği"
@@ -1209,7 +1209,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 390,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1222,8 +1222,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Crispy Chicken Wrap (Video)"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü (şerit doğranmış)",
@@ -1263,7 +1263,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1276,8 +1276,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Adana Meatballs with Sauce"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet domates",
@@ -1319,7 +1319,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 446,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1332,8 +1332,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "High Protein Vegan Burger Patties"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "toplam 2 yemek kaşığı zeytinyağı",
@@ -1395,7 +1395,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1408,7 +1408,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Crispy Oven Potatoes"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1439,7 +1439,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1452,8 +1452,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Green Beans with Olive Oil"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo fasulye",
@@ -1499,7 +1499,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 491,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1512,8 +1512,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Chicken Tantuni with Yogurt (Video)"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "lavaş",
@@ -1555,7 +1555,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 424,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1568,7 +1568,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Fried Ground Meat"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1611,7 +1611,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 415,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1624,8 +1624,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Triangular Tortilla Wrap with Sausage"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet tortilla",
@@ -1663,7 +1663,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 409,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1676,8 +1676,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Chicken Tantuni That Tastes Amazing (Zurna Wrap)"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram tavuk göğsü",
@@ -1727,7 +1727,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 542,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1740,7 +1740,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Curry Noodles with Yogurt"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1769,7 +1769,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1782,8 +1782,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Harran Kubbesi (Harran Vault Bread)"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet küçük boy patates",
@@ -1839,7 +1839,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 150,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1852,8 +1852,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Creamy Chicken and Potatoes"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patates",
@@ -1905,7 +1905,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 331,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1918,8 +1918,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Bulgur with Tomatoes"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı bulgur",
@@ -1959,7 +1959,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 326,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1972,8 +1972,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Practical Oven-Battered Vegetables (Video)"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet orta boy dolmalık kabak",
@@ -2011,7 +2011,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2024,8 +2024,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Tantuni (Thinly Sliced Beef Sandwich)"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg çok küçük doğranmış tavuk göğsü",
@@ -2081,7 +2081,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 240,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2094,8 +2094,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Birecik Style Scrambled Dried Vegetables"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kurutulmuş patlıcan",
@@ -2135,7 +2135,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2148,8 +2148,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hamburger Buns"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı su",
@@ -2191,7 +2191,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 306,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2204,8 +2204,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Flourless High Protein Giant Vegetable Wrap"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet rendelenmiş patates (isteğe bağlı koyabilirsiniz ben koymadım patatessiz yaptım)",
@@ -2247,7 +2247,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 209,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2260,8 +2260,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Closed Hamburger in a Baking Dish"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram un",
@@ -2309,7 +2309,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2322,8 +2322,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hamburger Toast"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet tost ekmeği"
@@ -2353,7 +2353,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2366,8 +2366,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Zucchini Wrap (Healthy Wrap)"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kabak",
@@ -2403,7 +2403,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 504,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2416,8 +2416,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Quesadillas with Two Dip Sauces (Video)"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet iri boy tavuk göğsü",
@@ -2503,7 +2503,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 266,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2516,8 +2516,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Kumru (Turkish Sandwich)"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase sucuk",
@@ -2557,7 +2557,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 519,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2570,8 +2570,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "4 Hamburgers (Bread + Patties)"
     },
     "cuisine": "hizli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -2621,7 +2621,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 321,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2634,8 +2634,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Practical Oat Toast"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yemek kaşığı yulaf ezmesi",
@@ -2665,7 +2665,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 408,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2678,8 +2678,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Potato Pan (Perfect for Wrapping in Flatbread)"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet patates",
@@ -2721,7 +2721,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 420,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2734,8 +2734,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Tasty Baguette and Potatoes with Sauce"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg baget tavuk",
@@ -2765,7 +2765,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 180,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2778,8 +2778,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hatay Style Sauced Doner Chicken (Video)"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "700 gram tavuk göğsü",
@@ -2831,7 +2831,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2844,8 +2844,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Legendary Practical Hamburger Recipe"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "hazır hamburger ekmeği"
@@ -2885,7 +2885,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 212,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2898,8 +2898,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Meat Tantuni"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "lavaş veya ekmek"
@@ -2949,7 +2949,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2962,8 +2962,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Plenty of Chicken, Plenty of Flavor! My Practical and Delicious Chicken Doner Recipe"
     },
     "cuisine": "hizli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "hazır lavaş ekmeği"
@@ -3003,7 +3003,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3016,8 +3016,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "My Legendary Saj Pan Recipe Over the Flames"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet göğüs tavuk",
@@ -3047,7 +3047,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 416,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3060,7 +3060,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Cheeseburger Wrap"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3083,7 +3083,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 431,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3096,8 +3096,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Delicious Fried Potatoes, Peppers and Tomatoes"
     },
     "cuisine": "hizli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 orta boy patates",
@@ -3137,7 +3137,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3150,8 +3150,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hamburger Buns and Chicken Burger (Video)"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram tavuk göğsü",
@@ -3193,7 +3193,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3206,7 +3206,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "My Extra Crispy French Fries Recipe"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3233,7 +3233,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3246,8 +3246,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Zucchini Fritters That Will Become Your Favorite"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "* 3 adet yumurta",
@@ -3285,7 +3285,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3298,7 +3298,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Pea Dish (with Carrot and Potato)"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3335,7 +3335,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 179,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3348,8 +3348,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Balkan Style Classic Milk Soup"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tereyağı",
@@ -3385,7 +3385,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3398,8 +3398,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "My Perfectly Measured Potato Cake Recipe"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -3445,7 +3445,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 456,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3458,7 +3458,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Egg Mexican Burrito"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3499,7 +3499,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 295,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3512,8 +3512,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Green Beans"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr fasulye",
@@ -3547,7 +3547,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 243,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3560,8 +3560,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Breakfast with Eggs"
     },
     "cuisine": "hizli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3603,7 +3603,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3616,8 +3616,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Practical Chicken Wrap"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tane tavuk göğsü",
@@ -3665,7 +3665,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 486,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3678,8 +3678,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Chicken Burger"
     },
     "cuisine": "hizli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tavuk göğsü",
@@ -3723,7 +3723,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 422,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3736,8 +3736,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hamburger Buns (Chocolate Filled)"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ılık süt",
@@ -3785,7 +3785,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3798,8 +3798,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Closed Hamburger"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -3847,7 +3847,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 423,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3860,8 +3860,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Kisir"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "ince/kalın bulgur (kişi başına 1 çay b.)",
@@ -3907,7 +3907,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 346,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3920,8 +3920,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Katmer Style Börek from Puff Pastry Dough with Kashar Cheese"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket türk milföy hamuru (10 yaprak)",
@@ -3949,7 +3949,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 308,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3962,8 +3962,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Very Delicious Chicken Tacos"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "12 adet tortilla lavaşı",
@@ -3997,7 +3997,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 423,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4010,8 +4010,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Beef with Bulgur Pilaf"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram dana et",
@@ -4047,7 +4047,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 227,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4060,8 +4060,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Home Burger"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg tek çekim kıyma",
@@ -4103,7 +4103,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 526,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4116,7 +4116,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato Paste"
     },
     "cuisine": "hizli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4151,7 +4151,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4164,8 +4164,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Closed Hamburger (Video)"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -4213,7 +4213,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4226,8 +4226,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Meat Wrap"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "dondurulmuş parmak patates",
@@ -4265,7 +4265,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 402,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4278,8 +4278,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hamburger Buns"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı ılık süt",
@@ -4327,7 +4327,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 395,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4340,8 +4340,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Soft Whole Wheat Lavaş"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
@@ -4379,7 +4379,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 275,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4392,8 +4392,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Lahmacun at Home"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı ılık süt",
@@ -4433,7 +4433,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 497,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4446,7 +4446,7 @@ export const hizliRecipes: Recipe[] = [
       "en": "Oat Toast"
     },
     "cuisine": "hizli",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4473,7 +4473,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 220,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4486,8 +4486,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hamburger at Home"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı ılık su",
@@ -4521,7 +4521,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 340,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4534,8 +4534,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Vegetable Wrap Recipe"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patlıcan",
@@ -4585,7 +4585,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4598,8 +4598,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Tantuni (Thinly Sliced Beef Sandwich)"
     },
     "cuisine": "hizli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "ince lavaş"
@@ -4627,7 +4627,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 222,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4640,8 +4640,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Hatay Style Sauced Chicken Doner (Video)"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr tavuk göğsü",
@@ -4689,7 +4689,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 422,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4702,8 +4702,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Closed Hamburger"
     },
     "cuisine": "hizli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -4755,7 +4755,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 542,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4768,8 +4768,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Superfresh Practical Spinach Dish"
     },
     "cuisine": "hizli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket dondurulmuş superfresh ıspanak (450 gr)",
@@ -4813,7 +4813,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 340,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4826,8 +4826,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Chicken Burger"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ılık süt",
@@ -4873,7 +4873,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 542,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4886,8 +4886,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Chicken Sauté with Potato Mash in Baking Dishes"
     },
     "cuisine": "hizli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patates",
@@ -4941,7 +4941,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 448,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4954,8 +4954,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Enfess Bread with Garlic"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet trabzon ekmeği",
@@ -4995,7 +4995,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 228,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5008,8 +5008,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Shredded Chicken Burger"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı ılık süt",
@@ -5039,7 +5039,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 306,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5052,8 +5052,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Mother's Cake with Purslane"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -5093,7 +5093,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 320,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5106,8 +5106,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Cake in a Paper Cup in 5 Minutes"
     },
     "cuisine": "hizli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -5153,7 +5153,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 537,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5166,8 +5166,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Chicken Sauté"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tam tavuk göğsü",
@@ -5209,7 +5209,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 298,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5222,8 +5222,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Oven-Baked Chicken and Potatoes"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy patates",
@@ -5265,7 +5265,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 150,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5278,8 +5278,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Fit Brownie Cookie"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı tahin",
@@ -5315,7 +5315,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 371,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5328,8 +5328,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Closed Burger (Your Kids Will Love It)"
     },
     "cuisine": "hizli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -5369,7 +5369,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 380,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5382,8 +5382,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Pineapple Quesadilla"
     },
     "cuisine": "hizli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tortilla",
@@ -5443,7 +5443,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5456,8 +5456,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "Big Mac Taco"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram kıyma",
@@ -5487,7 +5487,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 304,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5500,8 +5500,8 @@ export const hizliRecipes: Recipe[] = [
       "en": "You Will Not Believe This Crispy Treat Is Zucchini"
     },
     "cuisine": "hizli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kabak",
@@ -5529,7 +5529,7 @@ export const hizliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 479,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

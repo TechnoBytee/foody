@@ -8,8 +8,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vermicelli Tarhana Soup"
     },
     "cuisine": "bebek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 yemek kaşığı sıvı yağ",
@@ -57,7 +57,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 349,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -70,8 +70,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Yogurt Soup (for Babies)"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ev yoğurdu",
@@ -107,7 +107,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 430,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -120,8 +120,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Biscuit Recipe (with video)"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 çay bardağı tam buğday unu",
@@ -155,7 +155,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -168,8 +168,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Rice Soup for Babies"
     },
     "cuisine": "bebek",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı pirinç",
@@ -217,7 +217,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 244,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -230,8 +230,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Homemade Tarhana Recipe"
     },
     "cuisine": "bebek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg domates",
@@ -279,7 +279,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 542,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -292,8 +292,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vermicelli Yogurt Soup (for Children)"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı yoğurt",
@@ -333,7 +333,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -346,8 +346,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Vegetable Soup (+ 6 months)"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet havuç",
@@ -385,7 +385,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 283,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -398,8 +398,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vermicelli Soup"
     },
     "cuisine": "bebek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200gr tavuk göğsü",
@@ -447,7 +447,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 330,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -460,8 +460,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "How to Make Vegetable Soup"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane patates",
@@ -509,7 +509,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 403,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -522,8 +522,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Semolina Pudding with Fruit"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet rendelenmiş elma",
@@ -555,7 +555,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 258,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -568,8 +568,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Yogurt Vermicelli Soup"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
@@ -607,7 +607,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 443,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -620,8 +620,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Oat Night Meal"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı yulaf ezmesi",
@@ -657,7 +657,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -670,8 +670,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vegetable Soup"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kabak",
@@ -709,7 +709,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 465,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -722,8 +722,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Börek Muffins"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -761,7 +761,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 434,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -774,8 +774,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Milk Burger with Kidney Beans"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı haşlanmış maş fasulyesi",
@@ -811,7 +811,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 355,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -824,8 +824,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Night Meal"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım adet şeftali",
@@ -865,7 +865,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 339,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -878,7 +878,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Rice Soup with Minced Meat"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -911,7 +911,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -924,8 +924,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Lemon Cake with Buckwheat Flour"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -975,7 +975,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 254,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -988,8 +988,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Fritters"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 küçük kabak",
@@ -1023,7 +1023,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1036,8 +1036,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Pancake with Beetroot Powder"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1075,7 +1075,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 290,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1088,8 +1088,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Omelet (+7 months)"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yumurta",
@@ -1123,7 +1123,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 212,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1136,8 +1136,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Cake (10+ months)"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1171,7 +1171,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1184,8 +1184,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby's Atom (7+ months)"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı yulaf ezmesi",
@@ -1219,7 +1219,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 363,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1232,8 +1232,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Sugar-Free Fit Pancake"
     },
     "cuisine": "bebek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1275,7 +1275,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1288,7 +1288,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Solid Food Morning or Afternoon Snack"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1317,7 +1317,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1330,8 +1330,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Cheese Nuggets with Sweet Potato for Babies (BLW)"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı patates",
@@ -1361,7 +1361,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 302,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1374,7 +1374,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Nutritious Baby Pancake"
     },
     "cuisine": "bebek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1407,7 +1407,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 371,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1420,8 +1420,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Plain Pancake"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1457,7 +1457,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 332,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1470,8 +1470,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Practical Potato Toast"
     },
     "cuisine": "bebek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy haşlanmış patates",
@@ -1507,7 +1507,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1520,7 +1520,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Smoothie Recipe for Babies"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1555,7 +1555,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 221,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1568,8 +1568,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vegetable Baby Soup"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük boy havuç",
@@ -1613,7 +1613,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 400,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1626,8 +1626,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Nutritious Vegetable Soup for Babies"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kabak",
@@ -1667,7 +1667,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 237,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1680,7 +1680,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Marrow Bulgur Soup"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1715,7 +1715,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1728,8 +1728,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Sweet Potato Fritters"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy tatlı patates",
@@ -1775,7 +1775,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1788,8 +1788,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "İzmir Kofta"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kıyma",
@@ -1837,7 +1837,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 293,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1850,8 +1850,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Pancake with Carrot and Tahini"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1885,7 +1885,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 423,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1898,8 +1898,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Semolina Yogurt Soup"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı bebek irmiği",
@@ -1937,7 +1937,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 224,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1950,8 +1950,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Pink Muffins"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet olgun muz",
@@ -1995,7 +1995,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2008,7 +2008,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Tarhana Soup with Sweet Potato"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2039,7 +2039,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 262,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2052,8 +2052,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Potato Puree (Vegan)"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg püre yapımına uygun patates",
@@ -2087,7 +2087,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 176,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2100,8 +2100,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Chef's Silky Vegetable Soup (Can Also Be Used for Children)"
     },
     "cuisine": "bebek",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük/orta boy kuru soğan (küçük küpler halinde doğranmış)",
@@ -2147,7 +2147,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 475,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2160,7 +2160,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Pancake"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2195,7 +2195,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2208,8 +2208,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Cake with White Mulberries, Tahini and Cocoa"
     },
     "cuisine": "bebek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı beyaz dut kurusu",
@@ -2251,7 +2251,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 271,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2264,8 +2264,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Pudding with Boiled Eggs"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2295,7 +2295,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 307,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2308,7 +2308,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Organic Baby Biscuits"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2343,7 +2343,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2356,8 +2356,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Waffle in a Pan (with Video)"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı süt",
@@ -2395,7 +2395,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 310,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2408,8 +2408,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Soft Cake Cookies with Tahini"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük olgun muz",
@@ -2445,7 +2445,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 156,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2458,8 +2458,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Banana and Chocolate Muffins"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2495,7 +2495,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2508,8 +2508,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Yogurt Lemon Cake"
     },
     "cuisine": "bebek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2557,7 +2557,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 162,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2570,7 +2570,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Soup with Bulgur and Zucchini"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2605,7 +2605,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 251,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2618,8 +2618,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vegetable Soup (5+)"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kabak",
@@ -2649,7 +2649,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 229,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2662,7 +2662,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Pudding with Pear"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2693,7 +2693,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2706,7 +2706,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Egg Salad"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2739,7 +2739,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2752,8 +2752,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Bottle Food (Rice Flour Food)"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 tatlı kaşığı pirinç unu (köftelik olan değil)",
@@ -2785,7 +2785,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 260,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2798,8 +2798,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Nutritious Kidney Bean Soup"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı maş fasulyesi",
@@ -2855,7 +2855,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 328,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2868,7 +2868,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vitamin Store 4 Legume Soup for Babies"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2897,7 +2897,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2910,8 +2910,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Gratin with Minced Meat and Sweet Potato"
     },
     "cuisine": "bebek",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet büyük tatlı patates",
@@ -2963,7 +2963,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 226,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2976,8 +2976,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Sweet Potato Fritters"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük tatlı patates (haşlanmış)",
@@ -3015,7 +3015,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 336,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3028,8 +3028,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Sweet Potato Pizza"
     },
     "cuisine": "bebek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy tatlı patates",
@@ -3063,7 +3063,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 517,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3076,8 +3076,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Sweet Potato Pancake"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3115,7 +3115,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 238,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3128,7 +3128,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Fruit Oat Recipe with a Wonderful Color (8+ months)"
     },
     "cuisine": "bebek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3157,7 +3157,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 499,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3170,8 +3170,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Flour Soup with Vermicelli (3 Servings)"
     },
     "cuisine": "bebek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 çay kaşığı tereyağı",
@@ -3209,7 +3209,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 510,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3222,8 +3222,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Semolina Snack with Avocado"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tatlı kaşığı ruşeymli irmik",
@@ -3267,7 +3267,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 507,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3280,8 +3280,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Solid Food Snack"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet bebek bisküvi",
@@ -3315,7 +3315,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 166,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3328,7 +3328,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Avocado Breakfast"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3353,7 +3353,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 413,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3366,8 +3366,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Royal Wraps with Minced Meat"
     },
     "cuisine": "bebek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet lavaş"
@@ -3399,7 +3399,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 285,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3412,8 +3412,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Spinach Soup (for Babies)"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase ıspanak",
@@ -3457,7 +3457,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 301,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3470,8 +3470,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vermicelli Soup with Minced Meat and Carrot (3 Servings)"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı kıyma",
@@ -3509,7 +3509,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 254,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3522,8 +3522,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Spoon Omelet with Cheese and Olives"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -3559,7 +3559,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 372,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3572,8 +3572,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Banana Pancake for Babies"
     },
     "cuisine": "bebek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3615,7 +3615,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 418,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3628,8 +3628,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Semolina Food"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tatlı kaşığı ruşeymli irmik",
@@ -3661,7 +3661,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3674,8 +3674,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Kofta with Green Lentils"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı haşlanmış yeşil mercimek",
@@ -3715,7 +3715,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 467,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3728,7 +3728,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Solid Food Breakfast for Beginners"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3759,7 +3759,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 358,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3772,8 +3772,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baked Asparagus with Parmesan (A Wonderful Asparagus Recipe!)"
     },
     "cuisine": "bebek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet yeşil kuşkonmaz",
@@ -3817,7 +3817,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 506,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3830,7 +3830,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Egg with Tarhana (+7 months)"
     },
     "cuisine": "bebek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3859,7 +3859,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 232,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3872,7 +3872,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Mini Baby Omelets"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3905,7 +3905,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 548,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3918,8 +3918,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Food with Pumpkin"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 parça bal kabağı (tatlı yaparken kullandığımız boyutlarda)",
@@ -3951,7 +3951,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 201,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3964,8 +3964,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Omelet with Cheese and Olives"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta (bebeğinizin ayına göre 1 veya 2)",
@@ -4003,7 +4003,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 463,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4016,8 +4016,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Cake with Cinnamon and Walnuts"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -4063,7 +4063,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 380,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4076,8 +4076,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Strawberry Balls"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram çilek (yaklaşık 6-7 orta boy)",
@@ -4109,7 +4109,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 201,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4122,8 +4122,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Strawberry Pancake"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet muz",
@@ -4163,7 +4163,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 263,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4176,8 +4176,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vegetable Bulgur Pilaf"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1/2 (yarım) su bardağı kuskus",
@@ -4213,7 +4213,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 315,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4226,8 +4226,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Grain Soup with Lamb (The Soup My Baby Loved So Much)"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet pirzola (yağsız kuzu kıyma da olabilir)",
@@ -4273,7 +4273,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4286,8 +4286,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Strawberry Cookies"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet olgun muz",
@@ -4325,7 +4325,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 478,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4338,8 +4338,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Digestion and Immune Friendly Kefir Puree Recipe"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı yulaf",
@@ -4373,7 +4373,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 219,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4386,7 +4386,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Chia Pudding with Fruit"
     },
     "cuisine": "bebek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4417,7 +4417,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4430,8 +4430,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Oat Cookie Recipe with Fruit"
     },
     "cuisine": "bebek",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet muz",
@@ -4475,7 +4475,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4488,7 +4488,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Pancake with Carrot"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4525,7 +4525,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 251,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4538,8 +4538,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Fried Bananas"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet muz",
@@ -4575,7 +4575,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 419,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4588,7 +4588,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Cocoa Baby Pancake"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4623,7 +4623,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 332,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4636,8 +4636,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Apple Millet Fritters"
     },
     "cuisine": "bebek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram haşlanmış hirse (darı)",
@@ -4677,7 +4677,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4690,8 +4690,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Baby Carrot Balls"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 küçük haşlanmış havuç",
@@ -4725,7 +4725,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 474,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4738,8 +4738,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Sugar-Free Banana Cake"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 olgun muz",
@@ -4775,7 +4775,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 420,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4788,7 +4788,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Oat Magnolia with Banana"
     },
     "cuisine": "bebek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4815,7 +4815,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 185,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4828,8 +4828,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Lentil Pancake with Beetroot"
     },
     "cuisine": "bebek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram mercimek unu (mercimeği un haline getirerek)",
@@ -4863,7 +4863,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4876,8 +4876,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Oat Porridge with Coconut Milk (For 1 Year and Up)"
     },
     "cuisine": "bebek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4–5 yemek kaşığı ince yulaf",
@@ -4909,7 +4909,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 151,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4922,8 +4922,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Vegetable Dish for Babies"
     },
     "cuisine": "bebek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "çeyrek havuç",
@@ -4967,7 +4967,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4980,8 +4980,8 @@ export const bebekRecipes: Recipe[] = [
       "en": "Soft Kofta for Babies (+7 months)"
     },
     "cuisine": "bebek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 küp kuzu kıyma",
@@ -5021,7 +5021,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 205,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5034,7 +5034,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Cinnamon and Ginger Biscuits"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5079,7 +5079,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5092,7 +5092,7 @@ export const bebekRecipes: Recipe[] = [
       "en": "Pancake"
     },
     "cuisine": "bebek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5125,7 +5125,7 @@ export const bebekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 402,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

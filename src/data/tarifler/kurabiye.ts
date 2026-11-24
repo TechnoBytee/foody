@@ -8,8 +8,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "How to Make Long-Lasting Savory Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram margarin veya tereyağı (oda sıcaklığında)",
@@ -53,7 +53,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -66,8 +66,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Brownie Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı (oda sıcaklığında)",
@@ -115,7 +115,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -128,8 +128,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Bakery-Style Melt-in-Your-Mouth Flour Cookies (video)"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket tereyağı ya da margarin (yumuşak olmalı, 250 g)",
@@ -167,7 +167,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -180,8 +180,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Tahini and Walnut Cookies (video)"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı şeker",
@@ -223,7 +223,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 485,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -236,8 +236,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Starbucks Cookies Recipe (video)"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta sarısı",
@@ -287,7 +287,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 431,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -300,8 +300,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Melt-in-Your-Mouth Savory Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta (birinin sarısı üzerine)",
@@ -343,7 +343,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -356,8 +356,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Izmir Bomba Recipe in Full Detail (video)"
     },
     "cuisine": "kurabiye",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı ılık su",
@@ -409,7 +409,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 276,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -422,8 +422,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Brownie Cookies (video)"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı (oda sıcaklığında)",
@@ -465,7 +465,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -478,8 +478,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Fig Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tereyağ (oda ısısında)",
@@ -527,7 +527,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -540,8 +540,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Mini Cookies (Ready Before the Tea Has Brewed)"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram oda ısısında margarin ya da tereyağı",
@@ -581,7 +581,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 409,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -594,8 +594,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Sesame Crumbly Cookies (video)"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gr tereyağı veya margarin (oda ısısında yumuşamış)",
@@ -635,7 +635,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 355,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -648,8 +648,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Hazelnut Roll Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram margarin veya tereyağ",
@@ -695,7 +695,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 227,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -708,8 +708,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Corn Flake Cookies (video)"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağı",
@@ -751,7 +751,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 459,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -764,8 +764,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Tahini Crumbly Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı tahin",
@@ -803,7 +803,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -816,8 +816,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Autumn Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gr. margarin veya tereyağ",
@@ -857,7 +857,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 240,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -870,8 +870,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Flour Cookies with the Perfect Texture"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket margarin",
@@ -907,7 +907,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 278,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -920,8 +920,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Leaf Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı",
@@ -961,7 +961,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 192,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -974,8 +974,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chocolate Chip Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tereyağı",
@@ -1017,7 +1017,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 469,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1030,8 +1030,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chocolate Chip Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "175 gram tereyağı veya margarin",
@@ -1087,7 +1087,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 537,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1100,8 +1100,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Atom Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4.5 yemek kaşığı tereyağ (margarin)",
@@ -1153,7 +1153,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 241,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1166,8 +1166,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Teddy Bear Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gr margarin",
@@ -1207,7 +1207,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 343,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1220,8 +1220,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Apples in the Foreground Cookies (video)"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet büyük boy elma",
@@ -1257,7 +1257,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 493,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1270,8 +1270,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Apple Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram margarin veya tereyağı",
@@ -1321,7 +1321,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 151,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1334,8 +1334,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chocolate and Corn Flake Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram oda sıcaklığın margarin",
@@ -1387,7 +1387,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1400,8 +1400,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Parisian Beauty"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı",
@@ -1445,7 +1445,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 315,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1458,8 +1458,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Vinegar Savory Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağı",
@@ -1499,7 +1499,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1512,8 +1512,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cookie (No-Spread)"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı + çeyrek su bardağı un",
@@ -1561,7 +1561,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 315,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1574,8 +1574,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Hazelnut and Chocolate Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tereyağ veya margarin",
@@ -1617,7 +1617,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 172,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1630,8 +1630,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Colored Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tereyağı veya margarin",
@@ -1679,7 +1679,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 427,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1692,8 +1692,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Savory Mahlep Cookies with Cornstarch"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gr tereyağ",
@@ -1735,7 +1735,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 411,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1748,8 +1748,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Tahini Walnut Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram oda sıcaklığında margarin veya tereyağı (ben karışık kullandım)",
@@ -1793,7 +1793,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 152,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1806,8 +1806,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Mushroom Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1855,7 +1855,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 448,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1868,8 +1868,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chocolate Chip Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram oda sıcaklığında tereyağı veya margarin",
@@ -1913,7 +1913,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 285,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1926,8 +1926,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Owl Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "310 gram un (2.5 su bardağı yaklaşık)",
@@ -1979,7 +1979,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 269,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1992,8 +1992,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Bakery-Style Apple Cookies with Few Ingredients"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2035,7 +2035,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 266,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2048,8 +2048,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Brownie Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı (oda sıcaklığında)",
@@ -2089,7 +2089,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 389,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2102,8 +2102,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Crumbl Apple Cookies That Melt in Your Mouth"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram yumuşamış tereyağı",
@@ -2141,7 +2141,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2154,8 +2154,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Savory Cookies with Few Ingredients"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket margarin",
@@ -2189,7 +2189,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 462,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2202,8 +2202,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Apple Sandwich Cookies (Small Batch)"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "75 gram tereyağı",
@@ -2245,7 +2245,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 468,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2258,8 +2258,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Spinach Rolls with Labne and Yeast"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2309,7 +2309,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 316,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2322,8 +2322,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Mini Savory Cookies with Çörek Otu"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı",
@@ -2363,7 +2363,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2376,8 +2376,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Apple Soaked Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram tereyağı",
@@ -2419,7 +2419,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 331,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2432,8 +2432,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Delicate Sesame Cookies That Melt in Your Mouth"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta (beyazı üzerine)",
@@ -2475,7 +2475,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 359,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2488,8 +2488,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Eti Cin Flower Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağı veya margarin",
@@ -2525,7 +2525,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 192,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2538,8 +2538,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Hazelnut Cookies with Almond Paste"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağ",
@@ -2581,7 +2581,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2594,8 +2594,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Original Greek Kourabiedes (Kavala) Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tereyağı",
@@ -2641,7 +2641,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2654,8 +2654,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Brownie Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı toz şeker",
@@ -2689,7 +2689,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2702,8 +2702,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Teddy Bear Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram margarin ya da tereyağı",
@@ -2739,7 +2739,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 211,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2752,8 +2752,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Ice Cream Cone Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram margarin",
@@ -2797,7 +2797,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 466,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2810,8 +2810,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "3-Ingredient Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket krem şanti (75 gr)",
@@ -2841,7 +2841,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 401,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2854,8 +2854,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cinnamon Walnut Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağ ya da margarin",
@@ -2897,7 +2897,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 181,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2910,8 +2910,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chunky Chocolate Chip Cookie"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı ya da margarin",
@@ -2957,7 +2957,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 335,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2970,8 +2970,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Mini Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -3011,7 +3011,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 521,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3024,8 +3024,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Long-Lasting Crumbly Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı veya margarin",
@@ -3067,7 +3067,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 301,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3080,8 +3080,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Apple Cake"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 elma rendesi",
@@ -3121,7 +3121,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 503,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3134,8 +3134,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Brownie Cookies with Coffee Sauce"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram tereyağı (oda sıcaklığında)",
@@ -3175,7 +3175,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3188,8 +3188,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "One-Tray Savory Cookies with No Solid Fat"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı sıvı yağ",
@@ -3227,7 +3227,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 278,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3240,8 +3240,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Pişmaniye Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket margarin",
@@ -3273,7 +3273,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3286,8 +3286,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Easy Apple Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram tereyağı (oda ısısında)",
@@ -3321,7 +3321,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 257,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3334,8 +3334,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Creamy Apple Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket krema (200 ml)",
@@ -3379,7 +3379,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3392,8 +3392,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Bakery-Style Moon Seed Sticks"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram eritilmiş tereyağı",
@@ -3437,7 +3437,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 509,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3450,8 +3450,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Walnut Cookies with Starch"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3491,7 +3491,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 457,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3504,8 +3504,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Plain Cookies (Top Them however You Like)"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı veya margarin (oda sıcaklığında)",
@@ -3543,7 +3543,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 465,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3556,8 +3556,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Apple Cookies with Vegetable Oil"
     },
     "cuisine": "kurabiye",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı pudra şekeri",
@@ -3607,7 +3607,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 527,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3620,8 +3620,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Starbucks Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram tereyağı",
@@ -3673,7 +3673,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3686,8 +3686,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı toz şeker",
@@ -3725,7 +3725,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 401,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3738,8 +3738,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Plum Tart"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gr margarin",
@@ -3781,7 +3781,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 499,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3794,7 +3794,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Strawberry Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3833,7 +3833,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 314,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3846,8 +3846,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Green Bunch Thyme Rolls"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram tereyağı veya margarin",
@@ -3895,7 +3895,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 264,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3908,8 +3908,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Strawberry Pudding Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı veya margarin",
@@ -3945,7 +3945,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 401,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3958,7 +3958,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Tahini and Shredded Wheat Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3993,7 +3993,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 158,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4006,8 +4006,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Hatay Kömbe (Superb Crumbly Flavor)"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağ",
@@ -4051,7 +4051,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4064,7 +4064,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Pizza-Flavored Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4115,7 +4115,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4128,8 +4128,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Brownie Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4171,7 +4171,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 369,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4184,8 +4184,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Savory Crumbly Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram oda sıcaklığında tereyağ ya da margarin",
@@ -4229,7 +4229,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 310,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4242,7 +4242,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cookies with M&M's (video)"
     },
     "cuisine": "kurabiye",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4283,7 +4283,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 485,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4296,8 +4296,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "3-Ingredient Easy Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -4327,7 +4327,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4340,8 +4340,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Crunchy Cocoa Tahini Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı tahin",
@@ -4377,7 +4377,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 202,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4390,8 +4390,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cookies with M&M's"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane yumurta",
@@ -4427,7 +4427,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4440,8 +4440,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Log Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram margarin",
@@ -4501,7 +4501,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 488,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4514,8 +4514,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "10-Minute Chocolate Chip Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram margarin ya da tereyağ",
@@ -4569,7 +4569,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 468,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4582,8 +4582,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cracked Flour Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı sıvı yağ",
@@ -4613,7 +4613,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4626,8 +4626,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Bakery-Style Savory Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram margarin",
@@ -4667,7 +4667,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 543,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4680,7 +4680,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Walnut Chocolate Chip Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4717,7 +4717,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4730,8 +4730,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Carrot Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı şeker",
@@ -4773,7 +4773,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 309,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4786,8 +4786,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chocolate Chip Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4827,7 +4827,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 532,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4840,7 +4840,7 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Sweet Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4873,7 +4873,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 440,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4886,8 +4886,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cinnamon Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağı veya margarin (oda ısısı)",
@@ -4925,7 +4925,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 364,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4938,8 +4938,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chocolate Chip Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı un",
@@ -4977,7 +4977,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4990,8 +4990,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Chocolate Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram tereyağ ( oda sıcaklığında)",
@@ -5045,7 +5045,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 211,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5058,8 +5058,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Cornmeal Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket margarin (oda sıcaklığında)",
@@ -5107,7 +5107,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 258,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5120,8 +5120,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Daisy Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram margarin",
@@ -5161,7 +5161,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 455,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5174,8 +5174,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Soaked Cookies with Lemon Sauce"
     },
     "cuisine": "kurabiye",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram margarin",
@@ -5221,7 +5221,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 531,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5234,8 +5234,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Bite-Sized Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağı (oda sıcaklığında)",
@@ -5277,7 +5277,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 360,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5290,8 +5290,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Try It with Molasses If You Don't Have Brown Sugar: Chocolate Cookies (video)"
     },
     "cuisine": "kurabiye",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "85 gram tereyağı",
@@ -5335,7 +5335,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 535,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5348,8 +5348,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Easy Apple Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy elma",
@@ -5387,7 +5387,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5400,8 +5400,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Apple Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gr teremyağ",
@@ -5437,7 +5437,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 327,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5450,8 +5450,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Starbucks Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram margarin",
@@ -5499,7 +5499,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5512,8 +5512,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "American Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "225gr tereyağı",
@@ -5563,7 +5563,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 330,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5576,8 +5576,8 @@ export const kurabiyeRecipes: Recipe[] = [
       "en": "Bakery-Style Soft Raisin Mother Cookies"
     },
     "cuisine": "kurabiye",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -5623,7 +5623,7 @@ export const kurabiyeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 262,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

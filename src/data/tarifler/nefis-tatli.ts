@@ -8,8 +8,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Cyprus Dessert Recipe Video"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -65,7 +65,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 255,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -78,8 +78,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Pancake Recipe Video"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -119,7 +119,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 230,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -132,8 +132,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Bride Cake Recipe Video (At Perfect Consistency)"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -185,7 +185,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 261,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -198,8 +198,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Magnolia Recipe Video"
     },
     "cuisine": "nefis-tatli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 su bardağı süt (1 litre)",
@@ -251,7 +251,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -264,8 +264,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Revani Recipe Video"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -313,7 +313,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 367,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -326,8 +326,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Şekerpare Dessert Recipe"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tereyağı",
@@ -385,7 +385,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 384,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -398,8 +398,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Kadayif with Milk Pudding Recipe Video"
     },
     "cuisine": "nefis-tatli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300-350 g kadar tel kadayıf",
@@ -443,7 +443,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 324,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -456,8 +456,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Profiterol Recipe Video"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı su",
@@ -497,7 +497,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 172,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -510,8 +510,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Making Waffles in a Toaster"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı süt (200 ml)",
@@ -555,7 +555,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -568,8 +568,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Ladyfinger Dessert Recipe (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "14 adet tuzsuz etimek"
@@ -609,7 +609,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -622,8 +622,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Strawberry Dessert (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gr tereyağı (oda ısısında yumuşamış)",
@@ -665,7 +665,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 158,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -678,8 +678,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Apple Crumble Cheesecake Bar (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy elma (küp doğranmış 300 gr)",
@@ -725,7 +725,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 436,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -738,8 +738,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "No-Bake Dubai Cheesecake (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gr kavrulmuş kadayıf",
@@ -777,7 +777,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 212,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -790,8 +790,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Full-Size Ibiza"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 paket burçak bisküvi",
@@ -823,7 +823,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 251,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -836,8 +836,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Fig Jam Recipe (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.200 kg incir",
@@ -869,7 +869,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -882,8 +882,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate with Coffee"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket sütlü çikolata",
@@ -915,7 +915,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 278,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -928,8 +928,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Whole Orange Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bütün portakal",
@@ -971,7 +971,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 364,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -984,8 +984,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Berliner (Filled Pastry)"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -1037,7 +1037,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1050,8 +1050,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Sheet Cake with Blackberry Sauce and Milk Pudding"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta (oda sıcaklığında)",
@@ -1127,7 +1127,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 343,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1140,8 +1140,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Fruit Oatmeal Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram yulaf ezmesi",
@@ -1177,7 +1177,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 207,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1190,8 +1190,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Apple Tart (Crustless)"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 + ¼ su bardağından un",
@@ -1231,7 +1231,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 541,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1244,8 +1244,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Muffin Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -1285,7 +1285,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 288,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1298,8 +1298,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "German Style Apple Cake Apfelkuchen"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet elma",
@@ -1347,7 +1347,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 264,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1360,8 +1360,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Dragon Fruit No-Bake Cheesecake"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 paket kakaolu bisküvi",
@@ -1415,7 +1415,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 399,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1428,8 +1428,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Apple Tart"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket margarin veya tereyağ (125 gram )",
@@ -1475,7 +1475,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 260,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1488,8 +1488,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Thin Crumbly Apple Tart"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet büyük boy elma",
@@ -1527,7 +1527,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 472,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1540,8 +1540,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Pumpkin Dessert (Ready in 45 Minutes)"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet büyük dilim balkabağı",
@@ -1569,7 +1569,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 369,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1582,8 +1582,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Molten Chocolate Muffin Recipe"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -1627,7 +1627,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 397,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1640,8 +1640,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Pan-Cooked Shredded Kadayif with Tahini and Cheese"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tel kadayıf",
@@ -1689,7 +1689,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1702,8 +1702,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Kazandibi (Baked Milk Pudding)"
     },
     "cuisine": "nefis-tatli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "ölçü her 1 litre süt içindir (fotoğraflarda 3 litre kullanılmıştır)",
@@ -1747,7 +1747,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1760,8 +1760,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate Snacks with Walnuts, Almonds and Hazelnuts"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "isteğe göre bitter, sütlü veya beyaz tablet çikolatalar",
@@ -1793,7 +1793,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1806,8 +1806,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Heart Cake with Giant Biscuits (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 paket toz krem şanti",
@@ -1845,7 +1845,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1858,8 +1858,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Egg-Free Tiramisu at Perfect Consistency"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram soğuk sıvı krema (en az yüzde 35 yağlı olacak önemli)",
@@ -1913,7 +1913,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1926,8 +1926,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Crispy Kadayif Chocolate Balls"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kavrulmuş kadayıf",
@@ -1963,7 +1963,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1976,8 +1976,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Perfect Cake with 2 Eggs"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta (oda sıcaklığında)",
@@ -2023,7 +2023,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 325,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2036,8 +2036,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Semolina Halva (2 Servings)"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı irmik",
@@ -2077,7 +2077,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2090,8 +2090,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Carrot Cake (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -2133,7 +2133,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 521,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2146,8 +2146,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Cocostar Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2191,7 +2191,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2204,8 +2204,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Glass-Like Pumpkin Dessert in Lime Water"
     },
     "cuisine": "nefis-tatli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane sarı yemeklik kabak (en fazla 2 kg kadarı kullanılmalı tek tencere için, kabak fazla gelirse 2 ayrı tencerede pişirmenizi öneririm)",
@@ -2249,7 +2249,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2262,8 +2262,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Semolina Slice Sweets"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2.5 su bardağı süt",
@@ -2303,7 +2303,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 381,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2316,8 +2316,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate with Coffee"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 paket kare çikolata",
@@ -2349,7 +2349,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 319,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2362,8 +2362,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Ladyfinger Dessert with Cherry Sauce"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket kedi dili",
@@ -2397,7 +2397,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 305,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2410,8 +2410,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Pancake Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -2463,7 +2463,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 339,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2476,8 +2476,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Carrot Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -2531,7 +2531,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 255,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2544,8 +2544,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Egg-Free Chipsak Dessert (The Dough Has Only 5 Ingredients)"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket krema (200 ml)",
@@ -2595,7 +2595,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 497,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2608,8 +2608,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Creamy Carrot Cake with Walnuts"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -2653,7 +2653,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 474,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2666,8 +2666,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Raspberry and Blueberry Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -2709,7 +2709,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2722,8 +2722,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Mini Magnolia"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre süt",
@@ -2765,7 +2765,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 158,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2778,8 +2778,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Biscuit Cream Cheesecake"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket karamelli bisküvi (250gr)",
@@ -2813,7 +2813,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 319,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2826,8 +2826,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Cocopops Star Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket kedi dili",
@@ -2861,7 +2861,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 509,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2874,8 +2874,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Brownie"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "240 gram sütlü çikolata",
@@ -2913,7 +2913,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2926,8 +2926,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Bakery-Style Apple Cookies with Few Ingredients"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2969,7 +2969,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 357,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2982,8 +2982,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Lemon Cupcake"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tereyağı",
@@ -3025,7 +3025,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3038,8 +3038,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate Fit Cake (No Flour, Sugar, Oil)"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -3075,7 +3075,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 394,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3088,8 +3088,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Extra Moist Cake with Lots of Sauce"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet yumurta",
@@ -3143,7 +3143,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 208,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3156,8 +3156,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Crispy Baked Kadayif (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı su",
@@ -3197,7 +3197,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 522,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3210,8 +3210,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Cherry Milk Dessert"
     },
     "cuisine": "nefis-tatli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre süt",
@@ -3261,7 +3261,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3274,8 +3274,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Plain Cake with Mini Chocolate Chips"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -3315,7 +3315,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 194,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3328,8 +3328,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Fresh Black Fig Cake (For Sweet Lovers)"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -3367,7 +3367,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 316,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3380,8 +3380,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Apple Sandwich Cookies (Small Batch)"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "75 gram tereyağı",
@@ -3423,7 +3423,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 409,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3436,8 +3436,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Peach Dream"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "boyutuna göre 4-5 adet şeftali",
@@ -3493,7 +3493,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3506,8 +3506,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate Pot (Addictive)"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram labne",
@@ -3541,7 +3541,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 258,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3554,8 +3554,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Bakery-Style Cream Puffs (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı su",
@@ -3597,7 +3597,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 476,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3610,8 +3610,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Weeping Cake (Black Maiden)"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -3655,7 +3655,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3668,8 +3668,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Plum Cake (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200g un (yaklaşık 2 su bardağı)",
@@ -3709,7 +3709,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 306,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3722,8 +3722,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Forest Fruit Streusel Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -3769,7 +3769,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 474,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3782,8 +3782,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Few-Ingredient Flour Halva"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı tereyağı",
@@ -3811,7 +3811,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 364,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3824,8 +3824,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Bursa Milk Halva (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 su bardağı süt",
@@ -3855,7 +3855,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 500,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3868,8 +3868,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate with Coffee"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "beyaz çikolata",
@@ -3909,7 +3909,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 384,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3922,8 +3922,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Milk Pudding Biscuit Dessert"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre süt",
@@ -3961,7 +3961,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 547,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3974,8 +3974,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Not a Bakery but a Gourmet Restaurant: Real French Chocolate Cream"
     },
     "cuisine": "nefis-tatli",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "220 gram sıvı krema (en az yağlı sek krema)",
@@ -4029,7 +4029,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4042,8 +4042,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Biscuit Mini Balls"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket bisküvi",
@@ -4089,7 +4089,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4102,8 +4102,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate Cupcake"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -4147,7 +4147,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 189,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4160,8 +4160,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Apple Puff Pastry Rolls"
     },
     "cuisine": "nefis-tatli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet milföy (çift 6 olacak şekilde)",
@@ -4205,7 +4205,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4218,8 +4218,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Walnut Chocolate"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket sütlü çikolata",
@@ -4249,7 +4249,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 475,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4262,8 +4262,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Easy Few-Ingredient Starch Puff Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 tane yumurta",
@@ -4305,7 +4305,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 438,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4318,8 +4318,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Banana Bread (Extraordinarily Moist)"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -4365,7 +4365,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 256,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4378,8 +4378,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Hot Sesame Halva (Video)"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram sade tahin helvası",
@@ -4411,7 +4411,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 150,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4424,8 +4424,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Date Cake (Diet Friendly)"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4469,7 +4469,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4482,8 +4482,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Chocolate Muffin"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -4529,7 +4529,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 238,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4542,8 +4542,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Körsebek Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -4591,7 +4591,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 349,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4604,8 +4604,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Cocoa Biscuit Magnolia"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre süt",
@@ -4651,7 +4651,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 526,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4664,8 +4664,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Individual Kadayif in Baking Dishes"
     },
     "cuisine": "nefis-tatli",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram taze kadayıf",
@@ -4707,7 +4707,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4720,8 +4720,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Savory Vegetable Cake (A Cake That Goes Well with Everything Inside)"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -4769,7 +4769,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 280,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4782,8 +4782,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Milk Pudding"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 lt süt",
@@ -4819,7 +4819,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 330,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4832,8 +4832,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Helva-i Hakani (Hakani Semolina Halva)"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı",
@@ -4875,7 +4875,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4888,8 +4888,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Carrot Cake with Walnuts and Cinnamon"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -4941,7 +4941,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 280,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4954,8 +4954,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Semolina Milk Pudding"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre süt",
@@ -4987,7 +4987,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 466,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5000,8 +5000,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Special Creamy Tiramisu"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket kakao (drotker tavsiyedir)"
@@ -5035,7 +5035,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 298,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5048,8 +5048,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Waffle"
     },
     "cuisine": "nefis-tatli",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta (l boy)",
@@ -5093,7 +5093,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 248,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5106,8 +5106,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Şekerpare (Few Ingredients)"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tane yumurta",
@@ -5149,7 +5149,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5162,8 +5162,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Pan-Cooked Kazandibi Dessert"
     },
     "cuisine": "nefis-tatli",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2,5 su bardağı süt",
@@ -5209,7 +5209,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5222,8 +5222,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Strawberry Magnolia"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre süt",
@@ -5263,7 +5263,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 372,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5276,8 +5276,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Hazelnut Cream Sheet Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -5319,7 +5319,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5332,8 +5332,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Lemon Cherry Cake"
     },
     "cuisine": "nefis-tatli",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -5379,7 +5379,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 430,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5392,8 +5392,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Cake Made in a Blender"
     },
     "cuisine": "nefis-tatli",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -5437,7 +5437,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 438,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5450,8 +5450,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Fluffy Pancake Recipe"
     },
     "cuisine": "nefis-tatli",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tane yumurta",
@@ -5489,7 +5489,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5502,8 +5502,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Carrot Cake with Cinnamon"
     },
     "cuisine": "nefis-tatli",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -5547,7 +5547,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 493,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5560,8 +5560,8 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Simplified Milk Halva"
     },
     "cuisine": "nefis-tatli",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı süt",
@@ -5605,7 +5605,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 483,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5618,7 +5618,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       "en": "Bite-Sized Dessert Sandwiches"
     },
     "cuisine": "nefis-tatli",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5645,7 +5645,7 @@ export const nefis_tatliRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 358,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

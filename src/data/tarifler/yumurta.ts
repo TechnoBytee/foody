@@ -8,8 +8,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg Potatoes"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patates",
@@ -49,7 +49,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 410,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -62,8 +62,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Breakfast Egg-Dipped Bread"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet bayat ekmek",
@@ -99,7 +99,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 185,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -112,8 +112,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Pan Egg Toast"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dilim jumbo tost ekmeği",
@@ -151,7 +151,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 201,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -164,8 +164,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Çılbır Recipe (With Video)"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2-3 adet yumurta",
@@ -203,7 +203,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 257,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -216,8 +216,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Cheese Omelet"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -253,7 +253,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 314,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -266,8 +266,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Spinach (With Video)"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilogram ıspanak",
@@ -315,7 +315,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 411,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -328,8 +328,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Soft-Boiled Eggs in Onion Sauce (With Video)"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yemek kaşığı sıvı yağ",
@@ -375,7 +375,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 372,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -388,8 +388,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Breakfast Egg Salad (With Video)"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet yumurta",
@@ -435,7 +435,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 539,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -448,8 +448,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Stuffed Eggs Recipe"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yumurta",
@@ -483,7 +483,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 263,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -496,8 +496,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Omelet (With Video)"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -543,7 +543,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 430,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -556,8 +556,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Breakfast Thyme and Kaşar Potato Fry (VIDEO)"
     },
     "cuisine": "yumurta",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 adet orta boy patates",
@@ -603,7 +603,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -616,8 +616,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Çılbır (Turkish Poached Eggs with Yogurt)"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -657,7 +657,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 418,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -670,8 +670,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Courgette and Potato Fritters"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy kabak",
@@ -713,7 +713,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 543,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -726,8 +726,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Easy Pizza-Style Breakfast"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet büyük boy domates",
@@ -771,7 +771,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 191,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -784,8 +784,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Immigrant Omelet (Balkan Style)"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -819,7 +819,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -832,7 +832,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg-Dipped Bread"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -859,7 +859,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -872,8 +872,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Soft Milk Oat Omelet (My Diet Recipes)"
     },
     "cuisine": "yumurta",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -913,7 +913,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 407,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -926,8 +926,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Menemen (Turkish Scrambled Eggs)"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -967,7 +967,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -980,8 +980,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Breakfast Potato Omelet (My Diet Recipes)"
     },
     "cuisine": "yumurta",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy patates",
@@ -1019,7 +1019,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 288,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1032,7 +1032,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Sugar-Free Breakfast Oat Crepe with Cheese (My Diet Recipes)"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1065,7 +1065,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 358,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1078,7 +1078,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Delicious Breakfast Oat Omelet (My Diet Recipes)"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1111,7 +1111,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 202,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1124,8 +1124,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "My Bread-Dipped Egg with Onion Recipe"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1163,7 +1163,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1176,8 +1176,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Spiced Boiled Eggs"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet yumurta",
@@ -1215,7 +1215,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1228,7 +1228,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Yogurt"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1265,7 +1265,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1278,8 +1278,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Delicious Fried Eggs with Cheese"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy soğan",
@@ -1311,7 +1311,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 248,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1324,7 +1324,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Menemen That Disappears the Moment It Hits the Table"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1359,7 +1359,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 513,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1372,8 +1372,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Mushroom and Spinach Omelet with Lor Cheese"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -1415,7 +1415,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1428,7 +1428,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Onion Eggs with Mash Beans"
     },
     "cuisine": "yumurta",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1463,7 +1463,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 427,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1476,8 +1476,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg-Dipped Bread"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 tane yumurta",
@@ -1503,7 +1503,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 205,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1516,8 +1516,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg Breakfast"
     },
     "cuisine": "yumurta",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1559,7 +1559,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 187,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1572,8 +1572,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Hormone-Friendly Omelet"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet yumurta",
@@ -1609,7 +1609,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 244,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1622,8 +1622,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Tomato and Pastrami"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 dilim kalıp kavurma",
@@ -1663,7 +1663,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 425,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1676,8 +1676,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Fresh Mint Omelet"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı zeytinyağı",
@@ -1711,7 +1711,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1724,8 +1724,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs Stuffed with Green Peppers"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet yumurta",
@@ -1763,7 +1763,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 214,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1776,8 +1776,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Tomato Paste"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tereyağı",
@@ -1815,7 +1815,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 291,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1828,8 +1828,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Potatoes and Sucuk"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy patates",
@@ -1865,7 +1865,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1878,7 +1878,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Capsicum Peppers"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1913,7 +1913,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1926,8 +1926,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Tuna Omelet"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 konserve kutusu ton balığı",
@@ -1963,7 +1963,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 174,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1976,7 +1976,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Butter Omelet Recipe"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2003,7 +2003,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 299,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2016,8 +2016,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs in Bread Cups"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet yuvarlak minik ekmek",
@@ -2061,7 +2061,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 370,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2074,8 +2074,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg Sandwich"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı zeytinyağı",
@@ -2115,7 +2115,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 477,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2128,8 +2128,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Sesame Omelet"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı susam",
@@ -2161,7 +2161,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 203,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2174,8 +2174,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Omelet with Peppers and Smoked Meat"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1-2 adet kapya biber",
@@ -2219,7 +2219,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 239,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2232,8 +2232,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Sesame Leek Omelet (Diet)"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2273,7 +2273,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 161,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2286,7 +2286,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Potato Salad with Eggs"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2323,7 +2323,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2336,8 +2336,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Flower Omelet"
     },
     "cuisine": "yumurta",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -2375,7 +2375,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 283,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2388,8 +2388,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Mushrooms Recipe"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo mantar",
@@ -2425,7 +2425,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 221,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2438,8 +2438,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Fried Eggs with Cheese"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet haşlanmış yumurta",
@@ -2469,7 +2469,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 527,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2482,8 +2482,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Cloud-Like Scrambled Eggs"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -2511,7 +2511,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 520,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2524,7 +2524,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Poached Eggs That Do Not Spread"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2549,7 +2549,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2562,8 +2562,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Sensational Egg Chicken"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tavuk göğsü",
@@ -2601,7 +2601,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2614,8 +2614,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Potato Egg Dish with a Golden Base"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -2651,7 +2651,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 195,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2664,8 +2664,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Mushroom Omelet"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2703,7 +2703,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 421,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2716,8 +2716,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Red Gourmet Pan (With Video)"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet salkım domates",
@@ -2757,7 +2757,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2770,7 +2770,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Whole Wheat Protein Pancakes"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2805,7 +2805,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 479,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2818,8 +2818,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Sweet Egg-Dipped Bread"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane yumurta",
@@ -2851,7 +2851,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 166,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2864,7 +2864,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg-Dipped Bread"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2899,7 +2899,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 410,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2912,7 +2912,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Cheese Omelet"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2943,7 +2943,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 475,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2956,7 +2956,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Vegetable Omelet"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2993,7 +2993,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 178,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3006,7 +3006,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Onion Omelet"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3041,7 +3041,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3054,7 +3054,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Onions"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3083,7 +3083,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 433,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3096,8 +3096,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Tomatoes"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı sıvı yağ",
@@ -3131,7 +3131,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 520,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3144,8 +3144,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Potato Omelet with Pastrami"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet patates",
@@ -3181,7 +3181,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 438,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3194,7 +3194,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Cornmeal Omelet"
     },
     "cuisine": "yumurta",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3221,7 +3221,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 276,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3234,8 +3234,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Baked Bazlama"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet bazlama",
@@ -3275,7 +3275,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 218,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3288,8 +3288,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg-Dipped Bread"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -3327,7 +3327,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 177,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3340,8 +3340,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Breakfast Egg Baguette"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet baget ekmeği",
@@ -3379,7 +3379,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 314,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3392,8 +3392,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Rustic Mushroom Eggs (Azerbaijani)"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "kərə yağı(zövqə uyğun az miqdarda zeytun yağı)",
@@ -3439,7 +3439,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3452,8 +3452,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Fresh Green Beans"
     },
     "cuisine": "yumurta",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram taze fasulye",
@@ -3499,7 +3499,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 454,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3512,7 +3512,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg-Dipped Bread (With Karakılçık Bread)"
     },
     "cuisine": "yumurta",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3537,7 +3537,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 293,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3550,7 +3550,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Tomatoes (Breakfast)"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3587,7 +3587,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 241,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3600,7 +3600,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Sauteed Beet Greens"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3631,7 +3631,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 436,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3644,7 +3644,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Çılbır (Poached Eggs)"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3679,7 +3679,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3692,8 +3692,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Menemen (Turkish Scrambled Eggs)"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yemek kaşığı kışlık olarak hazırladığım menemenlik sos",
@@ -3733,7 +3733,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3746,7 +3746,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Avocado Toast with Egg"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3781,7 +3781,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3794,8 +3794,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Mushrooms"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı zeytinyağı",
@@ -3835,7 +3835,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 326,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3848,8 +3848,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Leafy Greens"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet pazı",
@@ -3887,7 +3887,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 465,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3900,8 +3900,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Bain-Marie Eggs (Far Eastern Recipe)"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3933,7 +3933,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3946,8 +3946,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Avocado Spread with Egg"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dilim tam buğday ekmeği",
@@ -3995,7 +3995,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 176,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4008,8 +4008,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Breakfast Potato Omelet with Kaşar"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet patates",
@@ -4045,7 +4045,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4058,7 +4058,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Raw Zucchini Seed Omelet"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4087,7 +4087,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 335,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4100,8 +4100,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "My Grandmother's Çılbır Recipe"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4135,7 +4135,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4148,8 +4148,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Spinach Omelet"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4189,7 +4189,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 479,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4202,8 +4202,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Easy Breakfast Potato Omelet"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet patates (ince doğranmış)",
@@ -4243,7 +4243,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 165,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4256,8 +4256,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Spinach (Bachelor's Pad)"
     },
     "cuisine": "yumurta",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg ıspanak",
@@ -4299,7 +4299,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 322,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4312,8 +4312,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Cheesy Eggs with Spinach"
     },
     "cuisine": "yumurta",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gr ıspanak",
@@ -4357,7 +4357,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4370,8 +4370,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Çılbır on a Bed of Spinach (With Video)"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250-300 gram ıspanak",
@@ -4425,7 +4425,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4438,8 +4438,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Easy Tomato and Kaşar Breakfast"
     },
     "cuisine": "yumurta",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet domates",
@@ -4491,7 +4491,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 472,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4504,8 +4504,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Fried Beans with Eggs"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 baş soğan",
@@ -4539,7 +4539,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 267,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4552,8 +4552,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Egg-Dipped Bread"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -4593,7 +4593,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 385,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4606,8 +4606,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Augofetes (Greek Style)"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet bayat ekmek",
@@ -4645,7 +4645,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 451,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4658,8 +4658,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Çökelek Cheese and Pastrami"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -4697,7 +4697,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 265,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4710,8 +4710,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Spinach"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet ıspanak ( benim aldığım büyüktü, boyutuna göre 2 de olabilir)",
@@ -4755,7 +4755,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 242,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4768,8 +4768,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Spinach Saute with Eggs"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "10 yaprak ıspanak",
@@ -4811,7 +4811,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 494,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4824,8 +4824,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Eggs with Artichokes and Cheese"
     },
     "cuisine": "yumurta",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kapya biber",
@@ -4871,7 +4871,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 368,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4884,7 +4884,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Fried Eggs"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4915,7 +4915,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4928,8 +4928,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Onion Dish"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 tane soğan",
@@ -4961,7 +4961,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4974,7 +4974,7 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Potatoes with Eggs"
     },
     "cuisine": "yumurta",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5003,7 +5003,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 391,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5016,8 +5016,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Fried Eggplants with Eggs"
     },
     "cuisine": "yumurta",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım tutam semizotu",
@@ -5053,7 +5053,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 548,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5066,8 +5066,8 @@ export const yumurtaRecipes: Recipe[] = [
       "en": "Omelet with Fried Potatoes"
     },
     "cuisine": "yumurta",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy patates",
@@ -5101,7 +5101,7 @@ export const yumurtaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 539,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

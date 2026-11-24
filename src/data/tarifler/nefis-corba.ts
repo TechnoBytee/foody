@@ -8,8 +8,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "How to Make Ezogelin Soup (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -57,7 +57,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -70,8 +70,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Creamy Tomato Soup Recipe Video"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -117,7 +117,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 457,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -130,8 +130,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Ezogelin Soup Recipe Video"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı sıvı yağ",
@@ -185,7 +185,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 360,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -198,8 +198,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Mushroom Soup Recipe"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kuru soğan",
@@ -255,7 +255,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 493,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -268,8 +268,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Chicken Broth Soup with Vermicelli"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200gr tavuk göğsü",
@@ -317,7 +317,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -330,8 +330,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Yogurt Soup (Definitely Try It, It Turns Out Perfect) Video"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
@@ -369,7 +369,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 319,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -382,8 +382,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Green Lentil Soup with Noodles (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yeşil mercimek",
@@ -429,7 +429,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 246,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -442,8 +442,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Creamy Tomato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -489,7 +489,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 153,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -502,8 +502,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tangy Meatball Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kıyma",
@@ -541,7 +541,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 279,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -554,8 +554,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Anatolian Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı pirinç",
@@ -587,7 +587,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 201,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -600,8 +600,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vegetable Chicken Vermicelli Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet domates",
@@ -653,7 +653,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -666,8 +666,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Meatball Soup with Egg-Lemon Sauce"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram kıyma",
@@ -717,7 +717,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 483,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -730,8 +730,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vegetable Vermicelli Soup (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tereyağı",
@@ -781,7 +781,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 157,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -794,8 +794,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tangy Chicken Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kalçalı tavuk but",
@@ -843,7 +843,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -856,8 +856,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tomato Barley Vermicelli Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı arpa şehriye",
@@ -899,7 +899,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 249,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -912,8 +912,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tarhana Soup with Milk (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 yemek kaşığı tarhana",
@@ -967,7 +967,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 323,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -980,8 +980,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Creamy Mushroom Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram mantar",
@@ -1025,7 +1025,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 421,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1038,8 +1038,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Lentil Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek (200 ml)",
@@ -1083,7 +1083,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 289,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1096,8 +1096,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "German Chicken Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet tavuk göğsü veya 2 tavuk butu",
@@ -1153,7 +1153,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1166,7 +1166,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Lentil Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1221,7 +1221,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 439,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1234,8 +1234,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tandir Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "700 gram pöç",
@@ -1275,7 +1275,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 430,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1288,8 +1288,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Turkish-Style Pumpkin Soup (Savory Balance, Not Sweet) (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram balkabağı (kabuksuz, doğranmış) (butternut cinsi kullandım)",
@@ -1343,7 +1343,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 151,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1356,8 +1356,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Chicken Barley Vermicelli Soup Recipe"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy tavuk göğsü veya but",
@@ -1417,7 +1417,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 478,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1430,8 +1430,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Creamy Chicken Vermicelli Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım tavuk göğsü",
@@ -1469,7 +1469,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1482,8 +1482,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Winter Vegetable Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kapya biber",
@@ -1535,7 +1535,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 534,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1548,8 +1548,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Flourless Super Broccoli Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram brokoli",
@@ -1599,7 +1599,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 549,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1612,8 +1612,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "The Most Delicious Version of Sainfoin: Pirpirim Dish"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kahve fincanı bulgur",
@@ -1669,7 +1669,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1682,8 +1682,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vegetable Chicken Soup, a Health Booster"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kalçalı but (yada 4-5 adet incik)",
@@ -1741,7 +1741,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 355,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1754,8 +1754,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Lentil Soup (With Flour)"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 yemek kaşığı tereyağı",
@@ -1803,7 +1803,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 546,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1816,8 +1816,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Wedding Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase haşlanmış didiklenmiş et",
@@ -1847,7 +1847,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 446,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1860,7 +1860,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Health Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1907,7 +1907,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 205,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1920,8 +1920,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Milky Vegetable Soup (Restaurant Style)"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı un",
@@ -1957,7 +1957,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1970,8 +1970,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Arabashi Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tüm tavuk",
@@ -2027,7 +2027,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2040,8 +2040,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Chicken Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kalçalı but",
@@ -2081,7 +2081,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2094,8 +2094,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Lentil Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 yemek kaşığı tereyağ",
@@ -2137,7 +2137,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 286,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2150,8 +2150,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Creamy Leek Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük adet pırasa",
@@ -2197,7 +2197,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2210,8 +2210,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Ground Meat Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı kıyma",
@@ -2265,7 +2265,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 189,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2278,8 +2278,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Chicken Barley Vermicelli Soup with Turmeric"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase minik minik doğranmış tavuk göğsü",
@@ -2327,7 +2327,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 486,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2340,8 +2340,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tangy Meatballs"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kıyma",
@@ -2381,7 +2381,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 330,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2394,8 +2394,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Chicken Sweet Potato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy kırmızı soğan",
@@ -2439,7 +2439,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 206,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2452,8 +2452,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vermicelli Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı arpa şehriye",
@@ -2483,7 +2483,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 467,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2496,8 +2496,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vegetable Soup with Egg-Lemon Sauce"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kuru soğan",
@@ -2561,7 +2561,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2574,8 +2574,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Okra Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram taze bamya",
@@ -2617,7 +2617,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 497,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2630,8 +2630,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Wholesome Chicken Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet patates",
@@ -2691,7 +2691,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2704,8 +2704,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Keshme Soup from the Kars Region"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı yeşil mercimek",
@@ -2741,7 +2741,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2754,8 +2754,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Chicken Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "haşlanmış tavuk ve suyu",
@@ -2805,7 +2805,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 339,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2818,8 +2818,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Winter Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy patates",
@@ -2865,7 +2865,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 151,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2878,8 +2878,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Milky Winter Soup, a Vitamin Booster"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy kereviz",
@@ -2925,7 +2925,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2938,8 +2938,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Milky Zucchini Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı zeytinyağı",
@@ -2987,7 +2987,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 363,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3000,8 +3000,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Silky Smooth Mushroom Soup (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket mantar (300-400 g)",
@@ -3055,7 +3055,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3068,8 +3068,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vermicelli Soup with Meatballs"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250-300gr kıyma",
@@ -3107,7 +3107,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 208,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3120,8 +3120,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Mother's Way Chicken Broth Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü",
@@ -3171,7 +3171,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3184,8 +3184,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Fiti Soup (Regional)"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı ince bulgur (fıtı)",
@@ -3215,7 +3215,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3228,8 +3228,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Classic Lentil Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı kırmızı mercimek",
@@ -3267,7 +3267,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 476,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3280,8 +3280,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Health Lentil Soup (Full Body)"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı mercimek",
@@ -3319,7 +3319,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 274,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3332,8 +3332,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Chicken Vermicelli Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet tavuk kalçalı but",
@@ -3373,7 +3373,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3386,8 +3386,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vegetable Green Lentil Soup (No Flour, No Cream)"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı zeytinyağı",
@@ -3439,7 +3439,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3452,8 +3452,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Ground Meat Rice Soup with Lemon and Egg-Lemon Sauce"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 küçük boy çay bardağı baldo pirinç",
@@ -3503,7 +3503,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 161,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3516,8 +3516,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tomato Soup Recipe"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy domates",
@@ -3553,7 +3553,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3566,8 +3566,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Restaurant-Style Lentil Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet patates",
@@ -3615,7 +3615,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 495,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3628,8 +3628,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Traditional Tarhana"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 kg ev unu",
@@ -3675,7 +3675,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 392,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3688,8 +3688,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Home-Style Beyran Soup with Lamb as Soft as Turkish Delight"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kemikli kuzu gerdan",
@@ -3733,7 +3733,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 500,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3746,8 +3746,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Fresh Okra Soup with Ground Meat"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150–250 gram kıyma",
@@ -3805,7 +3805,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3818,8 +3818,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tomato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -3861,7 +3861,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 451,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3874,8 +3874,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Ezogelin Soup (Restaurant Style)"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek (su da ovalayarak 4-5 defa yıkanmış)",
@@ -3907,7 +3907,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 263,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3920,8 +3920,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Lentil Soup in a Pressure Cooker Recipe"
     },
     "cuisine": "nefis-corba",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2,5 su bardağı kırmızı mercimek",
@@ -3971,7 +3971,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 479,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3984,8 +3984,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "The Life-Saving Recipe for Emergencies: Vermicelli Yogurt Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı tam doldurmadan tel şehriye",
@@ -4019,7 +4019,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 509,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4032,8 +4032,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tomato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -4085,7 +4085,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 370,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4098,8 +4098,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Restaurant-Style Lentil Soup Without Vegetables"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı kırmızı mercimek",
@@ -4147,7 +4147,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 245,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4160,8 +4160,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tomato Barley Vermicelli Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 çorba kaşığı tereyağı",
@@ -4201,7 +4201,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 434,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4214,8 +4214,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Celery Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 iri boy domates (kabuğu soyulmuş)",
@@ -4265,7 +4265,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 307,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4278,8 +4278,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Flourless Lentil Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı mercimek",
@@ -4327,7 +4327,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4340,8 +4340,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vermicelli Yogurt Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağına yakın tel şehriye",
@@ -4377,7 +4377,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 219,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4390,8 +4390,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Practical Concentrated Lentil Soup (For the Freezer) (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı kırmızı mercimek",
@@ -4463,7 +4463,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 422,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4476,8 +4476,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tarhana Soup from Frozen Liquid Tarhana"
     },
     "cuisine": "nefis-corba",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 ml dondurulmuş sıvı tarhana",
@@ -4531,7 +4531,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 301,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4544,8 +4544,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tomato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy rendelenmiş domates",
@@ -4583,7 +4583,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4596,8 +4596,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Carrot Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5–6 adet havuç",
@@ -4655,7 +4655,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 265,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4668,8 +4668,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "A Health Booster to Warm You Up: Arabashi Soup Loaded with Chicken!"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet tavuk but",
@@ -4725,7 +4725,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 508,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4738,8 +4738,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Restaurant-Style Lentil Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı kırmızı mercimek",
@@ -4801,7 +4801,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4814,8 +4814,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Yayla Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı pirinç",
@@ -4841,7 +4841,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 395,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4854,8 +4854,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Winter Liquid Tarhana (Deep Freezer)"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bağ dereotu",
@@ -4915,7 +4915,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 249,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4928,8 +4928,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tomato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet domates",
@@ -4969,7 +4969,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 407,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4982,8 +4982,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Practical Roasted Tomato Soup (For the Freezer) (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg domates",
@@ -5047,7 +5047,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5060,8 +5060,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Cold Quinoa Soup (Tasting Like Ayran)"
     },
     "cuisine": "nefis-corba",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "½ su bardağı kinoa",
@@ -5111,7 +5111,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 376,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5124,8 +5124,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Cracker Soup with Meatballs and Egg-Lemon Sauce"
     },
     "cuisine": "nefis-corba",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram dana kıyma",
@@ -5159,7 +5159,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 151,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5172,7 +5172,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Fresh Tarhana Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5223,7 +5223,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 378,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5236,8 +5236,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Mushroom Soup (No Cream)"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket kültür mantarı",
@@ -5291,7 +5291,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 179,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5304,8 +5304,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Thracian-Style Powdered Tarhana Recipe | Old-Style Fermentation - Winter Preparation (Video)"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2,5 kg un",
@@ -5351,7 +5351,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 152,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5364,8 +5364,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Lentil Soup for 2"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tereyağı+ 1 yemek kaşığı sıvı yağ",
@@ -5419,7 +5419,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 192,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5432,8 +5432,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Lentil Soup Recipe for Two"
     },
     "cuisine": "nefis-corba",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı kırmızı mercimek (yaklaşık 100 g)",
@@ -5481,7 +5481,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5494,8 +5494,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Tarhana Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "9 kaşık ev tarhanası",
@@ -5543,7 +5543,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5556,8 +5556,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vegetable Chicken Soup, a Health Booster"
     },
     "cuisine": "nefis-corba",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yaklaşık 4 su bardağı tavuk suyu (koyu gelirse sıcak su ekleyebilirsiniz)",
@@ -5591,7 +5591,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 367,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5604,8 +5604,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Flourless Tomato Soup with Barley Vermicelli"
     },
     "cuisine": "nefis-corba",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı arpa şehriye",
@@ -5649,7 +5649,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 411,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5662,8 +5662,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Ground Meat Potato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy patates",
@@ -5719,7 +5719,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5732,8 +5732,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Vermicelli Meatballs in Broth"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram kıyma",
@@ -5777,7 +5777,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 503,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5790,8 +5790,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Yogurt Soup with Rice Cereal"
     },
     "cuisine": "nefis-corba",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı bebek irmiği",
@@ -5829,7 +5829,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5842,8 +5842,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "A Wonderful Vegetable Soup with Dill and Corn"
     },
     "cuisine": "nefis-corba",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı un",
@@ -5891,7 +5891,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5904,8 +5904,8 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Roasted Tomato Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy domates",
@@ -5959,7 +5959,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 495,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5972,7 +5972,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Mushroom Soup"
     },
     "cuisine": "nefis-corba",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -6011,7 +6011,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 209,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -6024,7 +6024,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       "en": "Sainfoin Soup with Yogurt"
     },
     "cuisine": "nefis-corba",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -6063,7 +6063,7 @@ export const nefis_corbaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 448,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

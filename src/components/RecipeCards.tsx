@@ -1,11 +1,6 @@
 import Link from "next/link";
 import { Recipe } from "@/data/recipes";
-
-const difficultyLabel: Record<Recipe["difficulty"], { tr: string; en: string }> = {
-  easy: { tr: "Kolay", en: "Easy" },
-  medium: { tr: "Orta", en: "Medium" },
-  hard: { tr: "Zor", en: "Hard" },
-};
+import { metaParts } from "@/lib/recipe-meta";
 
 export default function RecipeCards({
   recipes,
@@ -47,10 +42,9 @@ export default function RecipeCards({
                   : ""}
               </p>
             )}
-            <p className="mt-1 text-xs text-[#787774]">
-              {r.time} {locale === "tr" ? "dk" : "min"} · {difficultyLabel[r.difficulty][locale]} ·{" "}
-              {r.calories} kcal
-            </p>
+            {metaParts(r, locale).length > 0 && (
+              <p className="mt-1 text-xs text-[#787774]">{metaParts(r, locale).join(" · ")}</p>
+            )}
             <p className="mt-3 text-sm text-[#2F3437]">
               {r.ingredients[locale].slice(0, 4).join(", ")}
               {r.ingredients[locale].length > 4 ? "..." : ""}

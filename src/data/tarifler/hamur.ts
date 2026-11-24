@@ -8,8 +8,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Breakfast Crepes"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -43,7 +43,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -56,8 +56,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pogaça with Dill"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı sıvı yağ",
@@ -95,7 +95,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 315,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -108,8 +108,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Bakery Pogaca Recipe"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket oda sıcaklığında margarin ya da tereyağı (250 g)",
@@ -157,7 +157,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 354,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -170,8 +170,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Easy Pancake Recipe"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -211,7 +211,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 221,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -224,8 +224,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Spiral Pastry (Acma) Recipe"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı süt (200 ml)",
@@ -287,7 +287,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -300,8 +300,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Stick Pisi That Disappears in an Instant (with video)"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı süt (125 ml)",
@@ -349,7 +349,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -362,8 +362,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Easy Pogaca Recipe (video)"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
@@ -415,7 +415,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -428,8 +428,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Potato and Kashar Cheese Bazlama"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ılık su (400 ml)",
@@ -483,7 +483,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 216,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -496,8 +496,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pepper Bread"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -545,7 +545,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 240,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -558,8 +558,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Yeast Free Crumbly Pogaca (with video)"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gr tereyağı veya margarin (oda ısısında yumuşamış)",
@@ -599,7 +599,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 416,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -612,8 +612,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "1 Puff Pastry 3 Mini Pide (with video)"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet milföy hamuru",
@@ -643,7 +643,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 248,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -656,8 +656,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Gozleme with Ready Yufka"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet taze yufka",
@@ -691,7 +691,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -704,8 +704,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cinnamon Coek (with video)"
     },
     "cuisine": "hamur",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -749,7 +749,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 462,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -762,8 +762,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Garlic Bread Recipe (To Go With 5 Glasses of Tea at Breakfast)"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ılık su",
@@ -797,7 +797,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 357,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -810,8 +810,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cotton Pogaca"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -859,7 +859,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -872,8 +872,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Chocolate Mustached Pogaca"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -921,7 +921,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 479,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -934,8 +934,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Soda Water and Cheese Rose Borek"
     },
     "cuisine": "hamur",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet yufka",
@@ -969,7 +969,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 446,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -982,8 +982,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Crepe"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1015,7 +1015,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 225,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1028,8 +1028,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Chocolate Pogaca"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı su",
@@ -1071,7 +1071,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 258,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1084,8 +1084,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cotton Pogaca"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -1133,7 +1133,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1146,8 +1146,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Flower Pogaca"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -1199,7 +1199,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 243,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1212,8 +1212,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Water Borek"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet yumurta",
@@ -1255,7 +1255,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 290,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1268,8 +1268,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cotton Pogaca Recipe"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -1313,7 +1313,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 168,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1326,8 +1326,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Homemade Bread"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı karabuğday un",
@@ -1371,7 +1371,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 260,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1384,8 +1384,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Stringy Butter Spiral Pastry (Acma) Recipe"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su barda ılık süt",
@@ -1435,7 +1435,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1448,8 +1448,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Manti with Sauce"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket mantı",
@@ -1491,7 +1491,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 391,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1504,8 +1504,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Gozleme with Rice Yufka"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket pirinç yufkası",
@@ -1557,7 +1557,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 179,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1570,8 +1570,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Potato Pogaca (Soft)"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı süt",
@@ -1629,7 +1629,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 433,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1642,8 +1642,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Huge Frosting Sauced Cinnamon Rolls"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı+1 çeyrek su bardağı ılık süt",
@@ -1707,7 +1707,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1720,8 +1720,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Tomato and Pepper Gozleme (from Ready Yufka)"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 tane hazır yufka",
@@ -1763,7 +1763,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 242,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1776,8 +1776,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Potato Borek"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yufka",
@@ -1813,7 +1813,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 411,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1826,8 +1826,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Batlama"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı un",
@@ -1861,7 +1861,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 344,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1874,8 +1874,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cheese Rich Pide"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg un",
@@ -1917,7 +1917,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 325,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1930,8 +1930,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Sandwich Pogaca"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı ılık su",
@@ -1971,7 +1971,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 266,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1984,8 +1984,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Easy Spiral Pastry (Acma)"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı ılık süt",
@@ -2035,7 +2035,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 504,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2048,8 +2048,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Yeast Free Pogaca Ready in 5 Minutes"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
@@ -2089,7 +2089,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 193,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2102,8 +2102,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Spinach Borek"
     },
     "cuisine": "hamur",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bağ ıspanak",
@@ -2141,7 +2141,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2154,8 +2154,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Fake Water Borek Crispy Outside and Soft Inside (with video)"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg hazır yufka"
@@ -2191,7 +2191,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 463,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2204,8 +2204,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Easy Pogaca with Sesame"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı",
@@ -2255,7 +2255,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 195,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2268,8 +2268,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Karniyarik Borek"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yufka"
@@ -2303,7 +2303,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 352,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2316,7 +2316,7 @@ export const hamurRecipes: Recipe[] = [
       "en": "The Famous Pepper Bread of Hatay"
     },
     "cuisine": "hamur",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2351,7 +2351,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 485,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2364,8 +2364,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Mahlep Butter Crumbly Pogaca (with video)"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -2405,7 +2405,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 171,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2418,8 +2418,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cinnamon Rolls"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -2459,7 +2459,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2472,8 +2472,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Chocolate Pogaca"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ılık süt",
@@ -2511,7 +2511,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 469,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2524,8 +2524,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Leek Crispy Borek (with video)"
     },
     "cuisine": "hamur",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5.5 -6 su bardağı un",
@@ -2561,7 +2561,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 264,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2574,7 +2574,7 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cocoa Chocolate Pogaca"
     },
     "cuisine": "hamur",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2615,7 +2615,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 425,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2628,8 +2628,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Crispy Borek with Roasted Eggplant and Cheese"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 ml eritilmiş tereyağı",
@@ -2667,7 +2667,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 172,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2680,8 +2680,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Raspberry Tart"
     },
     "cuisine": "hamur",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ahududu",
@@ -2719,7 +2719,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 420,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2732,8 +2732,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Olive Oil Cotton Pogaca with Seeds"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -2783,7 +2783,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 248,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2796,8 +2796,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pizza Recipe"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağından 1 parmak eksik su",
@@ -2831,7 +2831,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 283,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2844,7 +2844,7 @@ export const hamurRecipes: Recipe[] = [
       "en": "Gozleme with Puff Pastry"
     },
     "cuisine": "hamur",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2871,7 +2871,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 504,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2884,8 +2884,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "30 Dough Crispy Baklava"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet büyük boy yumurta",
@@ -2947,7 +2947,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 328,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2960,7 +2960,7 @@ export const hamurRecipes: Recipe[] = [
       "en": "Flower Pancake"
     },
     "cuisine": "hamur",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2997,7 +2997,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 395,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3010,8 +3010,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Delicious Pepper Bread"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -3049,7 +3049,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 279,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3062,8 +3062,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Easy Tray Borek"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yufka"
@@ -3089,7 +3089,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3102,8 +3102,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Mini Pide with Minced Meat at Home"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı un",
@@ -3147,7 +3147,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 436,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3160,8 +3160,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Manti with Minced Meat"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 su bardağı su",
@@ -3207,7 +3207,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 487,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3220,8 +3220,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Puffy Delicious Pogaca"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -3259,7 +3259,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3272,8 +3272,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Vegetable Pogaca with Practical Preparation"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dolu yemek kaşığı oda sıcaklığında tereyağ",
@@ -3321,7 +3321,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 399,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3334,7 +3334,7 @@ export const hamurRecipes: Recipe[] = [
       "en": "Flavor Bomb Puff Pastry"
     },
     "cuisine": "hamur",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3361,7 +3361,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 218,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3374,8 +3374,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pacanga Borek"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yufka",
@@ -3419,7 +3419,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3432,8 +3432,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pogaca with Cheese and Olives"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tereyağ veya margarin ( oda sıcaklığında)",
@@ -3481,7 +3481,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 459,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3494,8 +3494,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Borek in a Cake Tin"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yufka"
@@ -3523,7 +3523,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 480,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3536,8 +3536,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Plain Pogaca (Yeast Free)"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram oda sıcaklığında tereyağ ya da margarin",
@@ -3577,7 +3577,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3590,8 +3590,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pizza with Potato and Sausage"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı un",
@@ -3629,7 +3629,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 473,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3642,8 +3642,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Focaccia with Tomato and Olives"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "550 gram un",
@@ -3683,7 +3683,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 218,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3696,8 +3696,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pogaca"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -3737,7 +3737,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 369,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3750,8 +3750,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Crumbly Pogaca with Labne (Naturally Colored)"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram tereyağı",
@@ -3801,7 +3801,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 547,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3814,8 +3814,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Peach Tart Cookie Without Butter and Margarine"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy şeftali",
@@ -3851,7 +3851,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3864,8 +3864,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Hunter Borek"
     },
     "cuisine": "hamur",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yufka"
@@ -3897,7 +3897,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 457,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3910,8 +3910,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Rose Borek"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet hazır yufka"
@@ -3947,7 +3947,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 537,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3960,7 +3960,7 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cigarette Borek from Leftover Yufka"
     },
     "cuisine": "hamur",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3983,7 +3983,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 153,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3996,8 +3996,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Soft Anne Spiral Pastry (Acma)"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg un",
@@ -4041,7 +4041,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4054,8 +4054,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Raw Borek"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4,5 su bardağı un",
@@ -4085,7 +4085,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 218,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4098,8 +4098,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pogaca and Acma Recipe"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ılık süt",
@@ -4151,7 +4151,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4164,8 +4164,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Soft Inside Crispy Katmer Pogaca"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -4229,7 +4229,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4242,8 +4242,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Gluten Free Chickpea Bread Recipe"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı nohut (akşamdan ıslatılmış çiğ veya 2 su bardağı nohut unu)",
@@ -4283,7 +4283,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4296,8 +4296,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pan Borek"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yufka",
@@ -4329,7 +4329,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 309,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4342,8 +4342,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cheese Boat Pide"
     },
     "cuisine": "hamur",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -4389,7 +4389,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 542,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4402,8 +4402,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Proofed Batlama in a Pan"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tatlı kaşığı şeker",
@@ -4441,7 +4441,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4454,8 +4454,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Mardin Coek (Klice)"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 paket margarin veya tereyağı",
@@ -4501,7 +4501,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 316,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4514,8 +4514,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Soft Cinnamon Roll (Cinnamon Rolls)"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım yemek kaşığı instant maya",
@@ -4575,7 +4575,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 402,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4588,8 +4588,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Tray Borek with Cheese"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet yufka"
@@ -4617,7 +4617,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 541,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4630,8 +4630,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Spinach Borek"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yufka",
@@ -4679,7 +4679,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4692,8 +4692,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Crispy Potato Borek"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yufka"
@@ -4727,7 +4727,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 201,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4740,8 +4740,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Proofed Pogaca with Few Ingredients"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 pk instant kuru maya",
@@ -4779,7 +4779,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 394,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4792,8 +4792,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cocoa Wet Cake"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -4833,7 +4833,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 409,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4846,8 +4846,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Easy Pogaca (Yeast Free)"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram tereyağı",
@@ -4889,7 +4889,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 521,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4902,8 +4902,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Mini Pizzas with Perfect Dough"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı un",
@@ -4939,7 +4939,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 519,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4952,8 +4952,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Original Kayseri Manti"
     },
     "cuisine": "hamur",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg un",
@@ -4987,7 +4987,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 467,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5000,8 +5000,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Easy Pizza (Without Kneading Dough)"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -5041,7 +5041,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 286,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5054,8 +5054,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pogaca with Dill"
     },
     "cuisine": "hamur",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı sıvı yağ",
@@ -5091,7 +5091,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 433,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5104,8 +5104,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Borek with Lamb Meat and Peas"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket milföy hamuru"
@@ -5139,7 +5139,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 490,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5152,8 +5152,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Cheese Rose Borek"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet yufka",
@@ -5187,7 +5187,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 495,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5200,8 +5200,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pogaca with Chocolate Chips (Optionally Filled)"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yemek kaşığı toz şeker",
@@ -5265,7 +5265,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 480,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5278,8 +5278,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Karniyarik Borek"
     },
     "cuisine": "hamur",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yufka"
@@ -5317,7 +5317,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5330,8 +5330,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Puffy Pogaca Recipe"
     },
     "cuisine": "hamur",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta akı",
@@ -5399,7 +5399,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5412,8 +5412,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Pogaca with Dill"
     },
     "cuisine": "hamur",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram tereyağ",
@@ -5457,7 +5457,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 211,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5470,8 +5470,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Potato Rose Borek"
     },
     "cuisine": "hamur",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet yufka",
@@ -5521,7 +5521,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 335,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5534,8 +5534,8 @@ export const hamurRecipes: Recipe[] = [
       "en": "Borek with Eggplant and Minced Meat"
     },
     "cuisine": "hamur",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo yufka"
@@ -5565,7 +5565,7 @@ export const hamurRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 336,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

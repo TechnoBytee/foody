@@ -47,14 +47,21 @@ export function getRecipeIntro(recipe: Recipe, lang: Lang): string {
   if (lang === "tr") {
     const parts = [recipe.name.tr];
     if (list) parts.push(`${list} gibi malzemelerle hazırlanır`);
-    if (time) parts.push(`yaklaşık ${recipe.time} dakikada tamamlanır`);
-    parts.push(`${level} bir tariftir.`);
-    return parts.join(", ");
+    if (time) {
+      parts.push(`yaklaşık ${recipe.time} dakikada tamamlanır`);
+      parts.push(`${level} bir tariftir.`);
+    }
+    const text = parts.join(", ");
+    return text.endsWith(".") ? text : `${text}.`;
   }
 
+  if (!time) {
+    return list
+      ? `${recipe.name.en} is made with ${list}.`
+      : `${recipe.name.en} is a recipe from the archive.`;
+  }
   const article = recipe.difficulty === "easy" ? "an" : "a";
   let text = `${recipe.name.en} is ${article} ${level} recipe`;
   if (list) text += ` made with ${list}`;
-  if (time) text += `, ready in about ${recipe.time} minutes`;
-  return `${text}.`;
+  return `${text}, ready in about ${recipe.time} minutes.`;
 }

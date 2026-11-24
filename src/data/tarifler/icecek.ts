@@ -8,8 +8,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Lemonade with 1 Orange and 1 Lemon"
     },
     "cuisine": "icecek",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet limon",
@@ -53,7 +53,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 388,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -66,8 +66,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "How to Make Lemonade"
     },
     "cuisine": "icecek",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet büyük veya 4 adet orta boy limon",
@@ -105,7 +105,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 451,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -118,8 +118,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "The Iced Coffee Recipe You Will Crave (video)"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 tatlı kaşığı granül kahve",
@@ -151,7 +151,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 293,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -164,8 +164,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "3 Liter Orange Lemonade from 3 Fruits (video)"
     },
     "cuisine": "icecek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet portakal",
@@ -203,7 +203,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -216,8 +216,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Extra Frothy Latte Coffee (Cafe-Style Coffee), Video"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 yemek kaşığı nescafe gold ya da classic",
@@ -251,7 +251,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -264,8 +264,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cool Lime (video)"
     },
     "cuisine": "icecek",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet limon",
@@ -305,7 +305,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 229,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -318,8 +318,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "3 Healthy Smoothie Recipes"
     },
     "cuisine": "icecek",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase ananas",
@@ -361,7 +361,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -374,8 +374,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Natural Peach Juice (Winter Nectar)"
     },
     "cuisine": "icecek",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "23 adet iri şeftali",
@@ -415,7 +415,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -428,8 +428,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cherry Compote Recipe"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg vişne",
@@ -461,7 +461,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 545,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -474,8 +474,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Iced Turkish Coffee in 1 Minute (video)"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı Türk kahvesi",
@@ -509,7 +509,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 486,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -522,7 +522,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Quince Juice (Sugar-Free)"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -553,7 +553,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 205,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -566,8 +566,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Peanut Milk"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı teze fıstık",
@@ -595,7 +595,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 278,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -608,7 +608,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Smoothie for Constipation"
     },
     "cuisine": "icecek",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -633,7 +633,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 315,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -646,8 +646,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Orange Lemonade (Homemade)"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet portakal",
@@ -681,7 +681,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 192,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -694,8 +694,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Mandarin Juice"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "16 adet mandalina",
@@ -727,7 +727,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -740,7 +740,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Fat-Burning Shot"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -767,7 +767,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -780,7 +780,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Bowel-Moving Smoothie"
     },
     "cuisine": "icecek",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -805,7 +805,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 193,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -818,7 +818,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Smoothie That Will Make Even Kefir Haters Love It"
     },
     "cuisine": "icecek",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -845,7 +845,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -858,7 +858,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Mineral Water Cure"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -885,7 +885,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 177,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -898,7 +898,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Health Depot Winter Tea"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -929,7 +929,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 475,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -942,8 +942,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Concentrated Peach Juice"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 kilo şeftali",
@@ -973,7 +973,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 306,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -986,7 +986,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Carrot and Parsley Detox Water"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1017,7 +1017,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 320,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1030,7 +1030,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Beet Detox Water"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1065,7 +1065,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 252,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1078,7 +1078,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee Without Espresso"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1111,7 +1111,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 529,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1124,8 +1124,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cornelian Cherry Sherbet"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kızılcık",
@@ -1151,7 +1151,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 523,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1164,8 +1164,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 ml soğuk süt",
@@ -1203,7 +1203,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 320,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1216,7 +1216,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Plum Juice (Fruit Juice)"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1245,7 +1245,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 369,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1258,8 +1258,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee for 1"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 tatlı kaşığı granül kahve",
@@ -1291,7 +1291,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 274,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1304,8 +1304,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Celery Juice"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 sap kereviz",
@@ -1333,7 +1333,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1346,7 +1346,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Refreshing Melon Drink"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1377,7 +1377,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 150,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1390,8 +1390,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Dragon Atom (Energy Drink)"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet ejder meyvesi",
@@ -1427,7 +1427,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 424,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1440,8 +1440,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Fresh Plum Juice"
     },
     "cuisine": "icecek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg taze kırmızı veya siyah erik",
@@ -1481,7 +1481,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 213,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1494,8 +1494,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3/4 (bir yarım+bir çeyrek) adet buz",
@@ -1531,7 +1531,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1544,7 +1544,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Vitamin Bomb"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1579,7 +1579,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1592,7 +1592,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Winter Peach Juice"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1621,7 +1621,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 315,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1634,8 +1634,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Nectarine Fruit Juice"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 kilo nektarin",
@@ -1663,7 +1663,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1676,8 +1676,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Basil Sherbet"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "bir demet taze reyhan",
@@ -1713,7 +1713,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 371,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1726,8 +1726,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Strawberry Lemonade"
     },
     "cuisine": "icecek",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu çilek",
@@ -1769,7 +1769,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 194,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1782,7 +1782,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1809,7 +1809,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 234,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1822,8 +1822,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Watermelon Lemonade"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 dilim çekirdeksiz karpuz",
@@ -1855,7 +1855,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 467,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1868,8 +1868,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Effective Detox Water"
     },
     "cuisine": "icecek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet salatalık",
@@ -1909,7 +1909,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 367,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1922,7 +1922,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cocoa Milk"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1949,7 +1949,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 171,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1962,7 +1962,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1993,7 +1993,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 269,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2006,7 +2006,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2039,7 +2039,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 290,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2052,8 +2052,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Lemonade"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet limon",
@@ -2083,7 +2083,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 423,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2096,8 +2096,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Plum Concentrate (Never Like Compote, Real Fruit Juice)"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kg erik",
@@ -2125,7 +2125,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2138,7 +2138,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Pink Milk"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2165,7 +2165,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2178,8 +2178,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Peach-Flavored Lemonade"
     },
     "cuisine": "icecek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet şeftali",
@@ -2219,7 +2219,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 387,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2232,8 +2232,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "The Wonderful Transformation of Leftover Fruit (video)"
     },
     "cuisine": "icecek",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg anjelika erik",
@@ -2277,7 +2277,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 440,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2290,8 +2290,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Belly-Slimming Healing Cure"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "ceviz büyüklüğünde taze zencefil",
@@ -2321,7 +2321,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 491,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2334,8 +2334,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Easy Lemonade"
     },
     "cuisine": "icecek",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet limon",
@@ -2375,7 +2375,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2388,7 +2388,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Practical Lemonade"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2419,7 +2419,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2432,7 +2432,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Iced Caramel Latte"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2465,7 +2465,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 548,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2478,8 +2478,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Peach Iced Tea"
     },
     "cuisine": "icecek",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet olgun şeftali",
@@ -2525,7 +2525,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 354,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2538,7 +2538,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Modest Lemonade"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2567,7 +2567,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2580,8 +2580,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Brew (Cafe Quality)"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı taze çekilmiş (yaklaşık 100g)",
@@ -2615,7 +2615,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 152,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2628,7 +2628,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Healthy Shake That Keeps You Full for a Long Time"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2657,7 +2657,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 383,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2670,8 +2670,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Iced Coffee"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "istediğin miktarda buz",
@@ -2707,7 +2707,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 434,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2720,8 +2720,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Peach Iced Tea (Sour)"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 âdet şeftali",
@@ -2763,7 +2763,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 264,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2776,8 +2776,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Basil Sherbet With a Wonderful Color and Refreshing Aroma (video)"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 demet taze reyhan",
@@ -2817,7 +2817,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 293,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2830,8 +2830,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Lemonade"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet limon",
@@ -2865,7 +2865,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 498,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2878,7 +2878,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Practical Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2909,7 +2909,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 545,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2922,8 +2922,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Homemade Lemonade"
     },
     "cuisine": "icecek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet portakal",
@@ -2963,7 +2963,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2976,8 +2976,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı soğuk süt",
@@ -3009,7 +3009,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3022,8 +3022,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cornelian Cherry Syrup"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "10 kilo koruk (olgunlaşmamış üzüm)",
@@ -3053,7 +3053,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 346,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3066,8 +3066,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cherry Milkshake"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram dondurulmuş kiraz (yaklaşık 1¼ su bardağı)",
@@ -3099,7 +3099,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 398,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3112,7 +3112,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Lemonade"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3139,7 +3139,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 325,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3152,8 +3152,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Homemade Lemonade"
     },
     "cuisine": "icecek",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet portakal",
@@ -3191,7 +3191,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3204,8 +3204,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Summer Saver Lemonade That Is So Easy to Make"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy limonun suyu",
@@ -3235,7 +3235,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 178,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3248,8 +3248,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Blender-Free Banana Cold Milkshake"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "️1 adet büyük muz (veya 2 adet küçük muz)",
@@ -3281,7 +3281,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 236,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3294,7 +3294,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cherry Juice"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3321,7 +3321,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 369,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3334,8 +3334,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Black Mulberry Extract (video)"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg kara dut",
@@ -3365,7 +3365,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 391,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3378,7 +3378,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Lemonade (video)"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3405,7 +3405,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 381,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3418,8 +3418,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cherry Juice (video)"
     },
     "cuisine": "icecek",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kasa vişne ( ortalama 7-8 kg)",
@@ -3491,7 +3491,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 306,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3504,7 +3504,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Milky Lemonade"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3535,7 +3535,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 309,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3548,7 +3548,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Banana Smoothie"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3575,7 +3575,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 162,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3588,8 +3588,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Vanilla Dream Latte"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 shat amerikano veya yarın su bardağı filitre kahve",
@@ -3623,7 +3623,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3636,8 +3636,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Medium-Sugar Turkish Coffee"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı Türk kahvesi",
@@ -3665,7 +3665,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 202,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3678,8 +3678,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Chemical-Free Basil Sherbet"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük bağ mor yapraklı reyhan",
@@ -3711,7 +3711,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3724,7 +3724,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3751,7 +3751,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 340,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3764,8 +3764,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Fruit Juice from Plums"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo yeşil eriğin kırmızısı",
@@ -3795,7 +3795,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 197,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3808,7 +3808,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Strawberry Lemonade"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3837,7 +3837,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3850,8 +3850,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Homemade Lemonade Recipe"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet limon",
@@ -3885,7 +3885,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 383,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3898,8 +3898,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Wonderful Lemonade"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet sarı limon",
@@ -3931,7 +3931,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 189,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3944,7 +3944,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Basil Sherbet (video)"
     },
     "cuisine": "icecek",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3971,7 +3971,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3984,8 +3984,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Lemonade Just the Right Consistency (video)"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet sulu limon",
@@ -4019,7 +4019,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 206,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4032,8 +4032,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "No Citric Acid! Perfectly Measured Basil Sherbet Recipe With Real Lemon Juice (Video Recipe)"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet taze mor reyhan (yaprakları ayıklanmış ve yıkanmış)",
@@ -4067,7 +4067,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4080,8 +4080,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Starbucks-Style Hibiscus (Roselle)"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı kurutulmuş hibiskus",
@@ -4117,7 +4117,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 491,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4130,8 +4130,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Just 2 Lemons and Delicious Lemonade"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet limon",
@@ -4165,7 +4165,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 290,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4178,8 +4178,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cafe Lemonade Recipe (Yields 4 Liters!)"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet donmuş portakal",
@@ -4211,7 +4211,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 333,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4224,8 +4224,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Real Cool Lime from the Sherbet Shop"
     },
     "cuisine": "icecek",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet limon (bulamadıysanız lime limonu olmak zorunda değil, sarı market limonu ile de olur)",
@@ -4263,7 +4263,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 302,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4276,8 +4276,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Wonderful Watermelon Lemonade"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı çekirdeksiz karpuz (küp küp doğranmış)",
@@ -4313,7 +4313,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 276,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4326,8 +4326,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee with Milk"
     },
     "cuisine": "icecek",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağından biraz az süt",
@@ -4361,7 +4361,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4374,8 +4374,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Original Lemonade Recipe"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet limon",
@@ -4407,7 +4407,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 519,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4420,8 +4420,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Iced Tea with Hibiscus (video)"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı hibiskus bitkisi",
@@ -4457,7 +4457,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 352,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4470,7 +4470,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cold Coffee"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4497,7 +4497,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 370,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4510,7 +4510,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Ice-Cool Summer Drink from Fresh Plums"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4537,7 +4537,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 230,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4550,7 +4550,7 @@ export const icecekRecipes: Recipe[] = [
       "en": "Fresh Basil Sherbet"
     },
     "cuisine": "icecek",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4579,7 +4579,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 547,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4592,8 +4592,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Cherry Fruit Juice"
     },
     "cuisine": "icecek",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kiraz",
@@ -4621,7 +4621,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4634,8 +4634,8 @@ export const icecekRecipes: Recipe[] = [
       "en": "Basil Sherbet"
     },
     "cuisine": "icecek",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet taze reyhan",
@@ -4671,7 +4671,7 @@ export const icecekRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 345,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

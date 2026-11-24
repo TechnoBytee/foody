@@ -8,8 +8,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Haydari Meze (video)"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 yemek kaşığı süzme yoğurt",
@@ -53,7 +53,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -66,8 +66,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Potato Salad with Roasted Peppers"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet patates",
@@ -119,7 +119,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 262,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -132,8 +132,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Barley Orzo Salad (Original) (video)"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 buçuk su bardağı arpa şehriye",
@@ -189,7 +189,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 277,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -202,8 +202,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Kisir Recipe (video)"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük su bardağı ince bulgur",
@@ -267,7 +267,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 232,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -280,8 +280,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Chicken Barley Orzo Salad (video)"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı arpa şehriye",
@@ -331,7 +331,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 415,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -344,8 +344,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Potato Balls"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patates",
@@ -379,7 +379,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 322,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -392,8 +392,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Wonderful Potato Salad Video"
     },
     "cuisine": "salata",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilogram patates",
@@ -455,7 +455,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 356,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -468,8 +468,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Chicken Salad Recipe"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü",
@@ -517,7 +517,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 452,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -530,8 +530,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Star Orzo Salad"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yıldız şehriye",
@@ -577,7 +577,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -590,8 +590,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Gavurdagi Salad Recipe"
     },
     "cuisine": "salata",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet domates",
@@ -643,7 +643,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 356,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -656,7 +656,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Purple Cabbage Meze"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -691,7 +691,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 426,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -704,8 +704,8 @@ export const salataRecipes: Recipe[] = [
       "en": "The Secret of That Restaurant Taste: Really Hot Ezme (Video)"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2-3 adet domates",
@@ -741,7 +741,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 286,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -754,8 +754,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Potato Salad with Carrots and Roasted Peppers"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet patates",
@@ -797,7 +797,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 531,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -810,7 +810,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Hummus with Roasted Eggplant and Roasted Peppers"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -847,7 +847,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 520,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -860,8 +860,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Crispy Chicken Salad with Yogurt"
     },
     "cuisine": "salata",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram tavuk bonfile ( haşlanmış)"
@@ -899,7 +899,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 338,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -912,8 +912,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Wonderful Healing Radish Pickle"
     },
     "cuisine": "salata",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 demet kırmızı turp",
@@ -963,7 +963,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 549,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -976,8 +976,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Onion Salad with Sumac"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 orta boy kuru soğan",
@@ -1015,7 +1015,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1028,8 +1028,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Restaurant Style Hot Broad Bean Fava Without Soaking"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kuru bakla",
@@ -1077,7 +1077,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1090,8 +1090,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Baked Potato Salad"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet büyük boy patates",
@@ -1143,7 +1143,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 153,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1156,7 +1156,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Hibes with Labneh"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1191,7 +1191,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1204,8 +1204,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Roasted Bell Pepper Meze in the Airfryer"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet kapya biber",
@@ -1237,7 +1237,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 384,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1250,8 +1250,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Purple Winter Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük boy kırmızı soğan (incecik dilimlenmiş)",
@@ -1285,7 +1285,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1298,8 +1298,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Green Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "kıvırcık marul",
@@ -1347,7 +1347,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 330,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1360,8 +1360,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Breakfast Hummus with Kasar Lor Cheese"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı haşlanmış nohut",
@@ -1399,7 +1399,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 316,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1412,8 +1412,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Orzo Salad"
     },
     "cuisine": "salata",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı yıldız ya da arpa şehriye",
@@ -1455,7 +1455,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 431,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1468,8 +1468,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Etimek Meze Cake"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet közlenmiş patlıcan (1 kavanoz konservede kullanabilirsiniz)",
@@ -1513,7 +1513,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 407,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1526,8 +1526,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Ground Meat Potato Saute That Leaves a Trace on the Palate"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük boy kuru soğan",
@@ -1583,7 +1583,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 212,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1596,8 +1596,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Potato and Mushroom Gratin"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 patates",
@@ -1633,7 +1633,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 262,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1646,8 +1646,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Artichoke and Carrot Meze"
     },
     "cuisine": "salata",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy havuç",
@@ -1697,7 +1697,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1710,8 +1710,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Greek Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 orta boy domates",
@@ -1751,7 +1751,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 249,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1764,8 +1764,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Beetroot and Carrot Tarator (Perfect Pair)"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet havuç",
@@ -1805,7 +1805,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 249,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1818,8 +1818,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Tuna and Chickpea Salad"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kutu ton balığı",
@@ -1865,7 +1865,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 380,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1878,8 +1878,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Cabbage Salad That Makes You a Devoted Fan"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram lahana",
@@ -1929,7 +1929,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 538,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1942,8 +1942,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Garlic Yogurt Purslane"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bağ semizotu",
@@ -1973,7 +1973,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 198,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1986,8 +1986,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Purslane Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "semizotu yarım bağ",
@@ -2025,7 +2025,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 519,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2038,8 +2038,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Spoon Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane orta boy domates",
@@ -2073,7 +2073,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2086,8 +2086,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Crispy Lettuce Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı yoğurt",
@@ -2129,7 +2129,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 179,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2142,8 +2142,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Buyurdi (Bougourditsa)"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram çeri domates",
@@ -2185,7 +2185,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 455,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2198,8 +2198,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Arugula Salad"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "baby roka",
@@ -2239,7 +2239,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 297,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2252,8 +2252,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Kebab House Style Hot Ezme"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet uzun domates",
@@ -2295,7 +2295,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 425,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2308,8 +2308,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Hummus (Legendary Recipe)"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu konserve nohut (haşlanmışta olur)",
@@ -2347,7 +2347,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 459,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2360,8 +2360,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Carrot Tarator"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 tane orta boy havuç",
@@ -2401,7 +2401,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 266,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2414,8 +2414,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Colorful Salad"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "çeyrek mor lahana",
@@ -2455,7 +2455,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 324,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2468,7 +2468,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Restaurant Style Dry Cacik Meze"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2501,7 +2501,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2514,8 +2514,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Pasta Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı yoğurt",
@@ -2553,7 +2553,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 184,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2566,8 +2566,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Meze with Purslane and Lentils"
     },
     "cuisine": "salata",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı yeşil mercimek",
@@ -2609,7 +2609,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 520,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2622,8 +2622,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Egg Potato Salad (For Those Asking What to Cook)"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 orta boy patates",
@@ -2675,7 +2675,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 426,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2688,8 +2688,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Crispy Zucchini Rings"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2-3 adet kabak"
@@ -2717,7 +2717,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 365,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2730,8 +2730,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Carrot Tarator"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy havuç",
@@ -2765,7 +2765,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 384,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2778,8 +2778,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Rum Meze"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -2819,7 +2819,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 188,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2832,8 +2832,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Bell Pepper and Onion Meze (With the Roasted Flavor) (Video)"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kapya biber",
@@ -2869,7 +2869,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 167,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2882,8 +2882,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Purslane Salad"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım demet semizotu",
@@ -2923,7 +2923,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 401,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2936,8 +2936,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Orzo Salad"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı arpa şehriye",
@@ -2979,7 +2979,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 289,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2992,8 +2992,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Kebab House Style Onion Salad (Video)"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy soğan",
@@ -3037,7 +3037,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 202,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3050,8 +3050,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Meze Salad with Potatoes"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 orta boy patates",
@@ -3089,7 +3089,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3102,8 +3102,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Potato Salad with Carrots"
     },
     "cuisine": "salata",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 tane patates",
@@ -3167,7 +3167,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3180,8 +3180,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Purslane Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet semizotu (yaprak kısımları)",
@@ -3215,7 +3215,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 271,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3228,8 +3228,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Amazing Stuffed Vine Leaf Salad with Its Sauce"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kuru börülce",
@@ -3277,7 +3277,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3290,7 +3290,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Restaurant Ezme"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3335,7 +3335,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 492,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3348,8 +3348,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Oven Roasted Vegetable Salad"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patates",
@@ -3391,7 +3391,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3404,7 +3404,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Egg Salad"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3443,7 +3443,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 346,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3456,7 +3456,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Meze with Eggplant and Caramelized Onion"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3501,7 +3501,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3514,8 +3514,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Pasta Salad (Ready in 5 Minutes, Your Favorite Every Day)"
     },
     "cuisine": "salata",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 mg boncuk makarna",
@@ -3555,7 +3555,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 384,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3568,8 +3568,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Green Dry Cacik"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet salatalık",
@@ -3605,7 +3605,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 472,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3618,8 +3618,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Red Beetroot Meze"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy pancar",
@@ -3651,7 +3651,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 416,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3664,7 +3664,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Olive Oil Onion Meze"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3697,7 +3697,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 529,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3710,7 +3710,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Coleslaw Salad"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3741,7 +3741,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3754,8 +3754,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Artichoke Salad"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet orta boy soğan",
@@ -3793,7 +3793,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3806,8 +3806,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Delicious Yogurt Lettuce Salad (Video)"
     },
     "cuisine": "salata",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım göbek marul",
@@ -3861,7 +3861,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 375,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3874,8 +3874,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Protein Packed Hummus with Lentil Salad"
     },
     "cuisine": "salata",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı nohut",
@@ -3927,7 +3927,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3940,8 +3940,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Potato Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 orta boy patates",
@@ -3987,7 +3987,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 462,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4000,8 +4000,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Hot Ezme"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2,5 kilo domates",
@@ -4043,7 +4043,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4056,8 +4056,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Borlotti Bean Salad"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo ayıklanmış badalan fasulye içi",
@@ -4105,7 +4105,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 325,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4118,8 +4118,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Pesto Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı pesto sos",
@@ -4155,7 +4155,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 163,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4168,7 +4168,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Salad (Purslane, Arugula)"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4203,7 +4203,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 363,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4216,8 +4216,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Beetroot Salad with Walnuts"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım adet pancar",
@@ -4247,7 +4247,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4260,8 +4260,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Bean Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı haşlanmış kuru fasulye",
@@ -4303,7 +4303,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4316,8 +4316,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Easy and Refreshing Arugula Salad"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet roka",
@@ -4353,7 +4353,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 405,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4366,8 +4366,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Potato Salad"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 orta boy patates",
@@ -4411,7 +4411,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 530,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4424,8 +4424,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Fake Stuffed Mussels"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük kuru soğan",
@@ -4467,7 +4467,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4480,8 +4480,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Meze"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı arpa şehriye",
@@ -4533,7 +4533,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4546,7 +4546,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Fresh Stuffed Vine Leaf Salad"
     },
     "cuisine": "salata",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4567,7 +4567,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4580,8 +4580,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Antalya Piyaz"
     },
     "cuisine": "salata",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı haşlanmış kuru fasulye",
@@ -4625,7 +4625,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 545,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4638,8 +4638,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Fried Yogurt Green Bean Salad"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 avuç taze fasulye",
@@ -4689,7 +4689,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4702,7 +4702,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Pasta Salad"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4733,7 +4733,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 378,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4746,8 +4746,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Chickpea Salad"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı haşlanmış nohut",
@@ -4787,7 +4787,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 250,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4800,7 +4800,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Haydari (Rolled Yogurt Spread)"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4837,7 +4837,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 166,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4850,8 +4850,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Crispy Zucchini Flower Tempura (Video)"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "20 adet kabak çiçeği",
@@ -4883,7 +4883,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 541,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4896,8 +4896,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Yogurt Roasted Pepper Meze"
     },
     "cuisine": "salata",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı yoğurt",
@@ -4947,7 +4947,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 274,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4960,8 +4960,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Haydari (A Different, Very Refreshing Method Everyone Asks the Recipe Of)"
     },
     "cuisine": "salata",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı süzme yoğurt",
@@ -4991,7 +4991,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 265,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5004,8 +5004,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Pasta Salad"
     },
     "cuisine": "salata",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram orecchiette makarna (istediğiniz makarna olur)",
@@ -5057,7 +5057,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 394,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5070,8 +5070,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Kisir Steeped with Its Sauce"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet orta boy soğan",
@@ -5131,7 +5131,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 526,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5144,8 +5144,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Greek Style Zucchini Fricke"
     },
     "cuisine": "salata",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet kabak",
@@ -5191,7 +5191,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 449,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5204,8 +5204,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Green Bean Salad"
     },
     "cuisine": "salata",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram taze fasulye",
@@ -5247,7 +5247,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 368,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5260,7 +5260,7 @@ export const salataRecipes: Recipe[] = [
       "en": "A Light and Practical Meze: Olive Oil Spinach Stems"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5291,7 +5291,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5304,8 +5304,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Diet Salad with Mushrooms"
     },
     "cuisine": "salata",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket mantar",
@@ -5355,7 +5355,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 370,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5368,7 +5368,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Summer Salad"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5403,7 +5403,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 369,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5416,8 +5416,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Roasted Eggplant Puree"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet köz patlıcan",
@@ -5453,7 +5453,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 474,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5466,7 +5466,7 @@ export const salataRecipes: Recipe[] = [
       "en": "Arugula Salad"
     },
     "cuisine": "salata",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5503,7 +5503,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 156,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5516,8 +5516,8 @@ export const salataRecipes: Recipe[] = [
       "en": "Pasta Salad with Roasted Peppers"
     },
     "cuisine": "salata",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna (yarım pakette kullanabilirsiniz)",
@@ -5557,7 +5557,7 @@ export const salataRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 314,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

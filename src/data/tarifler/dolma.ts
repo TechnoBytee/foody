@@ -8,8 +8,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Pepper Recipe Video"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "dolmalık biber"
@@ -49,7 +49,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 398,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -62,8 +62,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "20 adet orta boy dolmalık biber"
@@ -101,7 +101,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 339,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -114,8 +114,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kuru soğan",
@@ -187,7 +187,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 419,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -200,8 +200,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Dried Stuffed Eggplant and Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "10 kuru patlıcan",
@@ -263,7 +263,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -276,8 +276,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Pepper Recipe (with video)"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kg dolmalık biber",
@@ -337,7 +337,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -350,8 +350,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Zucchini Recipe Video"
     },
     "cuisine": "dolma",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet kabak",
@@ -389,7 +389,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 236,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -402,8 +402,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Artichoke (with video)"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı zeytinyağı",
@@ -443,7 +443,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 427,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -456,8 +456,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Onions"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "7 adet büyük boy kuru soğan",
@@ -529,7 +529,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 207,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -542,8 +542,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Cabbage Rolls (with video)"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük boy lahana",
@@ -601,7 +601,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 172,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -614,8 +614,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Katıklı Zucchini"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet kabak",
@@ -659,7 +659,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -672,8 +672,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Vine Leaves Rolled in Grape Leaves (with video)"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
@@ -727,7 +727,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 403,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -740,8 +740,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Mixed Meat Dolma"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6-7 adet dolmalık biber",
@@ -773,7 +773,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 424,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -786,8 +786,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Stuffed Zucchini"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 tane kabak",
@@ -831,7 +831,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 393,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -844,8 +844,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg yaprak (sıcak suda ıslatılmış)",
@@ -901,7 +901,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 310,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -914,8 +914,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Cabbage Rolls"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy lahana"
@@ -943,7 +943,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 258,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -956,7 +956,7 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Filling for Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1005,7 +1005,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1018,8 +1018,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Cabbage Rolls with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "lahana",
@@ -1075,7 +1075,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 529,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1088,8 +1088,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Delicious Olive Oil Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram salamura yaprak",
@@ -1149,7 +1149,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 329,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1162,8 +1162,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Dolma"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "9 adet dolmalık biber"
@@ -1207,7 +1207,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 357,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1220,8 +1220,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Onions"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet soğan orta veya büyük boy",
@@ -1253,7 +1253,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 466,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1266,8 +1266,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo salamura yaprak",
@@ -1327,7 +1327,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 448,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1340,8 +1340,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Mixed Dolma"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
@@ -1385,7 +1385,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 360,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1398,7 +1398,7 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Istanbul Style Olive Oil Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1445,7 +1445,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 267,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1458,8 +1458,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Large Sized Juicy Stuffed Peppers with Minced Meat and Grated Tomato"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet büyük boy dolmalık biber"
@@ -1483,7 +1483,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1496,8 +1496,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Zucchini Blossoms"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "20-21 adet kabak çiçeği",
@@ -1547,7 +1547,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 283,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1560,8 +1560,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers and Eggplants with Minced Meat in an Earthenware Pot"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 adet dolmalık biber",
@@ -1589,7 +1589,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 533,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1602,8 +1602,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Vine Leaves Rolled in Grape Leaves on a Tray"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg üzüm yaprağı"
@@ -1631,7 +1631,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 536,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1644,8 +1644,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Şıhıl Mahşi (Stuffed Mussels)"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8-10 küçük kabak ( büyük olursa ortadan ikiye kesin)",
@@ -1703,7 +1703,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 480,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1716,8 +1716,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oval Stuffed Zucchini"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kabak"
@@ -1745,7 +1745,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 235,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1758,8 +1758,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Melon Recipe (with video)"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "adet orta boy sert kavun",
@@ -1811,7 +1811,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1824,8 +1824,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8-10 adet dolmalık biber",
@@ -1873,7 +1873,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 306,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1886,8 +1886,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı pirinç",
@@ -1953,7 +1953,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 327,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1966,8 +1966,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "20 adet dolmalık biber ( küçük boy )",
@@ -2043,7 +2043,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 249,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2056,8 +2056,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Zucchini + Milk = Legendary Flavor"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı zeytinyağı",
@@ -2109,7 +2109,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 532,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2122,8 +2122,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Potatoes"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patates"
@@ -2151,7 +2151,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 369,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2164,8 +2164,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Şıhıl Mahşi (Stuffed Mussels)"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram dana kıyma",
@@ -2213,7 +2213,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 498,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2226,8 +2226,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Dough Stuffed in Vine Leaves"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "un",
@@ -2257,7 +2257,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 336,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2270,8 +2270,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Savoy Cabbage Rolls"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 demet karalahana",
@@ -2319,7 +2319,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 201,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2332,8 +2332,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven Dolma"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "dolmalık yeşil biber",
@@ -2385,7 +2385,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 247,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2398,8 +2398,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Dried Stuffed Peppers with Plenty of Sour"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 adet kurutulmuş biber",
@@ -2471,7 +2471,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 172,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2484,8 +2484,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "16 adet dolmalık biber",
@@ -2531,7 +2531,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2544,8 +2544,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oil-Free Nourishing Zucchini Rolls"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 orta boy kabak"
@@ -2571,7 +2571,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 338,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2584,8 +2584,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Vine Leaves Rolled in Grape Leaves with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "üzüm yaprağı"
@@ -2617,7 +2617,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 454,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2630,8 +2630,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Two Person Stuffed Pepper Recipe"
     },
     "cuisine": "dolma",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet dolmalık biber",
@@ -2687,7 +2687,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 221,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2700,8 +2700,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Cabbage Rolls"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy lahana",
@@ -2763,7 +2763,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 370,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2776,8 +2776,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Erzincan Style Stuffed Apples"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet sert, ekşi yeşil elma",
@@ -2889,7 +2889,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2902,8 +2902,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "10 adet dolmalık biber",
@@ -2971,7 +2971,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2984,8 +2984,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Hibiscus Flowers"
     },
     "cuisine": "dolma",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "hatmi çiçeği ( yaklaşık 30-35 tane )",
@@ -3035,7 +3035,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 245,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3048,8 +3048,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Topan Girit Kapağı Dolma"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 tane girit kabağı",
@@ -3109,7 +3109,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 228,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3122,8 +3122,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven Dolma"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "9 adet dolmalık biber",
@@ -3155,7 +3155,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3168,8 +3168,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Kapya Peppers with Minced Meat in an Earthenware Pot"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kapya biber"
@@ -3195,7 +3195,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 376,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3208,8 +3208,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Stuffed Peppers (with video)"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "14 adet orta boy dolmalık biber",
@@ -3257,7 +3257,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 391,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3270,8 +3270,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Spiced Katıklı Dolma (Bitlis Style)"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kabak",
@@ -3323,7 +3323,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3336,7 +3336,7 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Girit Dolma (with video)"
     },
     "cuisine": "dolma",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3381,7 +3381,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 236,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3394,8 +3394,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Girit Style Stuffed Zucchini"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8 adet orta boy kabak",
@@ -3447,7 +3447,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3460,8 +3460,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Dried Stuffed Peppers, Eggplant and Zucchini (with video)"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "25 adet kuru biber",
@@ -3497,7 +3497,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 506,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3510,8 +3510,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet orta boy dolmalık biber",
@@ -3565,7 +3565,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 319,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3578,8 +3578,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "The Most Delicious Oven-Baked Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15-17 dolmalık biber"
@@ -3609,7 +3609,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3622,8 +3622,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet biber dolması",
@@ -3671,7 +3671,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 284,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3684,8 +3684,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Olive Oil Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 adet dolmalık biber",
@@ -3753,7 +3753,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 341,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3766,8 +3766,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Pepper"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 orta boy soğan",
@@ -3807,7 +3807,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 269,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3820,8 +3820,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Zucchini in an Earthenware Pot"
     },
     "cuisine": "dolma",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 adet orta boy kabak",
@@ -3881,7 +3881,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 189,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3894,8 +3894,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "This Flavor Never Fails Open Dolma"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg dolma biber",
@@ -3939,7 +3939,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 412,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3952,8 +3952,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Mixed Vine Leaves Rolled in Grape Leaves with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "üzüm yaprağı"
@@ -3987,7 +3987,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 190,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4000,8 +4000,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "13 adet dolmalık biber",
@@ -4061,7 +4061,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 534,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4074,8 +4074,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Mixed Summer Dolma (with video)"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 kg patlıcan",
@@ -4121,7 +4121,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 492,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4134,8 +4134,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Stuffed Zucchini"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy kabak"
@@ -4183,7 +4183,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 209,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4196,8 +4196,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Dried Dolma"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "25-30 kuru patlıcan",
@@ -4229,7 +4229,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 378,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4242,8 +4242,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Dried Mixed Dolma with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "20 adet kuru biber",
@@ -4311,7 +4311,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4324,8 +4324,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Collard Green Rolls"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo pazı",
@@ -4363,7 +4363,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 340,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4376,8 +4376,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Cabbage Rolls and Stuffed Onions"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "üzüm yaprağı",
@@ -4409,7 +4409,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4422,8 +4422,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "çeyrek su bardağı pirinç",
@@ -4463,7 +4463,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 213,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4476,8 +4476,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Summer Dolma with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kıyma",
@@ -4545,7 +4545,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4558,8 +4558,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Basmati Rice Stuffed Melon with New Spices"
     },
     "cuisine": "dolma",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük boy sert kavun",
@@ -4619,7 +4619,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 423,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4632,8 +4632,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Bulgur Collard Green Rolls with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 bağ pazı"
@@ -4659,7 +4659,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 187,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4672,8 +4672,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Zucchini Blossoms"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "25 adet kabak çiçeği"
@@ -4713,7 +4713,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 320,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4726,8 +4726,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Mixed Dried Stuffed Eggplant and Peppers with Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 adet kuru patlıcan",
@@ -4797,7 +4797,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 521,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4810,8 +4810,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Zucchini"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet kabak",
@@ -4865,7 +4865,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4878,8 +4878,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Practical Sarma Dolma"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "750 gram asma yaprağı (tokat yaprağı kullandım)",
@@ -4929,7 +4929,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 489,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4942,8 +4942,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "California Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo kaliforniya biberi",
@@ -4989,7 +4989,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 217,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5002,8 +5002,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Oven-Baked Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "7 veya 9 adet dolmalık biber",
@@ -5061,7 +5061,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 401,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5074,8 +5074,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Thrace Style Vine Leaves Rolled in Grape Leaves Recipe | Fully Measured with Fresh Leaves (with video)"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram taze yaprak"
@@ -5123,7 +5123,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 511,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5136,8 +5136,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet dolmalık biber",
@@ -5195,7 +5195,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 245,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5208,7 +5208,7 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Vine Leaves Rolled in Grape Leaves (Do Not Look For Another Recipe)"
     },
     "cuisine": "dolma",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5231,7 +5231,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 491,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5244,8 +5244,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Peppers with Sumac, Garlic and Tomato Paste"
     },
     "cuisine": "dolma",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "7 adet dolmalık biber",
@@ -5293,7 +5293,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 481,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5306,8 +5306,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg salamura yaprak"
@@ -5333,7 +5333,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 256,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5346,8 +5346,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Peppers (with meat)"
     },
     "cuisine": "dolma",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "10 tane dolmalık biber",
@@ -5399,7 +5399,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5412,8 +5412,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Collard Green Dolma"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 bağ sarmalık pazı"
@@ -5453,7 +5453,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 504,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5466,8 +5466,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Mixed Dried Dolma with Minced Meat"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 adet kurutulmuş patlıcan",
@@ -5503,7 +5503,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 174,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5516,7 +5516,7 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Fresh Green Beans"
     },
     "cuisine": "dolma",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5547,7 +5547,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 235,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5560,8 +5560,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Dried Dolma (Gaziantep Style)"
     },
     "cuisine": "dolma",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 adet kuru patlıcan",
@@ -5599,7 +5599,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 210,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5612,8 +5612,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Peppers"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "20 adet dolmalık biber",
@@ -5653,7 +5653,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 464,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5666,8 +5666,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Stuffed Artichoke"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 enginara 3 yemek kaşığı pirinç",
@@ -5707,7 +5707,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 451,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5720,8 +5720,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Collard Green Rolls with Minced Meat Recipe (with video)"
     },
     "cuisine": "dolma",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 bağ sarmalık pazı"
@@ -5753,7 +5753,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 249,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5766,8 +5766,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Pointed Cabbage Rolls (Works with Any Kind of Cabbage)"
     },
     "cuisine": "dolma",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet sivri lahana"
@@ -5821,7 +5821,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 440,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5834,8 +5834,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Gaziantep Style Olive Oil Dried Stuffed Eggplant with Sour"
     },
     "cuisine": "dolma",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "43-45 tane kadar kuru patlıcan"
@@ -5869,7 +5869,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 527,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5882,8 +5882,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Summer Dolma with Sumak Vinegar"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı pirinç",
@@ -5951,7 +5951,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 252,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5964,8 +5964,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Vine Leaves Rolled in Grape Leaves"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg asma yaprağı",
@@ -6023,7 +6023,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -6036,8 +6036,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Leek Rolls (It Can Also Be Made Without Meat)"
     },
     "cuisine": "dolma",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet pırasa"
@@ -6071,7 +6071,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -6084,8 +6084,8 @@ export const dolmaRecipes: Recipe[] = [
       "en": "Olive Oil Sultani Peas"
     },
     "cuisine": "dolma",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg sultani yaprak bezelye",
@@ -6127,7 +6127,7 @@ export const dolmaRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

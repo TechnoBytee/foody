@@ -38,6 +38,12 @@ test("EN intro lists core ingredients with correct article", () => {
   assert.doesNotMatch(intro, /\bcup\b|teaspoon|cloves/);
 });
 
+test("unknown metadata does not produce a difficulty claim", () => {
+  const unknown = { ...recipe, time: 0, calories: 0, difficulty: "easy" };
+  assert.doesNotMatch(getRecipeIntro(unknown, "tr"), /kolay/);
+  assert.doesNotMatch(getRecipeIntro(unknown, "en"), /easy/);
+});
+
 test("recipes without ingredients or time still get an intro", () => {
   const bare = { ...recipe, ingredients: { tr: [], en: [] }, time: 0 };
   assert.match(getRecipeIntro(bare, "tr"), /Ezogelin Çorbası/);

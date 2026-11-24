@@ -8,8 +8,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Fellah Köfte Recipe"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince bulgur",
@@ -51,7 +51,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 454,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -64,8 +64,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Fellah Köfte Recipe Video"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince bulgur",
@@ -107,7 +107,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 419,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -120,8 +120,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Stuffed Bulgur Meatballs (Icli Kofte) Recipe"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 su bardağı ince köftelik bulgur",
@@ -167,7 +167,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 322,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -180,8 +180,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans with Meat"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı kuru fasulye",
@@ -225,7 +225,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 281,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -238,8 +238,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpeas with Meat Recipe (with video)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo kuşbaşı doğranmış et",
@@ -277,7 +277,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 237,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -290,8 +290,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans Without Meat Recipe"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı kuru fasulye",
@@ -341,7 +341,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 246,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -354,8 +354,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Perfectly Consistent Lentil Meatballs with an Elegant Presentation (with video)"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -419,7 +419,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 169,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -432,8 +432,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Stew Recipe (with video)"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250g kuşbaşı et",
@@ -487,7 +487,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -500,8 +500,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "How to Make Bulgur Pilaf with Vegetables"
     },
     "cuisine": "baklagil",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yemek kaşığı sıvı yağ",
@@ -557,7 +557,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 283,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -570,8 +570,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Stew Recipe (with video)"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı yeşil mercimek",
@@ -611,7 +611,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 445,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -624,8 +624,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Perfectly Measured Soft-as-Turkish-Delight Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2,5 su bardağı mercimek",
@@ -661,7 +661,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 208,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -674,7 +674,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Tray Bake"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -721,7 +721,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 234,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -734,7 +734,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Tray Bake (Chop, Mix, Cook)"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -781,7 +781,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 243,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -794,8 +794,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "İspir Beans (with video)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg fasulye",
@@ -843,7 +843,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 459,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -856,7 +856,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Tray Bake"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -901,7 +901,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 499,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -914,7 +914,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -953,7 +953,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 367,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -966,8 +966,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı fasulye",
@@ -1035,7 +1035,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 519,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1048,8 +1048,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Stew with Vegetables"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy soğan",
@@ -1093,7 +1093,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 227,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1106,8 +1106,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentils with Square Pasta"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yeşil mercimek",
@@ -1153,7 +1153,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 220,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1166,8 +1166,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans with Ground Meat"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı kuru fasulye",
@@ -1221,7 +1221,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 224,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1234,8 +1234,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Gliko (Turkish Grape Pekmez)"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı köftelik bulgur",
@@ -1281,7 +1281,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 507,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1294,8 +1294,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Ağrı Style Keşkek (Helise)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr buğday",
@@ -1329,7 +1329,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 539,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1342,8 +1342,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans with Meat"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı kuru fasulye",
@@ -1403,7 +1403,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 156,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1416,8 +1416,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Easy Kidney Beans"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kg kuru fasulye",
@@ -1461,7 +1461,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 534,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1474,8 +1474,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Perfectly Measured Olive Oil Fresh Bean Recipe (with video)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 kg yeşil fasulye",
@@ -1519,7 +1519,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 215,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1532,8 +1532,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Bulgur Meatballs (So Good That Whoever Eats Asks For the Recipe)"
     },
     "cuisine": "baklagil",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince bulgur",
@@ -1591,7 +1591,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1604,8 +1604,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -1657,7 +1657,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 406,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1670,8 +1670,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -1721,7 +1721,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1734,8 +1734,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Bulgur Meatballs with Potato"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patates",
@@ -1773,7 +1773,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 316,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1786,8 +1786,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Olive Oil Fresh Broad Beans"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kabuklu taze barbunya",
@@ -1855,7 +1855,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1868,8 +1868,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatball Recipe"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -1921,7 +1921,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 299,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1934,8 +1934,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans in Güveç"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı kuru fasulye",
@@ -1973,7 +1973,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 535,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1986,7 +1986,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Aegean Style Chickpeas with Meat (with video)"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2021,7 +2021,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2034,8 +2034,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Buckwheat Pilaf"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı karabuğday",
@@ -2083,7 +2083,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2096,8 +2096,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Perfectly Measured Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı kırmızı mercimek",
@@ -2159,7 +2159,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 376,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2172,8 +2172,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Stew"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yeşil mercimek",
@@ -2229,7 +2229,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 511,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2242,8 +2242,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yeşil mercimek",
@@ -2293,7 +2293,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2306,8 +2306,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -2363,7 +2363,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 204,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2376,8 +2376,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Spiced Chickpea Stew with Meat"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek tabağı haşlanmış nohut",
@@ -2425,7 +2425,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 181,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2438,8 +2438,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Broad Bean Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı barbunya",
@@ -2487,7 +2487,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 477,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2500,8 +2500,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Fellah Meatballs (Adana Style Meatballs with Garlic)"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı köftelik ince bulgur",
@@ -2557,7 +2557,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2570,8 +2570,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Adana Style Çöç Meatballs (Meatless Meatballs Crispy Like Chips)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet orta boy patates (haşlanmış)",
@@ -2615,7 +2615,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 387,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2628,8 +2628,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Tray Bake with Kebab Flavor"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı haşlanmış nohut",
@@ -2675,7 +2675,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 329,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2688,8 +2688,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Pasta with Tomato Paste"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket makarna",
@@ -2741,7 +2741,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 176,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2754,8 +2754,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Tray Bake"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı haşlanmış nohut",
@@ -2813,7 +2813,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 418,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2826,7 +2826,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Pea Stew (with Carrots and Potatoes)"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2863,7 +2863,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 203,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2876,8 +2876,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "This Hummus Makes a Difference! Hummus with Roasted Bell Pepper"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı haşlanmış nohut",
@@ -2913,7 +2913,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 283,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2926,8 +2926,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Oven Baked Chickpeas"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı haşlanmış nohut",
@@ -2973,7 +2973,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 398,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2986,8 +2986,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Mushroom Risotto"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 yemek kaşığı yağ",
@@ -3029,7 +3029,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3042,8 +3042,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Keşkek with Bone and Tomato Paste (Siirt Style)"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kuru soğan",
@@ -3093,7 +3093,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 516,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3106,8 +3106,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Fellah Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ince (kısırlık) bulgur",
@@ -3171,7 +3171,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 248,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3184,8 +3184,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Birecik Style Meatballs with Egg"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı köftelik bulgur",
@@ -3243,7 +3243,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 507,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3256,8 +3256,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -3311,7 +3311,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 284,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3324,8 +3324,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Cretan Beans"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "750 gram taze fasulye",
@@ -3361,7 +3361,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3374,8 +3374,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Vitamin-Rich Hatay Style Mualla Dish"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 orta boy patlıcan",
@@ -3421,7 +3421,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3434,8 +3434,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Delicious Bulgur Pilaf with Pepper"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -3475,7 +3475,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 216,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3488,8 +3488,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Delicious Olive Oil Broad Beans with Meat for Two"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram kuşbaşı dana eti",
@@ -3545,7 +3545,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 483,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3558,7 +3558,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Tomato Paste"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3593,7 +3593,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 415,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3606,8 +3606,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Perfectly Measured Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı kırmızı mercimek",
@@ -3669,7 +3669,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 506,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3682,8 +3682,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Pea Stew for 6 People"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "750 gram bezelye (taze veya dondurulmuş)",
@@ -3731,7 +3731,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 178,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3744,8 +3744,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Easy Chickpea Dinner"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı haşlanmış nohut",
@@ -3789,7 +3789,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 193,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3802,8 +3802,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Chips with Kaşar Cheese"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı haşlanmış nohut",
@@ -3835,7 +3835,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 256,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3848,8 +3848,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Easy Keşkek with Meat"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı nohut",
@@ -3885,7 +3885,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 425,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3898,8 +3898,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Maraş Sour Soup"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet semizotu",
@@ -3945,7 +3945,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3958,8 +3958,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Broad Beans with Purslane"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı haşlanmış barbunya",
@@ -3999,7 +3999,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 477,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4012,8 +4012,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 buçuk su bardağı fasulye (200 ml su bardağı)",
@@ -4057,7 +4057,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 364,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4070,8 +4070,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Sömelek Meatballs (Kahramanmaraş)"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kısırlık ince bulgur",
@@ -4121,7 +4121,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4134,8 +4134,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Bulgur Meatballs with Potato"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 orta boy patates",
@@ -4187,7 +4187,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 213,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4200,8 +4200,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Fellah Meatballs (Perfectly Consistent)"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı köftelik bulgur",
@@ -4267,7 +4267,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4280,8 +4280,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Unsweetened Salty Lentil Cake with Yellow or Red Lentils"
     },
     "cuisine": "baklagil",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "750 gram sarı ya da kırmızı mercimek",
@@ -4337,7 +4337,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 470,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4350,8 +4350,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans with Meat"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kuşbaşı et",
@@ -4403,7 +4403,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 224,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4416,8 +4416,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Perfectly Measured Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek (200 ml)",
@@ -4457,7 +4457,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 540,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4470,8 +4470,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Meatballs with Green Lentils"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı haşlanmış yeşil mercimek",
@@ -4511,7 +4511,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 328,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4524,7 +4524,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Beans with Meat in Güveç"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4577,7 +4577,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 535,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4590,8 +4590,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -4649,7 +4649,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 293,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4662,8 +4662,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Turkish Style Kidney Beans"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı (orta boy) kuru fasulye",
@@ -4711,7 +4711,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4724,8 +4724,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Amasya Keşkeği (Cracked Wheat Dessert)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı aşurelik buğday",
@@ -4757,7 +4757,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 299,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4770,8 +4770,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Oven Baked Chickpea Tray"
     },
     "cuisine": "baklagil",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "haşlanmış nohut",
@@ -4825,7 +4825,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 445,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4838,8 +4838,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Summer Kisir with Peppers"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı kısırlık bulgur",
@@ -4893,7 +4893,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4906,8 +4906,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Broad Bean Puree (Fava)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "350 gram iç bakla",
@@ -4945,7 +4945,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 212,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4958,8 +4958,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Non-Falling, Very Delicious Fellah Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı köftelik bulgur",
@@ -5023,7 +5023,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 152,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5036,8 +5036,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Fresh İspir Beans with Orange"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo ayıklanmış ispir fasulyesi",
@@ -5077,7 +5077,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 197,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5090,7 +5090,7 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Chickpea Stew in Half an Hour"
     },
     "cuisine": "baklagil",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5127,7 +5127,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 431,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5140,8 +5140,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Stew (Kara Şimşek)"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı yeşil mercimek",
@@ -5187,7 +5187,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 332,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5200,8 +5200,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Healthy Snack Chickpeas"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı haşlanmış nohut",
@@ -5235,7 +5235,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 330,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5248,8 +5248,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Sakarya Style Keşkek (Manav)"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı aşurelik buğday (200 ml )",
@@ -5287,7 +5287,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 384,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5300,8 +5300,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Meatballs with Potato"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı haşlanmış mercimek",
@@ -5345,7 +5345,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 344,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5358,8 +5358,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Broad Bean Puree (Fava)"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı kurumuş iç bakla",
@@ -5391,7 +5391,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 473,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5404,8 +5404,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -5467,7 +5467,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 323,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5480,8 +5480,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -5535,7 +5535,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 436,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5548,8 +5548,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı yeşil mercimek",
@@ -5601,7 +5601,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 391,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5614,8 +5614,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Vegetarian Döner"
     },
     "cuisine": "baklagil",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 buçuk su bardağı yeşil mercimek",
@@ -5679,7 +5679,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 426,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5692,8 +5692,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Keşkek with Meat (Pretend Keşkek)"
     },
     "cuisine": "baklagil",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük kemik (elimde var diye kaburga kısmını kullandım)",
@@ -5725,7 +5725,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 150,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5738,8 +5738,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Gliko / Bulgur Meatballs (Erzurum Region)"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince bulgur",
@@ -5777,7 +5777,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5790,8 +5790,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Fellah Meatballs for Guests"
     },
     "cuisine": "baklagil",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince bulgur",
@@ -5841,7 +5841,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5854,8 +5854,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Lentil Meatballs (with video)"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı mercimek",
@@ -5889,7 +5889,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 219,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5902,8 +5902,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Green Lentil Stew"
     },
     "cuisine": "baklagil",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı yeşil mercimek",
@@ -5937,7 +5937,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 534,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5950,8 +5950,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Keşkek with Chicken"
     },
     "cuisine": "baklagil",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tavuk but ( yağlı olması tercihimiz, göğüsle de olur ancak biraz kuru kalacaktır )",
@@ -6003,7 +6003,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 425,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -6016,8 +6016,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Perfectly Measured Soft-as-Turkish-Delight Lentil Meatballs"
     },
     "cuisine": "baklagil",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2,5 su bardağı kırmızı mercimek",
@@ -6055,7 +6055,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 535,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -6068,8 +6068,8 @@ export const baklagilRecipes: Recipe[] = [
       "en": "Kidney Bean Stew with Meat"
     },
     "cuisine": "baklagil",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram dana eti",
@@ -6115,7 +6115,7 @@ export const baklagilRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 333,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

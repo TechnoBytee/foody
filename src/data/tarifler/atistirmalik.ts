@@ -8,8 +8,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatball with Blender in 10 Minutes"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı esmer ince bulgur",
@@ -61,7 +61,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -74,8 +74,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oven-Baked Potatoes with Yogurt Sauce"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy patates",
@@ -113,7 +113,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 333,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -126,8 +126,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Practical Tray Kumpir (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6-7 adet orta boy patates",
@@ -175,7 +175,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 323,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -188,8 +188,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Spiced Oven Potatoes (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet patates",
@@ -221,7 +221,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 543,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -234,8 +234,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oven-Baked Mushrooms with Cheese (video)"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400g taze kültür mantarı",
@@ -269,7 +269,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 266,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -282,8 +282,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Red Lentil Meatballs with Perfect Consistency (video)"
     },
     "cuisine": "atistirmalik",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı kırmızı mercimek",
@@ -347,7 +347,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 285,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -360,8 +360,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Homemade Chips (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yufka",
@@ -419,7 +419,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 181,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -432,8 +432,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Creamy Potatoes for Meat or Fish (video)"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet patates",
@@ -469,7 +469,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -482,8 +482,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy Onion Rings"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1-2 tane soğan (ben 1 büyük soğan kullandım)",
@@ -527,7 +527,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 538,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -540,8 +540,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "One-Pan Ground Beef Taco"
     },
     "cuisine": "atistirmalik",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet lavaş",
@@ -599,7 +599,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -612,8 +612,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Coffee-Side Chocolate"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket sütlü çikolata",
@@ -645,7 +645,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 343,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -658,8 +658,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Harran Dome"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet patates",
@@ -695,7 +695,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -708,8 +708,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Sömelek Meatballs"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram kıyma",
@@ -755,7 +755,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 230,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -768,8 +768,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Carrot Fit Balls"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet orta boy havuç",
@@ -805,7 +805,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 309,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -818,7 +818,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Viral Coffee-Side Chocolate"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -845,7 +845,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 220,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -858,7 +858,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Cheese Balls"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -893,7 +893,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 178,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -906,8 +906,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oven Zucchini Fritters"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy kabak",
@@ -967,7 +967,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 384,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -980,8 +980,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Artichokes with Peas and Caramelized Onions"
     },
     "cuisine": "atistirmalik",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet enginar",
@@ -1023,7 +1023,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 351,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1036,8 +1036,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Manti with Sauce"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket mantı",
@@ -1079,7 +1079,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 191,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1092,8 +1092,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Hünkar Beğendi (Hünkar's Delight)"
     },
     "cuisine": "atistirmalik",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kuşbaşı dana eti",
@@ -1143,7 +1143,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 415,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1156,8 +1156,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "İzmir Meatballs (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kıyma",
@@ -1203,7 +1203,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 372,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1216,8 +1216,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Tomato Fritters"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet domates",
@@ -1269,7 +1269,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 380,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1282,7 +1282,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1331,7 +1331,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1344,8 +1344,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs (full-measure with food processor)"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 çay bardağı beyaz köftelik bulgur",
@@ -1411,7 +1411,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 503,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1424,8 +1424,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy Oven Potatoes"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo patates (her kişi için 2 patates olsun)",
@@ -1457,7 +1457,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1470,8 +1470,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Ekmacun (Lahmacun-Style Bread Slice)"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 veya 2 adet bayat ekmek",
@@ -1521,7 +1521,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1534,8 +1534,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Meatless Raw Meatballs"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince esmer çiğ köftelik bulgur",
@@ -1565,7 +1565,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 210,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1578,8 +1578,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Tahini Banana Cold Coffee"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı tahin",
@@ -1609,7 +1609,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 289,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1622,8 +1622,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Dried Eggplant and Pepper Saute"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı salça",
@@ -1667,7 +1667,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 434,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1680,8 +1680,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Çılbır (Poached Eggs with Yogurt)"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -1721,7 +1721,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1734,8 +1734,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Peanut Butter Bar"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "14 adet hurma",
@@ -1763,7 +1763,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1776,7 +1776,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Fried Cheese"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1805,7 +1805,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 312,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1818,8 +1818,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Yozgat-Style Chicken Meatballs"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo tavuk göğsü kıyması (az yaparsan 2’li tavuk göğsü)",
@@ -1865,7 +1865,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 391,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1878,8 +1878,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Meatless Raw Meatballs"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı çiğ köftelik bulgur (esmer de olabilir)",
@@ -1933,7 +1933,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 151,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1946,8 +1946,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Ideal Canape for Hungry Kids"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "tost ekmeği ya da evdeki bayat ekmek",
@@ -1997,7 +1997,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 209,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2010,7 +2010,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Cococops Snack"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2035,7 +2035,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2048,8 +2048,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy Taco"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8 li taco yaprağı (hazır olanlardan aldım ama minik lavaş ekmeği daha lezzetli oluyor)"
@@ -2079,7 +2079,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 152,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2092,8 +2092,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Practical Mini Pide from Puff Pastry"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket milföy",
@@ -2129,7 +2129,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 387,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2142,8 +2142,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy Cheddar Mashed Potatoes"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8 tane orta boy haşlanmış patates",
@@ -2177,7 +2177,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 267,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2190,8 +2190,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs in Food Processor"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2.5 su bardağı esmer bulgur",
@@ -2247,7 +2247,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 546,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2260,8 +2260,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Healthy Seedy Crisp"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı chia tohumu",
@@ -2297,7 +2297,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2310,8 +2310,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Easy Raw Meatballs in Robot"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı çiğköftelik bulgur",
@@ -2363,7 +2363,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 179,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2376,8 +2376,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Plum Leather (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg anjelika eriği",
@@ -2407,7 +2407,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 490,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2420,8 +2420,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Healthy and Easy Snack"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı yulaf",
@@ -2457,7 +2457,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 516,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2470,8 +2470,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Avocado Meatless Raw Meatballs"
     },
     "cuisine": "atistirmalik",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük boy olgun avokado",
@@ -2533,7 +2533,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 210,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2546,7 +2546,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Popcorn"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2573,7 +2573,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 515,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2586,7 +2586,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Carrot Tarator"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2619,7 +2619,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 189,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2632,8 +2632,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy Chicken"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram tavuk göğüs eti"
@@ -2657,7 +2657,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 325,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2670,7 +2670,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Russian Salad"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2707,7 +2707,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 227,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2720,8 +2720,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Easy Low-Ingredient Raw Meatballs in Robot"
     },
     "cuisine": "atistirmalik",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı çiğ köftelik bulgur( esmer bulgurda olabilir ben esmer bulgurla yapıyorum)",
@@ -2779,7 +2779,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2792,8 +2792,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Plum Leather"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kilo erik",
@@ -2823,7 +2823,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2836,8 +2836,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Mini Waffles"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2871,7 +2871,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 402,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2884,8 +2884,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Potato Gratin"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 adet orta boy patates",
@@ -2931,7 +2931,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2944,8 +2944,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oat Snack"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet metro çikolata",
@@ -2973,7 +2973,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 209,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2986,8 +2986,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Kumpir (Baked Potato)"
     },
     "cuisine": "atistirmalik",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5–6 adet büyük boy patates(kişi sayısına göre)",
@@ -3039,7 +3039,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3052,8 +3052,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oat Bar"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı yulaf",
@@ -3093,7 +3093,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 246,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3106,8 +3106,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oven Kumpir"
     },
     "cuisine": "atistirmalik",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "9 adet patates",
@@ -3161,7 +3161,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3174,8 +3174,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Boiled Corn (15 Minutes)"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet mısır",
@@ -3203,7 +3203,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 255,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3216,7 +3216,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Milk Corn"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3243,7 +3243,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3256,8 +3256,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs (Normal and Sushi Presentation)"
     },
     "cuisine": "atistirmalik",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket çiğköftelik bulgur",
@@ -3321,7 +3321,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 224,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3334,8 +3334,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Potato Raw Meatballs"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet patates",
@@ -3381,7 +3381,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 422,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3394,8 +3394,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs in Food Processor"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı esmer bulgur",
@@ -3445,7 +3445,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 286,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3458,8 +3458,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Zucchini Fritters"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet kabak",
@@ -3503,7 +3503,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 297,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3516,8 +3516,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Practical Milk Corn"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet konserve mısır (400 gram)",
@@ -3557,7 +3557,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 519,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3570,8 +3570,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Popcorn"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı cin mısır",
@@ -3603,7 +3603,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 264,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3616,8 +3616,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Onion Dough"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı üzüm sirkesi",
@@ -3657,7 +3657,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3670,7 +3670,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Dill Chicken Meze"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3707,7 +3707,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 370,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3720,7 +3720,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Peach Cold Green Tea"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3751,7 +3751,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 256,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3764,8 +3764,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Ezogelin Soup"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -3805,7 +3805,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 335,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3818,8 +3818,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs (Easiest)"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı ince bulgur",
@@ -3877,7 +3877,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 401,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3890,7 +3890,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Menemen That Disappears from the Table"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3925,7 +3925,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 305,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3938,8 +3938,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy Zucchini Fry"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı un",
@@ -3971,7 +3971,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 302,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3984,7 +3984,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Basil Sherbet"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4013,7 +4013,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 239,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4026,7 +4026,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Urfa-Style Raw Meatballs with Meat"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4073,7 +4073,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 452,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4086,7 +4086,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs in 10 Minutes in Robot"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4137,7 +4137,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 508,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4150,8 +4150,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Spinach Labneh Pastry (with yeast)"
     },
     "cuisine": "atistirmalik",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram oda sıcaklığında tereyağı",
@@ -4197,7 +4197,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 210,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4210,7 +4210,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy French Fries"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4237,7 +4237,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 165,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4250,8 +4250,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Favorite Zucchini Fritters"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "* 3 adet yumurta",
@@ -4289,7 +4289,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 159,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4302,8 +4302,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Pancakes"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı un",
@@ -4337,7 +4337,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4350,8 +4350,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oven Purslane Fritters"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4395,7 +4395,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 257,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4408,8 +4408,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Onion-Free Bulgur Salad for Two"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 çay bardağı kısırlık bulgur",
@@ -4441,7 +4441,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 487,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4454,8 +4454,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Full-Measure Potato Cake"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -4501,7 +4501,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 196,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4514,7 +4514,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Ezine Cheese Tomato Salad"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4557,7 +4557,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4570,8 +4570,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Puffy Bakery-Style Pastry (with yeast)"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta (sarısı üzerine akı içine)",
@@ -4613,7 +4613,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4626,8 +4626,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "No-Knead Raw Meatballs in Robot"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince bulgur",
@@ -4671,7 +4671,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 500,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4684,8 +4684,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Chicken Mushroom Saute"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı küp küp doğranmış tavuk göğsü",
@@ -4733,7 +4733,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 234,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4746,8 +4746,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Fried Okra"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "bamya (iri bamya seçmek gerek)",
@@ -4779,7 +4779,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 446,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4792,7 +4792,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Crispy Chickpea Chips"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4819,7 +4819,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 193,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4832,8 +4832,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Onion Rings"
     },
     "cuisine": "atistirmalik",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet soğan",
@@ -4881,7 +4881,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 299,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4894,8 +4894,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Raw Meatballs (Full-Measure)"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı çiğ köftelik bulgur",
@@ -4947,7 +4947,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 331,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4960,8 +4960,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Homemade Fruit Leather (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg şeftali",
@@ -4999,7 +4999,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 310,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5012,8 +5012,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Garlic Spiced Croutons"
     },
     "cuisine": "atistirmalik",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "bayat ekmek",
@@ -5065,7 +5065,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5078,7 +5078,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Oven Corn on the Cob (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5101,7 +5101,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5114,8 +5114,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Burçak Cheese Croquette"
     },
     "cuisine": "atistirmalik",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım paket burçak bisküvisi",
@@ -5167,7 +5167,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5180,8 +5180,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Potato Cake"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -5227,7 +5227,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5240,8 +5240,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Perfect Practical Raw Meatballs (in robot)"
     },
     "cuisine": "atistirmalik",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ince bulgur",
@@ -5285,7 +5285,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5298,8 +5298,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Homemade Plum Leather"
     },
     "cuisine": "atistirmalik",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 kilo kırmızı erik",
@@ -5333,7 +5333,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 234,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5346,7 +5346,7 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Fried Corn Ribs (video recipe)"
     },
     "cuisine": "atistirmalik",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5369,7 +5369,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 238,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5382,8 +5382,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Homemade Lahmacun"
     },
     "cuisine": "atistirmalik",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı ılık süt",
@@ -5423,7 +5423,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 381,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5436,8 +5436,8 @@ export const atistirmalikRecipes: Recipe[] = [
       "en": "Pasta Salad"
     },
     "cuisine": "atistirmalik",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram küçük makarna",
@@ -5469,7 +5469,7 @@ export const atistirmalikRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 373,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

@@ -8,8 +8,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Zucchini Fritter Recipe"
     },
     "cuisine": "sebze",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -59,7 +59,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 397,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -72,8 +72,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Béchamel Sauce Potato and Mushroom Bake"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet orta boy patates",
@@ -143,7 +143,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 538,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -156,8 +156,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Addictive Oven-Baked Zucchini Fritters (Börek Style) (Video)"
     },
     "cuisine": "sebze",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -211,7 +211,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 188,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -224,8 +224,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Şakşuka Recipe with Video Explanation"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
@@ -289,7 +289,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 510,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -302,8 +302,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Baked Cauliflower with Béchamel Sauce"
     },
     "cuisine": "sebze",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet karnabahar",
@@ -339,7 +339,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 308,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -352,8 +352,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Spinach Dish Recipe"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg ıspanak",
@@ -397,7 +397,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 439,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -410,8 +410,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant Bundles Stuffed with Meat (Kurdan Kebab) Recipe"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
@@ -457,7 +457,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 397,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -470,8 +470,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Leek Dish Recipe"
     },
     "cuisine": "sebze",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 dal pırasa (beyaz kısımları kullanılacak)",
@@ -521,7 +521,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -534,8 +534,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Harran Kubbe (Video)"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patates",
@@ -569,7 +569,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 277,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -582,8 +582,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Mushroom Sauté"
     },
     "cuisine": "sebze",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo kültür mantarı",
@@ -641,7 +641,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 308,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -654,8 +654,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Green Beans Sautéed with Egg"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo yeşil fasulye",
@@ -699,7 +699,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -712,8 +712,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Cauliflower with Béchamel Sauce"
     },
     "cuisine": "sebze",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy karnabahar",
@@ -757,7 +757,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 421,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -770,8 +770,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Corn Fritters"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -819,7 +819,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 446,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -832,8 +832,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant Rolls Stuffed with Meat (Video)"
     },
     "cuisine": "sebze",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
@@ -873,7 +873,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 500,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -886,8 +886,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Spinach Dish with Tomato Paste (For 3-4 People)"
     },
     "cuisine": "sebze",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram dondurulmuş ıspanak",
@@ -941,7 +941,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -954,8 +954,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Fresh Green Beans (Video)"
     },
     "cuisine": "sebze",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram taze fasulye",
@@ -1007,7 +1007,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 467,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1020,8 +1020,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Artichokes with Peas and Caramelized Onions"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet enginar",
@@ -1063,7 +1063,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 172,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1076,8 +1076,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Zucchini Dish with Sourness"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet su kabağı",
@@ -1159,7 +1159,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1172,8 +1172,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Cabbage Rolls with Meat"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "lahana",
@@ -1229,7 +1229,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1242,8 +1242,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "How to Cook a Whole Chicken in the Oven Without Drying It Out?"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet fırınlık bütün tavuk",
@@ -1273,7 +1273,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 364,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1286,8 +1286,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Zucchini Dish with Ground Meat"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet soğan",
@@ -1327,7 +1327,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 344,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1340,7 +1340,7 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Mixed Winter Vegetable Stew (Ready in Minutes)"
     },
     "cuisine": "sebze",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1383,7 +1383,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 323,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1396,8 +1396,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Okra (A Wonderful Appetizer)"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram bamya",
@@ -1445,7 +1445,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 380,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1458,8 +1458,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Madımak Dish (Çorum Region)"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım buzdolabı poşeti madımak ( buzluktan çıkarttım )",
@@ -1495,7 +1495,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 234,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1508,8 +1508,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Fried Okra"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo bamya",
@@ -1549,7 +1549,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 404,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1562,8 +1562,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Mixed Fry"
     },
     "cuisine": "sebze",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet patates",
@@ -1603,7 +1603,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1616,8 +1616,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Baked Zucchini Dish"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kabak",
@@ -1659,7 +1659,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 396,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1672,8 +1672,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Potato Lasagna (Video)"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "7 adet büyük boy patates (ya da eldeki boyuta göre eşdeğer miktarda)"
@@ -1713,7 +1713,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1726,8 +1726,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Ground Meat Potato Sauté That Leaves a Lasting Impression"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük boy kuru soğan",
@@ -1783,7 +1783,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 279,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1796,8 +1796,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "İmam Bayıldı (Stuffed Eggplant)"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet orta boy patlıcan",
@@ -1841,7 +1841,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 394,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1854,8 +1854,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Karnıyarık (Eggplant and Potatoes)"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patlıcan",
@@ -1893,7 +1893,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 211,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1906,8 +1906,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Leek Dish with Fresh Sour Cherries, Chickpeas and Rice"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet pırasa",
@@ -1955,7 +1955,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 478,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1968,8 +1968,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant Bird"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet orta boy patlıcan"
@@ -1995,7 +1995,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 484,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2008,8 +2008,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Stuffed Onions"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet büyük boy kuru soğan (haşlamak için)"
@@ -2041,7 +2041,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 185,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2054,7 +2054,7 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Swiss Chard with Meat in a Pot"
     },
     "cuisine": "sebze",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2101,7 +2101,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 382,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2114,8 +2114,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Kurdan Kebab"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 adet patlıcan",
@@ -2149,7 +2149,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 256,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2162,8 +2162,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Mushroom Dish"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo mantar",
@@ -2197,7 +2197,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 246,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2210,8 +2210,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Artichokes"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet enginar çanağı",
@@ -2271,7 +2271,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 319,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2284,8 +2284,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Spinach Sauté"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg ıspanak",
@@ -2329,7 +2329,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 449,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2342,8 +2342,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Fresh Bean Dish"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bağ semizotu",
@@ -2379,7 +2379,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 251,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2392,8 +2392,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Baked Potatoes with Spinach"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram ıspanak (donuk kullandım)",
@@ -2441,7 +2441,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2454,8 +2454,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Fresh Bean Dish with Bulgur"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 demet semizotu",
@@ -2501,7 +2501,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 495,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2514,8 +2514,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Practical Frozen Okra Dish"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram ayıklanmış buzu çözdürülmemiş bamya",
@@ -2561,7 +2561,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 403,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2574,8 +2574,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Leek Dish with Tomato Paste (Without Rice)"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kuru soğan",
@@ -2615,7 +2615,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 479,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2628,8 +2628,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Vegetable Chicken Sauté (Video)"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400-500 gram tavuk göğsü",
@@ -2673,7 +2673,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 320,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2686,8 +2686,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Crispy Zucchini (With a Special Sauce)"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kabak",
@@ -2723,7 +2723,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 393,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2736,8 +2736,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Chicken and Broccoli with Béchamel Sauce (Mixed Vegetables)"
     },
     "cuisine": "sebze",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 adet küçük brokoli parçaları",
@@ -2795,7 +2795,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2808,8 +2808,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Delicious Boiled Meat with Vegetables"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kuşbaşı dana eti",
@@ -2851,7 +2851,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 215,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2864,8 +2864,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Broccoli Dish (The Kids Will Love It)"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "küçük bir brokoli",
@@ -2911,7 +2911,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 318,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2924,8 +2924,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Juicy Meatballs"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo orta yağlı dana kıyma",
@@ -2967,7 +2967,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2980,8 +2980,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Karnıyarık (Stuffed Eggplant)"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet küçük boy patlıcan",
@@ -3023,7 +3023,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 319,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3036,8 +3036,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Lima Beans (Video)"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram ayıklanmış barbunya",
@@ -3111,7 +3111,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3124,8 +3124,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Cauliflower with Egg (Guaranteed to Cook Well in the Airfryer)"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1/2 (yarım) küçük karnabahar",
@@ -3167,7 +3167,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 542,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3180,8 +3180,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant Rolls on Skewers"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet patlıcan",
@@ -3233,7 +3233,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 410,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3246,8 +3246,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "French Fries"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "13 adet küçük boy patates",
@@ -3277,7 +3277,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 254,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3290,8 +3290,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Zucchini Gratin"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy kabak",
@@ -3355,7 +3355,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 239,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3368,8 +3368,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant Fried with Corn Flour"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patlıcan",
@@ -3401,7 +3401,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 340,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3414,8 +3414,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Spinach Dish with Carrot"
     },
     "cuisine": "sebze",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr ıspanak",
@@ -3465,7 +3465,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3478,8 +3478,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Okra Dish with Ground Meat and Potatoes"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı zeytinyağı",
@@ -3535,7 +3535,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 385,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3548,8 +3548,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Vegetable Dish with Ground Meat in a Pot"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patates",
@@ -3593,7 +3593,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 197,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3606,8 +3606,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Classic Olive Oil Lima Beans"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram ayıklanmış barbunya",
@@ -3659,7 +3659,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 157,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3672,8 +3672,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Stuffed Onions"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet soğan orta veya büyük boy",
@@ -3705,7 +3705,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 252,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3718,8 +3718,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Celeriac Carpaccio"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük kereviz",
@@ -3779,7 +3779,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 205,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3792,8 +3792,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Creamy Vegetable Dish"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram patates ( 10 dakika haşlanmış)",
@@ -3845,7 +3845,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 477,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3858,8 +3858,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Chicken and Pea Dish"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram tavuk göğüs",
@@ -3901,7 +3901,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 376,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3914,8 +3914,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Meatballs with Potato Purée in a Tray"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kıyma",
@@ -3961,7 +3961,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3974,7 +3974,7 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Fresh Green Beans"
     },
     "cuisine": "sebze",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4007,7 +4007,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 488,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4020,8 +4020,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Vegetable Ground Meat in a Tray"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr kıyma",
@@ -4077,7 +4077,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 388,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4090,8 +4090,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Baked Stuffed Zucchini"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 tane kabak",
@@ -4135,7 +4135,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 520,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4148,7 +4148,7 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Baked Okra Dish (Video)"
     },
     "cuisine": "sebze",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4189,7 +4189,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 309,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4202,8 +4202,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Baked Meatballs on Eggplant Purée"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300-400 gram kadar kıyma",
@@ -4251,7 +4251,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4264,8 +4264,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Perfectly Measured Olive Oil Fresh Green Beans Recipe (Video)"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 kg yeşil fasulye",
@@ -4309,7 +4309,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4322,8 +4322,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Meatballs in Sauce on a Bed of Potato Purée"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram kıyma",
@@ -4369,7 +4369,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 314,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4382,8 +4382,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Delicious Potato Purée on a Bed of Ground Meat and Peas"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet orta boy patates",
@@ -4427,7 +4427,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 534,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4440,8 +4440,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Easy and Delicious Eggplant Dish"
     },
     "cuisine": "sebze",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
@@ -4499,7 +4499,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4512,8 +4512,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Karnıyarık (Stuffed Eggplant)"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8 adet karnıyarıklık patlıcan"
@@ -4559,7 +4559,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 387,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4572,8 +4572,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Leek Dish with Sour Cherries"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kg pırasa",
@@ -4619,7 +4619,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4632,8 +4632,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Green Bean Fritters"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram taze fasulye",
@@ -4675,7 +4675,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 186,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4688,8 +4688,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Meatless Okra Dish"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo taze bamya",
@@ -4733,7 +4733,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 524,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4746,8 +4746,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Fresh Green Beans"
     },
     "cuisine": "sebze",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram taze fasulye",
@@ -4797,7 +4797,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 372,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4810,8 +4810,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Crispy Potato Balls"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8 adet orta boy patates (soyulmuş)",
@@ -4849,7 +4849,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 500,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4862,8 +4862,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Fritter with Zucchini and Potatoes"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy kabak",
@@ -4905,7 +4905,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4918,7 +4918,7 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Harran Kubbe (Harran Vault Bread)"
     },
     "cuisine": "sebze",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4951,7 +4951,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 517,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4964,8 +4964,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Bulgur Pilaf with Fresh Green Beans"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı sıvı yağ",
@@ -5023,7 +5023,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5036,8 +5036,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Okra Dish with Meat and Chickpeas in a Mint Sauce"
     },
     "cuisine": "sebze",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kg bamya",
@@ -5095,7 +5095,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 494,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5108,8 +5108,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Potato and Meatball Bake in a Pan"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kıyma",
@@ -5157,7 +5157,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 168,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5170,8 +5170,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Potato Dish with Leftover Dolma Filling"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "sarma veya dolmanızdan artan harç"
@@ -5199,7 +5199,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 402,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5212,8 +5212,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant Fry with Egg (Video)"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patlıcan"
@@ -5245,7 +5245,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 265,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5258,8 +5258,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Tomato and Pepper Fry"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "7 – 8 adet domates",
@@ -5295,7 +5295,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 288,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5308,8 +5308,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Okra with Sour Cherries"
     },
     "cuisine": "sebze",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo bamya",
@@ -5349,7 +5349,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 358,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5362,8 +5362,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Oven-Baked Eggplant (Video)"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet bostan patlıcanı",
@@ -5399,7 +5399,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 494,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5412,8 +5412,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Green Tomato Dish"
     },
     "cuisine": "sebze",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 büyük boy yeşil domates",
@@ -5457,7 +5457,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 441,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5470,8 +5470,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Mardin Style Rolls"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı nane",
@@ -5521,7 +5521,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 517,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5534,8 +5534,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "From the Cretan Kitchen: Crispy Fried Zucchini (Video)"
     },
     "cuisine": "sebze",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet girit kabağı (açık yeşil renkli kabakta olur)",
@@ -5569,7 +5569,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 232,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5582,8 +5582,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Chicken Çökertme Kebab"
     },
     "cuisine": "sebze",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram tavuk göğsü",
@@ -5629,7 +5629,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5642,8 +5642,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant Dish"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy patlıcan (veya 6 adet küçük patlıcan)",
@@ -5721,7 +5721,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 193,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5734,8 +5734,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Eggplant with Meatballs"
     },
     "cuisine": "sebze",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "350 gram kıyma",
@@ -5791,7 +5791,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 211,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5804,8 +5804,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Olive Oil Zucchini Dish"
     },
     "cuisine": "sebze",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet kabak",
@@ -5849,7 +5849,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 295,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5862,8 +5862,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Fresh Green Beans with Meat"
     },
     "cuisine": "sebze",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "kemikli ya da kemiksiz et",
@@ -5915,7 +5915,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 170,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5928,8 +5928,8 @@ export const sebzeRecipes: Recipe[] = [
       "en": "Easy Green Bean Dish"
     },
     "cuisine": "sebze",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg yeşil fasulye",
@@ -5969,7 +5969,7 @@ export const sebzeRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 357,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

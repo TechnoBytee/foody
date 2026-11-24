@@ -13,12 +13,14 @@ const steps = [
   "tag-soups.mjs",
   "gen-areas.mjs",
   "import-tarifler.js",
-  "extract-ingredients.js",
+  "sanitize-imported-metadata.mjs",
+  "extract-ingredients.js --apply",
 ];
 
 for (const step of steps) {
   console.log(`\n> ${step}`);
-  const result = spawnSync(process.execPath, [new URL(step, import.meta.url).pathname], {
+  const [file, ...args] = step.split(" ");
+  const result = spawnSync(process.execPath, [new URL(file, import.meta.url).pathname, ...args], {
     stdio: "inherit",
   });
   if (result.status !== 0) {

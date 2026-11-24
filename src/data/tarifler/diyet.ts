@@ -8,8 +8,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Baked Zucchini Muffins"
     },
     "cuisine": "diyet",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy kabak",
@@ -65,7 +65,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 288,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -78,8 +78,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Legendary Delicious Healthy Rolled Big Mac"
     },
     "cuisine": "diyet",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
@@ -123,7 +123,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -136,7 +136,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Slimming Iksir (12 Kilos a Month)"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -169,7 +169,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 266,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -182,8 +182,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chicken Baguette with Potatoes"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "kişi sayısına göre tavuk baget (8-10 adet kadar)",
@@ -219,7 +219,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -232,8 +232,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Karatay Diet Bread Made with Lentils Instead of Flour"
     },
     "cuisine": "diyet",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı kırmızı mercimek",
@@ -287,7 +287,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 498,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -300,8 +300,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Oat Toast"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yemek kaşığı yulaf ezmesi",
@@ -335,7 +335,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 295,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -348,8 +348,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Tuna Salad (with Video)"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 yaprak marul",
@@ -389,7 +389,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 159,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -402,8 +402,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "How to Make Broccoli Salad"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "brokoli",
@@ -449,7 +449,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -462,8 +462,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Yogurt Cure That Melts the Belly and Relieves Constipation (Informative and Illustrated)"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 şişe maden suyu",
@@ -493,7 +493,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 263,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -506,7 +506,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Apple Chips Recipe"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -533,7 +533,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 504,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -546,8 +546,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Easy and Healthy Apple Cookies"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yulaf",
@@ -585,7 +585,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 375,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -598,7 +598,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Pogaca That Does Not Make You Gain Weight"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -645,7 +645,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 232,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -658,8 +658,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Tuna Salad"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu ton balığı (süzülmüş)",
@@ -693,7 +693,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 453,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -706,7 +706,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Healthy Oat Pancakes"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -735,7 +735,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 540,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -748,8 +748,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chicken on a Bed of Vegetables"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram tavuk göğsü",
@@ -789,7 +789,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 168,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -802,8 +802,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Oat Pogaca"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5-2 su bardağı yulaf unu",
@@ -841,7 +841,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 549,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -854,8 +854,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Sugar-Free Blueberry Banana Cake"
     },
     "cuisine": "diyet",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet olgun muz",
@@ -905,7 +905,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -918,8 +918,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Diet Durum"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet kabak",
@@ -957,7 +957,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 521,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -970,8 +970,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Protein Bomb Fit Pizza"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 yumurta",
@@ -1003,7 +1003,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 298,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1016,8 +1016,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Phyllo-Free Spinach Borek (Gluten-Free)"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase dolusu ıspanak",
@@ -1059,7 +1059,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1072,8 +1072,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free Pizza Cracker Recipe"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram tereyağı",
@@ -1131,7 +1131,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 220,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1144,8 +1144,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Viral Vegetable Durum (Perfect)"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 büyük boy kabak",
@@ -1185,7 +1185,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1198,8 +1198,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Kofte with Bulgur and Mash Beans"
     },
     "cuisine": "diyet",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı maş fasulyesi",
@@ -1253,7 +1253,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 284,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1266,8 +1266,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Broccoli Whole Wheat Pasta Salad"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı makarna",
@@ -1323,7 +1323,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 526,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1336,8 +1336,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Diet-Friendly Oat Pizza"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1373,7 +1373,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1386,8 +1386,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chocolate Fit Cake (No Flour, Sugar or Oil)"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yumurta",
@@ -1423,7 +1423,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 329,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1436,8 +1436,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Healthy Oat and Apricot Cake"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı yulaf unu",
@@ -1479,7 +1479,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 194,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1492,8 +1492,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Flour-Free and Sugar-Free Fit Cake"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı dut kurusu",
@@ -1529,7 +1529,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 375,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1542,8 +1542,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Cake with Chocolate Sauce"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -1581,7 +1581,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 219,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1594,7 +1594,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Oat Crepe"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1623,7 +1623,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 368,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1636,8 +1636,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Gluten-Free Chocolate Roll"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı sıcağa yakın su",
@@ -1683,7 +1683,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 386,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1696,7 +1696,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Slimming Breakfast That Keeps You Full"
     },
     "cuisine": "diyet",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1723,7 +1723,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 401,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1736,8 +1736,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Gluten-Free Refined Sugar-Free Apple Muffin"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "75 gram oda sıcaklığında yumuşamış tereyağı",
@@ -1781,7 +1781,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 511,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1794,7 +1794,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Zucchini Durum with Zucchini Seeds"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1829,7 +1829,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 257,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1842,8 +1842,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Filling Chickpea Salad for Your Diet"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı nohut",
@@ -1887,7 +1887,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1900,8 +1900,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Salad with Tuna and Chickpeas"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kutu ton balığı",
@@ -1947,7 +1947,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 482,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1960,8 +1960,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chocolate-Roasted Chickpeas"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase leblebi",
@@ -1991,7 +1991,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 400,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2004,8 +2004,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Diet-Friendly Date Cake"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2049,7 +2049,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 210,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2062,8 +2062,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free Golden Squares Recipe"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta (oda sıcaklığında)",
@@ -2103,7 +2103,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 165,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2116,8 +2116,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Flour-Free, Gluten-Free Chickpea Simit"
     },
     "cuisine": "diyet",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı haşlanmış nohut",
@@ -2163,7 +2163,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2176,8 +2176,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chocolate Soy Cereal Treats"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "100 gram ilave şeker içermeyen çikolata",
@@ -2207,7 +2207,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 420,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2220,8 +2220,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Mash Bean Salad with Halloumi"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1/2 (yarım) su bardağı maş fasulyesi",
@@ -2267,7 +2267,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 159,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2280,8 +2280,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Gluten-Free Chickpea Bread Recipe"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı nohut (akşamdan ıslatılmış çiğ veya 2 su bardağı nohut unu)",
@@ -2321,7 +2321,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2334,8 +2334,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Diet Flour-Free Sugar-Free Cake"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2377,7 +2377,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 252,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2390,8 +2390,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Baked Vegetables on a Bed of Yogurt"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 orta boy kabak",
@@ -2429,7 +2429,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2442,8 +2442,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Flour-Free Pizza for Those Who Crave Pizza on a Diet"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2477,7 +2477,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2490,8 +2490,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free Gourmet Almond-Based Kinder Cheesecake"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram schär glutensiz bisküvi",
@@ -2527,7 +2527,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 417,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2540,8 +2540,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Healthy and Nutritious Breakfast"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağına yakın müsli ya da yulaf",
@@ -2583,7 +2583,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2596,8 +2596,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Fit Protein Powder Carrot Walnut Cinnamon Cookies"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet küçük boy havuç",
@@ -2639,7 +2639,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 302,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2652,8 +2652,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Creamy Tomato Chicken Breast"
     },
     "cuisine": "diyet",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı zeytinyağı",
@@ -2723,7 +2723,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2736,8 +2736,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Zucchini Pizza (Gluten-Free)"
     },
     "cuisine": "diyet",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet orta boy kabak",
@@ -2781,7 +2781,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 327,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2794,8 +2794,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Refined Sugar-Free Egg-Free Apple Dessert"
     },
     "cuisine": "diyet",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yeşil elma (rendelenmiş)",
@@ -2835,7 +2835,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2848,8 +2848,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chicken Salad"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150-200 gram haşlanmış tavuk",
@@ -2885,7 +2885,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 516,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2898,8 +2898,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chocolate Stuffed Dates"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 tane hurma",
@@ -2929,7 +2929,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 310,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2942,8 +2942,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Gluten-Free Quinoa Salad"
     },
     "cuisine": "diyet",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı kinoa (100ml )",
@@ -2993,7 +2993,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 412,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3006,8 +3006,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Gluten-Free Mini Lahmacun with Minced Meat and Cheddar"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3045,7 +3045,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 280,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3058,8 +3058,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Sugar-Free Peach Cup Dessert"
     },
     "cuisine": "diyet",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet şeftali",
@@ -3103,7 +3103,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3116,8 +3116,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Fit Balls (Made with Buckwheat Puffed Grains)"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet karabuğday patlağı",
@@ -3149,7 +3149,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3162,7 +3162,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Almond Fondant"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3191,7 +3191,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 305,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3204,8 +3204,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free Tiramisu Jewels"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı glutensiz müsli",
@@ -3237,7 +3237,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3250,7 +3250,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Fig Dessert with Tahini"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3277,7 +3277,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 426,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3290,8 +3290,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "High-Protein Vegan Burger Patties"
     },
     "cuisine": "diyet",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "toplam 2 yemek kaşığı zeytinyağı",
@@ -3353,7 +3353,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3366,7 +3366,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Yogurt Salad (Savoy Cabbage, Arugula)"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3401,7 +3401,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3414,8 +3414,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten and Lactose-Free Saray-Style Homemade Doner"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram orta yağlı kıyma",
@@ -3453,7 +3453,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 526,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3466,8 +3466,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Creamy Potato Gratin"
     },
     "cuisine": "diyet",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "800 gram orta boy patates – önemli: pişerken dağılmayan bir patates çeşidi kullanalım",
@@ -3529,7 +3529,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3542,8 +3542,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "(Vegan) Protein Pancakes"
     },
     "cuisine": "diyet",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet olgun muz",
@@ -3589,7 +3589,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 468,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3602,8 +3602,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free Touch on Traditional Trakya Keşkeği"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı karabuğday (greçka)",
@@ -3645,7 +3645,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3658,8 +3658,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten and Lactose-Free Silky Kalandibi Recipe"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 su bardağı laktozsuz süt",
@@ -3693,7 +3693,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3706,8 +3706,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Breakfast Salad with Lor Cheese"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet haşlanmış yumurta",
@@ -3743,7 +3743,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3756,8 +3756,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Sweet Potato in the Air Fryer"
     },
     "cuisine": "diyet",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük tatlı patates (yaklaşık 500 g)",
@@ -3799,7 +3799,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 314,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3812,8 +3812,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free Stone Oven Sun Bread"
     },
     "cuisine": "diyet",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı su",
@@ -3857,7 +3857,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 538,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3870,7 +3870,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Healthy Corn Flour Cookies"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3899,7 +3899,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 531,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3912,8 +3912,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free Protein Cake"
     },
     "cuisine": "diyet",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram haşlanmış nohut",
@@ -3959,7 +3959,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 429,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3972,7 +3972,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Oat Banana Pancakes"
     },
     "cuisine": "diyet",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4005,7 +4005,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 166,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4018,8 +4018,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free and Lactose-Free Chocolate Fig Mousse"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "12 adet hurma (sıcak suda yumuşatılmış)",
@@ -4059,7 +4059,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 243,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4072,8 +4072,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free and Flour-Free Cloud Bread"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 yumurta",
@@ -4107,7 +4107,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4120,8 +4120,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Lemon Blueberry Tart (Crumble)"
     },
     "cuisine": "diyet",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı un",
@@ -4163,7 +4163,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 238,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4176,8 +4176,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Lentil Salad with Yogurt Dressing"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 yemek kaşığı yeşil mercimek",
@@ -4217,7 +4217,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 364,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4230,8 +4230,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Healthy Lentil Salad"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 küçük çay bardağı yeşil mercimek",
@@ -4273,7 +4273,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 221,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4286,8 +4286,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten-Free and Lactose-Free Silky Strawberry Sheet Cake"
     },
     "cuisine": "diyet",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -4347,7 +4347,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4360,8 +4360,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Melisa's Gluten and Lactose-Free Cocoa Truffle Cheesecake"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "taban için (18 cm): 1 adet yumurta",
@@ -4417,7 +4417,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 468,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4430,8 +4430,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Celery Juice"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 sap kereviz",
@@ -4459,7 +4459,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 325,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4472,8 +4472,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Healthy Chocolate Treat"
     },
     "cuisine": "diyet",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4–5 adet pirinç, mercimek veya mısır patlağı (glutensiz)",
@@ -4513,7 +4513,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 368,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4526,8 +4526,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Energy Bar"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı yulaf",
@@ -4561,7 +4561,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4574,8 +4574,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Quinoa Salad (Gluten-Free)"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım su bardağı beyaz kinoa",
@@ -4635,7 +4635,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 508,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4648,8 +4648,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Detox Salad"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet orta boy pancar",
@@ -4687,7 +4687,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 390,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4700,8 +4700,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Diet Salad with Mushrooms"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket mantar",
@@ -4751,7 +4751,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 291,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4764,8 +4764,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Baked Salmon Recipe (Very Easy and Delicious)"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3-4 parça somon",
@@ -4799,7 +4799,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 363,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4812,7 +4812,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Fig Dessert"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4843,7 +4843,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 208,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4856,8 +4856,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Baked Sea Bass"
     },
     "cuisine": "diyet",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet levrek",
@@ -4903,7 +4903,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 399,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4916,8 +4916,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Gluten-Free Brownie"
     },
     "cuisine": "diyet",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4955,7 +4955,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4968,7 +4968,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chicken Wings in the Air Fryer"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4995,7 +4995,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 449,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5008,8 +5008,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Oat Peach Cake"
     },
     "cuisine": "diyet",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "180 gram yulaf",
@@ -5057,7 +5057,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5070,8 +5070,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Buckwheat Pilaf"
     },
     "cuisine": "diyet",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı karabuğday",
@@ -5119,7 +5119,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 193,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5132,8 +5132,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Fit Pogaca"
     },
     "cuisine": "diyet",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 su bardağı yulaf",
@@ -5169,7 +5169,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5182,8 +5182,8 @@ export const diyetRecipes: Recipe[] = [
       "en": "Mediterranean Greens and Yogurt Zucchini Salad"
     },
     "cuisine": "diyet",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yaprak Akdeniz yeşilliği",
@@ -5247,7 +5247,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5260,7 +5260,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Chicken Sticks"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5287,7 +5287,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 326,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5300,7 +5300,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Fit Peach Dessert"
     },
     "cuisine": "diyet",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5329,7 +5329,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 533,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5342,7 +5342,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Oat Cookies"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5369,7 +5369,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 205,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5382,7 +5382,7 @@ export const diyetRecipes: Recipe[] = [
       "en": "Fit Coco-Star"
     },
     "cuisine": "diyet",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5413,7 +5413,7 @@ export const diyetRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 177,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

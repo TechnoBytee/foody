@@ -8,8 +8,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Homemade Hamburger Buns and Patties (Video)"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gr un (yaklaşık 5 su bardağı)",
@@ -73,7 +73,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 162,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -86,8 +86,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Original Sandwich Bread"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 ml ılık su (1,5 su bardağı)",
@@ -137,7 +137,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 307,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -150,8 +150,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Ayvalik Toast"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 parça ayvalık tost ekmeği (2 kişi için)",
@@ -197,7 +197,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -210,8 +210,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sausage Sandwich Recipe"
     },
     "cuisine": "sandvic",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet sosis",
@@ -253,7 +253,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 281,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -266,8 +266,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Corn Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kutu konserve mısır (375 g süzülmüş ağırlık)",
@@ -309,7 +309,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 347,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -322,8 +322,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Tuna Fish Sandwich with Mayonnaise (Video)"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu ton balığı (160 g)",
@@ -363,7 +363,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 358,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -376,8 +376,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Homemade Hamburger"
     },
     "cuisine": "sandvic",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram un (yaklaşık olarak 4 su bardağı)",
@@ -421,7 +421,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -434,7 +434,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Bread Toasted in the Oven Recipe"
     },
     "cuisine": "sandvic",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -465,7 +465,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -478,8 +478,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Homemade Delicious Chicken Burger"
     },
     "cuisine": "sandvic",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -523,7 +523,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 463,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -536,7 +536,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Kumru Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -567,7 +567,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 404,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -580,8 +580,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Wonderful Sandwich Bread for School Lunch"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram un",
@@ -619,7 +619,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -632,8 +632,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich Poğaça Breads"
     },
     "cuisine": "sandvic",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -681,7 +681,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 497,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -694,8 +694,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Cheese Sandwich Recipe (for School Lunch)"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet susamlı sandviç ekmeği",
@@ -729,7 +729,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 547,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -742,8 +742,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Shepherd's Salad Sandwich (Video)"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dilim ekşi mayalı tam buğday ekmeği",
@@ -781,7 +781,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 190,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -794,8 +794,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Goralı Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram garnitür",
@@ -827,7 +827,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 230,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -840,8 +840,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Puffy Bakery Poğaça (Yeasted)"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta (sarısı üzerine akı içine)",
@@ -883,7 +883,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 204,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -896,8 +896,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Avocado Toast"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım avokado",
@@ -943,7 +943,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 280,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -956,8 +956,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Breakfast with Eggs"
     },
     "cuisine": "sandvic",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -999,7 +999,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 181,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1012,8 +1012,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "High-Protein Vegetable Sandwich Bread"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -1065,7 +1065,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 438,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1078,8 +1078,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "her sandviç ekmeği için 1 adet tavuk göğsü",
@@ -1135,7 +1135,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 352,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1148,7 +1148,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1175,7 +1175,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 457,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1188,8 +1188,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Cold Avocado Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım adet avakado",
@@ -1225,7 +1225,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 281,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1238,8 +1238,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Baguette Sandwich with Lettuce"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet baget ekmek sandviç",
@@ -1287,7 +1287,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 485,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1300,8 +1300,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Ciabatta with Sliced Mozzarella and Tomato and Basil Sauce (Package)"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1-2 adet ciabatta veya baket ekmeği"
@@ -1327,7 +1327,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 483,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1340,8 +1340,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Easy Smoked Turkey"
     },
     "cuisine": "sandvic",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "700 gram kadar bütün halinde hindi göğüs"
@@ -1375,7 +1375,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 168,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1388,8 +1388,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Crispy Chicken Sandwich in Homemade Parmesan Bread"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "75 ml su",
@@ -1465,7 +1465,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 290,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1478,8 +1478,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Mushroom Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dilim ekmek"
@@ -1505,7 +1505,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 267,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1518,8 +1518,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Easy Tuna Wrap"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kutu ton balığı",
@@ -1563,7 +1563,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 411,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1576,8 +1576,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich with Ricotta or Cream Cheese"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2-3 kaşık ricotta peyniri(krem peynirle de olur)",
@@ -1609,7 +1609,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 455,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1622,8 +1622,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Tuna Fish Salad"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram ton balığı (3 konserve)",
@@ -1661,7 +1661,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1674,8 +1674,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Healthy Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet buğdaylı lifli ekmek",
@@ -1711,7 +1711,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 469,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1724,8 +1724,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Stale Bread Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -1757,7 +1757,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1770,8 +1770,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Tuna Fish Sandwich Filling"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet küçük boy tonbalığı",
@@ -1805,7 +1805,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 187,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1818,8 +1818,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Kumru Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket tost ekmeği (veya kumru ekmeği)",
@@ -1859,7 +1859,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 481,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1872,8 +1872,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sucuk Bread on the Snow"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram et sucuk",
@@ -1909,7 +1909,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 499,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1922,8 +1922,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Gluten-Free Taco"
     },
     "cuisine": "sandvic",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram kabak",
@@ -1969,7 +1969,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 169,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1982,8 +1982,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Homemade Sandwich Bread"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı süt",
@@ -2021,7 +2021,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 328,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2034,8 +2034,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Homemade Patty Bread with Perfect Measurements (Video)"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı su",
@@ -2071,7 +2071,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 260,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2084,8 +2084,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich Canapés"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet ekmek",
@@ -2115,7 +2115,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2128,8 +2128,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Taco Burger"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram orta yağlı kıyma",
@@ -2173,7 +2173,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2186,8 +2186,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Cajun-Style Crispy Chicken"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "•750 gram tavuk göğsü (julienne doğranmış)",
@@ -2223,7 +2223,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2236,7 +2236,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2279,7 +2279,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 250,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2292,8 +2292,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Quick and Delicious Practical Sandwich for Breakfast"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "baget ekmeği (ben baget kullandım siz dilediğiniz baget ekmeğini dilediğiniz kadar kullanabilirsiniz )",
@@ -2327,7 +2327,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 204,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2340,8 +2340,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Cold Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 baget ekmek",
@@ -2391,7 +2391,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2404,8 +2404,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sucuk Bread with Jalapeno Sauce"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet janepeno biber",
@@ -2443,7 +2443,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 263,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2456,8 +2456,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Pide That Tastes Like Simit"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 su bardağı oda sıcaklığında su",
@@ -2495,7 +2495,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 207,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2508,7 +2508,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Hot Dogs"
     },
     "cuisine": "sandvic",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2531,7 +2531,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 516,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2544,7 +2544,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sausages with Cheese"
     },
     "cuisine": "sandvic",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2577,7 +2577,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 421,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2590,8 +2590,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Fillet Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet tost ekmeği",
@@ -2635,7 +2635,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 390,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2648,8 +2648,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich Bread"
     },
     "cuisine": "sandvic",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı süt",
@@ -2699,7 +2699,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2712,8 +2712,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Açma Recipe (Bakery Açma)"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -2753,7 +2753,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 206,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2766,8 +2766,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Fajita Burger (Chicken Hamburger)"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram tavuk göğsü",
@@ -2815,7 +2815,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2828,8 +2828,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Tuna Fish Sandwich You Will Eat at the Police Station"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet sandviç ekmeği"
@@ -2855,7 +2855,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 161,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2868,8 +2868,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Olive and Thyme Baguette Sandwich (A Recipe That Makes You Ask Is There Anything More?)"
     },
     "cuisine": "sandvic",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet zeytinli kekikli baget ekmek",
@@ -2915,7 +2915,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 355,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2928,8 +2928,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Salmon Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet baget ekmeği (zeytinli)",
@@ -2971,7 +2971,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 475,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2984,8 +2984,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sunday Aperitif"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 baget ekmek",
@@ -3015,7 +3015,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 251,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3028,7 +3028,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3055,7 +3055,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 346,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3068,8 +3068,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Atomic Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet baget ekmek",
@@ -3107,7 +3107,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 216,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3120,8 +3120,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Sandwiches You Can Make with Your Own Bread at Home"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı ılık su",
@@ -3177,7 +3177,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 197,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3190,8 +3190,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Aslı's Special Toast"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kaliteli sandviç ekmeği (büyük ve yumuşak)",
@@ -3243,7 +3243,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3256,8 +3256,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Tortilla with Minced Meat and Chips"
     },
     "cuisine": "sandvic",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet tortilla",
@@ -3311,7 +3311,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3324,8 +3324,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich with Smoked Turkey"
     },
     "cuisine": "sandvic",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dilim tost ekmeği",
@@ -3369,7 +3369,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3382,8 +3382,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Doner Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet tavuk göğsü",
@@ -3427,7 +3427,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 377,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3440,8 +3440,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Sandwich with Cheese"
     },
     "cuisine": "sandvic",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "75 ml ılık su",
@@ -3495,7 +3495,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 481,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3508,7 +3508,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Mustard Egg Salad Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3547,7 +3547,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3560,8 +3560,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Heart-Shaped Sandwich Cakes"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3601,7 +3601,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 195,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3614,8 +3614,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Crispy Chicken Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü"
@@ -3647,7 +3647,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 425,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3660,8 +3660,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Sandwich with Teriyaki Sauce"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram tavuk göğsü",
@@ -3721,7 +3721,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 399,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3734,8 +3734,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Tuna Fish and Avocado Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet sandviç ekmeği",
@@ -3775,7 +3775,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 525,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3788,8 +3788,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Easy Sausage Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 li dana sosis",
@@ -3831,7 +3831,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 351,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3844,8 +3844,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Tuna Fish Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "14 dilim ince dilimli tost ekmeği",
@@ -3881,7 +3881,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 167,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3894,8 +3894,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "High-Protein Breakfast Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6-7 adet orta boy mantar",
@@ -3941,7 +3941,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 436,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3954,8 +3954,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Mushroom Kokoreç"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram minik doğranmış istiridye mantarı (diğer mantar çeşitleriyle de yapılabilir)",
@@ -3997,7 +3997,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 329,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4010,7 +4010,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich with Puff Pastry"
     },
     "cuisine": "sandvic",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4037,7 +4037,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4050,8 +4050,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Fluffy Sandwich Bread"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket kuru maya",
@@ -4091,7 +4091,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4104,7 +4104,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Lavaş Sandwich That Increases Breast Milk (Very Delicious)"
     },
     "cuisine": "sandvic",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4145,7 +4145,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 324,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4158,8 +4158,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Kumru (Turkish Sandwich)"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "ekmek",
@@ -4207,7 +4207,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 336,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4220,8 +4220,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Sandwich in Brioche Bread"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı süt (oda sıcaklığı)",
@@ -4273,7 +4273,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 219,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4286,8 +4286,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich with Crispy Pizza Bread"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram un",
@@ -4339,7 +4339,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 313,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4352,8 +4352,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Portable Cold Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet tam buğday sandviç ekmeği",
@@ -4393,7 +4393,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 393,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4406,8 +4406,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Gluten-Free Potato Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet patates",
@@ -4451,7 +4451,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 526,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4464,8 +4464,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Fit and Delicious Sandwich (with Smoked Meat and Egg)"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 dilim tam buğday veya çavdarlı ekmek (50gr)",
@@ -4503,7 +4503,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 295,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4516,7 +4516,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Fit and Delicious Sandwich (High Protein)"
     },
     "cuisine": "sandvic",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4541,7 +4541,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 478,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4554,7 +4554,7 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Croissant Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 20,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4589,7 +4589,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 294,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4602,8 +4602,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Cold Sandwich with Avocado and Egg"
     },
     "cuisine": "sandvic",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet haşlanmış yumurta",
@@ -4653,7 +4653,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 432,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4666,8 +4666,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Diet Toast with Zucchini"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kabak",
@@ -4701,7 +4701,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 261,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4714,8 +4714,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sausage Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet sosis",
@@ -4761,7 +4761,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 417,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4774,8 +4774,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich Recipe"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tatlı kaşığı fıstık ezmesi",
@@ -4807,7 +4807,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4820,8 +4820,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Amazing Patty Bread at Home"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet pita ekmeği",
@@ -4865,7 +4865,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 178,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4878,8 +4878,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sausage Patso"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet uzun sosis",
@@ -4921,7 +4921,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 265,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4934,8 +4934,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Mushroom Kokoreç"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram mantar (1 paket)",
@@ -4989,7 +4989,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 365,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5002,8 +5002,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Burger and Homemade Burger Buns"
     },
     "cuisine": "sandvic",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 ml ılık su",
@@ -5057,7 +5057,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 488,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5070,8 +5070,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet tavuk göğsü",
@@ -5109,7 +5109,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5122,8 +5122,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Mini Fit Sandwich (Delicious and Light)"
     },
     "cuisine": "sandvic",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -5159,7 +5159,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5172,8 +5172,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Chicken Filling with Walnuts (for Sandwiches)"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım haşlanmış didiklenmiş tavuk",
@@ -5223,7 +5223,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 445,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5236,8 +5236,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Fasfoot Kumru (Sesame Roll Sandwich)"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram sosis",
@@ -5275,7 +5275,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 165,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5288,8 +5288,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Goralı (Simit-Style Ring Sandwich)"
     },
     "cuisine": "sandvic",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 tane dana sosis",
@@ -5323,7 +5323,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 487,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5336,8 +5336,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Sandwich with Eggplant Patties (Video)"
     },
     "cuisine": "sandvic",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane patlıcan"
@@ -5373,7 +5373,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 278,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5386,8 +5386,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "Croissant Sandwich"
     },
     "cuisine": "sandvic",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yemek kaşığı şeker",
@@ -5461,7 +5461,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 505,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5474,8 +5474,8 @@ export const sandvicRecipes: Recipe[] = [
       "en": "SuperFresh Potato Filled Bread Patso"
     },
     "cuisine": "sandvic",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "superfresh patates (1 porsiyon yani 200 gram)",
@@ -5505,7 +5505,7 @@ export const sandvicRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 339,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

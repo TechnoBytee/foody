@@ -8,8 +8,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Easiest Stuffed Bulgur Meatballs (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı köftelik bulgur",
@@ -75,7 +75,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 236,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -88,8 +88,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Sultan Kebab"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yufka",
@@ -165,7 +165,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 329,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -178,8 +178,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Kadınbudu Köfte (Thigh Meatballs)"
     },
     "cuisine": "nefis-et",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr yağsız dana kıyması",
@@ -227,7 +227,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 221,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -240,8 +240,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Karnıyarık Stuffed Eggplant (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet küçük boy patlıcan (büyük ise ikiye bölebilirsiniz)",
@@ -277,7 +277,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 507,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -290,8 +290,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Meatball-Wrapped İslim Kebab"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patlıcan",
@@ -337,7 +337,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -350,8 +350,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Tray Kebab with Mashed Potatoes"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gr kıyma",
@@ -407,7 +407,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 334,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -420,8 +420,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Shepherd's Potatoes with Mushrooms and Béchamel"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet orta boy patates",
@@ -491,7 +491,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 507,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -504,8 +504,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Potato Meatballs (Cyprus Meatballs)"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg patates (yaklaşık 4-5 adet)",
@@ -555,7 +555,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 493,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -568,8 +568,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Zülbiye (Konya Onion Kebab)"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram kuzu iri doğrama kuşbaşı",
@@ -629,7 +629,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 303,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -642,8 +642,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Lamb Shanks (My Award-Winning Recipe)"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 tane soğanın suyu",
@@ -695,7 +695,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 389,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -708,8 +708,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Arab Tray Bake (The Easiest Oven Dish)"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram orta yağlı kıyma",
@@ -767,7 +767,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 255,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -780,7 +780,7 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Soft and Fluffy Mother's Meatballs (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -821,7 +821,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 213,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -834,8 +834,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Köfte with Bêğendi"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300-400 gram kadar kıyma",
@@ -883,7 +883,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 245,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -896,8 +896,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Soft Inside and Tender Tekirdağ Köfte"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram dana kıyma",
@@ -947,7 +947,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 295,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -960,8 +960,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Practical Oven-Baked Minced Meat Potatoes with Béchamel"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet patates ( ince dilimlenmiş)",
@@ -1017,7 +1017,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 334,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1030,8 +1030,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Hünkar Beğendi (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kuşbaşı kuzu eti (veya dana eti)",
@@ -1087,7 +1087,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1100,8 +1100,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Tray Kebab"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kırmızı et",
@@ -1137,7 +1137,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 442,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1150,8 +1150,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven Wings"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 kg kadar kanat"
@@ -1179,7 +1179,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1192,8 +1192,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Chicken with Barley and Vermicelli"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket arpa şehriye",
@@ -1255,7 +1255,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 331,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1268,8 +1268,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Sour Meatballs"
     },
     "cuisine": "nefis-et",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet patates",
@@ -1315,7 +1315,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1328,8 +1328,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Salmon with Vegetables and an Amazing Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "fileto somon"
@@ -1361,7 +1361,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1374,8 +1374,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken with Sauce and Mashed Potatoes"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "800 gram tavuk bonfile"
@@ -1419,7 +1419,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 187,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1432,8 +1432,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Creamy Mushroom Chicken with Curry (Chicken World)"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram piliç bonfile",
@@ -1485,7 +1485,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 452,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1498,8 +1498,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Stew on a Bed of Mashed Potatoes"
     },
     "cuisine": "nefis-et",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg patates",
@@ -1543,7 +1543,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 487,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1556,8 +1556,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "All the Tips for Making the Crispiest Chicken Wings"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg tavuk kanat (orta eklemlerinden kesilmiş,iyice kurulanmış)",
@@ -1609,7 +1609,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 342,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1622,8 +1622,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "How to Bake a Whole Chicken in the Oven Without Drying It Out"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet fırınlık bütün tavuk",
@@ -1653,7 +1653,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 385,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1666,8 +1666,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Hünkar Beğendi (Hünkar's Delight)"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patlıcan",
@@ -1711,7 +1711,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 309,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1724,8 +1724,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Fish"
     },
     "cuisine": "nefis-et",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet çipura balık"
@@ -1757,7 +1757,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 504,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1770,8 +1770,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Hakkari Regional Dish Doğaba"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram orta yağlı kıyma (isteğe göre yağsız da olabilir)",
@@ -1831,7 +1831,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 423,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1844,8 +1844,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken with Mushrooms (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr tavuk eti",
@@ -1891,7 +1891,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 494,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1904,8 +1904,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Mini Meatballs in Sauce on a Bed of Purée"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "350 gram kıyma",
@@ -1951,7 +1951,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 413,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1964,8 +1964,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Lokum-Soft Chicken Thighs in a Pot"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet kemiksiz tavuk but",
@@ -2013,7 +2013,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 348,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2026,8 +2026,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Hünkar Beğendi (With Yogurt)"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram kuşbaşı et",
@@ -2091,7 +2091,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 519,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2104,7 +2104,7 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Anchovy Meatballs"
     },
     "cuisine": "nefis-et",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2141,7 +2141,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 483,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2154,8 +2154,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Anchovies"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg palamut",
@@ -2205,7 +2205,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 159,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2218,8 +2218,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Stew on a Bed of Mashed Potatoes"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 -2 adet tavuk göğsü (kuşbaşı doğranmış)",
@@ -2267,7 +2267,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 353,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2280,8 +2280,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Schnitzel (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet tavuk göğsü",
@@ -2313,7 +2313,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 447,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2326,8 +2326,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Fish in Sauce Without Any Smell"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet mercan balığı (orta iri boyda istediğiniz balık türü)",
@@ -2369,7 +2369,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 389,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2382,8 +2382,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Meat Çökertme Kebab"
     },
     "cuisine": "nefis-et",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram kıyma",
@@ -2441,7 +2441,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 176,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2454,8 +2454,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken as Soft as Lokum"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "7-8 parça tavuk (but veya sevdiğin tavuk parçaları)",
@@ -2507,7 +2507,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 180,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2520,8 +2520,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Potato and Chicken Stuffed into Drumsticks"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 baget tavuk",
@@ -2559,7 +2559,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2572,8 +2572,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Crispy Chicken and Potatoes in Sauce (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü"
@@ -2597,7 +2597,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 202,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2610,8 +2610,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Chicken with Potatoes"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet tavuk budu",
@@ -2651,7 +2651,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 249,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2664,8 +2664,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Salmon in Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet somon fileto",
@@ -2711,7 +2711,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 307,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2724,7 +2724,7 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Kavurma"
     },
     "cuisine": "nefis-et",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2765,7 +2765,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 493,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2778,8 +2778,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Eggplant Rolls Stuffed with Chicken (For 2)"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patlıcan",
@@ -2825,7 +2825,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2838,8 +2838,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Practical Oven-Baked Potatoes with Sun-Dried Tomatoes"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "küçük kuş başı kesilmiş sana eti ( isteğe bağlı koymayada bilirsiniz)",
@@ -2881,7 +2881,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 275,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2894,8 +2894,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken and Potatoes in a Pan"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket parça tavuk",
@@ -2933,7 +2933,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2946,8 +2946,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Liver Stew (Chicken Liver)"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket tavuk ciğeri",
@@ -2995,7 +2995,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 317,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3008,8 +3008,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Creamy Mushroom Chicken"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram mantar",
@@ -3045,7 +3045,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 182,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3058,8 +3058,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Restaurant-Style Pan-Steamed Anchovies (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram hamsi",
@@ -3105,7 +3105,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3118,8 +3118,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Anchovies in Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet palamut",
@@ -3159,7 +3159,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 506,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3172,8 +3172,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Meatballs Made from Chicken Breast"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "600 gram tavuk göğsü",
@@ -3221,7 +3221,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 245,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3234,8 +3234,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Köfte with Potatoes"
     },
     "cuisine": "nefis-et",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet patates",
@@ -3283,7 +3283,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3296,7 +3296,7 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken with Soda Water and Milk (After This You Will Never Eat Chicken First Again)"
     },
     "cuisine": "nefis-et",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3335,7 +3335,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 155,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3348,8 +3348,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Külah Chicken"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet lavaş"
@@ -3377,7 +3377,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 351,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3390,8 +3390,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Kilis Tray"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kıyma",
@@ -3441,7 +3441,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 218,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3454,8 +3454,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Chicken Drumsticks with Vegetables (Ready in 10 Minutes)"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet tavuk incik",
@@ -3489,7 +3489,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 355,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3502,8 +3502,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Homemade Beyti Kebab for 3 People"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "300 gram kıyma",
@@ -3563,7 +3563,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 518,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3576,8 +3576,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Kavurma Mince (Tantuni Style)"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet soğanın yarısı",
@@ -3623,7 +3623,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 381,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3636,8 +3636,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Beyti Kebab (Fake)"
     },
     "cuisine": "nefis-et",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yufka"
@@ -3673,7 +3673,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3686,8 +3686,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Calamari"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 parça tavuk göğüs ( fileto )",
@@ -3719,7 +3719,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 459,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3732,8 +3732,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Pomfret"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet voppa balık",
@@ -3769,7 +3769,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 350,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3782,8 +3782,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Sea Bass"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "levrek balığı",
@@ -3809,7 +3809,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 343,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3822,8 +3822,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Anchovy Pan Fry"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg hamsi",
@@ -3857,7 +3857,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 287,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3870,8 +3870,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Meatballs in Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "700 gram kıyma",
@@ -3943,7 +3943,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3956,8 +3956,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Boiled Dish with a Sauce (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet tavuk baget",
@@ -4015,7 +4015,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 240,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4028,8 +4028,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Stew with Vegetables (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400-500 gram tavuk göğsü",
@@ -4073,7 +4073,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 370,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4086,8 +4086,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Meatballs in Tomato Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kıyma",
@@ -4127,7 +4127,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 206,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4140,8 +4140,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Saksı Kebab in the Air Fryer"
     },
     "cuisine": "nefis-et",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kıyma",
@@ -4203,7 +4203,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 425,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4216,8 +4216,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Restaurant-Style Boiled Chicken"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "tavuk but",
@@ -4263,7 +4263,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 529,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4276,8 +4276,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Skewers"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 -500 gram tavuk",
@@ -4317,7 +4317,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 388,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4330,8 +4330,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Mother's Meatballs"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kıyma",
@@ -4375,7 +4375,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 537,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4388,8 +4388,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Delicious Vegetable and Meat Boiled Dish"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram kuşbaşı dana eti",
@@ -4431,7 +4431,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4444,8 +4444,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Köfte İskender (Iskender Meatballs)"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "tırnak pide"
@@ -4473,7 +4473,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 310,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4486,8 +4486,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Anchovy Pan Fry"
     },
     "cuisine": "nefis-et",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg hamsi",
@@ -4527,7 +4527,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 316,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4540,8 +4540,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Juicy Meatballs"
     },
     "cuisine": "nefis-et",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağına yakın sıvı yağ",
@@ -4585,7 +4585,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 359,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4598,8 +4598,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven Tray"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo kuşbaşı et",
@@ -4641,7 +4641,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4654,8 +4654,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Chicken and Potatoes with Béchamel"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "800 gram tavuk pirzola veya tavuk göğsü",
@@ -4723,7 +4723,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 345,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4736,8 +4736,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Meat and Vegetable Dish in Güveç"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "8-9 adet kuzu kaburga",
@@ -4789,7 +4789,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 449,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4802,8 +4802,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Meatballs"
     },
     "cuisine": "nefis-et",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kıyma",
@@ -4855,7 +4855,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 352,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4868,8 +4868,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Anchovies with Vegetables"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet palamut",
@@ -4911,7 +4911,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4924,8 +4924,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Yozgat Giliği (Yozgat Meatballs)"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg tavuk göğsü",
@@ -4967,7 +4967,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 286,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4980,8 +4980,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Közlüce with Charred Peppers (No Cream)"
     },
     "cuisine": "nefis-et",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 tane tavuk göğüs",
@@ -5025,7 +5025,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 328,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5038,8 +5038,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Mother's Meatballs"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gr dana döş ve 300 gr dana kaburga (kasabınıza söyleyin en iyi köfte burdan oluyor,orta yağlı olacak kıyma mutlaka)",
@@ -5089,7 +5089,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 485,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5102,8 +5102,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Delicious Mushroom Chicken Stew"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3/4 (bir yarım+bir çeyrek) çay bardağı sıvı yağ (ayçiçek veya zeytinyağı)",
@@ -5171,7 +5171,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 193,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5184,8 +5184,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "İçli Köfte (Stuffed Bulgur Meatballs)"
     },
     "cuisine": "nefis-et",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ince bulgur",
@@ -5227,7 +5227,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5240,8 +5240,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Skewers"
     },
     "cuisine": "nefis-et",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tavuk göğsü"
@@ -5269,7 +5269,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5282,8 +5282,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Delicious Paella with Shrimp"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "200 gram pirinç (bomba veya paella pirinçi)",
@@ -5343,7 +5343,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 337,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5356,8 +5356,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Delicious Beef Steak in Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6-8 parça dana biftek",
@@ -5411,7 +5411,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 274,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5424,7 +5424,7 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Wings in Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5469,7 +5469,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 176,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5482,8 +5482,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Taşlık Dish (Video)"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg taşlık",
@@ -5531,7 +5531,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 152,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5544,8 +5544,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Cyprus Meatballs"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy patates",
@@ -5597,7 +5597,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 414,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5610,8 +5610,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Anchovy Pan Fry"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2-3 adet palamut",
@@ -5647,7 +5647,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 298,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5660,8 +5660,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Chicken Meatballs in the Air Fryer"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram tavuk veya hindi kıyması",
@@ -5709,7 +5709,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 158,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5722,8 +5722,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Fish and Chips"
     },
     "cuisine": "nefis-et",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "700–800 gram alaska mezgiti",
@@ -5775,7 +5775,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 164,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5788,8 +5788,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Pasta with Chicken Stew"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet derisiz tavuk göğsü",
@@ -5841,7 +5841,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 327,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5854,8 +5854,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Anchovies with Potatoes"
     },
     "cuisine": "nefis-et",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet palamut (1 gece önceden z.yağ,limon suyu,tuz,toz kırmızı biber ile marine edildi)",
@@ -5889,7 +5889,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 418,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5902,8 +5902,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Oven-Baked Chicken"
     },
     "cuisine": "nefis-et",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet soğan",
@@ -5959,7 +5959,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 157,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5972,8 +5972,8 @@ export const nefis_etRecipes: Recipe[] = [
       "en": "Adana Meatballs in Sauce"
     },
     "cuisine": "nefis-et",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4-5 adet domates",
@@ -6015,7 +6015,7 @@ export const nefis_etRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 412,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

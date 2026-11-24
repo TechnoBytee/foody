@@ -8,8 +8,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Crepes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -43,7 +43,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 354,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -56,8 +56,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancake Recipe (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -97,7 +97,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 510,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -110,8 +110,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Easy Pancake Recipe"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -151,7 +151,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 252,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -164,8 +164,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pişi (Turkish Fried Doughnuts) Recipe (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 110,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4,5 su bardağı un",
@@ -213,7 +213,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 277,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -226,8 +226,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Stick Pişi That Disappears in Minutes (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı süt (125 ml)",
@@ -275,7 +275,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 482,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -288,8 +288,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes for 2"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -331,7 +331,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 494,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -344,8 +344,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Straight from the Oven (Breakfast Toasted Bread Recipe)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ezilmiş rendelenmiş beyaz peynir",
@@ -389,7 +389,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 394,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -402,8 +402,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Cheese Pancakes (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -451,7 +451,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 203,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -464,8 +464,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "How to Make Kuymak (Mıhlama)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı tereyağı",
@@ -497,7 +497,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 474,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -510,8 +510,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Spiced Cheese Balls"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram tam yağlı beyaz peynir",
@@ -541,7 +541,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 433,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -554,8 +554,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Lavaş Börek Made in a Pan"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yuvarlak lavaş",
@@ -597,7 +597,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 268,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -610,8 +610,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Yeast-Raised Savory Cake Loaded with Toppings (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı süt",
@@ -663,7 +663,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 157,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -676,8 +676,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Small-Batch Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yumurta",
@@ -711,7 +711,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 541,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -724,8 +724,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Soft Fluffy Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yumurta",
@@ -773,7 +773,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 516,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -786,8 +786,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Stretchy Trabzon Kuymak That Never Breaks (Full Measurements)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı tereyağı",
@@ -821,7 +821,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 347,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -834,7 +834,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Oat Pancakes, a Fit Breakfast"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -863,7 +863,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 243,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -876,7 +876,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Cheese Balls"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -911,7 +911,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 339,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -924,8 +924,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Oatmeal (with Protein Milk)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "125 gram iri yulaf ezmesi",
@@ -953,7 +953,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 292,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -966,8 +966,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Berliner (Filled Pastry)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -1019,7 +1019,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 153,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1032,8 +1032,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Sugar-Free Bowl"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kase yoğurt",
@@ -1065,7 +1065,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 315,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1078,8 +1078,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Homemade Biscoff Spread You Will Not Stop Spooning"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 paket finger bisküvi",
@@ -1127,7 +1127,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 523,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1140,8 +1140,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Stew (Güveç)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet patates",
@@ -1183,7 +1183,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1196,8 +1196,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Dombis Sauce Recipe (Tomato, Pepper, Garlic)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kg domates",
@@ -1235,7 +1235,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1248,7 +1248,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Egg Bread with Dill"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1283,7 +1283,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 263,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1296,8 +1296,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Baked Breakfast Eggs"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1331,7 +1331,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 400,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1344,7 +1344,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Cheesy Acuka in 5 Minutes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1375,7 +1375,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 207,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1388,8 +1388,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Fluffy Pancakes for Two"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 yumurta",
@@ -1425,7 +1425,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1438,8 +1438,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Potato Bread"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 büyük boy patates",
@@ -1473,7 +1473,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 450,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1486,8 +1486,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Baked Breakfast Greens"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bağ pazı",
@@ -1531,7 +1531,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 169,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1544,8 +1544,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Kids' Favorite Cocoa Banana Crepes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1583,7 +1583,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 408,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1596,8 +1596,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Omelet Toast"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -1633,7 +1633,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1646,8 +1646,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Yeast Pişi"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı un",
@@ -1681,7 +1681,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 174,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1694,8 +1694,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Sweet Pancakes (Strawberry / Chocolate Chip)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı süt",
@@ -1735,7 +1735,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 458,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1748,8 +1748,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -1783,7 +1783,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 508,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1796,8 +1796,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Crepes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı süt",
@@ -1831,7 +1831,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 240,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1844,8 +1844,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Crispy Oven Potatoes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo patates (her kişi için 2 patates olsun)",
@@ -1877,7 +1877,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 231,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1890,8 +1890,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Mücver (with Potato and Carrot)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet havuç",
@@ -1935,7 +1935,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 528,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1948,8 +1948,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Kuymak (Mihlama)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı mısır unu",
@@ -1985,7 +1985,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 222,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1998,8 +1998,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancake Cake"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -2039,7 +2039,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 379,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2052,8 +2052,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Menemen with Egg and Onion"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı sıvı yağ",
@@ -2087,7 +2087,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 176,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2100,7 +2100,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes for 2"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2133,7 +2133,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 443,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2146,8 +2146,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Çılbır (Turkish Poached Eggs with Yogurt)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet yumurta",
@@ -2187,7 +2187,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 534,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2200,8 +2200,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Puff Pastry Börek"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet milföy",
@@ -2241,7 +2241,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 513,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2254,8 +2254,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "My Puffy Pişi with Milk"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "12 yemek kaşığı un",
@@ -2295,7 +2295,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 334,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2308,8 +2308,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Sugar-Free Fit Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -2351,7 +2351,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 460,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2364,8 +2364,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Onion Omelet"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -2405,7 +2405,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 225,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2418,8 +2418,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2455,7 +2455,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 454,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2468,8 +2468,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Peppers with Kapya Biber"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg kapya biber",
@@ -2507,7 +2507,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 225,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2520,8 +2520,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Sautéed Peppers"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kızartmalık biber",
@@ -2549,7 +2549,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 549,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2562,8 +2562,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Fried Potatoes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet orta boy patates",
@@ -2593,7 +2593,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 512,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2606,7 +2606,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Pizza Bread"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2629,7 +2629,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 472,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2642,8 +2642,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Zucchini and Potato Mücver Fritters"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet büyük boy kabak",
@@ -2685,7 +2685,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 284,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2698,8 +2698,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Eggs with Cheddar"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2739,7 +2739,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 255,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2752,8 +2752,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Triangle Sausage Rolls in Tortillas"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet tortilla",
@@ -2791,7 +2791,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 363,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2804,8 +2804,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pişi (with Milk)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı süt",
@@ -2841,7 +2841,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2854,8 +2854,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Soft Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -2893,7 +2893,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 228,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2906,8 +2906,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Omelet with Sesame and Cheddar"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 âdet yumurta, 1 çay bardağı susam,1 yemek kaşığı tereyağ,yarım çay kaşığı tuz,karabiber,pul biber. arasına koymak için:2-3 dilim kaşar peyniri,1-2 dilim hindi füme"
@@ -2933,7 +2933,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 153,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2946,8 +2946,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Roasted Tomato Recipe"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 kg domates",
@@ -2985,7 +2985,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 275,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2998,8 +2998,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Fried Potatoes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 büyük patates",
@@ -3027,7 +3027,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 160,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3040,8 +3040,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Besise (Fried Stale Bread)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet bayat ekmek",
@@ -3083,7 +3083,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 382,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3096,8 +3096,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Crepes (Full Measurements)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı un",
@@ -3131,7 +3131,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 419,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3144,8 +3144,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Potatoes in Milk"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet patates",
@@ -3183,7 +3183,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 251,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3196,8 +3196,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Margherita Pizza"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 dilim ekmek",
@@ -3239,7 +3239,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 235,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3252,7 +3252,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Peppers Cooked in Milk"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3291,7 +3291,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 507,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3304,8 +3304,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Easy Pizza-Flavored Breakfast"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet büyük boy domates",
@@ -3349,7 +3349,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 173,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3362,7 +3362,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Delicious Diet Breakfast Recipe"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3393,7 +3393,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 293,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3406,8 +3406,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Oil-Free Pişi Recipe with Full Measurements (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı ılık süt",
@@ -3451,7 +3451,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 229,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3464,8 +3464,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Cheese and Egg Pide in a Philips Airfryer"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 su bardağı un",
@@ -3509,7 +3509,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 378,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3522,8 +3522,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yumurta",
@@ -3559,7 +3559,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 265,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3572,8 +3572,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Mıhlama Kuymak (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı tereyağı",
@@ -3607,7 +3607,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 428,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3620,8 +3620,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Sausage with Cheddar (Pan Toast)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "sucuk",
@@ -3655,7 +3655,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 288,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3668,8 +3668,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "French Omelet from the Series Bear"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -3721,7 +3721,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 502,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3734,7 +3734,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Potato Bazlama"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3769,7 +3769,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 408,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3782,8 +3782,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -3821,7 +3821,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 195,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3834,8 +3834,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Zucchini Fajita (Oven-Baked Zucchini)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 tane kabak",
@@ -3877,7 +3877,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 300,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3890,8 +3890,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Winter Canned Menemen"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "15 kg domates",
@@ -3933,7 +3933,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 206,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3946,8 +3946,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes You Will Never Get Enough Of"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -3981,7 +3981,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3994,8 +3994,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Menemen (Turkish scrambled eggs with peppers and tomatoes)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 adet yumurta",
@@ -4035,7 +4035,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 535,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4048,8 +4048,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Çılbır with Tomato Paste"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı domates salçası",
@@ -4085,7 +4085,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 269,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4098,8 +4098,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Creamy Menemen"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta sarısı",
@@ -4137,7 +4137,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 356,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4150,8 +4150,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Stale Bread Börek"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet tam bayat ekmek",
@@ -4187,7 +4187,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 367,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4200,8 +4200,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Soft Rich Chocolate Poğaça Recipe (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -4247,7 +4247,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4260,8 +4260,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Menemen (Azerbaijani-Style Tomato and Egg Dish, Sayağı)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4–5 ədəd yetişmiş pomidor",
@@ -4301,7 +4301,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 208,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4314,7 +4314,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Diet Breakfast"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4355,7 +4355,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 404,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4368,8 +4368,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Diet Gözleme (No White Flour, No Yeast)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -4405,7 +4405,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 492,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4418,8 +4418,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Menemen with Kapya Biber"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet kapya biber",
@@ -4477,7 +4477,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 443,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4490,8 +4490,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancake Recipe (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -4525,7 +4525,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4538,8 +4538,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Oil-Free Pişi without Yeast"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı yoğurt",
@@ -4579,7 +4579,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 427,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4592,7 +4592,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Omelet with Lor Cheese (Diet Breakfast)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4629,7 +4629,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 491,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4642,8 +4642,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Dough Fritters"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım çay bardağı yoğurt",
@@ -4675,7 +4675,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 298,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4688,8 +4688,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Pancakes with Karakılçık Flour"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı karakılçık unu",
@@ -4727,7 +4727,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 206,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4740,8 +4740,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Oil-Free Puffy Pişi (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık su",
@@ -4805,7 +4805,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 322,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4818,8 +4818,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Çılbır (Turkish Poached Eggs with Yogurt)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 yemek kaşığı yoğurt",
@@ -4849,7 +4849,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 245,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4862,8 +4862,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Turning Stale Bread into a Breakfast Börek"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 bütün bayat dilimlenmiş bayat ekmek",
@@ -4911,7 +4911,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 188,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4924,8 +4924,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Bite-Sized Poğaça Recipe (video)"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı ılık süt",
@@ -4965,7 +4965,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 510,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4978,8 +4978,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Potatoes in a Pan"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet orta boy patates",
@@ -5009,7 +5009,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 509,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5022,7 +5022,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Bread-Dipping Breakfast Tomatoes"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5057,7 +5057,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5070,8 +5070,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Spiced Cheese Balls"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "400 gram beyaz peynir veya süzme peynir",
@@ -5111,7 +5111,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 378,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5124,8 +5124,8 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Breakfast Crepe Recipe"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet yumurta",
@@ -5157,7 +5157,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 270,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5170,7 +5170,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       "en": "Roasted Olives"
     },
     "cuisine": "nefis-kahvalti",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -5203,7 +5203,7 @@ export const nefis_kahvaltiRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 199,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"

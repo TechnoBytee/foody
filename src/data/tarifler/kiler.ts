@@ -8,8 +8,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Easy Custard Cream (Eggless) (video)"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2. 5 su bardağı süt",
@@ -41,7 +41,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 372,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -54,8 +54,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Bechamel Sauce Recipe"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 yemek kaşığı tereyağı",
@@ -91,7 +91,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 339,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -104,8 +104,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Lahmacun Filling Recipe (video)"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "750 gr kaburga kıyması (lahmacun da süper oluyor)",
@@ -149,7 +149,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -162,8 +162,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Meatballs in the Deep Freezer (video)"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet soğan",
@@ -211,7 +211,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 409,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -224,8 +224,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Garnished Potato Puree Recipe"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 adet orta boy haşlanmış patates",
@@ -269,7 +269,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 180,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -282,8 +282,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Tomato Sauce Recipe (video)"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kg domates",
@@ -325,7 +325,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 313,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -338,8 +338,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Apricot Jam Recipe (video)"
     },
     "cuisine": "kiler",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg kayısı",
@@ -379,7 +379,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 471,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -392,8 +392,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Winter Green Beans in the Freezer"
     },
     "cuisine": "kiler",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg taze fasulye",
@@ -429,7 +429,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -442,8 +442,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Quince Jam Recipe"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 adet ayva",
@@ -483,7 +483,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 200,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -496,8 +496,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Red Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kilo kırmızı biber",
@@ -535,7 +535,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 177,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -548,7 +548,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Storing Meals in the Freezer"
     },
     "cuisine": "kiler",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -571,7 +571,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 498,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -584,8 +584,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Making Pickles with Ready-Made Brine (Video)"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 kg kornişon salatalık",
@@ -617,7 +617,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -630,8 +630,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Homemade Beef Taco"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kıyma",
@@ -667,7 +667,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 188,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -680,7 +680,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Night Cure Yogurt Mixture"
     },
     "cuisine": "kiler",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -709,7 +709,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 545,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -722,8 +722,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Strawberry Jam (No Setting Overnight) (Video)"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kg çilek",
@@ -751,7 +751,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 185,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -764,8 +764,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Turkish Coffee Cookies"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 adet yumurta",
@@ -807,7 +807,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 387,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -820,8 +820,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Hasil"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı aşurelik buğday",
@@ -849,7 +849,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 282,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -862,8 +862,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Potato and Mushroom Gratin"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5-6 patates",
@@ -899,7 +899,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 496,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -912,8 +912,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Homemade Biscoff Spread You Will Never Get Enough Of Spoon By Spoon"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 paket finger bisküvi",
@@ -961,7 +961,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 424,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -974,8 +974,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Dried Tomato Sauce"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "250 gram kurutulmuş domates",
@@ -1019,7 +1019,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 334,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1032,8 +1032,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cucumber Pickles"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 kilo kornişon salatalık",
@@ -1071,7 +1071,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 508,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1084,8 +1084,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Dombis Sauce Recipe (Tomato, Pepper, Garlic)"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kg domates",
@@ -1123,7 +1123,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 385,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1136,8 +1136,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Chanterelle Mushroom Pickles"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo kanlıca mantarı (ben topladığımız kadar mantar kullandım siz de öyle yapabilirsiniz)",
@@ -1179,7 +1179,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 366,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1192,8 +1192,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Peanut Stuffed Jam From Firm Sugar Tomatoes (Video)"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram sert şeker domatesi",
@@ -1233,7 +1233,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 311,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1246,8 +1246,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Fig Marmalade"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kilo incir",
@@ -1285,7 +1285,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 461,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1298,8 +1298,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Red Cabbage Pickles"
     },
     "cuisine": "kiler",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım mor lahana",
@@ -1343,7 +1343,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 536,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1356,8 +1356,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Icli Kofte"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı köftelik bulgur",
@@ -1403,7 +1403,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 206,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1416,8 +1416,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Tomato Sauce Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg ince yeşil biber",
@@ -1465,7 +1465,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 332,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1478,8 +1478,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "A Cure That Heals Many Ailments (Flu, Cough, Bronchitis)"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 çay bardağı zeytinyağı",
@@ -1505,7 +1505,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 175,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1518,8 +1518,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Winter Ezme"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo domates",
@@ -1559,7 +1559,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 362,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1572,8 +1572,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Healing Tangerine Cubes"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 adet limon",
@@ -1611,7 +1611,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 422,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1624,8 +1624,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Homemade Kesme Noodle (Yufka)"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "60 tane yumurta",
@@ -1663,7 +1663,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 257,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1676,8 +1676,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Fresh Fig Jam"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2.5 kg doğranmış incir",
@@ -1713,7 +1713,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 273,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1726,8 +1726,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Strawberry Jam"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kilo reçellik küçük çilek",
@@ -1765,7 +1765,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 219,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1778,7 +1778,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Hot Sauce"
     },
     "cuisine": "kiler",
-    "time": 10,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -1803,7 +1803,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 245,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1816,8 +1816,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cucumber Pickles (My Dear Friend Serpilcim's Amazing Pickle Recipe)"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kilo salatalık",
@@ -1855,7 +1855,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 458,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1868,8 +1868,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 kilo köy biberi",
@@ -1913,7 +1913,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 196,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1926,8 +1926,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oven Roasted Mulberry Jam With Marmalade"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg mürdüm eriği",
@@ -1975,7 +1975,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 196,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -1988,8 +1988,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Lutenisa (Eggplant Salad with Tomato Sauce)"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg patlıcan",
@@ -2039,7 +2039,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 272,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2052,8 +2052,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Winter Ready Tomato Sauce"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "30 kg domates",
@@ -2083,7 +2083,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 351,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2096,8 +2096,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Lotus Cream"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 su bardağı şeker",
@@ -2131,7 +2131,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 547,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2144,8 +2144,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Okra Pickles (Video)"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "750 gr iri bamya",
@@ -2173,7 +2173,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 520,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2186,8 +2186,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Uncooked Hot Sauce"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kilo domates",
@@ -2227,7 +2227,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 361,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2240,8 +2240,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cranberry Marmalade"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo kızılcık 1su bardağı su",
@@ -2271,7 +2271,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 260,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2284,8 +2284,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Perfectly Measured Crispy Crispy Jalapeno Pickles (Video)"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg jalapeno biber",
@@ -2327,7 +2327,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 218,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2340,8 +2340,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Red Plum Pestil"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo kırmızı erik",
@@ -2371,7 +2371,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 233,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2384,8 +2384,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Homemade Lotus Cream (Video)"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 su bardağı şeker",
@@ -2419,7 +2419,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 393,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2432,8 +2432,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Dried Tomatoes (Practical)"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1.5 kg çeri domates",
@@ -2477,7 +2477,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 290,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2490,8 +2490,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Caramel (Homemade)"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 su bardağı toz şeker",
@@ -2527,7 +2527,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 244,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2540,8 +2540,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Crunchy Crunchy Cucumber Pickles"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kilo kornişon salatalık",
@@ -2585,7 +2585,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 262,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2598,8 +2598,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Magnificent Healing Radish Pickles"
     },
     "cuisine": "kiler",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 demet kırmızı turp",
@@ -2649,7 +2649,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 412,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2662,8 +2662,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Jalapeno Pepper Pickles With Lor Cheese"
     },
     "cuisine": "kiler",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "800 gram jalapeño biber",
@@ -2713,7 +2713,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 263,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2726,8 +2726,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Tomato Sauce Without Peeling (Video)"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 kg etli / olgun domates (bursa/armut domatesi çok sulanmadığı için idealdir)",
@@ -2767,7 +2767,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 367,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2780,7 +2780,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Pekmezli Muhallebi (Milk Pudding with Grape Molasses)"
     },
     "cuisine": "kiler",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -2807,7 +2807,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 204,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2820,8 +2820,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Tarhana Recipe (Video)"
     },
     "cuisine": "kiler",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo kırmızı kapya biber",
@@ -2887,7 +2887,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 345,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2900,8 +2900,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Refreshing Strawberry Jam"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg küçük boy çilek",
@@ -2935,7 +2935,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 533,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -2948,8 +2948,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Jalapeno Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg jalepone biber",
@@ -2991,7 +2991,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 406,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3004,8 +3004,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Mulberry Jam"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo mürdüm eriği",
@@ -3039,7 +3039,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 156,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3052,8 +3052,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cranberry Marmalade"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg kızılcık",
@@ -3087,7 +3087,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 451,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3100,8 +3100,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Crispy Pickles With Tomato Sauce"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg domates",
@@ -3151,7 +3151,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 537,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3164,8 +3164,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cheese Stuffed Cherry Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram kiraz biber",
@@ -3205,7 +3205,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 368,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3218,8 +3218,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oven Mulberry Jam"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo mürdüm eriği",
@@ -3247,7 +3247,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 183,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3260,8 +3260,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Beetroot Powder"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg pancar"
@@ -3291,7 +3291,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 208,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3304,8 +3304,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Mulberry Pickles"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kilo mürdüm eriği",
@@ -3341,7 +3341,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 210,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3354,8 +3354,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Winter Green Beans In The Freezer, Both Practical And Inexpensive With A Single Ingredient"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "taze fasulye"
@@ -3383,7 +3383,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 419,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3396,8 +3396,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Green Dill Pogaca"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "150 gram tereyağı veya margarin",
@@ -3445,7 +3445,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 455,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3458,8 +3458,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oily Bell Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2,5 kg kapya biber",
@@ -3499,7 +3499,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 351,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3512,7 +3512,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Rolled Carrot Jam (With Orange) (Video)"
     },
     "cuisine": "kiler",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -3549,7 +3549,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 466,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3562,8 +3562,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Roasted Eggplant Pepper Sauce (For Breakfast)"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 kilo domates (yerli veya armut domates)",
@@ -3615,7 +3615,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 320,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3628,8 +3628,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Stuffed Sauce With Mulberries And Olive Oil"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg mürdüm eriği",
@@ -3675,7 +3675,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 308,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3688,8 +3688,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oily Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "500 gram tatlı kıl biber",
@@ -3725,7 +3725,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 296,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3738,8 +3738,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Pickled Fresh Green Beans With Olive Oil"
     },
     "cuisine": "kiler",
-    "time": 40,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg fasulye",
@@ -3773,7 +3773,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 537,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3786,8 +3786,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Winter Menemen"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "30 kilo kışlık yumurta domates",
@@ -3817,7 +3817,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 536,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3830,8 +3830,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Green Bean Pickles"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg taze fasulye"
@@ -3863,7 +3863,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 388,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3876,8 +3876,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "How To Store Roasted Eggplant In The Freezer?"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg patlıcan"
@@ -3903,7 +3903,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3916,8 +3916,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oven Mulberry Jam (The Most Practical Jam Recipe) (Video)"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg mürdüm eriği",
@@ -3955,7 +3955,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 513,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -3968,8 +3968,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Canned Tomatoes (2 Varieties)"
     },
     "cuisine": "kiler",
-    "time": 100,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 kg domates",
@@ -4015,7 +4015,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 513,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4028,8 +4028,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Winter Sauce With Roasted Eggplant"
     },
     "cuisine": "kiler",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 adet patlıcan",
@@ -4097,7 +4097,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 529,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4110,8 +4110,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Mixed Pickles (Video)"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2.5 kilo kornişon salatalık",
@@ -4151,7 +4151,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 488,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4164,8 +4164,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Canned Bell Peppers"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1,5 kilo kadar kırmızı kapya biber",
@@ -4207,7 +4207,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 321,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4220,7 +4220,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oily Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4251,7 +4251,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 511,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4264,8 +4264,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Ketchup (Homemade)"
     },
     "cuisine": "kiler",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "5 kilo domates",
@@ -4317,7 +4317,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 435,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4330,8 +4330,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "White Grape Jam"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kilo beyaz çekirdeksiz üzüm",
@@ -4365,7 +4365,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 397,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4378,8 +4378,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oven Mulberry Jam"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg mürdüm eriği",
@@ -4417,7 +4417,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 253,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4430,8 +4430,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Peach Jam"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kg sert şeftali",
@@ -4467,7 +4467,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 239,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4480,8 +4480,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Oily Red Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kilo kapya kırmızı biber",
@@ -4521,7 +4521,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 522,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4534,7 +4534,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Baklava Flavored Cookies"
     },
     "cuisine": "kiler",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4565,7 +4565,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 422,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4578,8 +4578,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Mulberry Marmalade"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kg mürdüm eriği",
@@ -4611,7 +4611,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 154,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4624,8 +4624,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cocoa Walnut Freezer Cookies"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 paket margarin",
@@ -4667,7 +4667,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 439,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4680,8 +4680,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cherry Tomato Pickles"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "yarım kg çeri domates",
@@ -4719,7 +4719,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 334,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4732,8 +4732,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Pickling Brine (Video)"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 litre içme suyu",
@@ -4773,7 +4773,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 162,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4786,7 +4786,7 @@ export const kilerRecipes: Recipe[] = [
       "en": "Cucumber Gherkin Pickles Recipe - With Hot Water (Video)"
     },
     "cuisine": "kiler",
-    "time": 30,
+    "time": 0,
     "difficulty": "easy",
     "ingredients": {
       "tr": [
@@ -4831,7 +4831,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 314,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4844,8 +4844,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Gherkin Pickles"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "3 kg turşuluk salatalık",
@@ -4887,7 +4887,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 514,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4900,8 +4900,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Lacto Fermented Okra Pickles"
     },
     "cuisine": "kiler",
-    "time": 90,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "450–500 gram küçük/orta boy, sert bamya",
@@ -4939,7 +4939,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 541,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -4952,8 +4952,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Mulberry Plum Jam"
     },
     "cuisine": "kiler",
-    "time": 50,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "800 gram mürdüm eriği",
@@ -4987,7 +4987,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 470,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5000,8 +5000,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Tomato Sauce And Long Pepper Pickles"
     },
     "cuisine": "kiler",
-    "time": 120,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "4 kilo domates",
@@ -5051,7 +5051,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 478,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5064,8 +5064,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Hot Sauce With Tomatoes"
     },
     "cuisine": "kiler",
-    "time": 70,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kilo acı turşuluk biber",
@@ -5103,7 +5103,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 437,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5116,8 +5116,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Canned Bell Peppers"
     },
     "cuisine": "kiler",
-    "time": 80,
-    "difficulty": "hard",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "2 kilo kapya biber",
@@ -5155,7 +5155,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 223,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5168,8 +5168,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Winter Tomato Sauce"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "6 kg domates",
@@ -5205,7 +5205,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 301,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
@@ -5218,8 +5218,8 @@ export const kilerRecipes: Recipe[] = [
       "en": "Gavala Mulberry Pickles (Video)"
     },
     "cuisine": "kiler",
-    "time": 60,
-    "difficulty": "medium",
+    "time": 0,
+    "difficulty": "easy",
     "ingredients": {
       "tr": [
         "1 kg sert mürdüm eriği",
@@ -5253,7 +5253,7 @@ export const kilerRecipes: Recipe[] = [
       ]
     },
     "alternatives": [],
-    "calories": 259,
+    "calories": 0,
     "area": {
       "tr": "Türkiye",
       "en": "Turkey"
