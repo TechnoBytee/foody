@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { recipes, getRecipe } from "@/data/recipes";
@@ -6,16 +7,16 @@ import { getAlternatives } from "@/services/ai";
 import { getRecipeIntro } from "@/lib/recipe-intro";
 import { metaParts } from "@/lib/recipe-meta";
 import RecipeCards from "@/components/RecipeCards";
+import RouteSkeleton from "@/components/RouteSkeleton";
+
+type PageParams = { locale: Locale; id: string };
 
 export function generateStaticParams() {
   return recipes.map((r) => ({ id: r.id }));
 }
 
-export default async function RecipePage({
-  params,
-}: {
-  params: Promise<{ locale: Locale; id: string }>;
-}) {
+// URL'ye özel veriyi Suspense içinde okur; statik kabuk tek bir tarife bağlanmaz.
+async function RecipeContent({ params }: { params: Promise<PageParams> }) {
   const { locale, id } = await params;
   const recipe = getRecipe(id);
   if (!recipe) notFound();
@@ -112,5 +113,13 @@ export default async function RecipePage({
         </section>
       )}
     </main>
+  );
+}
+
+export default function RecipePage({ params }: { params: Promise<PageParams> }) {
+  return (
+    <Suspense fallback={<RouteSkeleton />}>
+      <RecipeContent params={params} />
+    </Suspense>
   );
 }

@@ -1,18 +1,18 @@
+import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { recipesByArea, areas } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
+import RouteSkeleton from "@/components/RouteSkeleton";
+
+type PageParams = { locale: Locale; slug: string };
 
 export function generateStaticParams() {
   return areas.map((a) => ({ slug: a.slug }));
 }
 
-export default async function AreaPage({
-  params,
-}: {
-  params: Promise<{ locale: Locale; slug: string }>;
-}) {
+async function AreaContent({ params }: { params: Promise<PageParams> }) {
   const { locale, slug } = await params;
   const area = areas.find((a) => a.slug === slug);
   if (!area) notFound();
@@ -48,5 +48,13 @@ export default async function AreaPage({
         </div>
       </section>
     </main>
+  );
+}
+
+export default function AreaPage({ params }: { params: Promise<PageParams> }) {
+  return (
+    <Suspense fallback={<RouteSkeleton />}>
+      <AreaContent params={params} />
+    </Suspense>
   );
 }

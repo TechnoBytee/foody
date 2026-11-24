@@ -1,18 +1,18 @@
+import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allCuisines, recipesByCuisine, areas } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
+import RouteSkeleton from "@/components/RouteSkeleton";
+
+type PageParams = { locale: Locale; slug: string };
 
 export function generateStaticParams() {
   return allCuisines.map((c) => ({ slug: c.slug }));
 }
 
-export default async function CuisinePage({
-  params,
-}: {
-  params: Promise<{ locale: Locale; slug: string }>;
-}) {
+async function CuisineContent({ params }: { params: Promise<PageParams> }) {
   const { locale, slug } = await params;
   const cuisine = allCuisines.find((c) => c.slug === slug);
   if (!cuisine) notFound();
@@ -48,5 +48,13 @@ export default async function CuisinePage({
 
       <RecipeCards recipes={list} locale={locale} />
     </main>
+  );
+}
+
+export default function CuisinePage({ params }: { params: Promise<PageParams> }) {
+  return (
+    <Suspense fallback={<RouteSkeleton />}>
+      <CuisineContent params={params} />
+    </Suspense>
   );
 }
