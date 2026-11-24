@@ -76,3 +76,10 @@ body {
     transition-duration: 0.01ms !important;
   }
 }
+
+@media print {
+  @page { margin: 1cm; }
+  body { background: #fff; color: #000; }
+  .animate-chip-in { animation: none !important; }
+  li { break-inside: avoid; }
+}

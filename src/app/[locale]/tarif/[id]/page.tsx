@@ -11,6 +11,7 @@ import { metaLabels, metaParts } from "@/lib/recipe-meta";
 import { toCardData } from "@/lib/recipe-card";
 import RecipeCards from "@/components/RecipeCards";
 import FavoriteButton from "@/components/FavoriteButton";
+import RecipeActions from "@/components/RecipeActions";
 import Icon from "@/components/Icon";
 import RouteSkeleton from "@/components/RouteSkeleton";
 
@@ -78,7 +79,7 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
           }).replace(/</g, "\\u003c"),
         }}
       />
-      <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">
+      <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437] print:hidden">
         <Icon name="arrow-left" size={16} /> {messages.back}
       </Link>
       <div className="flex flex-col gap-3">
@@ -102,7 +103,10 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
         {metaParts(recipe, labels).length > 0 && (
           <p className="text-sm text-[#787774]">{metaParts(recipe, labels).join(" · ")}</p>
         )}
-        <FavoriteButton recipe={toCardData(recipe)} locale={locale} />
+        <div className="flex flex-wrap gap-2 print:hidden">
+          <FavoriteButton recipe={toCardData(recipe)} locale={locale} />
+          <RecipeActions name={recipe.name[locale]} locale={locale} />
+        </div>
         {(recipe.era || recipe.region || recipe.area) && (
           <p className="flex flex-wrap gap-x-4 gap-y-1 text-xs uppercase tracking-wide text-[#787774]">
             {recipe.era && (
@@ -162,7 +166,7 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
       </section>
 
       {alternatives.length > 0 && (
-        <section className="flex flex-col gap-4">
+        <section className="flex flex-col gap-4 print:hidden">
           <h2 className="font-serif text-xl">{messages.alternatives}</h2>
           <RecipeCards recipes={alternatives} locale={locale} />
         </section>
