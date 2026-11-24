@@ -74,17 +74,11 @@ for (const [category, recipes] of Object.entries(tarifler)) {
     idCounter++;
     const id = `nefis-${catInfo.slug}-${idCounter}`;
     
-    // Zorluk seviyesi tahmini (tarif uzunluğuna göre)
-    const stepCount = recipe.yapilis_tarifi?.tr?.length || 0;
-    let difficulty = 'medium';
-    if (stepCount <= 3) difficulty = 'easy';
-    else if (stepCount >= 8) difficulty = 'hard';
-
-    // Süre tahmini
-    const time = Math.max(10, Math.min(120, stepCount * 10));
-
-    // Kalori tahmini
-    const calories = Math.floor(Math.random() * 400) + 150;
+    // shortcut: kaynakta süre/kalori/zorluk yok; 0 = "bilinmiyor", arayüz gizler.
+    // Adım sayısından tahmin üretmek yanıltıcıydı; jeneratör artık deterministik.
+    const time = 0;
+    const difficulty = 'easy';
+    const calories = 0;
 
     converted.push({
       id,
