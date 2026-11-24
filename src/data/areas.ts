@@ -1,6 +1,7 @@
 import type { Area } from "./types";
 
 export const areas: Area[] = [
+  { slug: "turkey", name: { tr: "Türkiye", en: "Turkey" }, count: 2100 },
   { slug: "international", name: { tr: "Dünya Mutfağı", en: "International" }, count: 62 },
   { slug: "british", name: { tr: "İngiliz", en: "British" }, count: 16 },
   { slug: "united-states", name: { tr: "Amerikan", en: "United States" }, count: 11 },

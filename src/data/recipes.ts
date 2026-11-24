@@ -3,6 +3,7 @@ import { ancientRecipes } from "./tarihi";
 import { mealdbRecipes } from "./mealdb";
 import { nefisRecipes, nefisCategories } from "./tarifler";
 import { areas } from "./areas";
+import { areaSlug } from "@/lib/area-slug";
 
 export type { Cuisine, Recipe } from "./types";
 export { ancientRecipes, mealdbRecipes, nefisRecipes, areas };
@@ -273,19 +274,7 @@ export function getRecipe(id: string) {
   return recipes.find((r) => r.id === id);
 }
 
-const AREA_SLUG_MAP: Record<string, string> = {
-  indian: "india",
-  french: "france",
-  norwegian: "norway",
-  venezuelan: "venezuela",
-  argentinian: "argentina",
-};
-
-export function areaSlug(area?: { tr: string; en: string }) {
-  if (!area) return null;
-  const raw = area.en.toLowerCase().replace(/\s+/g, "-");
-  return AREA_SLUG_MAP[raw] ?? raw;
-}
+export { areaSlug } from "@/lib/area-slug";
 
 export function recipesByCuisine(slug: string) {
   return recipes.filter(

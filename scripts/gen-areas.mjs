@@ -1,21 +1,24 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const dir = path.join(process.cwd(), "src", "data", "mealdb");
+const dataDir = path.join(process.cwd(), "src", "data");
+const dirs = ["mealdb", "tarifler"].map((name) => path.join(dataDir, name));
 const areas = {};
 
-for (const f of fs.readdirSync(dir)) {
-  if (!f.endsWith(".ts") || f === "index.ts") continue;
-  const c = fs.readFileSync(path.join(dir, f), "utf8");
-  const m = c.match(/"area":\s*\{[^}]+\}/g) || [];
-  m.forEach((a) => {
-    const t = a.match(/"tr":\s*"([^"]+)"/);
-    const e = a.match(/"en":\s*"([^"]+)"/);
-    if (t && e) {
-      if (!areas[e[1]]) areas[e[1]] = { tr: t[1], count: 0 };
-      areas[e[1]].count++;
-    }
-  });
+for (const dir of dirs) {
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith(".ts") || f === "index.ts") continue;
+    const c = fs.readFileSync(path.join(dir, f), "utf8");
+    const m = c.match(/"area":\s*\{[^}]+\}/g) || [];
+    m.forEach((a) => {
+      const t = a.match(/"tr":\s*"([^"]+)"/);
+      const e = a.match(/"en":\s*"([^"]+)"/);
+      if (t && e) {
+        if (!areas[e[1]]) areas[e[1]] = { tr: t[1], count: 0 };
+        areas[e[1]].count++;
+      }
+    });
+  }
 }
 
 const list = Object.entries(areas)
@@ -33,5 +36,5 @@ ${list.map((a) => `  { slug: "${a.slug}", name: { tr: "${a.name.tr}", en: "${a.n
 ];
 `;
 
-fs.writeFileSync(path.join(dir, "..", "areas.ts"), content);
+fs.writeFileSync(path.join(dataDir, "areas.ts"), content);
 console.log(`Generated areas.ts with ${list.length} regions`);
