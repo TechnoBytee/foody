@@ -141,10 +141,7 @@ export const nefisRecipes: Recipe[] = [
 ${Object.keys(byCategory).map(slug => `  ...${slug.replace(/-/g, '_')}Recipes,`).join('\n')}
 ];
 
-// Kategori bilgileri
-export const nefisCategories = [
-${Object.values(finalMapping).map(c => `  { slug: "${c.slug}", name: { tr: "${c.name.tr}", en: "${c.name.en}" } },`).join('\n')}
-];
+export { nefisCategories } from "./categories";
 `;
 
 fs.writeFileSync(path.join(outputDir, 'index.ts'), indexContent, 'utf8');

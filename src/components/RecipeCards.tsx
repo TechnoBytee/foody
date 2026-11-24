@@ -1,12 +1,12 @@
 import Link from "next/link";
-import { Recipe } from "@/data/recipes";
+import type { RecipeCardData } from "@/lib/recipe-card";
 import { metaParts } from "@/lib/recipe-meta";
 
 export default function RecipeCards({
   recipes,
   locale,
 }: {
-  recipes: Recipe[];
+  recipes: RecipeCardData[];
   locale: "tr" | "en";
 }) {
   if (recipes.length === 0) return null;

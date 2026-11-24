@@ -6,12 +6,14 @@ import DishSearch from "./DishSearch";
 import FridgeSearch from "./FridgeSearch";
 import RecipeCards from "./RecipeCards";
 import { hasSplashShown, markSplashShown } from "@/lib/splashState";
-import { Recipe, cuisines, areas } from "@/data/recipes";
+import { cuisines } from "@/data/cuisines";
+import { areas } from "@/data/areas";
+import type { RecipeCardData } from "@/lib/recipe-card";
 import { Messages, Locale } from "@/i18n";
 
 export default function HomeClient({ messages, locale }: { messages: Messages; locale: Locale }) {
-  const [results, setResults] = useState<Recipe[]>([]);
-  const [dishResults, setDishResults] = useState<Recipe[]>([]);
+  const [results, setResults] = useState<RecipeCardData[]>([]);
+  const [dishResults, setDishResults] = useState<RecipeCardData[]>([]);
   const [loading, setLoading] = useState(false);
   const [phase, setPhase] = useState<"splash" | "moving" | "done" | null>(() =>
     hasSplashShown() ? null : "splash"

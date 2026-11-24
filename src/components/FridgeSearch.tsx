@@ -1,8 +1,8 @@
 "use client";
 
 import { useRef, useState } from "react";
-import { analyzeImage, suggestRecipes } from "@/services/ai";
-import { Recipe } from "@/data/recipes";
+import { analyzeImage } from "@/services/image-analysis";
+import type { RecipeCardData } from "@/lib/recipe-card";
 import allIngredients from "@/data/ingredient-search.json";
 
 const EXACT_THRESHOLD = 0.85;
@@ -48,7 +48,7 @@ export default function FridgeSearch({
 }: {
   labels: { upload: string; add: string; find: string; analyzing: string };
   locale: "tr" | "en";
-  onResults: (recipes: Recipe[], ingredients: string[]) => void;
+  onResults: (recipes: RecipeCardData[], ingredients: string[]) => void;
   onLoading: (loading: boolean) => void;
 }) {
   const [ingredients, setIngredients] = useState<string[]>([]);
@@ -117,9 +117,20 @@ export default function FridgeSearch({
 
   const find = async () => {
     onLoading(true);
-    const results = await suggestRecipes(ingredients, "", locale);
-    onResults(results, ingredients);
-    onLoading(false);
+    try {
+      const res = await fetch("/api/malzeme-arama", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ ingredients, locale }),
+      });
+      if (!res.ok) throw new Error("search failed");
+      const data = (await res.json()) as { results: RecipeCardData[] };
+      onResults(data.results, ingredients);
+    } catch {
+      onResults([], ingredients);
+    } finally {
+      onLoading(false);
+    }
   };
 
   const confirmAdd = () => {

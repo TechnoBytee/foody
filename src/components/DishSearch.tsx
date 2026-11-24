@@ -1,8 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { recipes, Recipe } from "@/data/recipes";
-import { searchDishes, suggestSimilarDishes } from "@/services/recipe-search";
+import type { RecipeCardData } from "@/lib/recipe-card";
 
 // Malzeme aramasından ayrı, kendi state'i ve servisi olan yemek adı araması.
 export default function DishSearch({
@@ -10,7 +9,7 @@ export default function DishSearch({
   onResults,
 }: {
   locale: "tr" | "en";
-  onResults: (recipes: Recipe[]) => void;
+  onResults: (recipes: RecipeCardData[]) => void;
 }) {
   const [query, setQuery] = useState("");
   const [suggestions, setSuggestions] = useState<string[]>([]);
@@ -31,17 +30,24 @@ export default function DishSearch({
           notFound: "No dish found. Take a look at the similar suggestions.",
         };
 
-  const run = (value: string) => {
-    const results = searchDishes(value, recipes, locale);
-    onResults(results);
-    if (results.length > 0) {
+  const run = async (value: string) => {
+    try {
+      const res = await fetch(
+        `/api/yemek-arama?q=${encodeURIComponent(value)}&locale=${locale}`
+      );
+      if (!res.ok) throw new Error("search failed");
+      const data = (await res.json()) as {
+        results: RecipeCardData[];
+        suggestions: string[];
+      };
+      onResults(data.results);
+      setSuggestions(data.suggestions);
+      setNotFound(data.results.length === 0 && data.suggestions.length === 0);
+    } catch {
+      onResults([]);
       setSuggestions([]);
-      setNotFound(false);
-      return;
+      setNotFound(true);
     }
-    const similar = suggestSimilarDishes(value, recipes, locale);
-    setSuggestions(similar);
-    setNotFound(similar.length === 0);
   };
 
   const applySuggestion = (name: string) => {
