@@ -88,10 +88,17 @@ export default async function RecipePage({
 
       <section className="rounded-xl border border-[#EAEAEA] bg-white p-6">
         <h2 className="font-serif text-xl">{messages.steps}</h2>
-        <ol className="mt-3 list-decimal pl-5 text-sm text-[#2F3437]">
+        <ol className="mt-4 flex flex-col gap-2">
           {recipe.steps[locale].map((step, i) => (
-            <li key={i} className="mt-1">
-              {step}
+            <li
+              key={i}
+              style={{ animationDelay: `${i * 50}ms`, animationFillMode: "both" }}
+              className="animate-chip-in flex gap-3 rounded-lg border border-[#EAEAEA] bg-[#FBFAF8] p-3 text-sm leading-relaxed text-[#2F3437]"
+            >
+              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-[#EDF3EC] text-xs font-medium text-[#346538]">
+                {i + 1}
+              </span>
+              <span className="min-w-0 flex-1">{step}</span>
             </li>
           ))}
         </ol>
