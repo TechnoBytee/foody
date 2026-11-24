@@ -1,8 +1,9 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useCallback, useRef, useState } from "react";
 import { analyzeImage } from "@/services/image-analysis";
 import type { RecipeCardData } from "@/lib/recipe-card";
+import { useModalFocus } from "@/lib/use-modal-focus";
 import allIngredients from "@/data/ingredient-search.json";
 
 const EXACT_THRESHOLD = 0.85;
@@ -61,6 +62,8 @@ export default function FridgeSearch({
   >(null);
   const [addedMsg, setAddedMsg] = useState("");
   const [requestFailed, setRequestFailed] = useState(false);
+  const closeModal = useCallback(() => setModal(null), []);
+  const modalRef = useModalFocus(modal !== null, closeModal);
   const copy =
     locale === "tr"
       ? {
@@ -192,10 +195,12 @@ export default function FridgeSearch({
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={(e) => e.key === "Enter" && add()}
             placeholder={labels.add}
+            aria-label={labels.add}
             className="min-w-0 flex-1 rounded-md border border-[#EAEAEA] bg-[#F7F6F3] px-3 py-2.5 text-sm outline-none focus:border-[#9A9A9A]"
           />
           <button
             onClick={add}
+            aria-label={labels.add}
             className="rounded-md border border-[#EAEAEA] px-3 py-2.5 text-sm hover:bg-[#F7F6F3]"
           >
             +
@@ -229,10 +234,16 @@ export default function FridgeSearch({
 
       {modal && (
         <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/30 p-4">
-          <div className="w-full max-w-sm rounded-xl bg-white p-6 shadow-xl">
+          <div
+            ref={modalRef}
+            role="dialog"
+            aria-modal="true"
+            aria-labelledby="fridge-modal-title"
+            className="w-full max-w-sm rounded-xl bg-white p-6 shadow-xl"
+          >
             {modal.type === "confirm" ? (
               <>
-                <h3 className="font-serif text-lg">{copy.confirmTitle}</h3>
+                <h3 id="fridge-modal-title" className="font-serif text-lg">{copy.confirmTitle}</h3>
                 <p className="mt-2 text-sm text-[#787774]">
                   {locale === "tr" ? (
                     <>
@@ -254,7 +265,7 @@ export default function FridgeSearch({
                     {copy.confirmAdd}
                   </button>
                   <button
-                    onClick={() => setModal(null)}
+                    onClick={closeModal}
                     className="rounded-md border border-[#EAEAEA] px-4 py-2 text-sm hover:bg-[#F7F6F3]"
                   >
                     {copy.cancel}
@@ -263,7 +274,7 @@ export default function FridgeSearch({
               </>
             ) : (
               <>
-                <h3 className="font-serif text-lg">{copy.missingTitle}</h3>
+                <h3 id="fridge-modal-title" className="font-serif text-lg">{copy.missingTitle}</h3>
                 <p className="mt-2 text-sm text-[#787774]">
                   &quot;{input.trim()}&quot; {copy.missingBody}
                 </p>
@@ -275,7 +286,7 @@ export default function FridgeSearch({
                     {copy.request}
                   </button>
                   <button
-                    onClick={() => setModal(null)}
+                    onClick={closeModal}
                     className="rounded-md border border-[#EAEAEA] px-4 py-2 text-sm hover:bg-[#F7F6F3]"
                   >
                     {copy.cancel}

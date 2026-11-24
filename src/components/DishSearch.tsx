@@ -76,10 +76,12 @@ export default function DishSearch({
         </button>
       </div>
       {notFound && (
-        <p className="mt-3 text-sm text-[#787774]">{copy.notFound}</p>
+        <p role="status" aria-live="polite" className="mt-3 text-sm text-[#787774]">
+          {copy.notFound}
+        </p>
       )}
       {suggestions.length > 0 && (
-        <div className="mt-3 rounded-md bg-[#EDF3EC] px-4 py-3">
+        <div aria-live="polite" className="mt-3 rounded-md bg-[#EDF3EC] px-4 py-3">
           <p className="text-xs font-medium uppercase tracking-wide text-[#346538]">
             {copy.didYouMean}
           </p>

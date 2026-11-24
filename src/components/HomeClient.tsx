@@ -164,10 +164,14 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
         />
       </div>
 
-      {loading && <p className="animate-pulse text-sm text-[#787774]">{messages.analyzing}</p>}
+      {loading && (
+        <p role="status" className="animate-pulse text-sm text-[#787774]">
+          {messages.analyzing}
+        </p>
+      )}
 
       {dishResults.length > 0 && (
-        <section className="flex flex-col gap-4">
+        <section aria-live="polite" className="flex flex-col gap-4">
           <h2 className="font-serif text-2xl">
             {locale === "tr" ? "Yemek sonuçları" : "Dish results"}
           </h2>
@@ -176,7 +180,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
       )}
 
       {results.length > 0 && (
-        <section className="flex flex-col gap-4">
+        <section aria-live="polite" className="flex flex-col gap-4">
           <h2 className="font-serif text-2xl">{messages.suggestionsTitle}</h2>
           <RecipeCards recipes={results} locale={locale} />
         </section>
