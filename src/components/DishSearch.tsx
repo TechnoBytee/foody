@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { RecipeCardData } from "@/lib/recipe-card";
+import { getMessages } from "@/i18n";
 
 // Malzeme aramasından ayrı, kendi state'i ve servisi olan yemek adı araması.
 export default function DishSearch({
@@ -15,20 +16,13 @@ export default function DishSearch({
   const [suggestions, setSuggestions] = useState<string[]>([]);
   const [notFound, setNotFound] = useState(false);
 
-  const copy =
-    locale === "tr"
-      ? {
-          placeholder: "Yemek adı ara (örn. mercimek çorbası)",
-          button: "Yemek Ara",
-          didYouMean: "Bunu mu demek istedin?",
-          notFound: "Bu yemek bulunamadı. Benzer önerilere göz atabilirsin.",
-        }
-      : {
-          placeholder: "Search dishes (e.g. lentil soup)",
-          button: "Search Dish",
-          didYouMean: "Did you mean this?",
-          notFound: "No dish found. Take a look at the similar suggestions.",
-        };
+  const m = getMessages(locale);
+  const copy = {
+    placeholder: m.dishSearchPlaceholder,
+    button: m.dishSearchButton,
+    didYouMean: m.didYouMean,
+    notFound: m.dishNotFound,
+  };
 
   const run = async (value: string) => {
     try {

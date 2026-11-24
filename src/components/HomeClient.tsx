@@ -125,6 +125,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
         </Link>
         <Link
           href={`/${locale === "tr" ? "en" : "tr"}`}
+          aria-label={messages.switchLanguage}
           className="text-xs uppercase tracking-widest text-[#787774]"
         >
           {locale === "tr" ? "EN" : "TR"}
@@ -172,9 +173,7 @@ export default function HomeClient({ messages, locale }: { messages: Messages; l
 
       {dishResults.length > 0 && (
         <section aria-live="polite" className="flex flex-col gap-4">
-          <h2 className="font-serif text-2xl">
-            {locale === "tr" ? "Yemek sonuçları" : "Dish results"}
-          </h2>
+          <h2 className="font-serif text-2xl">{messages.dishResultsTitle}</h2>
           <RecipeCards recipes={dishResults} locale={locale} />
         </section>
       )}

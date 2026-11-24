@@ -8,22 +8,13 @@ export default async function GirisPage({
 }) {
   const { locale } = await params;
   const messages = getMessages(locale);
-  const copy =
-    locale === "tr"
-      ? {
-          title: "Giriş Yap",
-          email: "E-posta",
-          password: "Şifre",
-          button: "Giriş Yap",
-          note: "Supabase anahtarları eklendiğinde gerçek giriş çalışacak.",
-        }
-      : {
-          title: "Sign In",
-          email: "Email",
-          password: "Password",
-          button: "Sign In",
-          note: "Sign-in will work once Supabase keys are added.",
-        };
+  const copy = {
+    title: messages.signInTitle,
+    email: messages.email,
+    password: messages.password,
+    button: messages.signInButton,
+    note: messages.signInNote,
+  };
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
       <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">

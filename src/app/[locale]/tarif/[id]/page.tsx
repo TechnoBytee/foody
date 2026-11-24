@@ -5,7 +5,7 @@ import { recipes, getRecipe } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import { getAlternatives } from "@/services/ai";
 import { getRecipeIntro } from "@/lib/recipe-intro";
-import { metaParts } from "@/lib/recipe-meta";
+import { metaLabels, metaParts } from "@/lib/recipe-meta";
 import RecipeCards from "@/components/RecipeCards";
 import RouteSkeleton from "@/components/RouteSkeleton";
 
@@ -21,6 +21,7 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
   const recipe = getRecipe(id);
   if (!recipe) notFound();
   const messages = getMessages(locale);
+  const labels = metaLabels(messages);
   const alternatives = await getAlternatives(recipe, locale);
 
   return (
@@ -45,8 +46,8 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
           </div>
         )}
         <h1 className="font-serif text-4xl tracking-tight">{recipe.name[locale]}</h1>
-        {metaParts(recipe, locale).length > 0 && (
-          <p className="text-sm text-[#787774]">{metaParts(recipe, locale).join(" · ")}</p>
+        {metaParts(recipe, labels).length > 0 && (
+          <p className="text-sm text-[#787774]">{metaParts(recipe, labels).join(" · ")}</p>
         )}
         {(recipe.era || recipe.region || recipe.area) && (
           <p className="flex flex-wrap gap-x-4 gap-y-1 text-xs uppercase tracking-wide text-[#787774]">

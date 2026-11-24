@@ -28,7 +28,7 @@ async function CuisineContent({ params }: { params: Promise<PageParams> }) {
       <h1 className="font-serif text-4xl tracking-tight">{cuisine.name[locale]}</h1>
       <p className="text-[#787774]">{cuisine.description[locale]}</p>
       <p className="text-sm text-[#787774]">
-        {list.length} {locale === "tr" ? "tarif" : "recipes"}
+        {list.length} {messages.recipeCount}
       </p>
 
       <section className="flex flex-col gap-2">

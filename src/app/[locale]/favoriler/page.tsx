@@ -8,16 +8,7 @@ export default async function FavorilerPage({
 }) {
   const { locale } = await params;
   const messages = getMessages(locale);
-  const copy =
-    locale === "tr"
-      ? {
-          title: "Favoriler",
-          body: "Giriş yaptığınızda favori tarifleriniz burada görünecek.",
-        }
-      : {
-          title: "Favorites",
-          body: "Your favorite recipes will appear here once you sign in.",
-        };
+  const copy = { title: messages.favoritesTitle, body: messages.favoritesBody };
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
       <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">

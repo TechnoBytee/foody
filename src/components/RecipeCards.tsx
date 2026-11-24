@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { RecipeCardData } from "@/lib/recipe-card";
-import { metaParts } from "@/lib/recipe-meta";
+import { metaLabels, metaParts } from "@/lib/recipe-meta";
+import { getMessages } from "@/i18n";
 
 export default function RecipeCards({
   recipes,
@@ -10,6 +11,7 @@ export default function RecipeCards({
   locale: "tr" | "en";
 }) {
   if (recipes.length === 0) return null;
+  const labels = metaLabels(getMessages(locale));
   return (
     <div className="grid w-full grid-cols-1 gap-4 sm:grid-cols-2">
       {recipes.map((r, i) => (
@@ -42,8 +44,8 @@ export default function RecipeCards({
                   : ""}
               </p>
             )}
-            {metaParts(r, locale).length > 0 && (
-              <p className="mt-1 text-xs text-[#787774]">{metaParts(r, locale).join(" · ")}</p>
+            {metaParts(r, labels).length > 0 && (
+              <p className="mt-1 text-xs text-[#787774]">{metaParts(r, labels).join(" · ")}</p>
             )}
             <p className="mt-3 text-sm text-[#2F3437]">
               {r.ingredients[locale].slice(0, 4).join(", ")}

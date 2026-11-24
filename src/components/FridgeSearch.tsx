@@ -4,6 +4,7 @@ import { useCallback, useRef, useState } from "react";
 import { analyzeImage } from "@/services/image-analysis";
 import type { RecipeCardData } from "@/lib/recipe-card";
 import { useModalFocus } from "@/lib/use-modal-focus";
+import { getMessages } from "@/i18n";
 import allIngredients from "@/data/ingredient-search.json";
 
 const EXACT_THRESHOLD = 0.85;
@@ -64,30 +65,17 @@ export default function FridgeSearch({
   const [requestFailed, setRequestFailed] = useState(false);
   const closeModal = useCallback(() => setModal(null), []);
   const modalRef = useModalFocus(modal !== null, closeModal);
-  const copy =
-    locale === "tr"
-      ? {
-          confirmTitle: "Bunu mu demek istediniz?",
-          confirmAdd: "Evet, ekle",
-          cancel: "Vazgeç",
-          missingTitle: "Malzeme bulunamadı",
-          missingBody:
-            "tariflerimizde bulunmamaktadır. Bu malzemeyi içeren tarifleri sizin için hazırlamamızı ister misiniz?",
-          request: "Evet, hazırlayın",
-          thanks: "Geliştirme birimine iletildi, teşekkürler!",
-          remove: "kaldır",
-        }
-      : {
-          confirmTitle: "Did you mean this?",
-          confirmAdd: "Yes, add it",
-          cancel: "Cancel",
-          missingTitle: "Ingredient not found",
-          missingBody:
-            "is not in our recipes. Would you like us to prepare recipes using this ingredient?",
-          request: "Yes, please",
-          thanks: "Sent to our team, thank you!",
-          remove: "remove",
-        };
+  const m = getMessages(locale);
+  const copy = {
+    confirmTitle: m.confirmTitle,
+    confirmAdd: m.confirmAdd,
+    cancel: m.cancel,
+    missingTitle: m.missingTitle,
+    missingBody: m.missingBody,
+    request: m.request,
+    thanks: m.thanks,
+    remove: m.remove,
+  };
 
   const add = () => {
     const v = input.trim();
@@ -155,11 +143,11 @@ export default function FridgeSearch({
         body: JSON.stringify({ name: v }),
       });
       if (!res.ok) {
-        message = locale === "tr" ? "Kayıt başarısız oldu, tekrar deneyin." : "Could not save, please try again.";
+        message = m.requestError;
         failed = true;
       }
     } catch {
-      message = locale === "tr" ? "Bağlantı kurulamadı, tekrar deneyin." : "Connection failed, please try again.";
+      message = m.connectionError;
       failed = true;
     }
     setRequestFailed(failed);
@@ -245,17 +233,9 @@ export default function FridgeSearch({
               <>
                 <h3 id="fridge-modal-title" className="font-serif text-lg">{copy.confirmTitle}</h3>
                 <p className="mt-2 text-sm text-[#787774]">
-                  {locale === "tr" ? (
-                    <>
-                      &quot;{input.trim()}&quot; yerine{" "}
-                      <span className="font-medium text-[#2F3437]">{modal.name}</span> ekleyelim mi?
-                    </>
-                  ) : (
-                    <>
-                      Did you mean <span className="font-medium text-[#2F3437]">{modal.name}</span>{" "}
-                      instead of &quot;{input.trim()}&quot;?
-                    </>
-                  )}
+                  {m.confirmBody.split("{name}")[0].replace("{input}", input.trim())}
+                  <span className="font-medium text-[#2F3437]">{modal.name}</span>
+                  {m.confirmBody.split("{name}")[1]?.replace("{input}", input.trim())}
                 </p>
                 <div className="mt-5 flex gap-2">
                   <button

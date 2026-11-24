@@ -2,7 +2,7 @@ import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { allCuisines, recipesByCuisineAndArea, areas } from "@/data/recipes";
-import { Locale } from "@/i18n";
+import { getMessages, Locale } from "@/i18n";
 import RecipeCards from "@/components/RecipeCards";
 import RouteSkeleton from "@/components/RouteSkeleton";
 
@@ -17,6 +17,7 @@ async function CuisineAreaContent({ params }: { params: Promise<PageParams> }) {
   const cuisine = allCuisines.find((c) => c.slug === slug);
   const areaData = areas.find((a) => a.slug === area);
   if (!cuisine || !areaData) notFound();
+  const messages = getMessages(locale);
   const list = recipesByCuisineAndArea(slug, area);
 
   return (
@@ -35,7 +36,7 @@ async function CuisineAreaContent({ params }: { params: Promise<PageParams> }) {
           {areaData.name[locale]} {cuisine.name[locale]}
         </h1>
         <p className="text-sm text-[#787774]">
-          {list.length} {locale === "tr" ? "tarif" : "recipes"}
+          {list.length} {messages.recipeCount}
         </p>
       </div>
       <RecipeCards recipes={list} locale={locale} />

@@ -27,7 +27,7 @@ async function AreaContent({ params }: { params: Promise<PageParams> }) {
       <div className="flex flex-col gap-2">
         <h1 className="font-serif text-4xl tracking-tight">{area.name[locale]}</h1>
         <p className="text-sm text-[#787774]">
-          {list.length} {locale === "tr" ? "tarif" : "recipes"}
+          {list.length} {messages.recipeCount}
         </p>
       </div>
       <RecipeCards recipes={list} locale={locale} />
