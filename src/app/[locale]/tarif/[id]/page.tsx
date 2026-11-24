@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { recipes, getRecipe } from "@/data/recipes";
 import { getMessages, Locale } from "@/i18n";
 import { getAlternatives } from "@/services/ai";
+import { getRecipeIntro } from "@/lib/recipe-intro";
 import RecipeCards from "@/components/RecipeCards";
 
 export function generateStaticParams() {
@@ -64,6 +65,9 @@ export default async function RecipePage({
             )}
           </p>
         )}
+        <p className="max-w-2xl text-[15px] leading-relaxed text-[#2F3437]">
+          {getRecipeIntro(recipe, locale)}
+        </p>
       </div>
 
       {recipe.history && (
