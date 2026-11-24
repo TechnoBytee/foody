@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Instrument_Serif } from "next/font/google";
+import { SITE_URL } from "@/lib/site-url";
 import "./globals.css";
 
 const geistSans = Geist({ variable: "--font-geist-sans", subsets: ["latin"] });
@@ -22,6 +23,16 @@ export async function generateMetadata({
       locale === "tr"
         ? "Dünyanın tüm mutfaklarından tarifler, alternatifler ve fikirler."
         : "Recipes, alternatives and ideas from every cuisine.",
+    metadataBase: new URL(SITE_URL),
+    alternates: {
+      canonical: `/${locale}`,
+      languages: { tr: "/tr", en: "/en" },
+    },
+    openGraph: {
+      type: "website",
+      siteName: "foody",
+      locale: locale === "tr" ? "tr_TR" : "en_US",
+    },
     manifest: "/manifest.json",
     appleWebApp: { capable: true, statusBarStyle: "default", title: "foody" },
   };

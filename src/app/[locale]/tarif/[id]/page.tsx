@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { recipes, getRecipe } from "@/data/recipes";
@@ -15,6 +16,33 @@ export function generateStaticParams() {
   return recipes.map((r) => ({ id: r.id }));
 }
 
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<PageParams>;
+}): Promise<Metadata> {
+  const { locale, id } = await params;
+  const recipe = getRecipe(id);
+  if (!recipe) return { title: "foody" };
+  const title = `${recipe.name[locale]} | foody`;
+  const description = getRecipeIntro(recipe, locale).slice(0, 160);
+  return {
+    title,
+    description,
+    alternates: {
+      canonical: `/${locale}/tarif/${id}`,
+      languages: { tr: `/tr/tarif/${id}`, en: `/en/tarif/${id}` },
+    },
+    openGraph: {
+      title,
+      description,
+      type: "article",
+      url: `/${locale}/tarif/${id}`,
+      images: recipe.image ? [recipe.image] : undefined,
+    },
+  };
+}
+
 // URL'ye özel veriyi Suspense içinde okur; statik kabuk tek bir tarife bağlanmaz.
 async function RecipeContent({ params }: { params: Promise<PageParams> }) {
   const { locale, id } = await params;
@@ -26,6 +54,26 @@ async function RecipeContent({ params }: { params: Promise<PageParams> }) {
 
   return (
     <main className="mx-auto flex w-full max-w-3xl flex-col gap-8 px-5 py-12">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "Recipe",
+            name: recipe.name[locale],
+            image: recipe.image,
+            recipeCuisine: recipe.cuisine,
+            recipeIngredient: recipe.ingredients[locale],
+            recipeInstructions: recipe.steps[locale].map((text) => ({
+              "@type": "HowToStep",
+              text,
+            })),
+            ...(recipe.calories > 0
+              ? { nutrition: { "@type": "NutritionInformation", calories: `${recipe.calories} kcal` } }
+              : {}),
+          }).replace(/</g, "\\u003c"),
+        }}
+      />
       <Link href={`/${locale}`} className="text-sm text-[#787774] transition hover:text-[#2F3437]">
         ← {messages.back}
       </Link>
